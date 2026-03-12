@@ -1,0 +1,11 @@
+<FileID>137450</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/post-office-ireland-the-general-post</URL>
+<Title>Post Office (Ireland)—the General Post Office, Dublin—substitution of Gas Engines for Steam</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 c278</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>144</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Postmaster General, Whether gas engines have been substituted for steam engines for the working of the pneumatic system in the General Post Office, Dublin; whether it is admitted that the steam engines gave satisfaction, and that the Technical Department and Mr. Preece, chief electrician to the Post Office, reported against the change; if this be so, why was the alteration made; was the work carried out by private tender, or was it publicly advertised; what was the cost of the alteration; how the new engines have been found to work; and, whether the cost of their maintenance is not greater than that of the steam engines? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS),</speaker> in reply, said, that the gas engines had been introduced by the Irish Office of Works, who paid the costs of maintenance, except the wages of the attendants.

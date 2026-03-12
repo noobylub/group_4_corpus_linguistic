@@ -1,0 +1,13 @@
+<FileID>137733</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/palace-of-westminster-access-to-this</URL>
+<Title>Palace of Westminster—access to This House—mr Jenkinson</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 c1061</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>204</WordCount>
+
+
+<speaker>MR. HEALY</speaker> asked the Secretary of State for the Home Department, Under what circumstances is Mr. Jenkinson allowed unescorted to pass through the lobbies and private corridors of this House to which members of the Press and the public are denied admission; and, will the Government give an assurance that no members of the Police Force out of uniform will be allowed to enter on those portions of the House set apart for Members? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS)</speaker> By one of the last Regulations which were issued with regard to persons within the walls of the House, the Members' Lobbies are strictly restricted to Peers and Members of Parliament with such list of permanent officials, secretaries, and others as the Speaker may see fit to include on that list. Members of the Metropolitan Police Force are bound to be in the; House for the safety of Members, and they are in the same position as the other officials. 
+<speaker>MR. HEALY</speaker> Will the right hon.; Gentleman state what is the precise position which Mr. Jenkinson occupies at this moment? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> He is one of my officials at the Home Office.

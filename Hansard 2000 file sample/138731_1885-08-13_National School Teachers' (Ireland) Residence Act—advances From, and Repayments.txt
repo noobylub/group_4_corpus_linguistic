@@ -1,0 +1,11 @@
+<FileID>138731</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/national-school-teachers-ireland</URL>
+<Title>National School Teachers' (Ireland) Residence Act—advances From, and Repayments To, the Board of Works</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c21</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>196</WordCount>
+
+
+<speaker>MR. LEAMY (for Mr. HEALY)</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Is he aware of the inconvenience and even hardship which the present system for repayment of the Board of Works advances, made under the National School Teachers' Residence Act , entails on managers and teachers who have been induced to adopt the provisions of the Act; and is it the case that the half-yearly repayments are about equal to two-thirds the quarterly salary of these teachers; and, whether the proper authorities can arrange that in future it will be sufficient for the managers to send forward to the Board of Works each term the maximum rent chargeable to the teachers who occupy the residences, leaving the remaining half of the instalment in each case to be collected in one sum by the Board of Works from the National Education Board, who now refund to the managers one-half of each instalment previously paid to the Board of Works? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The hon. and learned Member put a similar Question in November last, and I understand arrangements are being made for obviating the inconvenience to which he refers.

@@ -1,0 +1,10 @@
+<FileID>138833</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/22/parliament-business-of-the-house</URL>
+<Title>Parliament — Business of the House—introduction of Public Bills</Title>
+<DebRef>HC Deb 22 January 1886 vol 302 cc192-3</DebRef>
+<SittingDate>1886-01-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>144</WordCount>
+
+MR. JOSEPH COWEN drew attention to the fact that, at the close of the debate on the Address, the introduction of Bills would occupy some three hours; and ho asked the Chancellor of the Exchequer, Whether the debate could be closed at a reasonable hour, so that Members interested in the Bills might have an opportunity of introducing them? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> , in reply, said, that they might, perhaps, be able to make an arrangement which would be convenient to the hon. Member if it were possible to close the general debate on the Address that evening, and take the first Amendment upon it on Monday. MR. JOSEPH COWEN said, what he meant was, that when the debate closed it should be at a reasonable hour, say 10 o'clock, so that hon. Members might have an opportunity of introducing their Bills.

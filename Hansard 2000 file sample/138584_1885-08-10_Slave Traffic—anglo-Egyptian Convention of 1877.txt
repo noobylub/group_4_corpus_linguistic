@@ -1,0 +1,11 @@
+<FileID>138584</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/slave-traffic-anglo-egyptian-convention</URL>
+<Title>Slave Traffic—anglo-Egyptian Convention of 1877</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 c1570</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>125</WordCount>
+
+
+<speaker>SIR ROBERT FOWLER, (LORD MAYOR)</speaker> asked the Under Secretary of State for Foreign Affairs, Whether Her Majesty's Government have taken or are taking any stops to insure the carrying out, by the Egyptian Government, of the terms of the Anglo-Egyptian Convention of 1877, for the suppression of the slave traffic, which should have come into force in August 1884? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> The steps taken last year for carrying into effect the Convention of 1877 will be found in the Paper laid as Slave Trade No. 4 of 1884. Those Papers carry the Correspondence down to November last. The policy of Her Majesty's present Government will be directed towards promoting measures to bring offenders against the law before the competent tribunals.

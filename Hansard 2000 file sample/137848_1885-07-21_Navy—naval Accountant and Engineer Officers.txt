@@ -1,0 +1,11 @@
+<FileID>137848</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/navy-naval-accountant-and-engineer</URL>
+<Title>Navy—naval Accountant and Engineer Officers</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 c1403</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>138</WordCount>
+
+
+<speaker>MR. GABBETT</speaker> asked the Secretary to the Admiralty, When he expects the alteration in the existing rules for counting junior service of accountant and engineer officers of the Royal Navy (stated on the 16th March last by the late Secretary to have been sanctioned) would be brought into effect; whether it would be retrospective to the commencement of the financial year; and, whether it is a fact that the list of paymasters is to be increased by the immediate promotion of a certain number of assistant pay masters? 
+<speaker>THE SECRETARY TO THE ADMIRALTY (Mr. RITCHIE)</speaker> We are now in correspondence with the Treasury on the subject, and I hope but little further delay will result. With regard to the second Question, I have to say that I have no knowledge of any such intention as that referred to.

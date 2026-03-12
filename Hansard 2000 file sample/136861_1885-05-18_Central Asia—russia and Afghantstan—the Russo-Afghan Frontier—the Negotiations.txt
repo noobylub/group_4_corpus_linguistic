@@ -1,0 +1,11 @@
+<FileID>136861</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/central-asia-russia-and-afghantstan-the</URL>
+<Title>Central Asia—russia and Afghantstan—the Russo-Afghan Frontier—the Negotiations</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 c714</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>67</WordCount>
+
+
+<speaker>MR. E. STANHOPE</speaker> asked the Under Secretary of State for Foreign Affairs, Whether he can state the exact terms in which the agreement of the 17th of March was communicated by Her Majesty's Government to Sir Peter Lumsden? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> The information which the hon. Member asks for will be found in the Papers which were distributed on Saturday (.Central Asia, Part 2, No. 236,page 174).

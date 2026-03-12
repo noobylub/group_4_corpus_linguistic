@@ -1,0 +1,9 @@
+<FileID>137880</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/21/marriages-saint-john-cowley-bill-no-187</URL>
+<Title>Marriages (Saint John, Cowley) Bill—(no 187)</Title>
+<DebRef>HL Deb 21 July 1885 vol 299 c1342</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>11</WordCount>
+
+( The Earl of Beauchamp. ) c1342 THIRD READING. 144 words

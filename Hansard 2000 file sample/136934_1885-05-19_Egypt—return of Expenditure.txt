@@ -1,0 +1,9 @@
+<FileID>136934</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/19/egypt-return-of-expenditure</URL>
+<Title>Egypt—return of Expenditure</Title>
+<DebRef>HL Deb 19 May 1885 vol 298 cc908-9</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>7</WordCount>
+
+cc908-9 ADDRESS FOR A RETURN. 567 words

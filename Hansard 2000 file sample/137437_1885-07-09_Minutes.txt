@@ -1,0 +1,9 @@
+<FileID>137437</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/09/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 09 July 1885 vol 299 c85</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>145</WordCount>
+
+PUBLIC BIlls— Firtt Heading— East India Loan (£10,000,000) * (164); Tithe Rent Charge Redemption * (105); Local Government Provisional Order (Municipal Corporations) * (1C6); Local Government Provisional Orders (No. 3) * (167); Local Government Provisional Orders (No. 7) * (168); Local Government Provisional Orders (Poor Law) (No. 9) * (169): Local Government (Ireland) Provisional Orders * (170). Second Reading —Drainage and Improvement of Lands (Ireland) Provisional Order (No. 2) * (155); Tramways Provisional Orders (No. 2) * (156); Tramways Provisional Orders (No. 3) * (157); Secretary for Scotland (117). Committee —Elementary Education Provisional Order Confirmation (London) * (79). Third Reading— Gas and Water Provisional Orders (No. 2) * (136); Water Provisional Orders * (137); Tramways Provisional Orders (No. 1) * (149); Elementary Education Provisional Orders Confirmation (Birmingham, &c.) * (80); Friendly Societies Act (1875) Amendment * (128), and passed. Withdrawn — Real Property Registration (132).

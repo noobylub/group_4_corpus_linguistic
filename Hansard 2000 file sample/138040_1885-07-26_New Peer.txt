@@ -1,0 +1,9 @@
+<FileID>138040</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/26/new-peer</URL>
+<Title>New Peer</Title>
+<DebRef>HL Deb 26 July 1885 vol 300 c212</DebRef>
+<SittingDate>1885-07-26</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>23</WordCount>
+
+Sir Robert James Loyd-Lindsay, K.C.B., V.C., having been created Baron Wantage of Lockinge in the county of Berks—Was (in the usual manner) introduced.

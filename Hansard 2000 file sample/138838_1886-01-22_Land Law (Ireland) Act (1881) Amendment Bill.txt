@@ -1,0 +1,9 @@
+<FileID>138838</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/22/land-law-ireland-act-1881-amendment-bill</URL>
+<Title>Land Law (Ireland) Act (1881) Amendment Bill</Title>
+<DebRef>HC Deb 22 January 1886 vol 302 c262</DebRef>
+<SittingDate>1886-01-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>43</WordCount>
+
+On Motion of Mr. Connolly, Bill to amend "The Land Law (Ireland) Act, 1881 ," ordered to be brought in by Mr. CONNOLLY, Mr. PARNELL, Mr. TIMOTHY HEALY, Mr. SEXTON, and Mr. WILLIAM O'BRIEN. Bill presented, and read the first time. [Bill 1.]

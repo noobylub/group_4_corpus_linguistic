@@ -1,0 +1,11 @@
+<FileID>138277</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/egypt-colonel-de-coetlogon</URL>
+<Title>Egypt—colonel De Coetlogon</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 c674</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>115</WordCount>
+
+
+<speaker>MR. LEAMY (for Mr. MARUM)</speaker> asked the Under Secretary of State for Foreign Affairs, Whether Her Majesty's Agent and Consul General at Cairo has reported upon the case of Colonel De Coetlogon, as requested by Lord Edmond Fitzmaurice; and, whether any, and, if so, what reply has been received from the Egyptian Government? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> Yes, Sir. The Egyptian Government hold that General Gordon's recommendation that Colonel Coetlogon should be awarded six months' pay as a gratuity was founded on the assumption that his services would no longer be required by the Egyptian Government; whereas immediately on his return from the Soudan he was appointed a Divisional Inspector of Police.

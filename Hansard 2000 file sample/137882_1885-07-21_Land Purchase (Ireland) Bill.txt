@@ -1,0 +1,9 @@
+<FileID>137882</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/21/land-purchase-ireland-bill</URL>
+<Title>Land Purchase (Ireland) Bill</Title>
+<DebRef>HL Deb 21 July 1885 vol 299 cc1342-70</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>13</WordCount>
+
+( The Lord Chancellor of Ireland. ) cc1342-70 (NO. 184.) COMMITTEE. 11,332 words

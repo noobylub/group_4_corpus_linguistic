@@ -1,0 +1,11 @@
+<FileID>138093</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/the-metropolitan-police</URL>
+<Title>The Metropolitan Police</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc62-3</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>297</WordCount>
+
+
+<speaker>MR. CAVENDISH BENTINCK</speaker> asked the Secretary of State for the Home Department, Whether he is aware that, at a meeting held at the Memorial Hall, Farringdon Street, on the 22nd inst., and reported in The Pall Mall Gazette of the 23rd inst., Mr. Benjamin Scott, described as the Chamberlain of the City of London, in a public speech, accused the superior officials of the Metropolitan Police Force of collusion with notorious lawbreakers, and, after stating that the Right hon. Member for Derby in his administration of the office of Home Secretary had not done his duty either as a gentleman or a statesman, proceeded to specify instances of gross mismanagement of the Metropolitan Police Force, and to assert that the Metropolitan Police were corrupted by bribes given to them by publicans and prostitutes; whether there is any foundation for the serious charges which have been thus made by Mr. Scott against the Right hon. Member for Derby, and against the Metropolitan Police; and, whether he will consider whether any, and what, proceedings should be taken in respect of either accusation? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir E. ASSHETON CROSS)</speaker> With reference to that part of the Question which applies to the right hon. Gentleman opposite, I must decline to answer it. I cannot endorse the statement of the Chamberlain; but the right hon. Gentleman is here to answer the charges for himself if any further answer is required. With regard to the police in general, I must say that any vague and general accusations are, to my mind, most unfair; and I can only say that if anyone will send specific information on any point strict inquiry will be made. The police authorities are most anxious that every such accusation should be thoroughly investigated.

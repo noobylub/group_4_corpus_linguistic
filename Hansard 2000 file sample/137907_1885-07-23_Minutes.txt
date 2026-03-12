@@ -1,0 +1,9 @@
+<FileID>137907</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1609-10</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>74</WordCount>
+
+PUBLIC BILLS— Ordered; — First Heading —Metropolitan Police Staff Superannuation * [246]. Second Reading —Revising Barristers [237]; Evidence by Commission * [238]; Police Enfranchisement Extension [219], debate adjourned. Referred to Select Committee —Crown Lands * [51]: Committee —Pluralities ( re-comm. ) [241]—R.P. Committee — Report —Customs and Inland Revenue (No. 2) [223]. Considered as amended — Committee — Report —Medical Belief Disqualification Removal [232]. Considered as amended —Metropolitan Board of Works (Money) * [224].

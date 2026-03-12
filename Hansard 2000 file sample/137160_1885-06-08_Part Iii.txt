@@ -1,0 +1,9 @@
+<FileID>137160</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/08/part-iii</URL>
+<Title>Part Iii</Title>
+<DebRef>HL Deb 08 June 1885 vol 298 cc1383-94</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>9</WordCount>
+
+cc1383-94 DISQUALIFICATION OF VOTERS FOR CORRUPT PRACTICES. 4,018 words

@@ -1,0 +1,11 @@
+<FileID>138208</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/court-of-bankruptcy-ireland-copying</URL>
+<Title>Court of Bankruptcy (Ireland)— Copying Clerks</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc511-2</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>256</WordCount>
+
+
+<speaker>MR. FINDLATER</speaker> asked the Financial Secretary to the Treasury, The reason why the copying clerks in the Court of Bankruptcy in Ireland are paid much less for their services in writing and comparing than their brethren in the several Divisions of the High Court of Justice in Ireland, and are otherwise placed in a much worse position by the non-allowance of service-pay which is granted to the copyists in the several Divisions of the High Court upon a graduated scale according to the length of service; and, will he make inquiry into the matter, and, if is satisfactorily proved their grievances do exist, will he take steps to redress them? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> The copying clerks of the Court of Bankruptcy in Ireland are paid on a scale suggested by the Judge of that Court in 1874, under which they can earn about £100 a-year. The fees paid by the public for the copying do not quite cover the amount thus paid to the copyists. In the Supreme Court the fees, being on a higher scale, are sufficient to meet the cost of the copyists on a higher scale of remuneration. The Treasury have already suggested to the Lord Chancellor that the fees for copying in the Bankruptcy Court should be increased; and they would be prepared to concur in any order in this sense made by him under the Bankruptcy Act of 1872. It would then be possible to consider whether the pay of the copyists ought to be increased.

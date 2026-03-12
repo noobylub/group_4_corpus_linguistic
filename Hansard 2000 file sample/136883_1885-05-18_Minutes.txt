@@ -1,0 +1,9 @@
+<FileID>136883</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/18/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 18 May 1885 vol 298 c650</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>71</WordCount>
+
+Sat First in Parliament —The Viscount St. Vincent, after the death of his brother. Public BILLS— Second Heading —Consolidated Fund (No. 3) ٭ ; Registration (Occupation Voters) ٭ (111); Registration of Voters Scotland ٭ (112); Registration of Voters (Ireland) ٭ (116). Committee—Report —Local Government (Ireland) Provisional Orders (Labourers Act) (No. 3) ٭ (84). Report —Barristers Admission (Ireland) ٭ (100). Third Reading —Oyster and Mussel Fisheries Provisional Order ٭ (96), and passed.

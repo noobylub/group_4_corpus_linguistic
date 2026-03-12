@@ -1,0 +1,9 @@
+<FileID>137696</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/bankruptcy-office-accommodation-payment</URL>
+<Title>Bankruptcy (Office Accommodation) [Payment of Deficiency]</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c1011</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>5</WordCount>
+
+c1011 COMMITTEE. RESOLUTION. 62 words

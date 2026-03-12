@@ -1,0 +1,9 @@
+<FileID>137872</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/patent-law-amendment-bill</URL>
+<Title>Patent Law Amendment Bill</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 cc1513-4</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>27</WordCount>
+
+cc1513-4 MOTION FOR LEAVE. FIRST READING. 140 words c1514 GREENWICH HOSPITAL BILL. 45 words c1514 REVISING BARRISTERS BILL. 40 words c1514 EVIDENCE BY COMMISSION BILL. 58 words

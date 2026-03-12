@@ -1,0 +1,11 @@
+<FileID>136984</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/ways-and-means-inland-revenue-the-income</URL>
+<Title>Ways and Means—inland Revenue—the Income Tax—schedule B</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1029-30</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>119</WordCount>
+
+
+<speaker>MR. STANLEY LEIGHTON (for Mr. ROUND)</speaker> asked Mr. Chancellor of the Exchequer, If he is aware that a farmer incoming at Michaelmas is called upon to pay a half year's Income Tax under Schedule (B) in the following January, though he cannot produce his accounts till the end of his first year, and. in the event of such accounts showing a loss, cannot get the tax refunded for fifteen months after the payment; and, whether, under those circumstances, the Commissioners would be justified in allowing the payment to be deferred till the farmer can produce his accounts? 
+<speaker>MR. HIBBERT (who replied)</speaker> said: I am informed that, in the circumstances stated, the farmer could obtain a refund within nine months.

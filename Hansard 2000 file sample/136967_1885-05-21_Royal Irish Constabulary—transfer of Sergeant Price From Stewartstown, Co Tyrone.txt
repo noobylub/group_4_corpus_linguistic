@@ -1,0 +1,10 @@
+<FileID>136967</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/royal-irish-constabulary-transfer-of</URL>
+<Title>Royal Irish Constabulary—transfer of Sergeant Price From Stewartstown, Co Tyrone</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1018</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>277</WordCount>
+
+MR. O'BRIEN asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the transfer of Sergeant Price from Stewartstown (county Tyrone) has been cancelled; and, if so, under what circumstances; whether it is the case that, after the intimation of his transfer arrived, a meeting of his brother Freemasons was held in the Sergeant's room at the barrack, at which it was decided that Mr. Hunt W. Chambre, J.P. should exert himself to have the order recalled; whether any representation with that object was made by Mr. Chambre or other Orangemen or Freemasons; and, what steps have been taken to redress the inequality of Catholics and Protestants in the local police force? 
+<speaker>MR. CAMPBELL-BANNERMAN</speaker> The transfer in question has not been cancelled; but the Inspector General informs me he has permitted it to pend in consequence of the receipt of a strong Memorial from the magistrates of the Petty Sessions District, expressing their entire confidence in Sergeant Price, and their regret at his intended removal; and requesting that he might be permitted to remain. The Inspector General's intention to transfer was not due to any fault, but simply with the view to replace the Sergeant by one of longer experience; and this, if found necessary, will still be done. There is every desire to equalize the police of the different religions both at Stewartstown and elsewhere; but the hon. Member must not suppose that the Government will give any encouragement to the idea that the men are to be interfered with on the ground of their religion, unless it can be shown that they allow their religion to interfere with the proper discharge of their duties.

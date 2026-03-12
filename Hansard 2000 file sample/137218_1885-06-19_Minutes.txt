@@ -1,0 +1,9 @@
+<FileID>137218</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/19/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 19 June 1885 vol 298 c1592</DebRef>
+<SittingDate>1885-06-19</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>112</WordCount>
+
+PUBLIC BILLS— First Heading —Commons Regulation (Ashdown Forest) Provisional Order ٭ (141); Commons Regulation (Drumburgh) Provisional Order ٭ (142); Commons Inclosure (Llanybyther) Provisional Order ٭ (143); Local Government (Gas) Provisional Orders ٭ (144); Local Government (Ireland) Provisional Orders (Labourers Act) (No. 4) ٭ (145); Local Government (Ireland) Provisional Orders (No. 2) ٭ (146); Local Government Provisional Orders (No. 4) ٭ (147); Public Health (Scotland) Provisional Order ٭ (148); Tramways Provisional Orders (No. 1) ٭ (149); Archdeaconries ٭ (150). Second Heading — Committee negatived — Third Reading —Princess Beatrice's Annuity (138) and passed. Committee — Report —Burial Boards (Contested Elections) ٭ (105). Third Reading —Gas Provisional Orders (No. 1) ٭ (108), and passed.

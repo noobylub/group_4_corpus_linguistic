@@ -1,0 +1,11 @@
+<FileID>138412</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/royal-irish-constabulary-promotion-of</URL>
+<Title>Royal Irish Constabulary—promotion of Head Constables</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1048-9</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>175</WordCount>
+
+
+<speaker>MR. BERESFORD</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the giving of merely one appointment, after a period of nearly three years, is expected to satisfy the aspirations of the Head Constables of the Royal Irish Constabulary to their fair share of promotion to District Inspectorships; and, if not, will they get a proportion of vacancies which they claim as due to them without further delay? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> I recently explained that the regulated proportion of appointments of head constables to District Inspectorships has been and will be strictly kept up, and that the one appointment now about to be made is really in anticipation of what the head constables are entitled to. This concession has been made in consideration of the fact that, owing to unusual and unavoidable circumstances, 10 head constables were promoted in 1882, and that, consequently, a long time has elapsed since a promotion from that rank has taken place. Two further appointments will be given to head constables in due course.

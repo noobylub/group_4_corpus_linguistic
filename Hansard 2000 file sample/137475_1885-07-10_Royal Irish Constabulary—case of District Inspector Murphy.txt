@@ -1,0 +1,9 @@
+<FileID>137475</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/royal-irish-constabulary-case-of</URL>
+<Title>Royal Irish Constabulary—case of District Inspector Murphy</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 cc340-82</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>10</WordCount>
+
+cc340-81 OBSERVATIONS. 16,093 words cc381-2 SUPPLY. — COMMITTEE. 336 words

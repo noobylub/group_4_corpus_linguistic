@@ -1,0 +1,11 @@
+<FileID>137900</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/22/first-reading</URL>
+<Title>First Reading</Title>
+<DebRef>HC Deb 22 July 1885 vol 299 c1593</DebRef>
+<SittingDate>1885-07-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>84</WordCount>
+
+Motion made, and Question proposed, That the Bill be read the first time." 
+<speaker>MR. HEALY</speaker> inquired whether the Bill was to be regarded as a Public or as a Private Bill, there being some uncertainty on the point, owing to what had occurred in the other House, and a great Constitutional question might arise upon it? 
+<speaker>MR. SPEAKER</speaker> said, that the measure had been treated as a Public Bill in the House of Lords. Motion agreed to. Bill read the first time. [Bill 243.]

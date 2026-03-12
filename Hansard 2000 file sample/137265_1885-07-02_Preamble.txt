@@ -1,0 +1,9 @@
+<FileID>137265</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/02/preamble</URL>
+<Title>Preamble</Title>
+<DebRef>HL Deb 02 July 1885 vol 298 c1642</DebRef>
+<SittingDate>1885-07-02</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>24</WordCount>
+
+Their Lordships met for the despatch of Judicial Business only. House adjourned at half past Two o'clock, till Tomorrow, a quarter past Ten o'clock.

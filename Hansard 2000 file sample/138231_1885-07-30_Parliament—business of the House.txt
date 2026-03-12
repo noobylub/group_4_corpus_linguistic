@@ -1,0 +1,11 @@
+<FileID>138231</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/parliament-business-of-the-house</URL>
+<Title>Parliament—business of the House</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c527</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>82</WordCount>
+
+
+<speaker>SIR GEORGE CAMPBELL</speaker> Can the right hon. Gentleman give the House any further information with regard to the course of Business, especially with regard to the taking of Saturday Sittings? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I have made some inquiries as to the taking of Saturday Sittings; but I find that the objections are so considerable that I cannot promise to take them. I cannot make any further statement as to the progress of Business until we see our way more clearly.

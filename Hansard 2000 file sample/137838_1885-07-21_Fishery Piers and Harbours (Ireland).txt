@@ -1,0 +1,12 @@
+<FileID>137838</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/fishery-piers-and-harbours-ireland</URL>
+<Title>Fishery Piers and Harbours (Ireland)</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 cc1396-7</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>244</WordCount>
+
+
+<speaker>MR. HEALY</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If, when causing an inspection of the Donegal Fishing Piers by an independent engineer, he will issue instructions to him to take whatever steps he may consider necessary to find out the correctness of the allegations made by the fishermen at Poolhurrin that stones were left by the contractor for the pier at the place in the pool below the pier where fishermen have used nets from time immemorial, and which have been torn and destroyed since the building of this pier; whether a poor fisherman named John M'Fadden, of Croaghbeg, had his nets destroyed again this year, notwithstanding the report of the Engineer of the Board of Works that none existed there; and, can he also state if the terms of the reference to the engineer will be published? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> I will see that inquiry is made into this complaint; but I cannot undertake that the inquiry will be made by Mr. Stevenson. I have already expressed my willingness to produce the Correspondence, which would include the terms of reference to the engineer; but, as I explained before, I think the proper time to do so will be when he has completed his Report. 
+<speaker>MR. HEALY</speaker> The right hon. Gentleman should take into consideration that we are anxious to see the Correspondence and Instructions, as we may desire to have the Instructions amended.

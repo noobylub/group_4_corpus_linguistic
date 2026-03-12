@@ -1,0 +1,9 @@
+<FileID>138014</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/patent-law-amendment-bill</URL>
+<Title>Patent Law Amendment Bill</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 c1864</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>14</WordCount>
+
+( Sir Farrer Herschell, Mr. Holms. ) c1864 [BILL 240.] SECOND HEADING. 95 words

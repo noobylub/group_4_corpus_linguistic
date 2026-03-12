@@ -1,0 +1,17 @@
+<FileID>138095</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/egypt-the-soudan-the-garrison-of-kassala</URL>
+<Title>Egypt—the Soudan—the Garrison of Kassala</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc64-5</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>351</WordCount>
+
+
+<speaker>SIR WALTER B. BARTTELOT</speaker> asked the Under Secretary of State for Foreign Affairs, Whether the report in The Standard, dated Cairo, July 21, with regard to Kassala, is correct— Captain Chermside telegraphs that the rebels, in great force, attacked the suburbs of Kassala on June 15 and 16. After severe fighting, they were repulsed by the garrison, who killed 3,000 of the rebels, and captured 1,000 oxen, 1,000 sheep, and 700 rifles. It is understood here that the British Government is in hopes of an arrangement being made with King John of Abyssinia for the relief of the Kassala garrison by Ras Aloula, the Abyssinian General. 
+<speaker>THE UNDER SECRETARY OF STATE FOR FOREIGN AFFAIRS (Mr. BOURKE)</speaker> We have received intelligence of a severe defeat of the besiegers by the garrison of Kassala; but the details in the newspaper quoted are not contained in the official Report. I do not think it would be expedient at present to announce what steps Her Majesty's Government are taking with a view to the safe withdrawal of the garrison from Kassala. 
+<speaker>SIR WALTER B. BARTTELOT</speaker> I wish to know whether Her Majesty's Government are taking some steps for the relief of Kassala? 
+<speaker>THE UNDER SECRETARY OF STATE FOR FOREIGN AFFAIRS</speaker> Yes, Sir. 
+<speaker>MR. ARTHUR O'CONNOR</speaker> Can the right hon. Gentleman state the name of the Commander in charge of this magnificent defence? 
+<speaker>THE UNDER SECRETARY OF STATE FOR FOREIGN AFFAIRS</speaker> At this moment I do not think I can give the Commander's name; but I will make inquiry. 
+<speaker>MR. LABOUCHERE</speaker> Do we understand the right hon. Gentleman to state that steps are being taken to relieve the garrison of Kassala, and are we to understand that this will involve any expenditure? In that case are we to hope that a Supplementary Estimate will be laid on the Table for this expenditure which the House will be asked to grant, so that we shall have an opportunity of discussing it? 
+<speaker>THE UNDER SECRETARY OF STATE FOR FOREIGN AFFAIRS</speaker> If the ton. Gentleman puts the Question on Thursday I shall be able to give him an answer.

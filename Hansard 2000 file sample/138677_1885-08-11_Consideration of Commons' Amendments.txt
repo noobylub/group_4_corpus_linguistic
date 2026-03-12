@@ -1,0 +1,9 @@
+<FileID>138677</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/11/consideration-of-commons-amendments</URL>
+<Title>Consideration of Commons' Amendments</Title>
+<DebRef>HL Deb 11 August 1885 vol 300 c1716</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>129</WordCount>
+
+Commons' Amendments considered (according to Order). LORD ELPHINSTONE said, that the Amendments made in the other House were Amendments which had been suggested by the Lord Advocate for Scotland, who was familiar with the subject. He would move that the Commons' Amendments be agreed to. Moved, "That this House doth agree with the Commons in the said Amendments."—( The Lord Elphinstone. ) THE MARQUESS OF LOTHIAN said, he thought that there were some rather important Amendments. For instance, the addition which the Commons had made to Clause 2 took away an objection which he had formerly stated to their Lordships. On the whole, he thought the Amendments of the House of Commons made the Bill a much better one than before. Motion agreed to; Commons' Amendments agreed to accordingly.

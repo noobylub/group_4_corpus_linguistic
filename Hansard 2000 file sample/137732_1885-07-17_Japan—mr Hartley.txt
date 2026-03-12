@@ -1,0 +1,11 @@
+<FileID>137732</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/japan-mr-hartley</URL>
+<Title>Japan—mr Hartley</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 cc1060-1</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>160</WordCount>
+
+
+<speaker>MR. GRANTHAM</speaker> asked the Under Secretary of State for Foreign Affairs, If Her Majesty's Government will use their best endeavours to obtain compensation for Mr. Hartley from the Japanese Government before the new Treaties are signed, for the losses he has sustained through their illegal interference with import of lawful merchandise into Japan, after payment of Import Duties, in 1873, 1874, 1877, 1878, and 1879? 
+<speaker>THE UNDER SECRETARY OF STATE FOR FOREIGN AFFAIRS (Mr. BOURKE)</speaker> I beg leave to refer the hon. Member to the replies returned to his Question on the subject by my Predecessor on the 22nd of February and 27th of March of last year. It has been frequently brought to the notice of Her Majesty's Government, both when Lord Salisbury was last Foreign Secretary and during Lord Granville's tenure of Office, and Lord Salisbury sees no reason to change the decision already arrived at— that Mr. Hartley's complaints are not such as to justify diplomatic interference.

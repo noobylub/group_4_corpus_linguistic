@@ -1,0 +1,13 @@
+<FileID>137651</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/crime-and-outrage-ireland-alleged-firing</URL>
+<Title>Crime and Outrage (Ireland)— Alleged Firing at the Person at Killasmeestia, Queen's Co</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c905</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>284</WordCount>
+
+
+<speaker>MR. ARTHUR O'CONNOR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether it is a fact that, on the 29th ultimo, in accordance with established custom, a bonfire was lighted in a field at Killasmeestia, Queen's County, at the site of the gathering of the people of the district for amusement, in celebration of the festival; whether the local fife and drum band, in proceeding to the bonfire, ceased playing while passing the house of one Walsh, who was obnoxious to the public sentiment of the district; whether, after the band had passed, four shots were fired from Walsh's house in the direction of the bonfire, from which it is distant about 100 yards, to the danger of the lives of innocent people, who had carefully abstained from giving him any provocation; whether Walsh has a licence for firearms; and, whether the Government proposes to take any, and what, steps in the matter? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> I am informed that the facts are as stated in the first two paragraphs of the Question, with the addition that, when passing Walsh's house, the crowd hooted and shouted. The shots were fired by Walsh in his own yard, a quarter of an hour after the crowd had passed, but not in the direction of the crowd, or so as to endanger the life of anyone. The bonfire was about 200 yards from Walsh's house. Walsh is duly licensed to have and carry firearms. 
+<speaker>MR. ARTHUR O'CONNOR</speaker> asked whether this man would be allowed still to carry firearms? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND</speaker> asked the hon. Member to put this further Question on the point on the Notice Paper.

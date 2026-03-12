@@ -1,0 +1,11 @@
+<FileID>137103</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/05/supply-grant-to-hrh-princess-beatrice</URL>
+<Title>Supply—grant to hrh Princess Beatrice</Title>
+<DebRef>HC Deb 05 June 1885 vol 298 c1343</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>99</WordCount>
+
+
+<speaker>SIR GEORGE CAMPBELL</speaker> said, he had seen on the Paper today for the first time a Notice with regard to a grant of £30,000 to Princess Beatrice as a marriage portion. He wished to ask the Chancellor of the Exchequer whether he would promise not to bring on that subject tonight at an unusually late hour? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Mr. CHILDERS)</speaker> That is the customary Resolution following upon the grant of £6,000 a-year to Her Royal Highness. It has been put down for Committee tonight, and I trust there will be no objection to proceeding with it.

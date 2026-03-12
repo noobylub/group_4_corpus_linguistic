@@ -1,0 +1,11 @@
+<FileID>137676</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/post-office-the-irish-mail-service</URL>
+<Title>Post Office—the Irish Mail Service Between Dublin and the West</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c919</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>307</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Postmaster General, If he has been made aware that the Midland Great Western (of Ireland) Railway Company offered to establish a Day Mail Service of forty miles an hour between Dublin and the West of Ireland in consideration of the sum which they declared the service would cost them—namely, 1s. 6d. per mile run, or, in the event of the Post Office declining to give the amount, intimated that they would be willing to abide by the issue of arbitration; and whether it is to be understood that the Post Office will neither give the price specified, nor refer the matter to arbitration, and that the existing service of mails is not to be reformed? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS)</speaker> In reply to the hon. Member I have to state that I am aware that the offer he refers to has been made; but the payment at the rate of 1s. 6 d. a-mile for an improved service between Dublin and the West of Ireland represents an expenditure greater than the revenue derived from the letters to be accelerated would warrant. I could not agree to refer the matter to arbitration for the reason given, I think, by one of my Predecessors—namely, that the question is not whether the terms demanded by the Railway Company are fair and reasonable for the service which they would be prepared to render, but whether the general principles on which the Post Office is conducted will warrant the payment which they demand. I regret that I cannot see my way to agree to the terms offered by the Railway Company; but I am still willing to consider any further offer which the Company may make, especially if it applies to the entire system, rather than if merely limited to the main line and the Sligo branch.

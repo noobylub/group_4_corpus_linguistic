@@ -1,0 +1,11 @@
+<FileID>138206</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/inland-revenue-stamps-stamp-distributors</URL>
+<Title>Inland Revenue—stamps Stamp Distributors in Dublin</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c510</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>242</WordCount>
+
+
+<speaker>MR. GRAY</speaker> asked the Postmaster General, Whether the discount of two shillings on each £10 of postage stamps, formerly enjoyed by the stamp distributors in Dublin has been discontinued; whether the discount on bill stamps, which used to be ten pence on each £1 sterling, is now only four shillings on each £10; and, if so, whether he is aware that these facts, in conjunction with the fact that the Inland Revenue Department has undertaken the sale of law stationary' at the Four Courts, Dublin, at a mere shade over cost price, constitute grievances amongst the stamp distributors upon which they have petitioned the Postmaster General; and, whether he will consider the desirability of removing or mitigating those grievances? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> The noble Lord has asked me to answer this Question. The discount on postage stamps has been discontinued for some years throughout the United Kingdom, and that on bill stamps was reduced as stated from the beginning of 1878. These changes were made in pursuance of a general policy of saving for the Revenue the amount of such discounts wherever this can be done without inconvenience to the public. The sale of unstamped forms at the Four Courts was undertaken for the convenience of the public and the Legal Profession, as was explained by my Predecessor on the 5th of March last. I can hold out no hope that these arrangements will be departed from.

@@ -1,0 +1,11 @@
+<FileID>137554</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/bill-68-second-beading</URL>
+<Title>[Bill 68] Second Beading</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc574-5</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>288</WordCount>
+
+Order for Second Reading read. 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> said, he thought that even at that hour (2.25 A.M.) the House would allow him to take the second reading stage of this Bill. Of course, if it did, he should give due Notice of the Committee stage. Motion made, and Question proposed, "That the Bill be now read a second time."—( Sir William Hart Dyke. ) 
+<speaker>COLONEL KING-HARMAN</speaker> said, he would not oppose the second reading though the hour was so late—far from it. There were one or two points in connection with it which he thought were well deserving of the attention of hon. Members in Committee. Clause 9, for instance, which dealt with rehearing on appeal, should receive the close attention of the right hon. Gentleman the Chief Secretary. Amongst several excellent provisions was that giving an appeal to the Privy Council; but the clause relating to power to add rent to the houses would require grave consideration. Clause 16 was exceedingly good; but he would request the Chief Secretary to give his attention to it, and also to Clause 18, before they went into Committee. He would take the liberty of blocking the Bill, but desired it to be known why he did so. It was not with any intention of delaying the Bill, but simply for the sake of making sure that there was fair opportunity given for Amendments to be put down and fairly considered, and that the Bill should not be taken at an inconvenient time. He did not intend to press his block, or continue it, if the measure were brought on at a convenient time. Motion agreed to. Bill read a second time, and committed for Friday.

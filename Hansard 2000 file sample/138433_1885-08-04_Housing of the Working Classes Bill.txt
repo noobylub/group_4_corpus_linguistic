@@ -1,0 +1,13 @@
+<FileID>138433</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/housing-of-the-working-classes-bill</URL>
+<Title>Housing of the Working Classes Bill</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1063-4</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>116</WordCount>
+
+
+<speaker>MR. GRAY</speaker> asked, When the second reading of the Bill for the Housing of the Working Classes would be taken? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER,</speaker> in reply, said, it was hardly likely that they would be able to take the second reading of the Bill before Friday. 
+<speaker>MR. BROADHURST</speaker> asked that the modifications proposed to Clause 13 should be made known as soon as possible, observing that it was almost the only clause proposing new and valuable legislation, and he hoped it would not be cut out. 
+<speaker>THE SECRETARY OF STATE FOR the HOME DEPARTMENT (Sir R. ASSHETON CROSS)</speaker> said, he would make known the Amendments as soon as the Forms of the House would permit.

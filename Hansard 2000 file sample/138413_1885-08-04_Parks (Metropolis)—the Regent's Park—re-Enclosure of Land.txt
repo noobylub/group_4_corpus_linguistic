@@ -1,0 +1,11 @@
+<FileID>138413</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/parks-metropolis-the-regents-park-re</URL>
+<Title>Parks (Metropolis)—the Regent's Park—re-Enclosure of Land</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1049</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>88</WordCount>
+
+
+<speaker>MR. DANIEL GRANT</speaker> asked the First Commissioner of Works, Whether his attention has been drawn to a statement in The Echo of Saturday last, that a portion of the land in Regent's Park, lately restored to the public, has been again enclosed; and, whether such statement is correct; and, if so, what steps he proposes to take in the matter? 
+<speaker>THE FIRST COMMISSIONER (Mr. PLUNKET)</speaker> asked that the Question should be again put in a day or two, when he would be in a position to answer it.

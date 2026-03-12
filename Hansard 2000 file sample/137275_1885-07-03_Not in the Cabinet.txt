@@ -1,0 +1,9 @@
+<FileID>137275</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/03/not-in-the-cabinet-1</URL>
+<Title>Not in the Cabinet</Title>
+<DebRef>HL Deb 03 July 1885 vol 298 c1645</DebRef>
+<SittingDate>1885-07-03</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>214</WordCount>
+
+Field Marshal Commanding in Chief H.R.H. the Duke of Cambridge, K.G. Chancellor of the Duchy of Lancaster and Vice President of the Committee of Council on Agriculture Right Hon. Henry Chaplin. President of the Local Government Board Right Hon. Arthur James Balfour. First Commissioner of Works and Public Buildings Right Hon. David Robert Plunket. Lords of the Treasury Charles Dalrymple, Esq. Hon. Sidney Herbert. Colonel Walrond. Lords of the Admiralty Vice Admiral Hood, Vice Admiral Sir Anthony Hoskins, Vice Admiral Brandreth, Captain Codrington, Ellis Ashmead-Bartlett, Esq. Joint Secretaries to the Treasury Aretas Akers-Douglas, Esq. Sir Henry Holland, Bart. Secretary to the Admiralty Charles Thompson Ritchie, Esq. Secretary to the Board of Trade Baron Henry de Worms. Secretary to the Local Government Board Right Hon. Earl Brownlow. Under Secretary, Home Department Charles Beilby Stuart-Wortley, Esq. Under Secretary, Foreign Department Right Hon. Robert Bourke. Under Secretary for Colonies Right Hon. Earl of Dunraven. Under Secretary for War Right Hon. Viscount Bury. Under Secretary for India Right Hon. Lord Harris. Paymaster General Right Hon. Earl Beauchamp. Surveyor General of Ordnance Hon. Guy Cuthbert Dawnay. Financial Secretary to the War Department Hon. H. S. Northcote. Judge Advocate General Right Hon. William Thackeray Marriott, Q.C. Attorney General Sir Richard E. Webster, Q.C. Solicitor General John Eldon Gorst, Esq., Q.C.

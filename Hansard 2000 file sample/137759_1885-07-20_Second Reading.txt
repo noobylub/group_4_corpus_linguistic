@@ -1,0 +1,13 @@
+<FileID>137759</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/second-reading</URL>
+<Title>Second Reading</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1184-5</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>217</WordCount>
+
+Order for Second Reading read. Motion made, and Question proposed, "That the Bill be now read a second time."—( Sir Charles Forster. ) 
+<speaker>MR. ARTHUR O'CONNOR</speaker> pointed out that one of the provisions of the Bill involved the erection of school buildings upon one of the open spaces of which there was so much need in the Metropolis. At the present moment the vacant space at Brook Green was an ornament to the neighbourhood in which it was situated, and it would be altogether spoiled if it were appropriated to the purposes of the School Board. Sites equally eligible were to be found in the immediate neighbourhood, and at a much less cost, which, if selected, would rather improve than injure the district. The particular selection which had been made in the neighbourhood of Brook Green would considerably deteriorate the value of the adjoining property, and would inevitably destroy one of the few picturesque open spaces now left in that part of London. He therefore objected to this part of the Bill. 
+<speaker>MR. SPEAKER</speaker> Does the hon. Member make any Motion? 
+<speaker>MR. ARTHUR O'CONNOR</speaker> Yes; I beg to move that the Bill be read a second time on this day three months. 
+<speaker>MR. SPEAKER</speaker> Then the Bill must stand over until tomorrow. Second Reading deferred till Tomorrow.

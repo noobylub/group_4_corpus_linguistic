@@ -1,0 +1,9 @@
+<FileID>138663</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/land-purchase-ireland-bill-lords-bill-249</URL>
+<Title>Land Purchase (Ireland) Bill [Lords]— [Bill 249]</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1840-54</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>11</WordCount>
+
+( Mr. Attorney General for Ireland. ) cc1840-54 CONSIDERATION. 5,155 words

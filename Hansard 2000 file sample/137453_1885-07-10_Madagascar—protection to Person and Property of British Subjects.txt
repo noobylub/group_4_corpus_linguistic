@@ -1,0 +1,11 @@
+<FileID>137453</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/madagascar-protection-to-person-and</URL>
+<Title>Madagascar—protection to Person and Property of British Subjects</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 c279</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>72</WordCount>
+
+
+<speaker>SIR HARRY VERNEY</speaker> asked the Secretary to the Admiralty, What protection there is in the waters of Madagascar to the persons and property of English residents in the Island? 
+<speaker>THE SECRETARY TO THE ADMIRALTY (Mr. RITCHIE)</speaker> Sir, the Senior Officer on the Coast of Madagascar is intrusted with the protection of British lives and property. The Kingfisher and Dragon are on the Zanzibar division. The Dragon was at Tamatave on June 16.

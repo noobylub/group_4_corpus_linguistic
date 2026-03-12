@@ -1,0 +1,11 @@
+<FileID>138377</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/second-reading</URL>
+<Title>Second Reading</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc1025-6</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>341</WordCount>
+
+Order for Second Reading read. 
+<speaker>MR. BRYCE</speaker> said, this Bill was substantially the same measure which was debated at such great length last Session. It then went to the House of Lords; but their Lordships said they had not sufficient time to consider it, and consequently it had to be dropped for the year. It was, however, introduced afresh into the House of Lords at the beginning of the present Session, referred to, and considered by, a very strong Select Committee, which included Lord Selborne, the late Lord Cairns, Lord FitzGerald, and Lord Bramwell, and subsequently debated fully in the full House. It now came before the House as the result of much time and thought in both Houses—for the changes made in the House of Lords had not substantially affected it; and under those circumstances, and considering the lateness of the hour, he did not think the House would wish him to go into the details of the measure. Motion made, and Question proposed, "That the Bill be now read a second time."—( Mr. Bryee. ) 
+<speaker>MR. ONSLOW</speaker> said, he had blocked this Bill right through, and it was only through inadvertence that he had allowed his block to lapse. He most strongly opposed it, because he thought it was a very wrong principle to give a wife the power of appointing guardians over her children during the lifetime of her husband, and for that reason he had done all in his power to prevent the passage of the Bill. He objected to a matter of such importance being brought on at so late an hour also. He hoped the House would not accept the second reading; and, therefore, he moved that the debate be now adjourned. Motion made, and Question put, "That the Debate be now adjourned." —( Mr. Onslow. ) The House divided: —Ayos 17; Noes 54: Majority 37.—(Div. List, No. 269.) Original Question put, and agreed to. Bill read a second time, and committed for Tomorrow. House adjourned at five minutes after Fire o'clock in the morning.

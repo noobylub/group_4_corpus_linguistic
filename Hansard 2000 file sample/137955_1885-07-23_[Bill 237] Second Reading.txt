@@ -1,0 +1,11 @@
+<FileID>137955</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/bill-237-second-reading</URL>
+<Title>[Bill 237] Second Reading</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1730</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>245</WordCount>
+
+Order for Second Reading read. Motion made, and Question proposed, "That the Bill be now read a second time."—( Mr. Attorney General. ) MR. MORGANLLOYD said, he hoped his hon. and learned Friend would not proceed with the Bill at that late hour. It was a measure which required some consideration, and it was, in his opinion, too late to discuss it properly. Therefore, in order to give time for further consideration, he would move the adjournment of the debate. Motion made, and Question proposed, "That the Debate be now adjourned."—( Mr. Morgan Lloyd. ) 
+<speaker>SIR HENRY JAMES</speaker> said, he would strongly appeal to his hon. and learned Friend to withdraw his objection to the Motion for the second reading of the Bill. The Bill was brought in to meet a purely technical difficulty which it was absolutely necessary to get rid of. His hon. and learned Friend would have an opportunity of discussing this matter; but he could assure him that there was nothing in the Bill which would render it necessary to reject the Motion for the second reading. 
+<speaker>MR. MORGAN LLOYD</speaker> said, he had no wish to prevent the Bill being read a second time; but he desired a proper opportunity for discussion, and that he should take on the next stage of the Bill. With the permission of the House he would withdraw his Motion for the adjournment of the debate. Motion, by leave, withdrawn. Original Question put, and agreed to.

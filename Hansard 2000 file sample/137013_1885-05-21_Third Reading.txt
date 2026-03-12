@@ -1,0 +1,10 @@
+<FileID>137013</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/third-reading</URL>
+<Title>Third Reading</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1136</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>105</WordCount>
+
+Order for Third Reading read. Motion made, and Question proposed, "That the Bill be now read the third time."—( Mr. Daniel Grant. ) 
+<speaker>MR. WARTON</speaker> said, that with regard to this Bill, he only wished to make this final complaint—namely, that it had passed through a curious change in its passage through the House. ["Divide!"] He would merely say that he had hoped the Bill would have been kept in its original form, and, as it had not been, he trusted that it would be put back into that form in the House of Lords. Motion agreed to. Bill read the third time, and passed.

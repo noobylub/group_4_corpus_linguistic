@@ -1,0 +1,12 @@
+<FileID>138036</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/24/report-of-amendments</URL>
+<Title>Report of Amendments</Title>
+<DebRef>HL Deb 24 July 1885 vol 299 c1774</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>324</WordCount>
+
+Order of the Day for the Consideration of the Report of Amendments read. 
+<speaker>THE PRESIDENT OF THE BOARD OF TRADE (The Duke of RICHMOND)</speaker> proposed to add a clause after Subsection 3 to Clause 4 to the effect that where a person should, in a bonâ fide attempt to repair a cable, break or cause an injury to another cable, he should not be punished with imprisonment as for unlawfully or wilfully breaking it, but should be liable to make good the damage done. Amendment agreed to. THE EARL OF CAMPERDOWN wished to ask a Question with regard to a matter of some importance. This Bill was brought in for the purpose of making regulations to enable the English Government to carry out the terms of the Convention; but it appeared only to carry out the terms of that Convention to a limited extent, and to make, in fact, a new Convention. Was it within the power of the Government to bring in a Bill of that character? THE PRESIDENT , in reply, said, that all the Government had undertaken to do was to submit a Bill on the subject to Parliament. That Bill would be dealt with according to the wisdom of Parliament. The Government could not undertake to require Parliament to carry out the Convention in its entirety. THE EARL OF CAMPERDOWN said, the amendment of the clause was the suggestion of the noble Duke. 
+<speaker>THE EARL OF SELBORNE</speaker> was understood to say that the Government undertook to carry out the Convention. 
+<speaker>THE MARQUESS OF SALISBURY</speaker> said, that it was open for the Convention to be modified by future negotiations, or a Bill might be brought in covering those parts of the Convention not now covered. THE EARL OF CAMPERDOWN observed, that in consequence of our not carrying out our obligations under the Convention other Governments might refuse to carry out theirs. Amendments reported; Bill to be read 3£ on Monday next.

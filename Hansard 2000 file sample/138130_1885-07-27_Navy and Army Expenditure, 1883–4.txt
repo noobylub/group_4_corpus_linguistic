@@ -1,0 +1,9 @@
+<FileID>138130</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/navy-and-army-expenditure-1883-4</URL>
+<Title>Navy and Army Expenditure, 1883–4</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c211</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>86</WordCount>
+
+Committee to consider the Savings and Deficiencies upon the Grants for Navy and Army Services in the year ended on the 31st day of March 1884, and the temporal sanction obtained from the Treasury by the Navy and Army Departments to Expenditure not provided for in the Grants for that year, Tomorrow. Ordered, That the Appropriation Accounts for the Navy and Army Departments, which were presented upon the 23rd day of February last, be referred to the Committee. House adjourned at a quarter after Three o'clock.

@@ -1,0 +1,10 @@
+<FileID>138155</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/poor-law-england-and-wales-conway-union</URL>
+<Title>Poor Law (England and Wales)— Conway Union—mr Davies, Medical Officer</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 cc246-7</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>299</WordCount>
+
+MR. THOROLD ROGERS asked the President of the Local Government Board, Whether it is the case that Mr. Thomas Davies, appointed district medical officer to the Conway Union in 1873, and confirmed by the Local Government Board, was allowed, in addition to his salary of £75 a year, the extra fees allowed by the Local Government Board and the cost of supplying expensive drugs, the district containing an area of 18,550 acres, with a rapidly increasing population; whether the Board is aware that the Conway guardians have striven to compel Mr. Davies to commute his extra fees and the cost of drugs for £10 a year: and that, on Mr. Davies refusing to accept this commutation, the Board has cancelled his contract, and withheld payment of his fees and last quarter's salary; and, whether he will inquire into the circumstances of the case, and protect Mr. Davies in case he has been wrongfully used? 
+<speaker>THE PRESIDENT OF THE LOCAL GOVERNMENT BOARD (Mr. A. J. BALFOUR)</speaker> Mr. Davies was appointed medical officer of the Conway Union, with the salary of £75 and the extra fees allowed by the Local Government Board, and the Guardians entered into a contract, under which they agreed to pay him for cod liver oil and quinine. In January, 1883, the Guardians proposed to commute the payment for the fees and medicines referred to for £10 per annum. Mr. Davies objected, and the proposal consequently was not submitted to the Board. The contract was determined two years ago; but this cancelling of the contract did not affect Mr. Davies's tenure of office. There is a dispute as to certain charges for medicines; but we are not aware of any reason why the salary of the officer should be withheld, and we have so informed the Guardians.

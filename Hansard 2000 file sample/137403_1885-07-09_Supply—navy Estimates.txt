@@ -1,0 +1,10 @@
+<FileID>137403</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/supply-navy-estimates</URL>
+<Title>Supply—navy Estimates</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c125</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>31</WordCount>
+
+In reply to Lord HENRY LENNOX, 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> said, that he understood there was only one more Vote, and the Report would not be taken after half-past 12.

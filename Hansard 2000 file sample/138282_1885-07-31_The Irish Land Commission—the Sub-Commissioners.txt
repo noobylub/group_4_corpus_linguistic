@@ -1,0 +1,11 @@
+<FileID>138282</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/the-irish-land-commission-the-sub</URL>
+<Title>The Irish Land Commission—the Sub-Commissioners</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 c677</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>199</WordCount>
+
+
+<speaker>MR. SEXTON (for Mr. GRAY)</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether it is intended to break up two of the Irish Land Sub-Commissions; whether it is a condition of the engagement of the Legal Sub-Commissioners that they should not undertake any other legal business; what notice has been given, or will be given, to those Commissioners whose services are about to be dispensed with; and, whether he is now in a position to state the names of those who will be retained? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> It has been decided to dispense with the services of two Sub-Commissions from this date. I believe it is understood that the whole time of the legal Assistant Commissioners should be given to their duties under the Land Commission. The Warrants of all the Sub-Commissioners, except those appointed for seven years, stated on the face of them that the appointment would expire on this date. The following will now receive new Warrants of appointment to the end of the present year: — namely, Messrs. Bourke, M'Devitt, Hodder, and Doyle, legal Commissioners; and Messrs. Comyn, Walpole, Cunningham, Barry, Bomford, Weir, Sproule, Guiry, and Golding, lay Commissioners.

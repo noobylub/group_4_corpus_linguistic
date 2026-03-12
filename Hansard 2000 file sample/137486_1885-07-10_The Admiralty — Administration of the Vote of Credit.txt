@@ -1,0 +1,10 @@
+<FileID>137486</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/10/the-admiralty-administration-of-the-vote</URL>
+<Title>The Admiralty — Administration of the Vote of Credit</Title>
+<DebRef>HL Deb 10 July 1885 vol 299 c244</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>47</WordCount>
+
+
+<speaker>THE EARL OF NORTHBROOK</speaker> gave Notice that in consequence of the statement made by the Leader of the other House of Parliament with regard to the administration of part of the Vote of Credit by the Admiralty he should call attention to the subject on Tuesday next.

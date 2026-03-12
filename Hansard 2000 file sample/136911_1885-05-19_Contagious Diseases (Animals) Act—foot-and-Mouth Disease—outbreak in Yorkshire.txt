@@ -1,0 +1,11 @@
+<FileID>136911</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/contagious-diseases-animals-act-foot-and</URL>
+<Title>Contagious Diseases (Animals) Act—foot-and-Mouth Disease—outbreak in Yorkshire</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 c945</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>216</WordCount>
+
+
+<speaker>MR. ACKERS</speaker> asked the Chancellor of the Duchy of Lancaster, Whether he is now able to say for certain whether the statement that foot and mouth disease had broken out in a herd of cattle in Yorkshire was incorrect; whether the Returns of the Department are correct; and, whether any undoubted cases of foot and mouth disease now exist in the United Kingdom; and, if so, the number of such cases, and the places where they exist? 
+<speaker>MR. TREVELYAN</speaker> There is a difference of opinion between the Veterinary Inspector of the Local Authority and the Inspector of the Privy Council sent to investigate the alleged outbreak of foot-and-mouth disease at Kelleythorpe, near Driffield, Yorkshire, as to the number of animals attacked. Under the circumstances, it is impossible to say for certain whether the disease was really foot-and-mouth disease or some other affection of the mouth; but, on consideration of the whole of the evidence, the Veterinary Officers of the Agricultural Department are inclined to the opinion that the disease was not foot-and-mouth disease. The Departmental Returns are compiled from the Returns received from the Officers of Local Authorities, and every care is taken that the compilation is accurate. No case of foot-and-mouth disease is reported or known to exist in any part of the United Kingdom.

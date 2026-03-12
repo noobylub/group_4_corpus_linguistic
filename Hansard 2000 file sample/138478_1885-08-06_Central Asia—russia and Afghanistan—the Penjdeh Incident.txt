@@ -1,0 +1,12 @@
+<FileID>138478</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/central-asia-russia-and-afghanistan-the</URL>
+<Title>Central Asia—russia and Afghanistan—the Penjdeh Incident</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 c1267</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>167</WordCount>
+
+
+<speaker>SIR GEORGE CAMPBELL</speaker> asked Mr. Chancellor of the Exchequer, Whether, before Parliament separates, Her Majesty's Government can, without injury to the public interests, give the House any information regarding the arbitration in respect of the collision near Penjdeh, and say whether the arbitration is going on, or whether it is postponed till the boundary is settled, or for any other reason; who is the arbitrator; and, whether the terms of reference have been settled? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I am afraid I am not in a position to give the hon. Member any information on this subject, and it is not likely that I can before Parliament separates. Some delay has taken place in bringing together the facts necessary for drawing up the reference; and at the present time it would not be possible to carry the matter further. 
+<speaker>SIR GEORGE CAMPBELL</speaker> presumed that the right hon. Gentleman had not departed from the policy of the late Government in regard to the proposal for arbitration. ["Order!"]

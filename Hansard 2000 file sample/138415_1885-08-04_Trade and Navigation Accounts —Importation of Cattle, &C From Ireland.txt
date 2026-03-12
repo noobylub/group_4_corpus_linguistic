@@ -1,0 +1,13 @@
+<FileID>138415</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/trade-and-navigation-accounts</URL>
+<Title>Trade and Navigation Accounts —Importation of Cattle, &C From Ireland</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1050</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>255</WordCount>
+
+
+<speaker>MR. DUCKHAM</speaker> asked the Secretary to the Board of Trade, Whether he will for the future add to the Monthly Trade and Navigation Accounts a Return of the numbers of cattle, sheep, and swine received from Ireland, similar to the Return of importations of those animals from Foreign Countries; and, whether he will add a Return of the dead meat of all kinds received from Ireland? 
+<speaker>THE SECRETARY TO THE BOARD (Baron HENRY DE WORMS)</speaker> The accounts of the cattle exports from Ireland to Great Britain are obtained by the Veterinary Department of the Privy Council for Ireland, and are published weekly in The Dublin Gazette, and also yearly in the Veterinary Report of the Privy Council Office, London. Meat exports from Ireland are not so registered, and are, therefore, only treated as part of the coasting trade of the United Kingdom, which is not registered with the same formalities as the foreign trade. The monthly trade accounts have reference only to foreign and Colonial trade, and not to trade between separate divisions of the United Kingdom; but in view of the importance of information as to trade with Ireland the question will be carefully considered, with a view of including in such accounts a supplementary statement of trade with Ireland. 
+<speaker>MR. NEWDEGATE</speaker> asked, whether, in any future arrangement, the importation from Ireland would be kept separate from the importation of foreign and Colonial cattle? 
+<speaker>THE SECRETARY TO THE BOARD</speaker> I propose in future that a supplementary account dealing exclusively with. Ireland shall be kept.

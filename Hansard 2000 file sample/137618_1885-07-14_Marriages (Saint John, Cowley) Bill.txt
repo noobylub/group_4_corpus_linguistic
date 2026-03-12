@@ -1,0 +1,9 @@
+<FileID>137618</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/marriages-saint-john-cowley-bill</URL>
+<Title>Marriages (Saint John, Cowley) Bill</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 c798</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>44</WordCount>
+
+On Motion of Mr. ATTORNEY GENERAL, Bill to render valid certain Marriages at Saint John, Cowley, ordered to be brought in by Mr. ATTORNEY GENERAL and Mr. STUART-WORTLEY. Bill presented, and read the first time. [Bill 234.] House adjourned at half after Two o'clock.

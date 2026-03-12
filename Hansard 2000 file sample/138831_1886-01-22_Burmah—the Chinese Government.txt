@@ -1,0 +1,10 @@
+<FileID>138831</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/22/burmah-the-chinese-government</URL>
+<Title>Burmah—the Chinese Government</Title>
+<DebRef>HC Deb 22 January 1886 vol 302 c192</DebRef>
+<SittingDate>1886-01-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>82</WordCount>
+
+MR. M'LAREN asked the Under Secretary of State for Foreign Affairs, Whether any representations have been made by the Chinese Government to Her Majesty's Government respecting the annexation of Burmah? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> I have to say that Her Majesty's Government are in communication with the Government of China with respect to Burmese affairs. The time has not yet arrived when it is thought advisable, in the interests of the public, that those communications should be made known.

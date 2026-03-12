@@ -1,0 +1,12 @@
+<FileID>138652</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/law-and-police-eliza-armstrong-a-child</URL>
+<Title>Law and Police—eliza Armstrong, a Child Under 14 Years</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 c1739</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>162</WordCount>
+
+
+<speaker>MR. CAVENDISH BENTINCK</speaker> asked the Secretary of State for the Home Department, Whether his attention has been called to an article in Lloyd's Weekly Newspaper of the 9th instant, headed "A Mother's Search for her Child," and referring to the alleged disappearance of Eliza Armstrong, a girl under fourteen years of age; and, whether he has directed any inquiry to be made with reference to this matter; and, if so, with what result? 
+<speaker>MR. HOPWOOD,</speaker> before the right hon. Gentleman answered the Question, wished to ask him whether the offences of decoying a child under 14 and of receiving a child so decoyed were not felony under the existing law, under which the parties might be prosecuted? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> Yes, Sir; they are. My attention has been called to this case, and I have instituted a number of inquiries. As the result I have thought it my duty to take the opinion of the Attorney General.

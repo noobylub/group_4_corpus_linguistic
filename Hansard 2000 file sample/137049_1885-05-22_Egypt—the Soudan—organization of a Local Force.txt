@@ -1,0 +1,10 @@
+<FileID>137049</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/22/egypt-the-soudan-organization-of-a-local</URL>
+<Title>Egypt—the Soudan—organization of a Local Force</Title>
+<DebRef>HC Deb 22 May 1885 vol 298 c1151</DebRef>
+<SittingDate>1885-05-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>83</WordCount>
+
+
+<speaker>MR. ASHMEAD-BARTLETT</speaker> asked the First Lord of the Treasury, Whether, in view of the great sacrifice of life and treasure incurred in the Soudan, and the decline of the movement in favour of the Mahdi, Her Majesty's Ministers will organise an Asiatic or African force under British officers in order to restore order and put down slavery in the Soudan? MR. GLADSTONE No, Sir. We are not aware of any rational plan by which the Force described in the Question could be organized.

@@ -1,0 +1,9 @@
+<FileID>136852</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/egypt-the-military-expedition-the-camel</URL>
+<Title>Egypt (The Military Expedition)—the Camel Corps</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 c708</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>104</WordCount>
+
+SIR HENRY FLETCHER asked the Secretary of State for War, If he can now inform the House when the Cavalry portions of the Camel Corps in the Upper Nile force can be permitted to rejoin their regiments, or go as Cavalry elsewhere? THE MARQUESS OF HARTINGTON The order in which the troops will be moved down the Nile and the time when they can be sent home must depend upon local considerations, the decision as to which must rest with the General Officer commanding on the spot. I have no doubt, however, that the Camel Corps will be among the troops sent home earliest.

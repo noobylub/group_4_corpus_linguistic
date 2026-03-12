@@ -1,0 +1,18 @@
+<FileID>138360</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/parliament-business-of-the-house-2</URL>
+<Title>Parliament—business of the House—labourers (Ireland) Bill</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc848-9</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>434</WordCount>
+
+
+<speaker>MR. GRAY</speaker> I wish to ask the right hon. Gentleman the Chancellor of the Exchequer, Whether, in view of the lateness of the Session and the importance of the subject, he will take the Labourers (Ireland) Bill tonight, even at this late hour? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I think the time will be fully occupied by the Criminal Law Amendment Bill . I would like to be able to take the Labourers (Ireland) Bill , as I think it an important matter. 
+<speaker>MR. SEXTON</speaker> I wish to ask the Government when they intend to proceed with the Labourers (Ireland) Bill . It has been on the Paper of the House since the beginning of the Session. Also with regard to the Lords' Amendments to the Poor Law Guardians (Ireland) Bill —the Amendment containing the proxy vote, and allowing the ex officio members to retain half the seats at the Boards—I wish to ask the hon. and learned Attorney General for Ireland, what action does the Government intend to take? If those Amendments are agreed to, the Bill may as well be dropped. 
+<speaker>THE ATTORNEY GENERAL FOE IRELAND (Mr. HOLMES)</speaker> asked for Notice of the Question. 
+<speaker>MR. SEXTON</speaker> In the meantime, can the right hon. Gentleman the Chancellor of the Exchequer say anything about the Labourers Bill ? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I am afraid I cannot say more than I have already said. 
+<speaker>MR. T. P. O'CONNOR</speaker> In consequence of the great anxiety that exists in all parts of Ireland and amongst the Irish Members with regard to the Bill, I would like to put one Question more to the Chancellor of the Exchequer, first premising, if I may be allowed to do so, that there was no action of the new Government which gave so much satisfaction in Ireland as their announcement of their intention to take up the Bill. The Question I wish to ask is, Whether, as Irish Members of all Parties for the most part remain here till the hour at which the House rises, there would be any practical inconvenience in taking the Bill at any hour, as there will always be Representatives here of all sections of the Irish people? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I cannot answer that Question without previous communication with my right hon. Friend the Chief Secretary for Ireland on the subject. I may, however, say that I have no intention of dropping the Bill. 
+<speaker>MR. SEXTON</speaker> I beg to give Notice that I shall resist further progress with the Appropriation Bill until the Labourers (Ireland) Bill has passed through the House.

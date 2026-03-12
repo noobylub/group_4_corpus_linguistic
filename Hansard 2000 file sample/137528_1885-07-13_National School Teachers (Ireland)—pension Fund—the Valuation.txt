@@ -1,0 +1,11 @@
+<FileID>137528</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/national-school-teachers-ireland-pension</URL>
+<Title>National School Teachers (Ireland)—pension Fund—the Valuation</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc430-1</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>119</WordCount>
+
+
+<speaker>MR. W. J. CORBET</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If he can state what progress has been made with the valuation of the Irish National School Teachers' Pension Fund; and, are the funds sufficient to permit of a reduction of five years from the present age for maximum pension; and, if so, when will the new revision scheme come into operation? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> The valuation of this fund has just been completed, and the Actuary's Report containing it is now under consideration. The surplus of assets over liabilities shown by the valuation would certainly not admit of a reduction of five years in the age for compulsory retirement.

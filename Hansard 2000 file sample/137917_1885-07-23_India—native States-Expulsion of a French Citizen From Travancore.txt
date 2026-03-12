@@ -1,0 +1,11 @@
+<FileID>137917</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/india-native-states-expulsion-of-a</URL>
+<Title>India—native States-Expulsion of a French Citizen From Travancore</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1618-9</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>116</WordCount>
+
+
+<speaker>SIR GEORGE CAMPBELL</speaker> asked the Secretary of State for India, Whether the India Office has any information regarding the expulsion from the Native State of Travancore of M. Montelar, a French citizen; and, if so, by what authority he was expelled, and why? 
+<speaker>THE SECRETARY OF STATE (Lord RANDOLPH CHURCHILL)</speaker> , in reply, said, that the matter referred to in the Question occurred some years ago. M. Montelar had been discovered by the Regent of Travancore to be engaged in some very questionable business; and having abused his influence, the Regent requested him to leave the territory. This step was concurred in by the Govern- ment of Madras as being essential to the welfare of Travancore.

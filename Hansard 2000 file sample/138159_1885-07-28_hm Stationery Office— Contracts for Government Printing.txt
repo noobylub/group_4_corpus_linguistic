@@ -1,0 +1,11 @@
+<FileID>138159</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/hm-stationery-office-contracts-for</URL>
+<Title>hm Stationery Office— Contracts for Government Printing</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 c249</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>126</WordCount>
+
+
+<speaker>MR. RYLANDS</speaker> asked the Secretary to the Treasury, Whether in the proposed new contracts for Government printing it has been arranged that the contracts, if satisfactorily executed, will remain in force for ten years; and, if that is the case, whether he will state to the House the reasons which may have induced the Treasury to sanction a contract for so long a term of years? 
+<speaker>THE SECRETARY TO THE TREASUEY (Sir HENRY HOLLAND)</speaker> , in reply, said, the Government contracts for printing would be for 10 years, so as to enable smaller firms to tender. The average value of the contracts would be from £18,000 to £20,000 a-year, and if the contracts were for a shorter period none but large firms would tender for them.

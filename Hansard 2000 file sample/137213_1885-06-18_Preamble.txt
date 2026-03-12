@@ -1,0 +1,9 @@
+<FileID>137213</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/18/preamble</URL>
+<Title>Preamble</Title>
+<DebRef>HL Deb 18 June 1885 vol 298 c1592</DebRef>
+<SittingDate>1885-06-18</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>22</WordCount>
+
+Their Lordships met for the despatch of Judicial Business only. House adjourned at a quarter past Four o'clock, till Tomorrow, Eleven o'clock.

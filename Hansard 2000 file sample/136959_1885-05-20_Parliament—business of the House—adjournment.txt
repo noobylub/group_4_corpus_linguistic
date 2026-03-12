@@ -1,0 +1,13 @@
+<FileID>136959</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/20/parliament-business-of-the-house</URL>
+<Title>Parliament—business of the House—adjournment</Title>
+<DebRef>HL Deb 20 May 1885 vol 298 cc950-1</DebRef>
+<SittingDate>1885-05-20</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>225</WordCount>
+
+Moved, "That the House do adjourn during pleasure."—( The Earl of Cork. ) 
+<speaker>THE MARQUESS OF SALISBURY</speaker> said, that he supposed that no Business of importance would be taken when the House met later in the day? 
+<speaker>THE LORD CHANCELLOR,</speaker> in reply, said, that no Business at all would be taken, unless the House of Commons differed with their Lordships in any of the Amendments which had been introduced in the Registration Bills. In that case, it would be necessary for their Lordships to reconsider the Amendments which had been introduced. Nothing, therefore, would be done, except Business which might arise on the action of the House of Commons in regard to these Bills; but he had no reason to think that the House of Commons were likely to disagree with their Lordships in the Amendments that had been made. 
+<speaker>THE MARQUESS OF SALISBURY</speaker> I assume that if anything has to be done in connection with these Bills, Peers will have due Notice? 
+<speaker>THE LORD CHANCELLOR</speaker> replied, that such Notice would be given. Motion agreed, to. House adjourned accordingly at 11.45 A.M. House resumed at 5 P.M. The CLERK of the PARLIAMENTS having stated that the Amendments to the three Registration Bills made by the Lords had been agreed to by the Commons, House adjourned at Five o'clock, till Tomorrow, a quarter past Ten o'clock.

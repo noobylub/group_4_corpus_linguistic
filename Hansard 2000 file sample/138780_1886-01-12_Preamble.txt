@@ -1,0 +1,9 @@
+<FileID>138780</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/12/preamble</URL>
+<Title>Preamble</Title>
+<DebRef>HC Deb 12 January 1886 vol 302 c5</DebRef>
+<SittingDate>1886-01-12</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>225</WordCount>
+
+The House met at Two of the clock; and, it being the first day of the meeting of this Parliament, pursuant to Proclamation, the Right honourable Sir Thomas Erskine May , K.C.B., Clerk of the House of Commons, and Reginald Francis Douce Palgrave , and Archibald John Scott Milman , esquires, Clerks Assistant, attending in the House, and the other Clerks attending, according to their duty, Kenneth Augustus Muir Mackenzie , esquire, Clerk of the Crown in Chancery in Great Britain , delivered to the said Sir Thomas Erskine May a Book, containing a List of the Names of the Members returned to servo in this Parliament. Several of the Members repaired to their Seats. A Message was delivered by Admiral Hon. Sir James Drummond , G.C.B., Gentleman Usher of the Black Rod: "Gentlemen, "The Lords, authorized by virtue of Her Majesty's Commission to open this Parliament, desire the immediate attendance of this Honourable House in the House of Peers, to hear the Commission read." Accordingly, the House went up to the House of Peers; — And a Commission having been read for opening and holding the Parliament, the Lords Commissioners directed the House to proceed to the Election of a Speaker, and present him Tomorrow, at Two of the clock, in the House of Peers for the Royal Approbation. And the House being returned;—

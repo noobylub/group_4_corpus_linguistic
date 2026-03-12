@@ -1,0 +1,13 @@
+<FileID>138225</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/railways-india-the-candahar-and-quetta</URL>
+<Title>Railways (India)—the Candahar and Quetta Railway</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c523</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>228</WordCount>
+
+
+<speaker>SIR HENRY TYLER</speaker> asked the Secretary of State for India, Whether the Railway is being pushed forward in the direction of Candahar, and for what length and to within what distance of Cadahar it has already been authorised; and, what, if any, further length is contemplated? 
+<speaker>THE SECRETARY OF STATE (Lord RANDOLPH CHURCHILL)</speaker> The continuation of the railway from Quetta has been sanctioned to extend 30 miles in a northwesterly direction to a place called Shebo. I have no knowledge of any further intention to continue the railway beyond that point at present; but I may tell the hon. Member that a very large accumulation of railway material is being concentrated at Quetta, so that if commercial and political interests should appear at any time to be favourable the line might be continued without any great delay in the direction of Candahar. 
+<speaker>MR. BUCHANAN</speaker> Will the noble Lord give any assurance that the House will be consulted before any sanction is given to extending the Quetta Railway beyond Shebo—that is, beyond the railway sanctioned in the Government of India's despatch of September the 22nd, 1884? 
+<speaker>LORD RANDOLPH CHURCHILL</speaker> I am afraid I cannot make that promise. There is not the slightest probability of the railway being completed to Shebo at the earliest before 1886, and as to what may happen in 1887 I cannot tell the hon. Member.

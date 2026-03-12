@@ -1,0 +1,9 @@
+<FileID>137351</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/bankruptcy-office-accommodation-bill</URL>
+<Title>Bankruptcy (Office Accommodation) Bill</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 c1943</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>47</WordCount>
+
+On Motion of Sir HENRY HOLLAND, Bill to enable the Treasury to provide, out of surplus funds arising under "The Bankruptcy Act, 1883 ," Office Accommodation for officers appointed under, the said Act, ordered to be brought in by Sir HENRY HOLLAND and Baron HENRY DR WORMS.

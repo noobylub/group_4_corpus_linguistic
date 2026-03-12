@@ -1,0 +1,11 @@
+<FileID>138426</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/dominion-of-canada-the-military</URL>
+<Title>Dominion of Canada—the Military Operations</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1060</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>88</WordCount>
+
+
+<speaker>MR. ALBERT GREY</speaker> asked the Secretary of State for War, Whether the Government has received General Middleton's Despatch describing the recent Military operations in Canada; and, whether he will cause such Despatch to be laid upon the Table of the House? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> Yes, Sir. General Middleton's despatch has been received by Her Majesty's Government. It is, I believe, the intention of my right hon. and gallant Friend the Secretary of State for the Colonies to publish it in The London Gazette.

@@ -1,0 +1,11 @@
+<FileID>137671</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/army-act-enlistment-of-foreigners</URL>
+<Title>Army Act—enlistment of Foreigners</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c916</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>147</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Secretary of State for War, Whether it is the fact that Daniel Lyons, 486 D Company, 1st Royal Munster Fusiliers, stationed at Pembroke Dock, Wales, is a recognised citizen of the United States of America; and, whether it is an infringement of the International Law to compel him to serve in the English Army; and, if so, whether steps will be taken to order his discharge? 
+<speaker>THE SECRETARY OF STATE FOR WAR (Mr. W. H. SMITH)</speaker> I have no information at present upon the subject; but an inquiry will at once be made with regard to it. I may, however, observe that, under Clause 95 of the Army Act , it is lawful to enlist foreigners, provided that in any corps they do not exceed one in 50 of the strength, and I must add that the act of enlistment is purely voluntary.

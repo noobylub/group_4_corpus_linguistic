@@ -1,0 +1,9 @@
+<FileID>138794</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/15/summary-of-day</URL>
+<Title>Summary of Day</Title>
+<DebRef>HC Deb 15 January 1886 vol 302 c30</DebRef>
+<SittingDate>1886-01-15</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>37</WordCount>
+
+Resolved , That this House will, at the rising of the House this day, adjourn ill Wednesday next, at Two of the clock.—( Mr. Akers-Douglas .) House adjourned at a quarter after Three o'clock till Wednesday next.

@@ -1,0 +1,11 @@
+<FileID>138156</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/post-office-ireland-the-dublin-sorting</URL>
+<Title>Post Office (Ireland)—the Dublin Sorting Office</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 cc247-8</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>170</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Postmaster General, Whether he will reform the system of penalties in force against the sorting clerks in the Dublin Sorting Office, whereby a clerk one hour late (the time prescribed for attendance being 4.45 a.m.) is obliged to do three and a-half hours' punishment duty, and to pay for a messenger sent to his residence, and suffers an arrest of his annual increment of pay? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS)</speaker> In Dublin officers who are late by as much as one hour, either on Sunday mornings or on as many as four other mornings in the month, are adjudged extra duty to perform; but their annual increment of pay is not arrested unless their attendance during the 12 months prior to the date on which the increment becomes due has been habitually irregular. The attendance is by no means as regular as it ought to be even under the present system, and I certainly see no reason for altering it on the side of relaxation.

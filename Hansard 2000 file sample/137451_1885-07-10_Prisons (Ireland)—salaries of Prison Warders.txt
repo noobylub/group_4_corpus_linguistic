@@ -1,0 +1,12 @@
+<FileID>137451</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/prisons-ireland-salaries-of-prison</URL>
+<Title>Prisons (Ireland)—salaries of Prison Warders</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 cc278-9</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>144</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If the Irish Government have agreed to the unanimous recommendation of the Royal Commission that the salaries of warders in Irish prisons should be increased; and, if so, how soon it will take effect? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The Government will be prepared to give favourable consideration to this recommendation when the time is ripe for doing so; but that mainly depends upon the larger question of the consolidation of prisons, which the Royal Commission have also recommended, and which is now being dealt with. 
+<speaker>MR. SEXTON</speaker> May I ask the right hon. Gentleman, when he comes to consider this question, to bear in mind that it has been in suspense for the greater part of a year, and, to ordinary minds, appears to be ripe for settlement now.

@@ -1,0 +1,9 @@
+<FileID>137031</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/22/preamble</URL>
+<Title>Preamble</Title>
+<DebRef>HC Deb 22 May 1885 vol 298 c1140</DebRef>
+<SittingDate>1885-05-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>8</WordCount>
+
+The House met at Two of the clock.

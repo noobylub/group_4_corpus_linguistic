@@ -1,0 +1,9 @@
+<FileID>138176</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/poor-law-guardians-ireland-cost-of</URL>
+<Title>Poor Law Guardians, Ireland [Cost of Prosecutions]</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 c384</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>79</WordCount>
+
+Considered in Committee. (In the Committee.) Resolved, That it is expedient to authorise the payment of Costs of Prosecutions, and compensation for loss of time, which may be incurred under the provisions of any Act of the present Session for amending the Law relating to the Election of Poor Law Guardians in Ireland, in like manner as the Expenses of Prosecution in cases of felony in Ireland are paid. Resolution to be reported Tomorrow. House adjourned at Two o'clock.

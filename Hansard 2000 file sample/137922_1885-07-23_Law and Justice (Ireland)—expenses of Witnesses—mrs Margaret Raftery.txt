@@ -1,0 +1,11 @@
+<FileID>137922</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/law-and-justice-ireland-expenses-of</URL>
+<Title>Law and Justice (Ireland)—expenses of Witnesses—mrs Margaret Raftery</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1621</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>148</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether any representation has been made to the Irish Government, or whether they are aware that, out of the sum of £42 5s. O d. allowed by the Crown for the expenses of Margaret Raftery, who attended at Summer and Winter Assizes 1883, and Spring, Summer, and Winter Assizes 1884, as witness for the defence in the case of the Craughwell prisoners, the sum of £13 2 s. Od. remains still unpaid; and, what steps will be taken to secure the discharge of the debt? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The Crown Solicitor in this case is on duty at the Assizes, and in his absence from his headquarters he is unable to give me a Report on the subject. I will, therefore, ask the hon. Member to repeat the Question on Monday next.

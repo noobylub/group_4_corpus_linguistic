@@ -1,0 +1,11 @@
+<FileID>137287</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/06/labourers-ireland-act</URL>
+<Title>Labourers' (Ireland) Act</Title>
+<DebRef>HC Deb 06 July 1885 vol 298 cc1704-5</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>90</WordCount>
+
+
+<speaker>MR. VILLIERS STUART</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether Her Majesty's Government propose to give effect this Session to the recommendations of the Select Committee on the Labourers' (Ireland) Act, as the late Government had announced its intention of doing previously to the recent crisis? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> Yes, Sir; it is the intention of Her Majesty's Government to legislate on this subject, and to adopt, perhaps, with a few trifling Amendments, the Bill which has already been before the House.

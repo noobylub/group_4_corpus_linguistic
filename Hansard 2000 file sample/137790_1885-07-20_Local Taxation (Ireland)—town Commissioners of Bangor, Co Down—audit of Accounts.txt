@@ -1,0 +1,11 @@
+<FileID>137790</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/local-taxation-ireland-town</URL>
+<Title>Local Taxation (Ireland)—town Commissioners of Bangor, Co Down—audit of Accounts</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 c1206</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>121</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether it is a fact that great delay has taken place in the audit of the accounts of the Town Commissioners of Bangor, county Down; whether, so far, any irregularities have been detected; and, whether he will take means to have the audit finished? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> The auditor began his audit on the 2nd of last month, but found it necessary to adjourn. He resumed on the 1oth instant, and has completed the audit. His Report will, I understand, be received by the Local Government Board this afternoon. He has verbally informed the Board that his Report contains allusions to some irregularities.

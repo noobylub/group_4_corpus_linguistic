@@ -1,0 +1,9 @@
+<FileID>138802</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/21/new-writs-issued</URL>
+<Title>New Writs Issued</Title>
+<DebRef>HC Deb 21 January 1886 vol 302 c85</DebRef>
+<SittingDate>1886-01-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>38</WordCount>
+
+For Croydon, v. Sir William Grantham, knight, one of the Justices of Her Majesty's High Court of Justice. For Armagh County (Mid Division), v. John M'Kane, esquire, deceased. For Edinburgh (South Division), v. Sir George Harrison, knight, deceased.

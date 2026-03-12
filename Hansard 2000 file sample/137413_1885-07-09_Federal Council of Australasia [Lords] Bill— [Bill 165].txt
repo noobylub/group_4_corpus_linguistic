@@ -1,0 +1,9 @@
+<FileID>137413</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/federal-council-of-australasia-lords</URL>
+<Title>Federal Council of Australasia [Lords] Bill— [Bill 165]</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c220</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>4</WordCount>
+
+( Colonel Stanley. )

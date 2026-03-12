@@ -1,0 +1,10 @@
+<FileID>137248</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/24/prevention-of-crime-ireland-act-1882</URL>
+<Title>Prevention of Crime (Ireland) Act, 1882—renewal of Act</Title>
+<DebRef>HC Deb 24 June 1885 vol 298 c1630</DebRef>
+<SittingDate>1885-06-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>218</WordCount>
+
+
+<speaker>MR. PARNELL</speaker> I desire, Sir, to take this opportunity, the first I have had since the change of Government that has taken place, to give Notice that upon an early day—the earliest possible day I can secure—I shall call attention to the maladministration of the Criminal Law in Ireland, and more especially certain provisions of the Crime Prevention Act , during the Viceroyalty of Earl Spencer, whereby persons have in some cases been condemned to death and executed, and in others sentenced to penal servitude for life or for long terms of years, which sentences are now in operation; and to move— That, in the opinion of this House, it is the duty of the Government to institute strict inquiry into the evidence and convictions in the Maamtrasra, Barbavilla, Crossmaglen, and Castleisland cases, the case of the brothers Delahunty, and, generally, all cases in which witnesses examined in the trials now declare that they committed perjury, or in which proof of the innocence of the accused is tendered by credible persons, and that such inquiries, with a view to the full discovery of truth and the relief of innocent persons, should be held in the manner most favourable to the reception of all available evidence. Question put, and agreed to House adjourned at a quarter before Six o'clock.

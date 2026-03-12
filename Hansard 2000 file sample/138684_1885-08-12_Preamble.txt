@@ -1,0 +1,9 @@
+<FileID>138684</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/12/preamble</URL>
+<Title>Preamble</Title>
+<DebRef>HC Deb 12 August 1885 vol 300 c1869</DebRef>
+<SittingDate>1885-08-12</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>8</WordCount>
+
+The House met at Three of the clock.

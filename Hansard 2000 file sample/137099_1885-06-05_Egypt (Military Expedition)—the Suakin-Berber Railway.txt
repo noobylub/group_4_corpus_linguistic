@@ -1,0 +1,9 @@
+<FileID>137099</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/05/egypt-military-expedition-the-suakin</URL>
+<Title>Egypt (Military Expedition)—the Suakin-Berber Railway</Title>
+<DebRef>HC Deb 05 June 1885 vol 298 cc1336-7</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>125</WordCount>
+
+MR. GORST asked the Secretary of State for War, How many ships are now afloat laden with material of the projected Suakin-Berber Railway; what the cost of this material was to the Government; what amount of demurrage is being paid to the shippers by reason of the material not being landed; and, what attempts have been made by Government to get rid of this material by a sale or otherwise, and with what results? THE MARQUESS OF HARTTNGTON I understood that a communication had been addressed to the hon. and learned Gentleman requesting him to postpone putting this Question until Monday. MR. GORST said, that he had not received the communication referred to by the noble Lord; but he would postpone the Question with pleasure.

@@ -1,0 +1,11 @@
+<FileID>137466</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/inspectors-of-prisons-ireland</URL>
+<Title>Inspectors of Prisons (Ireland)</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 cc288-9</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>220</WordCount>
+
+
+<speaker>MR. BRODRICK</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether, in consequence of the recommendation of the Royal Commission on Prisons in Ireland, the three inspectors under the General Prisons Board have been reduced to two; whether these two gentlemen have been required to reside in Dublin; and, why the increase of £100 per annum salary, recommended by the Commission to meet the required change of residence, has not been accorded them? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The Royal Commission recommended in connection with the reconstruction of the Prisons Board that the number of Inspectors should be reduced to two, with increased salaries on a scale rising from £600 to £700. The Inspectors have accordingly been reduced to two, and they will be obliged to live in Dublin; but their taking up residence in Dublin has been postponed until the autumn at their request. No increase has been made to their salaries, which are £600 a-year. The arrangement which resulted in the appointment of Dr. McCabe as medical officer of the Board was sanctioned by the Treasury on the understanding that the Inspectors' salaries remained as at present. MR.BREODRICK gave Notice that, in consequence of the answer of the right hon. Baronet, he would call attention to the subject on the Vote for Prisons (Ireland).

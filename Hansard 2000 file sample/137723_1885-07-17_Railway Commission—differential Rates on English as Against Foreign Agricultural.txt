@@ -1,0 +1,11 @@
+<FileID>137723</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/railway-commission-differential-rates-on</URL>
+<Title>Railway Commission—differential Rates on English as Against Foreign Agricultural Products</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 c1056</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>170</WordCount>
+
+
+<speaker>MR. ATKINSON</speaker> asked Mr. Chancellor of the Exchequer, If he will cause the fact that the produce of Foreign farms is carried by English Railway Companies, having monopolies, at less rates per ton per mile than the produce of English farms, to be referred to the Royal Commission to be appointed to inquire into the causes of agricultural depression; or, failing such reference, to ask the President of the Board of Trade if he will cause a case on the subject of such undue preference to be stated for consideration by the Railway Commissioners? 
+<speaker>THE CHANCELLOR or THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> I think the subject of the hon. Member's Question is hardly one that will come within the scope of the proposed Royal Commission on the Depression of Trade and Industry, except, possibly, incidentally; and I am informed by my noble Friend the President of the Board of Trade that ho cannot cause a case on the subject referred to to be stated for consideration by the Railway Commissioners.

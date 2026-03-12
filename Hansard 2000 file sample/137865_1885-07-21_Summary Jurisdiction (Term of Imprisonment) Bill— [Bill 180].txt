@@ -1,0 +1,9 @@
+<FileID>137865</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/summary-jurisdiction-term-of</URL>
+<Title>Summary Jurisdiction (Term of Imprisonment) Bill— [Bill 180]</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 c1512</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>13</WordCount>
+
+( Mr. H. H. Fowler, Sir William Harcourt. ) c1512 CONSIDERATION. 127 words

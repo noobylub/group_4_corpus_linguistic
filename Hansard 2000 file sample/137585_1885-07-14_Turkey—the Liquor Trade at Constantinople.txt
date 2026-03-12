@@ -1,0 +1,11 @@
+<FileID>137585</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/turkey-the-liquor-trade-at-constantinople</URL>
+<Title>Turkey—the Liquor Trade at Constantinople</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 cc654-5</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>101</WordCount>
+
+
+<speaker>MR. WHITWORTH</speaker> asked the Under-Secretary of State for Foreign Affairs, Whether it is true, as stated in The Times of July 6th, that the British Consul General at Constantinople has been thwarting the Turkish Government in its attempt to check the liquor trade being carried on there by British subjects? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> , in reply, said, he had seen the report in The Times referred to in the Question, and it appeared to be very eulogistic upon the conduct of General Fawsitt; but no communication had been received at the Foreign Office in respect to it.

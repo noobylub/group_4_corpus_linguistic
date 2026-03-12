@@ -1,0 +1,9 @@
+<FileID>136932</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/19/registration-of-voters-ireland-bill-no</URL>
+<Title>Registration of Voters (Ireland) Bill—(no 116)</Title>
+<DebRef>HL Deb 19 May 1885 vol 298 cc905-8</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>9</WordCount>
+
+( The Lord President. ) cc905-8 COMMITTEE. 1,079 words

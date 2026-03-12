@@ -1,0 +1,11 @@
+<FileID>137391</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/parliamentary-elections-ireland</URL>
+<Title>Parliamentary Elections (Ireland)—assistant Revising Barristers</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c120</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>187</WordCount>
+
+
+<speaker>MR. HEALY</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Can ho state how many assistant revising barristers are to be appointed this year in Ireland; at what rate they will be paid; who they are; who will decide the county or province they will act in; and, will any opportunity be given of discussing the political complexion of the appointments, on a Supplementary Estimate this Session, or other wise? THE CHIEF SECRETARY The question of appointing Assistant Revising Barristers is at present engaging the attention of the Government, and inquiries have been set on foot with the view of ascertaining what number will be required. It is expected that this information will be to hand in about a week. The Treasury have fixed the remuneration at five guineas a-day, with actual travelling expenses and the usual subsistence allowance for each night's absence from home; but I believe they propose to limit the number of days for which the Assistant Barristers shall be employed. 
+<speaker>MR. HEALY</speaker> asked whether there would be a Supplementary Estimate, and an opportunity for discussing the matter? THE CHIEF SECRETARY Yes.

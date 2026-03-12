@@ -1,0 +1,9 @@
+<FileID>137646</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c902</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>124</WordCount>
+
+NEW MEMBER SWORN—Sir Henry Fletcher, baronet, for Horsham. SELECT COMMITTEE— Report —National Provident Insurance [No. 270]; Salmon Fisheries (Ireland) [No. 271]; Forestry, Mr. Northcote discharged; Colonel King-Harman added. SUPPLY— considered in Committee — Resolutions [July 16] reported. PRIVATE BILL ( by Order )— Considered as amended — Third Reading —Witham River Outfall, and passed. PUBLIC BILLS— Second Reading —Customs and Inland Revenue (No. 2) [223]; Exchequer and Treasury Bills*[229]; Medical Belief Disqualification Removal [232]. Committee —Bankruptcy (Office Accommodation) [215]—R.P.; Poor Law Unions' Officers (Ireland) [214]—R.P. Committee — Report —National Debt [172]. Committee — Report — Third Reading —Public Health (Ships, £c.)*[230]; Ecclesiastical Commissioners*[227]; Marriages (Saint John, Cowley)*[234], and passed. Third Reading —Public Health (Scotland) Provisional Order (No. 2)* [207]; Copyhold Enfranchisement [26], and passed.

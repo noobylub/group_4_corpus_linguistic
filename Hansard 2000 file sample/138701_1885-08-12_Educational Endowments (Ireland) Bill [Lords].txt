@@ -1,0 +1,9 @@
+<FileID>138701</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/12/educational-endowments-ireland-bill-lords</URL>
+<Title>Educational Endowments (Ireland) Bill [Lords]</Title>
+<DebRef>HC Deb 12 August 1885 vol 300 cc1894-913</DebRef>
+<SittingDate>1885-08-12</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>13</WordCount>
+
+( Mr. Attorney General for Ireland. ) cc1894-913 [BILL 176.] COMMITTEE. 5,799 words

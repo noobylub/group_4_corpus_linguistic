@@ -1,0 +1,13 @@
+<FileID>138186</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/29/class-i-public-works-and-buildings</URL>
+<Title>Class I—public Works and Buildings</Title>
+<DebRef>HC Deb 29 July 1885 vol 300 c468</DebRef>
+<SittingDate>1885-07-29</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>40</WordCount>
+
+(4.) £500, Supplementary, Gordon Monument. 
+<speaker>SIR WILFRID LAWSON</speaker> When shall we have an opportunity of discussing this Vote? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> On Report. 
+<speaker>SIR WILFRID LAWSON</speaker> When? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> Tomorrow. Resolutions to be reported Tomorrow.

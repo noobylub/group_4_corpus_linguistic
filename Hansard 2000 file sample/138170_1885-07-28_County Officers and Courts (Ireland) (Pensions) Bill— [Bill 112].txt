@@ -1,0 +1,9 @@
+<FileID>138170</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/county-officers-and-courts-ireland</URL>
+<Title>County Officers and Courts (Ireland) (Pensions) Bill— [Bill 112]</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 c382</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>12</WordCount>
+
+(Mr. Campbell-Bannerman, Mr. Solicitor General for Ireland. ) c382 COMMITTEE. 57 words

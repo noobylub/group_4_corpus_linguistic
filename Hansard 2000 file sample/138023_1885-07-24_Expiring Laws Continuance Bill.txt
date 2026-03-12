@@ -1,0 +1,9 @@
+<FileID>138023</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/expiring-laws-continuance-bill</URL>
+<Title>Expiring Laws Continuance Bill</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 c1872</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>42</WordCount>
+
+On Motion of Mr. HERBERT, Bill to continue various Expiring Laws, ordered to be brought in by Mr. HERBERT and Sir HENRY HOLLAND. Bill presented, and read the first time. [Bill 247.] House adjourned at quarter before One o'clock till Monday next.

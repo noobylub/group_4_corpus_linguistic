@@ -1,0 +1,9 @@
+<FileID>138043</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/26/egypt-finance-the-international-loan-of</URL>
+<Title>Egypt (Finance)—the International Loan of £9,000,000</Title>
+<DebRef>HL Deb 26 July 1885 vol 300 c213</DebRef>
+<SittingDate>1885-07-26</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>4</WordCount>
+
+c213 QUESTION. 203 words

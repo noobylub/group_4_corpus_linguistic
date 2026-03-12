@@ -1,0 +1,9 @@
+<FileID>137292</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/06/irish-land-commission-judigial-rents</URL>
+<Title>Irish Land Commission-Judigial Rents—estate of Captain Douglas, Co Longford</Title>
+<DebRef>HC Deb 06 July 1885 vol 298 cc1707-8</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>267</WordCount>
+
+MR. JUSTIN M'CARTHY asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether it is the fact that a large number of tenants on the estate of Captain Douglas, in the county of Longford, applied to the Land Court about two years ago to have judicial rents fixed for their holdings, and whether thereupon the landlord told them, through his agent, that if they per- sisted in that course he would charge them a high price for the privilege of turbary; whether he did in fact last year demand higher prices, as high a price in some instances as ten shillings a perch for bog which the tenants had themselves reclaimed, and which up to that time they had had for one shilling a perch; whether he maintains the same demand this year, and has taken legal proceedings against some of the tenants for cutting the turf without paying him the price demanded; and, whether the Government can take any steps to secure to the tenants their customary rights, as well as those conferred by the Land Act ? THE CHIEF SECRETARY (Sir WILLIAM HART DYKE): About 56 of the tenants on the estate of Captain Douglas, in the county of Longford, have had judicial rents fixed; and nothing transpired to lead the Land Commissioners to suppose that any threat had been held out to these tenants in consequence of their application. Beyond this, I have no information as to the relations between Captain Douglas and his tenants, and the Government have no power of interference in such matters as that referred to in the Question.

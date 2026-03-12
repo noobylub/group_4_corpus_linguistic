@@ -1,0 +1,15 @@
+<FileID>138209</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/parliamentary-elections-ireland-the</URL>
+<Title>Parliamentary Elections (Ireland)—the County Down Election—the Ballot Act</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc512-3</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>456</WordCount>
+
+
+<speaker>MR. LABOUCHERE</speaker> asked the Secretary of State for the Home Department, Whether his attention has been called to a statement of Mr. Brown, the defeated candidate for county Down, which was published in The Daily News of the 14th instant, that— It is a fact that in the polling districts of Newry, Castlewellan, Downpatrick", Killkeel, and Rathfriland, there was a majority for Lord Arthur Hill of no less than 649 votes; and, whether the arrangements connected with the taking of votes under the Ballot Act render it impossible for it to be known to whom the votes of any particular polling districts are given? 
+<speaker>THE ATTORNEY GENERAL FOR IRELAND (Mr. HOLMES)</speaker> I have been asked by my right hon. Friend the Secretary of State to reply to this Question. The Rules under the Ballot Act provide that before the Returning Officer counts the votes he shall, in the presence of the candidates' agents, count the number of papers in each ballot box, and that while this is being done he shall keep the papers with their faces upwards. I think that in doing this it would be impossible to know the number of votes given in any particular polling-district for the respective candidates, but a quick-eyed agent would probably be able to form a pretty accurate opinion as to which candidate had a majority, especially if such majority were large. I may add that I have been informed by my hon. Friend the elected Member that he knows nothing of the figures given by Mr. Brown, and that he believes that his statement does not rest on any adequate foundation. 
+<speaker>MR. LABOUCHERE</speaker> asked the Secretary of State for the Home Department whether he would not issue some sort of Circular to prevent what the right hon. and learned Gentleman had just said was easy—namely, that agents standing near a box could see whether there was a majority for or against a candidate in any district? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS),</speaker> in reply, said, he would inquire into the matter; but the Question ought to be addressed to his right hon. Friend the Member for the University of Oxford. 
+<speaker>MR. GRAY</speaker> asked whether the sharp-eyed agent referred to, who might form a guess as to which candidate had the majority, was outside or inside the booth; if the latter, whether he was not sworn to secrecy, and whether the disclosure of his guess would not be an offence under the Act? 
+<speaker>THE ATTORNEY GENERAL FOR IRELAND (Mr. HOLMES)</speaker> said, the agent was authorized to be in the booth. As far as regarded the disclosure, he rather thought that the offence under the Act was the disclosure of the vote given by a particular voter.

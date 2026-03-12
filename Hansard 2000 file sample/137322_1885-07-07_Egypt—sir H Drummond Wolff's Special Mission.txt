@@ -1,0 +1,11 @@
+<FileID>137322</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/egypt-sir-h-drummond-wolffs-special</URL>
+<Title>Egypt—sir H Drummond Wolff's Special Mission</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 cc1828-9</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>286</WordCount>
+
+
+<speaker>MR. M'LAREN</speaker> asked Mr. Chancellor of the Exchequer, Whether it is intended to replace Sir Evelyn Baring by the honourable Member for Portsmouth, a Director of the Anglo-Egyptian Bank and the Land Mortgage Company of Egypt; and, if so, whether, in making the appointment, the Government have considered the honourable Member's public statements that the Khedive was an accomplice of the massacres of Alexandria, and that he himself has publicly condemned the sending of Special Commissioners to Egypt who are pecuniarily or personally interested in Egyptian financial undertakings? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> It is intended, as was stated last night, that the right hon. Member for Portsmouth (Sir H. Drummond Wolff) should undertake a special mission to Egypt; but the particular arrangements for that mission have not yet been determined upon. The right hon. Member for Portsmouth was, I believe, a Director of the Anglo-Egyptian Bank and of the Land Mortgage Company of Egypt; but I am informed that his connection with one of these Companies has for some time ceased, and that he resigned his connection with the other before any notice of his appointment was given to him. The Government have, of course, considered the position of the hon. Member and his public actions, and they have seen nothing in his public actions to debar him from usefully performing the duties of such a commission. On the contrary, they have reason to believe that his appointment will be acceptable to the Khedive's Court. [ Laughter from the Opposition. ] I make that statement on authority. I understand that the hon. Member has never publicly condemned the sending of Commissioners to Egypt who are personally or pecuniarily interested in Egyptian affairs.

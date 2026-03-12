@@ -1,0 +1,11 @@
+<FileID>137037</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/22/education-ireland-banagher-royal-school</URL>
+<Title>Education (Ireland)—banagher Royal School</Title>
+<DebRef>HC Deb 22 May 1885 vol 298 c1143</DebRef>
+<SittingDate>1885-05-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>126</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether it is intended to withdraw the grants made to the Royal School at Banagher for education in that district; and, if so, whether the purpose of education in that district will be regarded in the use of the school buildings and the future application of the grants? 
+<speaker>MR. CAMPBELL-BANNERMAN</speaker> I am not aware of any present intention to withdraw the provision for this school, but the case is undoubtedly one of those which would be dealt with under the Bill now before the House, should it become law; and in any scheme which might be formulated with respect to it, the educational requirements of the locality would, of course, be a primary consideration.

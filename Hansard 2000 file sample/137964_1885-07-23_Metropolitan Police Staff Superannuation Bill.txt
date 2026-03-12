@@ -1,0 +1,9 @@
+<FileID>137964</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/metropolitan-police-staff-superannuation</URL>
+<Title>Metropolitan Police Staff Superannuation Bill</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1757</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>37</WordCount>
+
+On Motion of Mr. STUART- WORTLEY, Bill to amend "The Metropolitan Police Staff Superannuation Act, 1875 , ordered to be brought in by Mr. STUART-WORTLEY and Sir HENRY HOLLAND. House adjourned at a quarter after Three o'clock.

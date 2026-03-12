@@ -1,0 +1,11 @@
+<FileID>137731</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/egypt-the-international-agreement-the</URL>
+<Title>Egypt—the International Agreement—the Loan of £9,000,000</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 c1060</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>173</WordCount>
+
+
+<speaker>MR. RUSTON</speaker> asked the Under Secretary of State for Foreign Affairs, If he can inform the House why the Agreement between the Great Powers of Europe for the purpose of guaranteeing a loan of nine millions sterling has not yet been completed; which of the Powers have at the present date failed to ratify the Agreement; what is the cause of the delay in obtaining such ratification; is it the fact that very grave inconvenience is caused to the Egyptian Treasury, and much suffering to those entitled to receive the Alexandrian indemnities in consequence of the non-completion of the said Agreement; and, will he use his best endeavours to secure the early completion of the Agreement in order that the loan contemplated by it may be obtained. 
+<speaker>THE UNDER SECRETARY OF STATE FOR FOREIGN AFFAIRS (Mr. BOURKE)</speaker> The best endeavours of Her Majesty's Government are being directed to procure the early issue of the loan; but I do not think it would be desirable to enter into details with respect to pending negotiations.

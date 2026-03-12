@@ -1,0 +1,9 @@
+<FileID>138805</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/21/county-of-carlow-and-berough-of-dublin</URL>
+<Title>County of Carlow and Berough of Dublin (St Stephen's Green Division)</Title>
+<DebRef>HC Deb 21 January 1886 vol 302 c86</DebRef>
+<SittingDate>1886-01-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>105</WordCount>
+
+Mr. SPEAKER acquainted the House that ho had received a Letter from E. Dwyer Gray, esquire, returned as a Member for the County of Carlow and for the Borough of Dublin (St. Stephen's Green Division), making his election to serve for the Borough of Dublin (St. Stephen's Green Division); and the said Letter was read as followeth:— Jany. 21st, 1880. Sir, Having been returned for the St. Stephen's Green Division of the City of Dublin, and also for Carlow, I beg to say that I elect to sit for the former Constituency. I am, Sir, Yours faithfully, The Right Hon. E. DWYER GRAY. The Speaker.

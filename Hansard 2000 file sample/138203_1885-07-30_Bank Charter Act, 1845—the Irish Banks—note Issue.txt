@@ -1,0 +1,11 @@
+<FileID>138203</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/bank-charter-act-1845-the-irish-banks</URL>
+<Title>Bank Charter Act, 1845—the Irish Banks—note Issue</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc508-9</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>307</WordCount>
+
+
+<speaker>MR. GRAY</speaker> asked Mr. Chancellor of the Exchequer, Whether he is aware that the average value of the notes issued by the Bank of Ireland is more than a million less than that authorised by the Act of 1845; and that the average issued by the Provincial Bank is about one-quarter of a million less than is authorised by the same Act; while the average of the Belfast Banking Company is £100,000, of the Ulster Banking Company over £200,000, the Northern Banking Company about £100,000, and of the National Bank is £300,000 more than is authorised by the Act of 1845, against which these four latter Banks are required by law to keep gold in their vaults; and, whether, under these circumstances, he will take into consideration the propriety of amending the Act of 1845 so as to bring the authorised issue more into proportion with the actual issue used by the public of notes of each Irish Bank, and so as to give to the Banks which have not now authority to issue notes power to do so under proper restrictions and safeguards? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> Without endorsing completely the figures of the hon. Member, I am aware that there is a considerable varia- tion in the if sues of the privileged banks in Ireland, the two tanks named by him issuing less, the others issuing more, than the unsecured circulation permitted to them by Sir Robert Peel's Act; but I am not prepared upon this fact alone to disturb the arrangement made by Sir Robert Peel, which has, on the whole, worked satisfactorily for a period of 40 years. The matter is, of course, one of very great importance and difficulty, and if the present arrangements were disturbed other questions would be raised beyond that which the hon. Gentleman has in his mind.

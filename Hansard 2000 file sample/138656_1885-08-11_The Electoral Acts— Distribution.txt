@@ -1,0 +1,12 @@
+<FileID>138656</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/the-electoral-acts-distribution</URL>
+<Title>The Electoral Acts— Distribution</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1741-2</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>124</WordCount>
+
+
+<speaker>SIR HENRY JAMES</speaker> asked the Secretary of State for the Home Department, Whether he would take steps to have the new Electoral Acts, the Franchise Act , the Redistribution Act , and the Registration Acts at once printed and distributed? Before the change of Government a promise was made that those Acts should be distributed at an early period, so as to be in the hands of all concerned before the General Election. 
+<speaker>MR. BRODRICK</speaker> suggested that the new Corrupt Practices Act should also be issued. 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> said, he should take care that was carried out as soon as possible. With regard to the further Question, the Corrupt Practices Act could be bought at the Queen's Printers.

@@ -1,0 +1,11 @@
+<FileID>138494</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/post-office-scotland-telegraph-office</URL>
+<Title>Post Office (Scotland)—telegraph Office Clerks</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 cc1276-7</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>215</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Postmaster General, If it be a fact that in English and Scotch telegraph offices all clerks performing night duty are allowed three weeks holidays in the year, while over forty telegraph clerks in Belfast, some having 15 years' service, who perform exactly the same duty as those in English and Scotch offices, are allowed only two weeks; is it not acknowledged as a rule in the service that clerks who perform night work (which is reckoned unhealthy duty) should have compensating holidays, and that the clerks in Edinburgh, Glasgow, Liverpool, Leeds, Newcastle-on-Tyne, Cork, Birmingham, Bristol, Hull, Leicester, Sheffield, &c. are on this account allowed three weeks holidays annually, while the night operators in Belfast are given but two weeks; and, if the facts be as stated, will he cause the grievances of the Belfast clerks to be removed, by ordering that the same allowances in this and other respects be given in Belfast as are given in offices where like work is performed? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS)</speaker> In reply to the hon. Member, I have to state that, in the matter of leave of absence, the telegraphists at Belfast are treated in exactly the same manner as those at other Offices. There is but one rule applicable to all.

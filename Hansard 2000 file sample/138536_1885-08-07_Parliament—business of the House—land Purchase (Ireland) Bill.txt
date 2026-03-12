@@ -1,0 +1,17 @@
+<FileID>138536</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/parliament-business-of-the-house-land</URL>
+<Title>Parliament—business of the House—land Purchase (Ireland) Bill</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 cc1454-5</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>289</WordCount>
+
+
+<speaker>MR. BRODRICK</speaker> said, that it was proposed by the Government to take the Land Purchase (Ireland) Bill as first Order that day. How was it that it was the ninth Order on the Paper? 
+<speaker>THE CHANCELLOR OF the EXCHEQUER</speaker> The simple reason is that there is no chance of dealing with the Bill at all tonight. What I said was that if the Criminal Law Amendment Bill was not finished last night it must necessarily be taken as first Order today, and after it the Housing of the Working Classes Bill . It would be obviously impossible, therefore, to proceed with the Land Purchase (Ireland) Bill tonight. 
+<speaker>COLONEL NOLAN</speaker> Why not proceed with it tomorrow? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> Tomorrow will be Saturday, and I should be very reluctant to ask the House to meet tomorrow; but if the Criminal Law Amendment Bill is finished tonight, and the second reading of the Housing of the Working Classes Bill be taken, the Land Purchase (Ireland) Bill will be the first Order for Monday. 
+<speaker>MR. SEXTON</speaker> asked, if the Housing of the Working Classes Bill was finished at a tolerably early hour—say, by 1 o'clock—would the Government ask the House to go into Committee on the Bill, and name the two Gentlemen who are to be the Commissioners? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> , in reply, said, that it would be inconvenient for the House to leave it uncertain whether they would proceed with the Land Purchase (Ireland) Bill or not that evening; but he would consult with his right hon. Friend the Chief Secretary. 
+<speaker>MR. SEXTON</speaker> Will the Commissioners be named? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> We have undertaken to give the two names before we go into Committee.

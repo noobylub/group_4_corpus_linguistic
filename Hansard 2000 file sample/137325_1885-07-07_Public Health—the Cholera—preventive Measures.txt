@@ -1,0 +1,11 @@
+<FileID>137325</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/public-health-the-cholera-preventive</URL>
+<Title>Public Health—the Cholera—preventive Measures</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 cc1830-1</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>264</WordCount>
+
+
+<speaker>LORD CLAUD HAMILTON</speaker> asked the President of the Local Government Board, Whether, having regard to the serious increase of the cholera epidemic in Spain, and its possible approach to England, the Government have taken any steps of a preventive character, through the various port sanitary authorities and other local authorities? 
+<speaker>THE PRESIDENT OF THE LOCAL GOVERNMENT BOARD (Mr. A. J. BALFOUR)</speaker> In the latter part of last year an inspection was made of the principal ports of England, with the object of seeing how far the local Sanitary Authorities were prepared to execute the regulations of the Board with regard to cholera. During the present year a more extended inspection has been undertaken by six Medical Inspectors of the districts of England where cholera may be more especially expected to prevail. This inspection is now almost complete as regards the port and riparian districts of England, and is being pursued in other districts which there is reason to suppose would be most likely to suffer from cholera in the event of its introduction into this country. As a part of this inspection, Sanitary Authorities are met and counsel taken with them, and their more immediate duty of preparation against cholera as well as their general sanitary duties are impressed on them by the Board's Inspectors, and, where necessary, by subsequent communication from the Board. The regulations which were in force during the prevalence of cholera in France and Italy are still in operation. As regards rags, an Order has been issued prohibiting until the 1st of November next the importation of rags from Spain.

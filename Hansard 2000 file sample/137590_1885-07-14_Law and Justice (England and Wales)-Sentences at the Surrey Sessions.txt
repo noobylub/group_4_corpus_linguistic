@@ -1,0 +1,11 @@
+<FileID>137590</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/law-and-justice-england-and-wales</URL>
+<Title>Law and Justice (England and Wales)-Sentences at the Surrey Sessions</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 cc657-8</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>285</WordCount>
+
+
+<speaker>MR. HOPWOOD</speaker> asked the Secretary of State for the Home Department, Whether his attention has been called to the case of Linsey Redman (a married woman), convicted at the recent Surrey Sessions, after previous convictions, of stealing a pewter pot, and sentenced by the Chairman, Mr. Hardman, to ten years' penal servitude; whether the Chairman stated that the court had no alternative, as she had been sentenced previously, and to ten years' penal servitude, than to send her again for ten years' penal servitude; whether the previous sentence of ten years was passed at the Surrey Sessions, and for what offence; and, whether he will feel it right, by the exercise of the prerogative of the Crown, to secure that sentences of such severity be more proportioned to the actual crime than to the cumulative effect of previous convictions? THE SECRETARY OF STATE (Sir B. ASSHETON GROSS) , in reply, said, he had not thought it right to interfere in the matter, because no such sentence had ever been passed. In the case of the prisoner mentioned, the sentence was 12 months imprisonment, and not 10 years. The hon. and learned Member, however, seemed to have been misled. A woman of another name was sentenced at the same Sessions to 10 years' penal servitude for stealing pewter pots, which it was believed were to be used in coining; but he did not think the hon. and learned Member would say much about the case, considering that the prisoner had been 11 times previously convicted, and had been three times sentenced to penal servitude. 
+<speaker>MR. HOPWOOD</speaker> And she is now sent for 10 years' penal servitude for stealing a pewter pot? [ Cries of" No, no!"]

@@ -1,0 +1,14 @@
+<FileID>137837</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/law-and-justice-england-and-wales-case</URL>
+<Title>Law and Justice (England and Wales) —Case of David Bradley, md</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 c1396</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>275</WordCount>
+
+
+<speaker>MR. MACFARLANE</speaker> asked the Secretary of State for the Home Department, If his attention has been called to a Memorial addressed to the late Home Secretary, by a large number of medical practitioners of Sheffield, and other places, having reference to the case of David Bradley, M.D., who was sentenced to two years' hard labour for an alleged outrage upon a woman named Sweetmore who was subject to epilepsy; and, if the facts are as stated in the Memorial, he would order an immediate inquiry into the case? 
+<speaker>MR. T. P. O'CONNOR</speaker> asked whether, even though the prisoner might be really innocent, an inquiry could be granted without prejudice to "the cause of law and order?" 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS),</speaker> in reply, said, there was no doubt that this was a very difficult case. He had made careful inquiry into the case, and had been assisted by both the Law Officers of the Crown and the Lord Chancellor; and the conclusion ho had arrived at was that there was so much doubt in the case that he did not think the man ought to be further detained in custody. 
+<speaker>MR. MACFARLANE</speaker> asked, considering the innocence of the man had been established, whether the Government proposed to take into consideration the question of granting some compensation to this man, whose professional career had been ruined? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> said, that he had not said the man's innocence had been established to his satisfaction; what he said was that there was so much doubt that it was not right to detain the man further.

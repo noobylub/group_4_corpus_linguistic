@@ -1,0 +1,9 @@
+<FileID>136940</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/20/registration-occupation-voters-bill</URL>
+<Title>Registration (Occupation Voters) Bill</Title>
+<DebRef>HC Deb 20 May 1885 vol 298 cc952-70</DebRef>
+<SittingDate>1885-05-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>7</WordCount>
+
+cc952-70 CONSIDERATION OF LORDS AMENDMENTS. 6,809 words

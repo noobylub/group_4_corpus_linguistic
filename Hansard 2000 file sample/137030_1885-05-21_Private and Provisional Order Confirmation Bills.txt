@@ -1,0 +1,9 @@
+<FileID>137030</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/21/private-and-provisional-order</URL>
+<Title>Private and Provisional Order Confirmation Bills</Title>
+<DebRef>HL Deb 21 May 1885 vol 298 c1013</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>75</WordCount>
+
+Ordered, that Standing Orders Nos. 92. and 93. be suspended; and that the time for depositing petitions praying to be heard against Private and Provisional Order Confirmation Bills, which would otherwise expire during the adjournment of the House at Whitsuntide, be extended to the first day on which the House shall sit after the recess. House adjourned at a quarter before Seven o'clock, to Friday the 5th of June next, a quarter past Four o'clock.

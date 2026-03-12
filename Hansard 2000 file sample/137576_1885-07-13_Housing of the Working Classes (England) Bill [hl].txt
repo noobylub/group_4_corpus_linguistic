@@ -1,0 +1,9 @@
+<FileID>137576</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/13/housing-of-the-working-classes-england</URL>
+<Title>Housing of the Working Classes (England) Bill [hl]</Title>
+<DebRef>HL Deb 13 July 1885 vol 299 c407</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>41</WordCount>
+
+A Bill to amend the Law relating to the dwellings of the working classes—Was presented by The Marquess of SALISBURY: read 1 a . (No. 177.) House adjourned at a quarter before Eight o'clock, till Tomorrow, a quarter past Ten o'clock.

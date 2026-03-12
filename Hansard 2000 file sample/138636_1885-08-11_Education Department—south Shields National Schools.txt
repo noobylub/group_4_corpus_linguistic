@@ -1,0 +1,11 @@
+<FileID>138636</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/education-department-south-shields</URL>
+<Title>Education Department—south Shields National Schools</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 c1728</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>124</WordCount>
+
+
+<speaker>MR. BROADHURST</speaker> asked the Vice President of the Committee of Council, Whether he has made further inquiries into the case of the action of the Vicar of St. Mark's, South Shields, relating to the National Schools under his charge; and, if so, what is the result of these inquiries; and, what, if any, action has been taken by the Education Department? 
+<speaker>THE VICE PRESIDENT OF THE COUNCIL (Mr. E. STANHOPE)</speaker> The result of further inquiries has been to show that the Vicar's pecuniary difficulties were the cause of some unpunctuality in the discharge of school liabilities; and he has, therefore, been informed that the Education Department cannot for the time continue to recognize him as the correspondent and treasurer of the school in question.

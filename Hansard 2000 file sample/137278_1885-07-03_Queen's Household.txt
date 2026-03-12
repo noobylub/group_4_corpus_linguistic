@@ -1,0 +1,9 @@
+<FileID>137278</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/03/queens-household-1</URL>
+<Title>Queen's Household</Title>
+<DebRef>HL Deb 03 July 1885 vol 298 cc1645-6</DebRef>
+<SittingDate>1885-07-03</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>102</WordCount>
+
+Lord Steward. Right Hon. Earl of Mount-Edgcumbe. Lord Chamberlain. Right Hon. Earl of Lathom. Master of the Horse Right Hon. Earl of Bradford. Treasurer of the Household Right Hon. Viscount Folkestone. Comptroller of the Household Right Hon. Lord Arthur Hill. Vice Chamberlain of the Household Right Hon. Viscount Lewisham. Captain of the Corps of Gentlemen at Arms Right Hon. Earl of Coventry. Captain of the Yeomen of the Guard Right Hon. Viscount Barrington. Master of the Buckhounds Most Noble the Marquess of Waterford. Chief Equerry and Clerk Marshal Lord Alfred H. Paget. Mistress of the Robes Her Grace the Duchess of Buccleuch.

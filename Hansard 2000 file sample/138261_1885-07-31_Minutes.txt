@@ -1,0 +1,9 @@
+<FileID>138261</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 c660</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>102</WordCount>
+
+PRIVATE BILL ( by Order )— Lords Amendts. considered —Worcester Extension. PUBLIC BILLS— First Reading—Second Reading—Committee—Report—Third Reading —Prince Henry of Battenberg's Naturalization, * and passed. First Reading—Second Reading—Committed to a Select Committee—Committee nominated —Earldom of Mar Restitution * [250]. Second Reading —Consolidated Fund (Appropriation) * ; Ecclesiastical Commissioners (No. 2) * [253]; Public Works Loans * [254]; East India (Army Pensions Deficiency) [225]. Committee —Criminal Law Amendment [159]—R.P. Recommitted—Committee—Report—Considered as amended—Third Reading —Telegraph Acts Amendment [121], and passed. Third Reading —Expiring Laws Continuance * [247]; Parliamentary Elections (Returning Officers * [251], and passed. Withdrawn —Metropolitan Board of Works (Further Powers) * [44].

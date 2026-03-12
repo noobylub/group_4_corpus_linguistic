@@ -1,0 +1,11 @@
+<FileID>137468</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/medical-relief-disqualification-removal-1</URL>
+<Title>Medical Relief Disqualification Removal Bill</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 cc289-90</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>77</WordCount>
+
+
+<speaker>MR. JESSE COLLINGS</speaker> said, he would give Notice, that on Monday he would ask the Pesident of the Local Government Board, If, when he asked leave to introduce the Medical Relief Bill, he would at the same time state its precise terms? 
+<speaker>THE PRESIDENT (Mr. A. J. BALFOUR),</speaker> in reply, said, that he would, of course, explain the provisions of the Bill at the time of its introduction. The Bill would be circulated on Monday or Tuesday.

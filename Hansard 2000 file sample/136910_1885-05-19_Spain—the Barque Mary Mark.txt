@@ -1,0 +1,11 @@
+<FileID>136910</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/spain-the-barque-mary-mark</URL>
+<Title>Spain—the Barque Mary Mark</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 c945</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>97</WordCount>
+
+
+<speaker>MR. HENDERSON</speaker> asked the Under Secretary of State for Foreign Affairs, Whether he will lay upon the Table of the House the Papers relating to the claim of the owners of the barque Mary Mark against the Spanish Government in 1883, including the representations made by Her Majesty's Government, to which no answer has been returned? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> I think it will be advisable before taking any further steps in the matter to await the reply of the Spanish Government to a strong representation which Sir Robert Morier was instructed to make on the 7th instant.

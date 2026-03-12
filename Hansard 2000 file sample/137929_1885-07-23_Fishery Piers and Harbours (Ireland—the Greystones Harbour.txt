@@ -1,0 +1,11 @@
+<FileID>137929</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/fishery-piers-and-harbours-ireland-the</URL>
+<Title>Fishery Piers and Harbours (Ireland—the Greystones Harbour</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1624</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>69</WordCount>
+
+
+<speaker>MR. W. J. CORBET</speaker> asked the Financial Secretary to the Treasury, If Grey-stones Harbour is to be constructed on the monolithic system, as asked by the inhabitants of the town in a recent Memorial to the Treasury? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> I am making inquiries into this matter, and I would be obliged to the hon. Member if he would postpone his Question until Monday.

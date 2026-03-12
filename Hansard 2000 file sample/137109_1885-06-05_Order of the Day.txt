@@ -1,0 +1,9 @@
+<FileID>137109</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/05/order-of-the-day</URL>
+<Title>Order of the Day</Title>
+<DebRef>HC Deb 05 June 1885 vol 298 c1346</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>6</WordCount>
+
+c1346 SUPPLY. — COMMITTEE. 17 words

@@ -1,0 +1,9 @@
+<FileID>137968</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/23/river-thames-no-2-bill-no-171</URL>
+<Title>River Thames (No 2) Bill—(no 171)</Title>
+<DebRef>HL Deb 23 July 1885 vol 299 cc1597-600</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>11</WordCount>
+
+( The Lord Mount Temple. ) cc1597-600 SECOND READING. 968 words

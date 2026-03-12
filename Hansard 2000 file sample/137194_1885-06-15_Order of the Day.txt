@@ -1,0 +1,9 @@
+<FileID>137194</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/15/order-of-the-day</URL>
+<Title>Order of the Day</Title>
+<DebRef>HC Deb 15 June 1885 vol 298 cc1585-6</DebRef>
+<SittingDate>1885-06-15</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>12</WordCount>
+
+c1585 COPYHOLD ENFRANCHISEMENT BILL. 12 words cc1585-6 [BILL 26.] COMMITTEE. 309 words

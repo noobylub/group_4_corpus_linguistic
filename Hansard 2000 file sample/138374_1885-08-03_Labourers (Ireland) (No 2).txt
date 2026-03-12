@@ -1,0 +1,9 @@
+<FileID>138374</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/labourers-ireland-no-2</URL>
+<Title>Labourers (Ireland) (No 2)</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc983-1025</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>14</WordCount>
+
+( Mr. Campbell-Bannerman, Mr. Solicitor for Ireland. ) cc983-1025 [BILL 68.] COMMITTEE. 14,544 words

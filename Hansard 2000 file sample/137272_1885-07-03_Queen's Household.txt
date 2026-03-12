@@ -1,0 +1,9 @@
+<FileID>137272</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/03/queens-household</URL>
+<Title>Queen's Household</Title>
+<DebRef>HL Deb 03 July 1885 vol 298 cc1643-4</DebRef>
+<SittingDate>1885-07-03</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>104</WordCount>
+
+Lord Steward Right Hon Earl Sydney. Lord Chamberlain Right Hon. Earl of Kenmare. Master of the Horse His Grace the Duke of Westminster, K.G. Treasurer of the Household Right Hon. Earl of Breadalbane. Comptroller of the Household Right Hon. Lord Kensington. Vice Chamberlain of the Household Right Hon. Lord Charles Bruce. Captain of the Corps of Gentlemen at Arms Right Hon. Lord Carrington. Captain of the Yeomen of the Guard Right Hon. Lord Monson. Master of the Buckhounds Right Hon. Earl of Cork and Orrery. Chief Equerry and Clerk Marshal Lord Alfred H. Paget. Mistress of the Robes Her Grace the Duchess of Roxburghe.

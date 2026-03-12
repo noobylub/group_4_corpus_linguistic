@@ -1,0 +1,13 @@
+<FileID>137918</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/the-lunacy-reports-england-and-scotland</URL>
+<Title>The Lunacy Reports (England and Scotland)</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1619</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>187</WordCount>
+
+
+<speaker>MR. W. J. CORBET</speaker> asked the Secretary of State for the Home Department, When the English and Scotch Lunacy Reports will be presented; and, whether there is any insurmountable difficulty in getting them printed at an earlier date in future? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. STUART-WORTLEY)</speaker> , who replied, said, that the Report of the English Commissioners was presented to Parliament yesterday. The Report of the Scotch Commissioners was now in type, and he had reason to hope that it would be presented to the House before the end of the month. The delay in the issue of these Reports was due to the large amount of statistical matter which the Commissioners had considered it desirable to include in the Reports; and he was informed that the Reports could not be presented earlier, unless an increase was either made in the staff of the Commissioners or a considerable amount of the information presented to the public was omitted. 
+<speaker>MR. W. J. CORBET</speaker> asked if an abstract could not be presented at an earlier date? 
+<speaker>THE UNDER SECRETARY or STATE (Mr. STUART- WORTLEY)</speaker> I will make inquiry.

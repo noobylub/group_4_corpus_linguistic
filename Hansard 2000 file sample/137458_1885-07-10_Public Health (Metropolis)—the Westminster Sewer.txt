@@ -1,0 +1,11 @@
+<FileID>137458</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/public-health-metropolis-the-westminster</URL>
+<Title>Public Health (Metropolis)—the Westminster Sewer</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 cc281-2</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>336</WordCount>
+
+
+<speaker>SIR CHARLES W. DILKE</speaker> asked the President of the Local Government Board, If his attention has been called to the unanimous Report of the Select Committee appointed 18th July last, to the effect that Evidence has been given …that the local sewer under the control of the Westmin- ster District Board of Works emits most offensive smells from time to time, and your Committee arc of opinion that steps should be taken by the local authority to put an end to a nuisance of a very serious character; if his attention has been called to a subsequent Report upon the subject by Major Hector Tulloch; if ho is aware that yesterday an escape of sewer gas took place at the ventilator over the point of junction between the sewer of the Westminster District Board and that of the Metropolitan Board of Works at the entrance to New Palace Yard, which caused inconvenience to Members and officers of the House, and to the public; and, if, should that be his opinion, he will inform the Metropolitan Board and the District Board that, in addition to the temporary measures taken yesterday, permanent works will be required in order to prevent recurrence of danger to health? 
+<speaker>THE PRESIDENT OF THE LOCAL GOVERNMENT BOARD (Mr. A. J. BALFOUR)</speaker> The right hon. Gentleman is aware of the communications which were addressed to the Metropolitan Board of Works and the Westminster District Board of Works on the subject of the Report of Major Tulloch, on the inquiry which he undertook in consequence of the Report of the Select Committee. I have already addressed communications to the Metropolitan Board and District Board, asking for information as to the action which has been taken, and which is proposed to be taken, with the view of preventing the escape of sewer gas which is complained of. Anything that I can do to insure the matter receiving prompt attention from those who are responsible for the sanitary arrangements of the district will, of course, be done.

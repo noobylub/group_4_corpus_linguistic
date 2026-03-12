@@ -1,0 +1,13 @@
+<FileID>138334</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/post-office-ireland-sorters-in-irish</URL>
+<Title>Post Office (Ireland)— Sorters in Irish Mail Trains</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c832</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>205</WordCount>
+
+
+<speaker>MR. HARRINGTON</speaker> asked the Postmaster General, Whether the sorters employed in the Irish Mail trains are in receipt of eight pence per hour promised by the late Postmaster General; whether it is a fact that he promised that this allowance would be made without any deductions for Sundays; and, whether this promise is being observed at the present time? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS)</speaker> The hon. Member's Question, if I understand it aright, refers to Sunday duty in the travelling post offices in Ireland. The travelling sorters in Ireland, excepting those between Dublin and Cork, are paid, under certain limits, for all work done on Sunday at the rate of 8 d. for every hour in excess of eight hours in a month of four Sundays. The sorters between Dublin and Cork are excluded from this arrangement, because their rates of remuneration are already exceptionally high. MR. O'BRIEN asked, whether the promise made by the late Postmaster General (Mr. Shaw Lefevre) had been carried out? 
+<speaker>THE POSTMASTER GENERAL</speaker> said, he know nothing of that. MR. O'BRIEN said, he would remind the noble Lord that this was a portion of the Question on the Paper. 
+<speaker>THE POSTMASTER GENERAL</speaker> I will inquire into that particular point.

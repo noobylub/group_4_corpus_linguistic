@@ -1,0 +1,11 @@
+<FileID>138280</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/hm-stationery-office-government-printing</URL>
+<Title>hm Stationery Office—government Printing</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 c676</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>153</WordCount>
+
+
+<speaker>MR. BROADHURST</speaker> asked the Secretary to the Treasury, Whether, having regard to the fact that by the terms of the new Schedules for the Government printing, involving an annual expenditure of over £100,000, and to the fact that the proposed contracts are for a term of ten years, the House will have any control over the selection of the printer, seeing that it has had no control over the terms of the contracts? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENERY HOLLAND)</speaker> The contracts referred to will be offered for public competition, and the tenders will be dealt with in the ordinary manner. This being so, it appears to me that the matter is essentially one for the Executive Government, and that this House could not, with advantage, interfere in it. I may remind the House that the printing of the Votes and Proceedings will continue, as heretofore, under the control of Mr. Speaker.

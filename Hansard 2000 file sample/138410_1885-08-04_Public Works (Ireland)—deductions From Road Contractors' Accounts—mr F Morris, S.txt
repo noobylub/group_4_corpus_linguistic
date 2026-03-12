@@ -1,0 +1,10 @@
+<FileID>138410</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/public-works-ireland-deductions-from</URL>
+<Title>Public Works (Ireland)—deductions From Road Contractors' Accounts—mr F Morris, Secretary to Grand Jury, Co Clare</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1047-8</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>178</WordCount>
+
+MR. O'BRIEN asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether Francis Morris, Secretary of the Grand Jury of the county Clare, has been for a number of years in the habit of charging road contractors a fee of 2 s. 6 d. each for form of tender when applying for contracts for public works, and a fee of 4 s. for what he terms "accounting" on getting their half-yearly payments of account; whether he has admitted, when questioned by Mr. Anthony O'Dwyer, a cesspayer, at the Presentment Sessions held at Multown Mulbury in May last, that these charges were illegal, and ought not to have been made; whether he, notwithstanding, extracted the fees as usual from contractors when settling their accounts after the last assizes; and, whether any proceedings will be instituted against Morris? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> I have already explained that the Secretary of a Grand Jury is not an officer of the Government, and that, therefore, the question of charges by him is not a matter for Parliamentary interference.

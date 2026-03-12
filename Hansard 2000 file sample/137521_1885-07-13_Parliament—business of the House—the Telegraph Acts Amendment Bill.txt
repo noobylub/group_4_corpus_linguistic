@@ -1,0 +1,12 @@
+<FileID>137521</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/parliament-business-of-the-house-the</URL>
+<Title>Parliament—business of the House—the Telegraph Acts Amendment Bill</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc424-5</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>191</WordCount>
+
+
+<speaker>MR. HOULDSWORTH</speaker> asked the Postmaster General, When he expects to be in a position to state to the House the course he proposes to pursue in reference to the Telegraph Acts Amendment Bill ? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS)</speaker> said, that in the course of a conversation held a little while ago, he had stated that, although the Government were not disposed to go on with the Bill themselves, they would give the right hon. Gentleman opposite (Mr. Shaw Lefevre) an opportunity of doing so. His right hon. Friend the Chancellor of the Exchequer would endeavour to find an early day for the right hon. Gentleman opposite to take up the subject, and when the Bill was in Committee, he hoped himself to be able to move an Amendment. In that way the House would have a fair opportunity of considering the whole subject. The Government had, under those circumstances, an expectation that the Bill would become law this Session. 
+<speaker>MR. SHAW LEFEVRE</speaker> said, the course pointed out by the noble Lord was most satisfactory to him, and he should be quite prepared to submit the question to the House.

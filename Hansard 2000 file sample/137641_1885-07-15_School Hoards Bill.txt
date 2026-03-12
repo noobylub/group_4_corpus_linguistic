@@ -1,0 +1,9 @@
+<FileID>137641</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/15/school-hoards-bill</URL>
+<Title>School Hoards Bill</Title>
+<DebRef>HC Deb 15 July 1885 vol 299 c881</DebRef>
+<SittingDate>1885-07-15</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>54</WordCount>
+
+On Motion of Mr. STANHOPE, Bill to amend the Law relating to School Boards, so far as affected by the incorporation of a Municipal Borough, and as respects the Divisions of the Metropolis, ordered to be brought in by Mr. ST'ANHOPE and Mr. ARTHUR BALFOUR. Bill presented, and read the first time. [Bill 235.]

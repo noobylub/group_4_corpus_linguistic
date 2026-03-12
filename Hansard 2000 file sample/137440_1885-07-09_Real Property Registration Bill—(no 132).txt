@@ -1,0 +1,9 @@
+<FileID>137440</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/09/real-property-registration-bill-no-132</URL>
+<Title>Real Property Registration Bill—(no 132)</Title>
+<DebRef>HL Deb 09 July 1885 vol 299 c102</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>6</WordCount>
+
+( The Duke of Marlborough. )

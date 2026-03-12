@@ -1,0 +1,11 @@
+<FileID>137930</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/irish-lunacy-report</URL>
+<Title>Irish Lunacy Report</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1624-5</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>93</WordCount>
+
+
+<speaker>MR. W. CORBET</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Why the Report of the Inspector of Lunatics has not been presented to Parliament; and, will he take steps to have it printed in future earlier in the year? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The Inspectors inform me that their Report had been unavoidably delayed by pressure of business of an urgent nature at the Government printing office. They add that this is an exceptional year, and that a similar delay is not likely to occur in future.

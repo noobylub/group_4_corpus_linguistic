@@ -1,0 +1,9 @@
+<FileID>136924</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/19/arbitration-bill-no-85</URL>
+<Title>Arbitration Bill—(no 85)</Title>
+<DebRef>HL Deb 19 May 1885 vol 298 c880</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>10</WordCount>
+
+( The Lord Bramwell. ) c880 SECOND READING. 80 words

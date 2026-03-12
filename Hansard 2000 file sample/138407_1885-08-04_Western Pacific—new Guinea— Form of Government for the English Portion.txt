@@ -1,0 +1,12 @@
+<FileID>138407</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/western-pacific-new-guinea-form-of</URL>
+<Title>Western Pacific—new Guinea— Form of Government for the English Portion</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1046</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>144</WordCount>
+
+
+<speaker>VISCOUNT LYMINGTON</speaker> asked the Secretary of State for the Colonies, Whether Her Majesty's Government have decided upon the form of Government under which the English portion of New Guinea is to be administered; upon the proportion of the expense of government to be borne by the Imperial Exchequer; and upon efficient means of permanently securing the yearly contributions of the Colonial Parliaments? THE SECRETARY OF STATE (Colonel STANLEY), in reply, said, he was not in a position to make any definite statement. The proceedings which had taken place between Her Majesty's Government and the Colonial authorities in respect of Now Guinea had been somewhat interrupted by the change of Government. The various arrangements were not yet concluded. 
+<speaker>MR. BRYCE</speaker> Will the right hon. and gallant Gentleman be able to do so within the next few days? 
+<speaker>THE SECRETARY OF STATE</speaker> I am afraid not.

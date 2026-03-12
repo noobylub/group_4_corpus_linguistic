@@ -1,0 +1,12 @@
+<FileID>136864</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/central-asia-russia-and-afghanistan-the</URL>
+<Title>Central Asia—russia and Afghanistan—the Papers</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 c716</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>167</WordCount>
+
+
+<speaker>SIR STAFFORD NORTHCOTE</speaker> asked, Whether the House might expect to have another series of Papers relating to Central Asia? MR. GLADSTONE We hope so; but there is some difficulty in separating the communications with respect to the engagement at Ak Tepe from the communications with respect to the frontier. As the negotiations with respect to the frontier are not yet concluded, it would be difficult to lay the Papers on the Table; but we hope to effect the separation, and, if so, the Papers will be laid very soon. 
+<speaker>LORD RANDOLPH CHURCHILL</speaker> said, that in the Votes distributed on Saturday three sets of Papers were mentioned, Parts 2, 3 and 4. No. 2 only had been given to the House, and he therefore asked when the other Papers might be expected? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> said, every effort would be made to produce the Papers as soon as possible. They had been laid on the Table formally in order that they might be distributed during the Whitsuntide Recess.

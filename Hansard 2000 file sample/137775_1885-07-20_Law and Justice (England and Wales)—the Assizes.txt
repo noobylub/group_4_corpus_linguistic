@@ -1,0 +1,13 @@
+<FileID>137775</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/law-and-justice-england-and-wales-the-1</URL>
+<Title>Law and Justice (England and Wales)—the Assizes</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1195-6</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>189</WordCount>
+
+
+<speaker>MR. HICKS</speaker> asked the Secretary of State for the Home Department, Whether he has received from Baron Huddleston a Copy of the presentment of the Grand Jury of the county of Cambridge, setting forth the great waste of judicial power and the great unnecessary trouble caused to all jurymen and officers of the Court by the present system of holding four assizes in each year; and, whether he will, during the recess, consider the subject with the view of remedying this grievance? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir E. ASSHETON CROSS),</speaker> in reply, said, there was no doubt that this matter would have to be carefully considered; but the question of holding four criminal Assizes in the year was settled many years ago for the express purpose of not allowing prisoners to remain in gaol untried, and he should be very sorry to interfere with it. 
+<speaker>MR. HICKS</speaker> asked if the right hon. Gentleman would grant a Return of all the cases tried at the present Assize? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> said, the hon. Member would find allhewanted in the judiciary statistics.

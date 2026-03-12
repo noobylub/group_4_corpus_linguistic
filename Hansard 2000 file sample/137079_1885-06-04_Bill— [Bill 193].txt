@@ -1,0 +1,9 @@
+<FileID>137079</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/04/bill-bill-193</URL>
+<Title>Bill— [Bill 193]</Title>
+<DebRef>HC Deb 04 June 1885 vol 298 c1317</DebRef>
+<SittingDate>1885-06-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>7</WordCount>
+
+( Mr. Shaw Lefevre, Mr. Hibhert. )

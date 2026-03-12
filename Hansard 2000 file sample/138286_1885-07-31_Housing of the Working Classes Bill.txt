@@ -1,0 +1,10 @@
+<FileID>138286</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/housing-of-the-working-classes-bill</URL>
+<Title>Housing of the Working Classes Bill</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 c679</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>92</WordCount>
+
+
+<speaker>MR. SEXTON (for Mr. GRAY)</speaker> asked the Secretary of State for the Home Department, Whether he will consent to extend the provisions of the Housing of the Working Classes (England) Bill to urban sanitary districts in Ireland? THE SECRETARY OF STATE (Sir E. ASSHETON CROSS) , in reply, said, that Ireland was not included in the Bill originally, because the Report as to Ireland had not been presented when the Bill was prepared. That Report, however, was now completed, and Ireland would be included in the Bill. Scotland would also be included.

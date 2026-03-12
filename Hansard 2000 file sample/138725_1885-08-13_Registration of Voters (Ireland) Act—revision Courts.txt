@@ -1,0 +1,11 @@
+<FileID>138725</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/registration-of-voters-ireland-act</URL>
+<Title>Registration of Voters (Ireland) Act—revision Courts</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 cc16-7</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>215</WordCount>
+
+
+<speaker>MR. MOLLOY (for Mr. PARNELL)</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether his attention has been drawn to the fact that the arrangements for revision courts for the county of Fermanagh, recently published in The Dublin Gazette , practically leave the entire district of Fermanagh south of Lough Erne, and comprising the baronies of Knockninny, Clanawley, and Magheraboy only one revision court, that of Letterbreen, which lies in the middle of an Orange district, and within five miles of Enniskillen, where another court is appointed to be held; whether, in consequence of this arrangement, many persons from the Nationalist baronies of Knockninny and Clanawley on the one side will have to travel fifteen miles without a Railway to reach their revision court, and the people of the barony of Magheraboy on the other side will be put to similar inconvenience; and, whether, to remedy this state of things, arrangements will be made to establish at least two additional revision courts, one in the petty sessions town of Derrylin, in the barony of Knockninny, and the other in the petty sessions and market town of Derrygonnelly, in the barony of Magheraboy? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> Yes, Sir; arrangements will be made to have Revision Courts at Derrylin and Derrygonnelly.

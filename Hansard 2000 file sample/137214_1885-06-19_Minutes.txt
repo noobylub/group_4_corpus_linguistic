@@ -1,0 +1,9 @@
+<FileID>137214</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/19/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 19 June 1885 vol 298 c1600</DebRef>
+<SittingDate>1885-06-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>140</WordCount>
+
+PUBLIC BILLS— First Reading — Public Health (Scotland) Act, 1867 , Provisional Order ٭ [207]. Report —Local Government Provisional Order (Poor Law) (No. 8) ٭ [168]; Drainage and Improvement of Lands (Ireland) Provisional Order (No. 2) ٭ [192]; Local Government Provisional Orders (No. 5) ٭ [196]; Local Government Provisional Orders (No. 6) ٭ [197]. Third Reading —Commons Regulation (Ashdown Forest) Provisional Order ٭ [174]; Commons Regulation (Drumburgh) Provisional Order ٭ [173]; Commons Inclosure (Llanybyther) Provisional Order ٭ [1751; Local Government (Gas) Provisional Orders ٭ [170]; Local Government (Ireland) Provisional Orders (Labourers Act) (No. 3) ٭ [188]; Local Government (Ireland) Provisional Orders (Labourers Act) (No. 4) ٭ [185]; Local Government (Ireland) Provisional Orders (No. 2) ٭ [183]; Local Government Provisional Orders (No. 4) ٭ [169]; Public Health (Scotland) Provisional Order ٭ [194]; Tramways Provisional Orders (No. 1; ٭ [143], and passed.

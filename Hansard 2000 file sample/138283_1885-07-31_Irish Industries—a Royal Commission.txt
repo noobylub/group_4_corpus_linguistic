@@ -1,0 +1,12 @@
+<FileID>138283</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/irish-industries-a-royal-commission</URL>
+<Title>Irish Industries—a Royal Commission</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 cc677-8</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>302</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked Mr. Chancellor of the Exchequer, Whether, considering the number, extent, and complication of the questions involved in the Inquiry respecting the state of Irish Industries (as disclosed in the evidence taken this Session before the Select Committee), and also, having regard to the fact that the question of trade depression is substantially an English question, and that the chief lines of the two inquiries must stand apart, the Government will recommend the appointment of a Royal Commission to utilize the interval before the assembling of the new Parliament in collecting such information as may aid the House to reach a practical conclusion with reference to the industrial condition of Ireland? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> When the hon. Gentleman asked this Question before I did not understand that he referred to the Inquiry which had already been intrusted to a Committee of this House, appointed, I think, on the Motion of the hon. Baronet the Member for South Warwickshire (Sir Eardley Wilmot). I understand that that Committee has taken evidence which has not yet been circulated, and will make no Report this Session. Those who have a strong feeling that the Inquiry should be continued will have an opportunity of moving for the reappointment of the Committee next year. As the Inquiry has been intrusted to a Committee of this House, I do not think there is any reason why a Royal Commission should be appointed. 
+<speaker>MR. SEXTON</speaker> Has the right hon. Baronet not considered the precedent in the case of the municipal inquiry begun by a Select Committee of this House, and continued by a Royal Commission; and, considering the urgency of the matter, does he not consider that the interval between now and the beginning of next Session should be utilized by a Royal Commission? [No reply.]

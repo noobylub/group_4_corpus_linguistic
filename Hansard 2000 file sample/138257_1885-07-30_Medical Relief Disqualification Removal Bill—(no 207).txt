@@ -1,0 +1,9 @@
+<FileID>138257</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/30/medical-relief-disqualification-removal</URL>
+<Title>Medical Relief Disqualification Removal Bill—(no 207)</Title>
+<DebRef>HL Deb 30 July 1885 vol 300 cc498-501</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>10</WordCount>
+
+( The Earl of Milltown. ) cc498-501 COMMITTEE. 982 words

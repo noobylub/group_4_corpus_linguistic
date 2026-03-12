@@ -1,0 +1,9 @@
+<FileID>137954</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/revising-barristers-bill</URL>
+<Title>Revising Barristers Bill</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1730</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>16</WordCount>
+
+( Mr. Attorney General, Secretary Sir Richard Cross. ) c1730 [BILL 237.] SECOND READING. 233 words

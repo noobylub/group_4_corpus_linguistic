@@ -1,0 +1,11 @@
+<FileID>138547</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/the-suez-canal-the-paris-conference</URL>
+<Title>The Suez Canal—the Paris Conference</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 cc1460-1</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>110</WordCount>
+
+
+<speaker>MR. MONK</speaker> asked the Under Secretary of State for Foreign Affairs, Whether he will state to the House what decisions were arrived at by the Conference held at Paris in reference to the Suez Canal; and, whether any Papers on the subject will be presented to Parliament before the Prorogation? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> It would not be possible, within the limits of an answer to a Parliamentary Question, to give the information asked for by the hon. Member. But the Papers are being prepared with the utmost despatch, and will be presented before the Prorogation. No definite decision has yet been arrived at by the Conference.

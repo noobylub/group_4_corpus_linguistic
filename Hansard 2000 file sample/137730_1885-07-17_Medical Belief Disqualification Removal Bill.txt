@@ -1,0 +1,11 @@
+<FileID>137730</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/medical-belief-disqualification-removal</URL>
+<Title>Medical Belief Disqualification Removal Bill</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 cc1059-60</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>243</WordCount>
+
+
+<speaker>MR. JESSE COLLINGS,</speaker> in whose name the following Question stood upon the Paper:— To ask the President of the Local Government Board, whether he is aware that medical relief is in a large number, if not in the majority, of cases given without an order from the relieving officer, and without the application, and often without the knowledge of the head of the family, and that orders are made out after the relief is given, or are not made out at all, the voters being thus illegally made paupers; and, whether he will immediately issue instructions to the overseers directing them to include in the present voting lists all those who have not applied for or received orders from the relieving officer prior to the receipt of such relief? said, that as the right hon. Gentleman had promised to introduce a clause into his Bill to meet the cases contemplated in the Question, it was not necessary that he should put it. 
+<speaker>THE PRESIDENT OF THE LOCAL GOVERNMENT BOARD (Mr. A. J. BALFOUR)</speaker> said, he would do his best, as he had told the hon. Member both in debate and in answer to a Question, to insert a clause into the Bill which would, as far as was practicable, put the voters described in the Question in exactly the same position as other voters who had not received medical relief. He hoped the clause would be in the hands of hon. Members tomorrow.

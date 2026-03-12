@@ -1,0 +1,11 @@
+<FileID>137667</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/civil-service-the-writer-system</URL>
+<Title>Civil Service—the Writer System</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c914</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>94</WordCount>
+
+
+<speaker>MR. ARTHUR O'CONNOR</speaker> asked Mr. Chancellor of the Exchequer, If there is any truth in the statement which has been made in the newspapers, that the Government intend to abolish the existing "writer" system in the Civil Service; and, if so, in what manner, from what date, and on what terms? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> I have not seen the statement referred to; but, so far as I can gather the purport of it from the hon. Member's Question, if it has been made, there is no truth in it.

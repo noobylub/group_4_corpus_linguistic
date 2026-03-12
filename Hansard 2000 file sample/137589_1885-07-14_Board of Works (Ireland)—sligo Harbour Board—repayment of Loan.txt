@@ -1,0 +1,11 @@
+<FileID>137589</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/board-of-works-ireland-sligo-harbour</URL>
+<Title>Board of Works (Ireland)—sligo Harbour Board—repayment of Loan</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 c657</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>141</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Financial Secretary to the Treasury, with regard to recent correspondence between the Treasury, the Irish Board of Works, and the Sligo Harbour Commissioners, Whether the Treasury have agreed to grant the prayer of the memorial addressed to them by the Harbour Board in January last, desiring certain alterations in the terms and conditions of the Treasury Loan, so as to avoid the necessity of abandoning the improvement of the harbour? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> The Memorial of January was answered more than two months ago. The Treasury are ready to make considerable concessions with regard to the repayment of principal if the Harbour Commissioners will improve the security by a proper readjustment of their tolls. A new Memorial from the Harbour Commissioners was received a few days ago, and is now under consideration.

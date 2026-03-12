@@ -1,0 +1,9 @@
+<FileID>136957</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/20/valuation-of-lands-scotland-appeals-bill</URL>
+<Title>Valuation of Lands (Scotland) (Appeals) Bill</Title>
+<DebRef>HC Deb 20 May 1885 vol 298 c986</DebRef>
+<SittingDate>1885-05-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>59</WordCount>
+
+On Motion of Mr. HENDERSON, Bill to make further provision as to Appealing under the Acts relating to the Valuation of Lands and Heritages in Scotland, ordered to be brought in by Mr. HENDERSON, Mr. BUCHANAN, Dr. CAMERON, and Mr. STEWART CLARK. Bill presented, and read the first time. [Bill 191.] House adjourned at five minutes before Six o'clock.

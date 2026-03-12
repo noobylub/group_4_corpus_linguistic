@@ -1,0 +1,9 @@
+<FileID>138105</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/class-iii-law-and-jusrics</URL>
+<Title>Class Iii—law and Jusrics</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c176</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>14</WordCount>
+
+(17.) £39,093, to complete the sum for the Lord Advocate and Criminal Proceedings, Scotland.

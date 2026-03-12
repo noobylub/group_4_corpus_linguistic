@@ -1,0 +1,11 @@
+<FileID>136988</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/the-suez-canal-internationalization</URL>
+<Title>The Suez Canal—internationalization—proceedings of the Conference in Paris</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1032-3</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>107</WordCount>
+
+
+<speaker>SIR R.ASSHETON CROSS</speaker> asked the First Lord of the Treasury, If he can now give the House any information as to the proceedings of the Conference in Paris upon the subject of the Suez Canal? MR. GLADSTONE No, Sir; these negotiations have been making progress; but I do not think it would be possible to convey a clear or satisfactory idea of them by a partial statement. As hon. Members are already aware, they will be put in possession of the whole information before anything is done to commit Parliament. 
+<speaker>SIR B. ASSHETON CROSS</speaker> said, he would ask the Question again on Monday, the 8th of June.

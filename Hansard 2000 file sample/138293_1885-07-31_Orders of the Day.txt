@@ -1,0 +1,9 @@
+<FileID>138293</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/orders-of-the-day</URL>
+<Title>Orders of the Day</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 cc686-812</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>68</WordCount>
+
+cc686-809 CRIMINAL LAW AMENDMENT BILL [Lords.]— [BILL 159.] 5 words cc686-794 COMMITTEE. [Progress 30th July.] 41,548 words cc794-808 PART II. 5,414 words cc808-9 PART III. 250 words cc809-11 TELEGRAPH ACTS AMENDMENT BILL. 5 words cc809-11 [BILL 121.] THIRD READING. 350 words c811 EAST INDIA (ARMY PENSIONS DEFICIENCY) BILL.— [BILL 255.] 5 words c811 SECOND READING. 206 words cc811-2 EAST INDIA (ARMY PENSIONS DEFICIENCY) [CREATION OF ANNUITY]. 69 words

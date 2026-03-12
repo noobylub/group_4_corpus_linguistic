@@ -1,0 +1,13 @@
+<FileID>138629</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/education-office-ireland-the-inspection</URL>
+<Title>Education Office (Ireland)—the Inspection Staff</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1723-4</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>386</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether any communication took place between the late Government and the Commissioners of National Education, Ireland, with the view of ceasing to fill vacancies in the post of Inspector, and appointing instead Assistant Inspectors at a salary of £120 a-year, being about one-half the minimum salary of an Inspector; and, if such correspondence did take place, what was the result of it; whether there is any intention to appoint, in future, either Inspectors or Assistant Inspectors by nomination, instead of as hitherto by competitive examination; and, whether, in view of the fact that a number of persons have devoted themselves for years to the course of study prescribed for the examination of those desirous to be appointed Inspectors, the Commissioners will now proceed to fill up the vacant Inspectorship in the regular way by the test of competition? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The present Irish Government are in communication with the Treasury on the subject of the Inspection Staff of the Education Office, but no decision has yet been arrived at. It was never in contemplation either by the present Government, the late Government, or the Board of National Education, to make future appointments of Inspectors or Assistant Inspectors by nomination, instead of as hitherto by competitive examination. 
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether he is aware that, by the rules of the Irish National Board of Education, no result fees are allowed for the fractional part of a month, while class salaries are paid while the school is open; and, whether he will draw the attention of the Commissioners to the different modes of compensation, and suggest the payment for result fees on the same principle as the class salaries? 
+<speaker>THE CHIEF SECRETARY</speaker> The facts are as stated. The salary is a fixed annual sum, and there is no difficulty in calculating the amount per day. But in the case of the result fees, which necessarily vary in every school and after every examination, and the distribution of which is complicated by the differences in the position of the teachers and the number of the subjects and classes taught, there can be no fixed basis on which to compute the amount per day.

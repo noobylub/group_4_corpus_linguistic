@@ -1,0 +1,10 @@
+<FileID>137072</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/04/ways-and-means-the-financial-statement</URL>
+<Title>Ways and Mean's—the Financial Statement— Ministerial Statement</Title>
+<DebRef>HC Deb 04 June 1885 vol 298 c1193</DebRef>
+<SittingDate>1885-06-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>56</WordCount>
+
+
+<speaker>MR. W. H. SMITH</speaker> asked Mr. Chancellor of the Exchequer, Whether, after the Notice he had given of his intention to make a statement in Ways and Means, it was also his intention to proceed with the Customs and Inland Revenue Bill on Monday? THE CHANCELLOR OF THE EXCHEQUER (Mr. CHILDEES) I hope to do so.

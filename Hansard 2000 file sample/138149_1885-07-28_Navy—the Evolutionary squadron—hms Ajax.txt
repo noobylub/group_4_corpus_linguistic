@@ -1,0 +1,13 @@
+<FileID>138149</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/navy-the-evolutionary-squadron-hms-ajax</URL>
+<Title>Navy—the Evolutionary squadron—hms Ajax</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 c243</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>290</WordCount>
+
+
+<speaker>MR. BERESFORD (for Lord HENRY LENNOX)</speaker> asked the First Lord of the Admiralty, Whether his attention has been called to the facts stated in The Daily Telegraph of the 20th July, by its Correspondent with the Evolutionary Squadron, that, during the recent Naval practice, H.M.S. Ajax behaved in an extraordinary manner, her helm appearing at times to lose all command of her, and that a serious collision with H.M.S. Agincourt was only averted by that ship hacking astern at full speed; whether it is true that H.M.S. Ajax, although one of our most recent ironclads, is not a safe ship to manœuvre with a squadron, when going at any but the lowest rate of speed; and, whether, if this statement be true, the sole responsibility for such constructive blunder rests with the Constructive Department at Whitehall; and if, under such circumstances, he will take steps at once to reorganise that Department? 
+<speaker>THE FIRST LORD OF THE ADMIRALTY (LORD GEORGE HAMILTON)</speaker> A statement to the above effect, purporting to come from the Correspondent to The Daily Telegraph with the Evolutionary Squadron, was seen by me; but, as no official Report on this point has reached the Admiralty, I attach little importance to such a statement unless supported by trustworthy evidence and report. I am informed by Sir Geoffrey Hornby that the Ajax, up to the speed at which she has been tried with the Evolutionary Squadron—namely, about 10 knots—is not considered to be an unsafe ship to manœuvre with a squadron. 
+<speaker>SIR JOHN HAY</speaker> asked whether Sir Geoffrey Hornby had expressed an opinion whether going at a speed beyond 10 knots the Ajax was a safe ship? 
+<speaker>THE FIRST LORD OF THE ADMIRALTY</speaker> She has not been tested beyond 10 knots.

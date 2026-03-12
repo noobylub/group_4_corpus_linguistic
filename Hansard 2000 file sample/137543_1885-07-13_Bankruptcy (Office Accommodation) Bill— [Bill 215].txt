@@ -1,0 +1,9 @@
+<FileID>137543</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/bankruptcy-office-accommodation-bill</URL>
+<Title>Bankruptcy (Office Accommodation) Bill— [Bill 215]</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c548</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>14</WordCount>
+
+( Sir Henry Holland, Baron Henry De Worms. ) c548 SECOND READING. 65 words

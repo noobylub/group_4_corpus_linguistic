@@ -1,0 +1,11 @@
+<FileID>138594</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/army-the-commissariat-staff-the-royal</URL>
+<Title>Army—the Commissariat Staff— The Royal Marines</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 c1577</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>96</WordCount>
+
+
+<speaker>SIR JOHN HAY</speaker> asked the Secretary to the Admiralty, Whether Her Majesty's Government have made arrangements which will render Officers of the Royal Marine eligible to be transferred as Probationers to the Commissariat Staff; and, if so, how soon this regulation will take effect? 
+<speaker>THE SECRETARY (Mr. RITCHIE)</speaker> said that, in reply to representations from the Admiralty, the Secretary of State for War had approved a limited number of officers of the Royal Marines being transferred as Probationers to the Commissariat Staff under the same requirements as to age which existed with regard to the Army.

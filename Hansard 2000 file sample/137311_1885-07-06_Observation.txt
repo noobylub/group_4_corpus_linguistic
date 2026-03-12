@@ -1,0 +1,9 @@
+<FileID>137311</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/06/observation</URL>
+<Title>Observation</Title>
+<DebRef>HL Deb 06 July 1885 vol 298 c1670</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>31</WordCount>
+
+THE EARL OF ROSEBERY said, that with regard to what had fallen from the noble Marquess opposite it was his intention to proceed with this Bill at the earliest possible moment.

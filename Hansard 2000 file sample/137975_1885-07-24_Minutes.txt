@@ -1,0 +1,9 @@
+<FileID>137975</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 c1777</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>126</WordCount>
+
+SELECT COMMITTEE— Report— Forestry [No. 287]; Industries (Ireland) [No. 288]. SUPPLY— considered in Committee —CIVIL SERVICE ESTIMATES—CLASS III. — LAW AND JUSTICE; Votes 28, 30, and 32; CLASS VI. — NONEFFECTIVE AND CHARITABLE SERVICES; Votes 5, 6, and 9; CLASS VII. — MISCELLANEOUS. Resolutions [July22] reported. PUBLIC BILLS— Ordered — First Reading —Expiring Laws Continuance*[247]. First Reading —Housing of the Working Classes (England)*[248]; Land Purchase (Ireland*[249]; Sea Fisheries (Scotland) Amendment*[250]. Second Reading— Secretary for Scotland [242]; Patent Law Amendment [240]; Prevention of Crimes Amendment*[93]; Oaths [62], debate further adjourned; Police Enfranchisement Extension [269]. Select Committee —Crown Lands*[51], nominated. Committee — Report —Poor Law Unions' Officers (Ireland) [214]; Pluralities ( re-comm. ) [241]. Third Reading —Medical Relief Disqualification Removal [232]; Metropolitan Board of Works (Money)*[224], and passed.

@@ -1,0 +1,9 @@
+<FileID>138191</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/29/public-works-loans-bill</URL>
+<Title>Public Works Loans Bill</Title>
+<DebRef>HC Deb 29 July 1885 vol 300 cc474-5</DebRef>
+<SittingDate>1885-07-29</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>53</WordCount>
+
+Resolutions [28th July] reported, and agreed to :—Bill ordered to be brought in by Sir HENRY HOLLAND AND MR. DALRYMPLE. Instruction to the gentlemen appointed to bring in the Bill, That they do make provision therein for the appointment of Pubic Works Loans Commissioners. Bill presented, and read the first time. [Bill 254.]

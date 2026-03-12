@@ -1,0 +1,9 @@
+<FileID>138574</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/local-government-ireland-provisional</URL>
+<Title>Local Government (Ireland) Provisional Orders Bill</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 cc1558-64</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>5</WordCount>
+
+cc1558-64 LORDS' AMENDMENTS. 2,423 words

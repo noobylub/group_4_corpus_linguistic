@@ -1,0 +1,9 @@
+<FileID>137114</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/05/friendly-societies-act-1875-registration</URL>
+<Title>Friendly Societies Act, 1875— Registration of New Societies</Title>
+<DebRef>HL Deb 05 June 1885 vol 298 c1329</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>8</WordCount>
+
+c1329 MOTION FOR A SELECT COMMITTEE. 248 words

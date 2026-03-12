@@ -1,0 +1,11 @@
+<FileID>138647</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/naval-courts-martial-collision-between</URL>
+<Title>Naval Courts Martial—collision Between the Hecla and the Cheerful</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 c1733</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>136</WordCount>
+
+
+<speaker>MR. GILES</speaker> asked the Secretary of State for the Home Department, Whether the Coroner's Jury which sat upon the bodies of those persons who were lost by the collision of Her Majesty's ship Hecla with the steamer Cheerful, was partly composed of the officers on board the Hecla at the time of said collision; and, whether the cause of the serious loss of life occasioned thereby will be investigated by an independent tribunal? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS),</speaker> in reply, said, he was unable to obtain the names of the jurymen; but, as far as an independent inquiry went, he could state to his hon. Friend that the whole case was thoroughly investigated before a court martial, and that the officers of the Hecla were stated to have been free from all blame.

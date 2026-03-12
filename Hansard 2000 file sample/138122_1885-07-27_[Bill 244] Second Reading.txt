@@ -1,0 +1,11 @@
+<FileID>138122</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/bill-244-second-reading</URL>
+<Title>[Bill 244] Second Reading</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c208</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>62</WordCount>
+
+Order for Second Reading read. 
+<speaker>SIR FARRER HERSCHELL</speaker> said, he should like to know what the Bill was? 
+<speaker>THE PRESIDENT OF THE LOCAL GOVERNMENT BOARD (Mr. A. J. BALFOUR)</speaker> said, it was to enable the masters of workhouses to take in lunatics, who had been wandering about the streets, for a short time. Bill read a second time, and committed for Tomorrow.

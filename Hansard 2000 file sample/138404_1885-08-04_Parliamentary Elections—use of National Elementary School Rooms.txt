@@ -1,0 +1,11 @@
+<FileID>138404</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/parliamentary-elections-use-of-national</URL>
+<Title>Parliamentary Elections—use of National Elementary School Rooms</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1044</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>143</WordCount>
+
+
+<speaker>MR. JESSE COLLINGS</speaker> asked the Vice President of the Committee of Council, If, in view of the coming elections, he will address a Memorandum to the managers of National Elementary Schools, especially to those in rural districts, pointing out that, in all cases where the use of the public school rooms is granted for political and other public purposes, there should be no preference given to any one political section of the inhabitants of the district? 
+<speaker>THE VICE PRESIDENT OF THE COUNCIL (Mr. E. STANHOPE)</speaker> Although, personally, I am of opinion that, as a rule, it is desirable in these cases that both political Parties should be treated on an equality, it is impossible to say that it is of universal application, and I cannot undertake to interfere with the discretion of the school managers in the manner suggested by the hon. Member.

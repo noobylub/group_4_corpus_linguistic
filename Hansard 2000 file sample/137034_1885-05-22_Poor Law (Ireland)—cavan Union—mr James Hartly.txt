@@ -1,0 +1,11 @@
+<FileID>137034</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/22/poor-law-ireland-cavan-union-mr-james</URL>
+<Title>Poor Law (Ireland)—cavan Union—mr James Hartly</Title>
+<DebRef>HC Deb 22 May 1885 vol 298 cc1140-1</DebRef>
+<SittingDate>1885-05-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>143</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Is it a fact that Mr. James Hartly, J.P. is an ex-officio guardian for Cavan Union, and also a contractor with the guardians; whether Mr. Hartly has signed an undertaking to act as guardian; and, whether it is not illegal for him to be a member of the Board and also a contractor; and, if so, will he take means to have the Law enforced? 
+<speaker>MR. CAMPBELL-BANNERMAN</speaker> It appears that Mr. Hartly is qualified as an ex-officio guardian, but it is not known that he ever acted, or signed an undertaking to act, as a Guardian. He holds some contracts from the Guardians, but has not yet supplied any goods; and there has consequently not yet been any infringement of the law, so far as the Local Government Board are aware.

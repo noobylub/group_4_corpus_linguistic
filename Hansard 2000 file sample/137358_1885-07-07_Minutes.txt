@@ -1,0 +1,9 @@
+<FileID>137358</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/07/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 07 July 1885 vol 298 c1793</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>111</WordCount>
+
+PUBLIC BILLS— First Reading— Metropolis Management Acts Amendment * (162). Committee — Report — Friendly Societies Act (1875) Amendment * (128). Report —Gas and Water Provisional Orders (No. 2) * (136); Water Provisional Orders * (137); Tramways Provisional Orders (No. 1) * (149); Elementary Education Provisional Orders Confirmation (Birmingham, &c.) * (80). Third Reading —Commons Regulation (Ashdown Forest) Provisional Order * (141); Commons Regulation (Drnmburgh) Provisional Order * (142); Commons Inclosure (Llanybyther) Provisional Order * (143); Local Government (Gas) Provisional Orders * (144); Local Government (Ireland) Provisional Orders (Labourers Act) (No. 4) * (145); Local Government (Ireland) Provisional Orders (No. 2) * (146); Local Government Provisional Orders (No. 5) * (152).

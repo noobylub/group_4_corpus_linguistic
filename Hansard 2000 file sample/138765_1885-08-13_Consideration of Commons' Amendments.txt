@@ -1,0 +1,9 @@
+<FileID>138765</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/13/consideration-of-commons-amendments-4</URL>
+<Title>Consideration of Commons' Amendments</Title>
+<DebRef>HL Deb 13 August 1885 vol 301 c8</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>16</WordCount>
+
+Bill returned from the Commons with Amendments: The said Amendments considered (on Motion) and agreed to.

@@ -1,0 +1,30 @@
+<FileID>137142</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/bill-medical-relief-mr-chamberlain</URL>
+<Title>Bill—medical Relief—mr Chamberlain</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 cc1408-10</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>887</WordCount>
+
+
+<speaker>SIR FREDERICK MILNER</speaker> asked the President of the Board of Trade, If he is correctly reported as having used the following words on June 3rd at the Forward Liberal Club:— We have had a taste of the spirit of the Tories even within the last few weeks, and what they have not dared to do in the House of Commons they have put up their confederates in the House of Lords to do for them, and by making medical relief a disqualification for franchise, they have taken away with one hand what they gave with the other, and they have kept out from the enjoyment of their electoral rights probably one-fourth of those whom we sought to enfranchise; and, whether he has at any time since, or in any way, protested against the Bill as presented by the Government, containing the Clause disfranchising those in receipt of parochial medical relief? 
+<speaker>MR. CHAMBERLAIN</speaker> As regards the first part of the Question, I believe the report is substantially correct. As to the second Question, all I can say is that it is not open to me to state any communications which may have passed between myself and any Member of the Government. I did not myself vote in favour of this disqualification, and I would call the attention of the hon. Baronet to the fact that when the question was discussed in the House of Lords the Government Tellers told against this disqualification, and the Members of the Government then voted against it. 
+<speaker>MR. GIBSON</speaker> May I ask the right hon. Gentleman whether, when the Franchise Bill was brought in omitting the clause which removed this disqualification, he then thought the effect was to exclude a quarter of those who expected to get the franchise? 
+<speaker>MR. CHAMBERLAIN</speaker> The matter was not specially brought under my attention. I certainly had not then formed any opinion as to the exact number of persons who might be disqualified by the existing law. 
+<speaker>MR. GIBSON</speaker> Did, then, the right hon. Gentleman fail to inform himself of the effect of the Bill until after it had left this House? 
+<speaker>MR. CHAMBERLAIN</speaker> No, Sir. 
+<speaker>MR. A. J. BALFOUR</speaker> I should like to ask the right hon. Gentleman, in addition to the extract quoted by my hon. Friend (Sir Frederick Milnor), whether he did not say at the end of his speech—"This is monstrous injustice," referring, of course, to the action of the House of Lords? 
+<speaker>MR. CHAMBERLAIN</speaker> Yes, Sir; I did. 
+<speaker>MR. A. J. BALFOUR</speaker> I should like the Attorney General, if he is in his place—but I see that he is not. Then I should like to ask the Prime Minister whether the Attorney General did not—[ Cries of "Order!"] 
+<speaker>MR. SPEAKER</speaker> I do not think the hon. Gentleman is in Order in asking a Question which does not arise out of the answers given. 
+<speaker>MR. A. J. BALFOUR</speaker> But, Sir, it does arise out of the answers. 
+<speaker>MR. SPEAKER</speaker> The hon. Member is not in Order in putting to a Minister a Question as to the construction of an answer given by another Minister. 
+<speaker>MR. A. J. BALFOUR</speaker> I was not going to put a Question as to the construction of the answers; but I was asking whether the Attorney General did not in the House use these words, "I oppose the Amendment"—that is, the Amendment which removed the medical disqualification. [ Cries of "Order!"] 
+<speaker>MR. SPEAKER</speaker> The hon. Gentleman is entirely out of Order. He is now referring to a past debate. Afterwards, 
+<speaker>MR. A. T. BALFOUR</speaker> I suppose I shall be in Order in asking the Prime Minister whether the Attorney General, in stating in the House that he opposed the Amendment abolishing the disqualification for medical relief on the ground of principle, represented the collective opinion of the Government? MR. GLADSTONE This is a Question put to me without Notice. I am not really aware what my hon. and learned Friend the Attorney General stated. He is extremely judicious, and I was not aware that he had made such a statement. Without Notice, I have no opportunity of conferring with him; but I do not think I ever heard him make a statement in this House by which I was not prepared to abide. 
+<speaker>MR. A. J. BALFOUR</speaker> I will repeat the Question. 
+<speaker>MR. RITCHIE</speaker> said, he wished to ask a Question arising out of the answer of the President of the Board of Trade. The right hon. Gentleman stated that in the House of Lords the Government Tellers told against the exclusion of voters who had received medical relief. He begged to ask the noble Lord the Member for Flintshire whether the Government Tellers in that House had not told in favour of the exclusion of voters who received medical relief from the rates? 
+<speaker>LORD RICHARD GROSVENOR</speaker> I tell in a great many divisions; and I really cannot say whether I did so on this occasion. I can look in one moment, and so can the hon. Member. 
+<speaker>MR. RITCHIE</speaker> Do I understand that the noble Lord does not recollect whether he told in favour of the exclusion of voters? 
+<speaker>LORD RICHARD GROSVENOR</speaker> The hon. Member can look at the Division Lists on the Table. 
+<speaker>MR. RITCHIE</speaker> Does the noble Lord not remember? I shall repeat the Question tomorrow.

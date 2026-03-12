@@ -1,0 +1,9 @@
+<FileID>138750</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/motion</URL>
+<Title>Motion</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c29</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>19</WordCount>
+
+c29 ADJOURNMENT. 15 words c29 LAW AND POLICE (ENGLAND AND AVALES)—SUPPRESSION OF DISORDERLY HOUSES—CASE OF MRS. JEFFRIES. 296 words

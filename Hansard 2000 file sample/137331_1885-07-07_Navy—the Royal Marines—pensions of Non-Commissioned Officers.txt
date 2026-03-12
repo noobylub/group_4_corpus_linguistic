@@ -1,0 +1,11 @@
+<FileID>137331</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/navy-the-royal-marines-pensions-of-non</URL>
+<Title>Navy—the Royal Marines—pensions of Non-Commissioned Officers</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 cc1833-4</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>134</WordCount>
+
+
+<speaker>CAPTAIN PRICE</speaker> asked the Secretary to the Admiralty, Whether the daily rate of pension for Non-Commissioned Officers of the Royal Marines has yet been assimilated with that of Non-Commissioned Officers in the Army? 
+<speaker>THE SECRETARY TO THE ADMIRALTY (Mr. RITCHIE)</speaker> The rate of pension of the noncommissioned officers of the Royal Marines has not been assimilated to that prevailing in the Army; but the difference is only small, and the Marines enjoy some advantages that are not open to the soldier. The present Government has not, however, had the opportunity of investigating the subject; but I can promise the hon. and gallant Gentleman that inquiry shall be made into the matter, with a desire on the part of the Government to do full justice to the claims of so gallant and distinguished a corps.

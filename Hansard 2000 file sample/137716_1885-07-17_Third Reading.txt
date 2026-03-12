@@ -1,0 +1,10 @@
+<FileID>137716</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/third-reading</URL>
+<Title>Third Reading</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 c1053</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>169</WordCount>
+
+Order for Third Reading read. Motion made, and Question proposed, "That the Bill be now read the third time." 
+<speaker>MR. HEALY</speaker> said, it appeared now, from the fact of the Bill being again on the Paper, that the promoters were not going to drop the Bill, notwithstanding the terrible fate with which it was threatened, if the Amendments of the right hon. Baronet (Sir Charles W.Dilke) were accepted. He (Mr. Healy) presumed that their tactics would be to attempt, in the House of Lords, to put back the Bill to the shape in which it originally stood, striking out the Commons' Amendments. If that wore attempted, if it were sought to do what was done last night with the Municipal Privileges Bill , then the House had need to be much more watchful than it was on the previous night, when, through the absence of hon. Members, a majority for the Lords' Amendments was secured. Question put, and agreed to. Bill read the third time, and passed, with Amendments.

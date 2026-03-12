@@ -1,0 +1,11 @@
+<FileID>137595</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/army-the-military-expedition-to-egypt</URL>
+<Title>Army (The Military Expedition to Egypt)—military Chaplains</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 cc659-60</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>162</WordCount>
+
+
+<speaker>SIR HARRY VERNEY</speaker> asked the Secretary of State for War, What chaplains are appointed to the Military hospitals at Suez, Port Said, and to the other hospitals in Egypt; and, what chaplains were in the transport which brought sick and dying soldiers from Egypt? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> Returns have not been received of later date than the 1st of April, which would be useless for showing the present distribution of chaplains in Egypt. I may add that a body of chaplains equal, as is thought, to the exigencies of the case is despatched to a foreign command; but their distribution within the command rests entirely with the General Officer commanding. Chaplains are not, as a rule, appointed to hired transports; and the men in such vessels must be dependent on any chaplains who may happen to be sent home in thorn. The subject is one the importance of which I recognize, and it will have my attention.

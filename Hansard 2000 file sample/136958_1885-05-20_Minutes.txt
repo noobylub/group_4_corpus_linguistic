@@ -1,0 +1,9 @@
+<FileID>136958</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/20/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 20 May 1885 vol 298 c950</DebRef>
+<SittingDate>1885-05-20</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>34</WordCount>
+
+PUBLIC BILLS— Report — Third Reading —Registration (Occupation Voters) ٭ (120); Registration of Voters (Scotland) ٭ (121); Registration of Voters (Ireland) ٭ (122), and passed. Third Reading —Consolidated Fund (No. 3), ٭ and passed.

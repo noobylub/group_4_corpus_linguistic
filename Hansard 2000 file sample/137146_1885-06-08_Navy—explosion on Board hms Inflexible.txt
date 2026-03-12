@@ -1,0 +1,11 @@
+<FileID>137146</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/navy-explosion-on-board-hms-inflexible</URL>
+<Title>Navy—explosion on Board hms Inflexible</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 c1413</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>102</WordCount>
+
+
+<speaker>MR. W. H. SMITH</speaker> asked, Whether the Secretary to the Admiralty could give the House any information as to the explosion on board the Inflexible that morning? 
+<speaker>SIR THOMAS BRASSEY</speaker> A telegram received at the Admiralty is as follows:— An explosion of coal gas occurred this morning at 8.30 on board the Inflexible. Thirteen men were wore injured. Of these eight were admitted to Haslar Hospital. Three men, Joseph Miller, James Baker, and George Roberts, were somewhat severely hurt, but no apprehension is entertained as to their safety. The remainder arc only slightly injured. The Inflexible is not at present in commission.

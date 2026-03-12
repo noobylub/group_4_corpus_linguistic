@@ -1,0 +1,9 @@
+<FileID>138786</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1886/jan/13/preamble</URL>
+<Title>Preamble</Title>
+<DebRef>HL Deb 13 January 1886 vol 302 c19</DebRef>
+<SittingDate>1886-01-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>101</WordCount>
+
+The House met at Two of the clock. The Lords Commissioners—namely, THE LORD CHANCELLOR (LORD HALSBURY); THE LORD PRESIDENT OF THE COUNCIL (Viscount Cranbrook); The Earl of IDDESLEIGH (First Lord of the Treasury); THE EARL OR COVENTRY (Captain of the Corps of Gentlemen at Arms); and The VISCOTJNT BARRINGTON (Captain of the Yeomen of the Guard)—being in their Robes, and seated on a Form placed between the Throne and the Woolsack, commanded the Gentleman Usher of the Black Rod to let the Commons know "The Lords Commissioners desire their immediate Attendance in this House." And the Commons being at the Bar;

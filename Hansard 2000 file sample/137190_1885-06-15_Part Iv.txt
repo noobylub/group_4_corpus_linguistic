@@ -1,0 +1,9 @@
+<FileID>137190</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/15/part-iv</URL>
+<Title>Part Iv</Title>
+<DebRef>HC Deb 15 June 1885 vol 298 cc1562-85</DebRef>
+<SittingDate>1885-06-15</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>22</WordCount>
+
+cc1562-83 CLAUSE A. — ACCELERATION OF REGISTRATION IN 1885. 7,885 words c1583 PARLIAMENTARY ELECTIONS (REDISTRIBUTION) BILL. 17 words cc1583-5 ADJOURNMENT. 976 words

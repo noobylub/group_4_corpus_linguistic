@@ -1,0 +1,9 @@
+<FileID>137274</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/03/the-cabinet-1</URL>
+<Title>The Cabinet</Title>
+<DebRef>HL Deb 03 July 1885 vol 298 c1645</DebRef>
+<SittingDate>1885-07-03</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>168</WordCount>
+
+Secretary of State for Foreign Affairs (Prime Minister) The Most Noble The Marquess of Salisbury, K.G. Lord Chancellor of England Right Hon. Lord Halsbury. Lord Chancellor of Ireland Right Hon. Lord Ashbourne. Lord Lieutenant of Ireland Right Hon. Earl of Carnarvon. Lord President of the Council Right Hon. Viscount Cranbrook. Lord Privy Seal Right Hon. Earl of Harrowby. First Lord of the Treasury Right Hon. Earl of Iddesleigh, G.C.B. Chancellor of the Exchequer Right Hon. Sir Michael Hicks-Beach, Bart. Secretary of State, Home Department Right Hon. Sir Richard Assheton Cross, G.C.B. Secretary of State for the Colonies Right Hon. Frederick Arthur Stanley. Secretary of State for War Right Hon. William Henry Smith. Secretary of State for India Right Hon. Lord Randolph Churchill. First Lord of the Admiralty Right Hon. Lord George Hamilton. President of the Board of Trade His Grace the Duke of Richmond and Gordon, K.G. Postmaster General Right Hon. Lord John Manners, G.C.B. Vice President of the Committee of Council on Education Right Hon. Edward Stanhope.

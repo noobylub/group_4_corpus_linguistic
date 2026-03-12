@@ -1,0 +1,10 @@
+<FileID>138002</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/observations-1</URL>
+<Title>Observations</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 cc1807-8</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>248</WordCount>
+
+
+<speaker>MR. DEASY</speaker> said, he rose to call attention to the repeated refusals of the late Viceroy of Ireland to appoint Mr. John O'Brien, of Cork, a Governor of the Cork Lunatic Asylum. He did not propose to dwell long on this subject, as it was discussed at considerable length in the House on several occasions, and the late Chief Secretary left them under the impression that, in the long run, Mr. O'Brien would be appointed. Well, the Government had a very short run themselves after that, and he was not sorry for it, even if Mr. O'Brien were never appointed. The Cork Corporation had requested the present Viceroy to appoint Mr. O'Brien. He trusted his views on the subject would be immediately made known. It was most important that a man like Mr. O'Brien should be placed on the Board, as he was not only energetic and capable, but he was expert in one department, the woollen contracts, in which a great many irregularities had occurred of late. The Governors of the Institution, also, had been extremely lax in the discharge of their duties. He maintained that the representation of the Cork Municipal Council on the Managing Board of the District Asylum should be better proportioned to its contribution towards the cost of the maintenance of the asylum. He hoped that the Government would promise to consider this matter, otherwise ho would be obliged to bring the matter before the House at considerable length during the present Session.

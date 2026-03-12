@@ -1,0 +1,15 @@
+<FileID>137938</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/the-new-egayptan-loan-lb9000000</URL>
+<Title>The New Egayptan Loan (£9,000,000)</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1630-1</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>336</WordCount>
+
+
+<speaker>SIR GEORGE CAMPBELL</speaker> asked the Secretary of State for Foreign Affairs, If it is true that negotiations are in progress for the very early issue of the £9,000,000 new Egyptian Loan; and, if so, whether, in pursuance of the pledges of both the late and the present Government that the requirements of the Law in this matter should be fulfilled, any steps have yet been taken to convene the Egyptian General Assembly and submit to them the proposal for a new loan, as required by the Egyptian Constitution in the case of a loan of this amount, thus: — Article 60. The General Assembly shall be consulted on every public loan exceeding £1,000,000? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> It is quite true that negotiations are in progress for the issue of this loan. Her Majesty's Government cannot pledge themselves to the view taken for some time by the hon. Member for Kirkcaldy in respect to the General Assembly. It is a question in which I know the hon. Gentleman takes a great interest; but, at the same time, the Government have every reason to believe that the Egyptian Government will take all the steps with respect to it which they consider to be legally necessary. With respect to the other Question asked by the hon. Member, I do not think I can go into that matter within the limits of a Parliamentary answer. 
+<speaker>SIR GEORGE CAMPBELL</speaker> said, surely the hon. Gentleman could say if it was a fact that the Assembly had been convened, and that the loan proposed would be laid before it? 
+<speaker>THE UNDER SECRETARY OF STATE</speaker> We have received corroboration of the telegram on the subject. 
+<speaker>MR. RUSTON</speaker> asked whether the statements that had appeared in the newspapers were substantially correct, to the effect that the whole of the Great Powers had given their consent to the raising of this loan? 
+<speaker>THE UNDER SECRETARY OF STATE</speaker> I think I have answered that Question before. Yes, Sir; the statements are substantially correct.

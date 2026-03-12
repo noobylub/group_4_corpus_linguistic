@@ -1,0 +1,9 @@
+<FileID>138778</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/14/minutes-public-bills-royal-assent</URL>
+<Title>Minutes]—public Bills—royal Assent—consolidated Fund (Appropriation) 148 & 49vict C 64</Title>
+<DebRef>HL Deb 14 August 1885 vol 301 c30</DebRef>
+<SittingDate>1885-08-14</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>257</WordCount>
+
+; Telegraph Acts Amendment [48 & 49 Vict. c. . 58]; Expiring Laws Continuance [48 & 49 Vict. . c. 59]; Patent Law Amendment [48 & 49 Vict. . c. 63]; Crown Lands [48 & 49 Vict. . c. 79]; Parliamentary Elections (Returning Officers) [48 & 49 Vict . c. 62]; Federal Council of Australasia [48 & 49 Vict. . c. 60]; Secretary for Scotland [48 & 49 Vict. c. 61]; Registration Appeals (Ireland) [48 & 49 Vict. c. 60]; Metropolitan Police Staff Superannuation [48 & 49 Vict. c. 68]; Public Works Loans [48 & 49 Vict. . c. 65]; East India Army Pensions Deficiency [48 & 49 Vict. . c. 67]; Criminal Law Amendment [48 & 49 Vict. . a. 69]; County Officers and Courts (Ireland) (Pensions) [48 & 49 Vict . c. 71]; Sea Fisheries (Scotland) Amendment [48 & 49 Vict. c. 70]; Evidence by Commission [48 & 49 Vict. . c. 74]; Land Purchase (Ireland) [48 & 49 Vict. . c. 73]; Prevention of Crimes Amendment [48 & 49 Vict . c. 75]; River Thames (No. 2) [48 & 49 Vict. . c. 76]; Housing of the Working Classes (England) [48 & 49 Vict. . c. 72]; Labourers (Ireland) (No. 2) [48 & 49 Vict . c. 77]; Educational Endowments (Ireland) [48 & 49 Vict. . c. 78]; Poor Law Unions' Officers (Ireland) [48 & 49 Vict. . c. 80]; Elementary Education Provisional Order Confirmation (London) [48 & 49 Vict. c. clxxxix]; Local Government (Ireland) Provisional Orders [48 & 49 Vict. . c. cxc].

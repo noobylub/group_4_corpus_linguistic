@@ -1,0 +1,11 @@
+<FileID>137398</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/poor-law-ireland-philip-doyle-poor-rate</URL>
+<Title>Poor Law (Ireland)—philip Doyle, Poor Rate Collector, Tinahely Petty Sessions</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 cc123-4</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>231</WordCount>
+
+
+<speaker>MR. W. J. CORBET</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether he will inquire into the case of poor rate collector Philip Doyle, against Richard Fenton, receiver under the Court of Chancery over the estate of Mrs. Courtney, heard at Tinahely Petty Sessions on the 1st instant; whether it is true that the presiding magistrate was induced by Dr. Toomey, the solicitor acting for Mrs. Courtney, to dismiss the case, on the grounds that the agent, Mr. Fenton, was not liable, and could not be sued for rates; whether Dr. Toomey, who acted for Mrs. Courtney, also acts as solicitor to the Board of Guardians; whether the Board were specially represented by a solicitor on that occasion; and, if not, why; and, whether the magistrate was justified in the action he took under the circumstances? THE CHIEF SECRETARY This and the two following Questions refer to alleged matters of fact, some of which appear to be beyond the province of the Government; but as to others, I shall probably be able to afford the hon. Mem- ber the information he desires if he will be good enough to allow me opportunity of making inquiry. As the Questions are on the Paper without Notice, I have not as yet been able to obtain information. 
+<speaker>MR. W. J. CORBET</speaker> gave Notice that he would ask the Questions on Monday.

@@ -1,0 +1,13 @@
+<FileID>137454</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/the-government-of-india-act-lord</URL>
+<Title>The Government of India Act— Lord Randolph Churchill</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 c280</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>246</WordCount>
+
+
+<speaker>MR. BUCHANAN</speaker> asked the Secretary of State for India, Whether he still adheres to the opinion which he expressed on the 3rd of June last, at the Tower Hamlets, that a Parliamentary inquiry into the Government of India Act is "an effectual and effective part of the policy now so absolutely necessary to strengthening the British hold upon India;" and, if so, what steps he proposes to take to carry out that policy? 
+<speaker>THE SECRETARY OF STATE FOR INDIA (Lord RANDOLPH CHURCHILL)</speaker> In reply to the hon. Member, I have to say that, as far as I am personally concerned, I agree entirely with the view I expressed on the 3rd of June last with regard to a Parliamentary inquiry into the Government of India Act . But the hon. Gentleman must not take that reply as in any way committing Her Majesty's Government, who have as yet had no opportunity of collectively considering this very important matter. 
+<speaker>MR. BUCHANAN</speaker> Will the noble Lord, in some way before the end of the Session, endeavour to make a statement to the House as to the reforms of the Government of India which he is prepared to carry out? 
+<speaker>THE SECRETARY OF STATE FOR INDIA</speaker> I hope that possibly, when I have the honour of addressing the House on the Indian Budget, I may be able to allude to this matter; but the hon. Member will see that any appointment of a Commission this Session is obviously impossible.

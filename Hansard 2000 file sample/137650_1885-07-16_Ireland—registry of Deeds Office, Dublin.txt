@@ -1,0 +1,11 @@
+<FileID>137650</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/ireland-registry-of-deeds-office-dublin</URL>
+<Title>Ireland—registry of Deeds Office, Dublin</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc904-5</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>223</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Secretary to the Treasury, Whether the inquiry instituted by the Treasury into the condition of the clerks in the Registry of Deeds Office, Dublin, has concluded, and whether a report upon the subject has as yet been received by the Treasury; whether a scheme for the reorganisation of the Department has been formulated; and, if so, when do the Treasury propose to give it effect; whether the Treasury are prepared to render such a scheme retrospective in its effect, so as to permit the junior class in the Department to obtain the full measure of the improvement recommended for them by the Royal Commission which investigated the condition of the Office in 1881; and, whether it was proposed to fill up the vacancies at present existing in the Department by promotion in the ordinary course? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> The inquiry of the Committee referred to has not yet been received, and, as I am informed, cannot be completed until August, owing to the professional engagements of some of its Members. That being so, the hon. Member will see that it is impossible for me to anticipate the nature of the decisions which may be come to upon the Report. I can only say that the vacancies will not be filled up in the meanwhile.

@@ -1,0 +1,9 @@
+<FileID>138768</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/13/consideration-of-commons-reason</URL>
+<Title>Consideration of Commons' Reason</Title>
+<DebRef>HL Deb 13 August 1885 vol 301 cc8-9</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>147</WordCount>
+
+Returned from the Commons with the Amendment to which the Lords have disagreed, insisted on , for which they assign a Reason: The said Reason considered (on Motion). THE EARL OF KINTORE said, their Lordships were in a somewhat difficult position, because the noble Earl (the Earl of Milltown) who was in charge of the Bill, and had induced their Lordships to disagree with the Commons' Amendment, was not in his place to advise them what to do. As it appeared, however, that it would be a breach of faith on the part of the Government to depart from the Commons' Amendment, he would move that their Lordships do not insist further. Moved , "That this House doth agree with the Amendment on which the Commons have insisted."—( The Earl of Kintore. ) Motion agreed to. House adjourned at quarter past Four o'clock, till Tomorrow, Two o'clock.

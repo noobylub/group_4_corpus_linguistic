@@ -1,0 +1,9 @@
+<FileID>137619</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/14/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 14 July 1885 vol 299 c586</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>52</WordCount>
+
+PUBLIC BILLS— Second Reading— Archdeaconries (150); Tithe Kent Charge Redemption*(165). Committee —Secretary for Scotland (117–178). Select Committee —Earldom of Mar Restitution*(107), nominated. Report —Local Government Provisional Orders (No. 4)*(147); Tramways Provisional Orders (No. 2)* (156); Tramways Provisional Orders (No. 3)* (157); Public Health (Scotland) Provisional Order* (148); Pier and Harbour Provisional Order*(114).

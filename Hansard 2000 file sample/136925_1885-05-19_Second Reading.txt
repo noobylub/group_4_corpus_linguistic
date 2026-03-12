@@ -1,0 +1,10 @@
+<FileID>136925</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/19/second-reading</URL>
+<Title>Second Reading</Title>
+<DebRef>HL Deb 19 May 1885 vol 298 c880</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>88</WordCount>
+
+Order of the Day for the Second Reading read. 
+<speaker>LORD BRAMWELL,</speaker> in moving that the Bill be read a second time, said, that it was not a Bill to alter the existing law, but to codify it after the manner in which the laws relating to bills of exchange had been codified. The Bill had been prepared under the auspices of the London Chamber of Commerce. Moved, "That the Bill be now read 2 a ."—( The Lord Bramwell. ) Motion agreed to; Bill read 2 a .

@@ -1,0 +1,11 @@
+<FileID>137093</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/05/fishery-piers-and-harbours-ireland</URL>
+<Title>Fishery Piers and Harbours (Ireland)—harbour at Clogher Head, Co Louth</Title>
+<DebRef>HC Deb 05 June 1885 vol 298 cc1333-4</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>164</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Financial Secretary to the Treasury, Whether, considering that several months have passed since the guarantees and subscriptions required to fulfil the Treasury conditions with regard to the erection of a pier and harbour at Clogher Head, county Louth, were given by the people of the locality and the Grand Juries of Louth and Drogheda, he can now give an assurance that the works will be delayed no longer? 
+<speaker>MR. HIBBERT</speaker> The hon. Member is mistaken in supposing that there has been any delay at the Board of Works in dealing with this case. Nothing could be done there until it was recommended by the Fishery Piers and Harbours Commission, which was only done a short time ago. The notices and other formalities required by law were immediately proceeded with, and in order to save time the contract plans were simultaneously commenced. Nothing else could be done to expedite the matter; but there is no reason to expect any avoidable delay.

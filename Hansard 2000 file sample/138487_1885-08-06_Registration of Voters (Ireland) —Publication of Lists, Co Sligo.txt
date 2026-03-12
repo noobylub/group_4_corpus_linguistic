@@ -1,0 +1,11 @@
+<FileID>138487</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/registration-of-voters-ireland</URL>
+<Title>Registration of Voters (Ireland) —Publication of Lists, Co Sligo</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 c1272</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>293</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, with regard to the fact that the lists of voters, which should have been published, as by Law required, on the 22nd ult., had not been published in the Grange District (county Sligo), on the 1st inst., Whether it is the fact that Major Wynne, the Clerk of the Peace for county Sligo, was at the late assizes fined by Chief Justice Morris £20 for absence from Court when duty required him there, and £20 additional for every two hours during which his absence might continue; what was the total to which the fine amonnted; has it been levied; if not, for what reason; whether the delay in publishing the lists of voters has arisen from Major Wynne's neglect of his duties and absence from his office; and, if so, why he has been constantly absent from his office; whether he will be visited with the prescribed penalties; and, will the Government cause him to be informed that his retention of his office will depend upon his personal attention to his duties, and that such attention is indispensable during the period of preparation for the work of the Revision Court? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The Clerk of the Peace telegraphed to the Under Secretary on the 21st of last March to say that the printer could not finish the lists by the 22nd, although they had been given to him in good time. We have asked for further explanations of this matter. I understand it is the fact that this Clerk of the Peace was fined as stated in the Question; but I am also informed that subsequently during the Assizes the learned Judge voluntarily remitted the fine.

@@ -1,0 +1,11 @@
+<FileID>138351</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/education-department-college-of</URL>
+<Title>Education Department—college of Aberystwith</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c842</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>94</WordCount>
+
+
+<speaker>MR. MORGAN LLOYD</speaker> asked the Vice President of the Council, Whether it is true, as stated in a local paper, that the Government have made up their minds to give an additional grant to the College of Aberystwith; and, whether they have made provision for giving the increased grant in the present year? 
+<speaker>THE VICE PRESIDENT (Mr. E. STANHOPE),</speaker> in reply, said, that the subject referred to in the Question was under the consideration of the Government, and he was not yet in a position to announce the decision at which they had arrived.

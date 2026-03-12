@@ -1,0 +1,10 @@
+<FileID>137381</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/public-health-international-sanitary</URL>
+<Title>Public Health — International Sanitary Conference at Rome</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c113</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>97</WordCount>
+
+
+<speaker>MR. SUTHERLAND</speaker> asked the Under Secretary of State for Foreign Affairs, Whether it is the intention of Her Majesty's Government to lay upon the Table of the House Papers relating to the proceedings of the International Sanitary Conference at Rome, including Reports by the British Representatives? THE UNDER SECRETARY Papers on the subject are in preparation, and will be laid before Parliament as soon as possible. We have not yet received all the Protocols of the Conference. The translations have not been commenced, and I do not see much hope of their being ready before the Recess.

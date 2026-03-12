@@ -1,0 +1,9 @@
+<FileID>138472</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/05/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 05 August 1885 vol 300 c1195</DebRef>
+<SittingDate>1885-08-05</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>35</WordCount>
+
+PUBLIC BILLS— First Reading —Public Works Loans * (234); Labourers (Ireland) (No. 2) * (235). Second Reading—Committee negatived—Third Reading —Revising Barristers * (225), and passed. Committee —Report—Telegraph Acts Amendment * (230); Expiring Laws Continuance (229).

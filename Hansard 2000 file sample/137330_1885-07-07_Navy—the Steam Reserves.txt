@@ -1,0 +1,11 @@
+<FileID>137330</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/navy-the-steam-reserves</URL>
+<Title>Navy—the Steam Reserves</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 c1833</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>138</WordCount>
+
+
+<speaker>CAPTAIN PRICE</speaker> asked the Secretary to the Admiralty, Whether it is the case that a fresh classification of the ships in the Steam Reserve has been made, of which the Fourth Class is to consist of ships unfit for further sea service, if so, whether the names of the ships in this class are to remain upon the Navy List? 
+<speaker>THE FIRST LORD OF THE ADMIRALTY (Lord GEORGE HAMILTON),</speaker> who replied, said: A fresh classification has been made, of which the fourth class will consist of ships unfit for further sea service. It is not contemplated to remove the names of these ships from The Navy List, as many will be employed on harbour work; but instructions have been given to place against their names in The Navy List an intimation that they belong to the fourth class.

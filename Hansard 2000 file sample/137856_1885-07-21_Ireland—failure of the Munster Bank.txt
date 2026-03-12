@@ -1,0 +1,13 @@
+<FileID>137856</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/ireland-failure-of-the-munster-bank</URL>
+<Title>Ireland—failure of the Munster Bank</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 cc1407-8</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>393</WordCount>
+
+
+<speaker>MR. PARNELL</speaker> asked Mr. Chancellor of the Exchequer, in view of the monetary situation created in Ireland by suspension of payment on the part of the Munster Bank, and considering that the Bank of Ireland enjoys special facilities under the Law, and exceptional advantages from the Government, and has at its disposal unused note-issue power to the extent of above a million sterling, whether the Government will use its influence to cause the Bank of Ireland to assist the Munster Bank to recover its position, and thus avoid liquidation, if the different classes of persons interested in this Bank as depositors and shareholders should undertake to do their part, and the affairs of the Bank should be found in a condition to warrant assistance from the Bank of Ireland? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> The hon. Member has asked me a Question to which I could not give an affirmative reply without the risk of raising hopes which, so far as I see, could not be realized; but I may say that, in my opinion, the exceptional position of the Bank of Ireland entails upon it at times such as these special duties, and I have good reason to believe that this is recognized by the Directors of the Bank, and that they are ready to help in promoting the very desirable object referred to by the hon. Member, so far as may be possible consistently with due regard to the safety of the Bank. 
+<speaker>MR. GRAY</speaker> asked Mr. Chancellor of the Exchequer, Whether his attention has been called to the 1st Geo. 4, chap. 39, intituled— An Act for the assistance of Trade and Manufactures in Ireland, by authorising the advance of certain sums for the support of commercial credit there; and, whether he would consider the propriety of, if necessary, introducing a Bill based on similar principles for the purpose of aiding in the resuscitation of the Munster Bank? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> Yes, Sir, my attention has been called to the Act in question; but, having regard to the revival of confidence in Dublin, and the vigorous efforts being made to resuscitate the Munster Bank by its shareholders and others primarily interested, I think I should do much more harm than good by holding out any hopes that I could comply with the hon. Member's suggestion.

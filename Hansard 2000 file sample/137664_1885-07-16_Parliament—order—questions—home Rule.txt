@@ -1,0 +1,13 @@
+<FileID>137664</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/parliament-order-questions-home-rule</URL>
+<Title>Parliament—order—questions—home Rule</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc912-3</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>388</WordCount>
+
+
+<speaker>MR. BORLASE,</speaker> who had the following Notice of a Question upon the Paper: — To ask Mr. Chancellor of the Exchequer, Whether Her Majesty's Government have any intention of dealing with the question of Home Rule in Ireland, in the sense of power to be given to the Irish people to control the internal affairs of their Country? said: Before I ask this Question, Sir, which appears on the Paper in my name, I wish for your ruling on a point of Order. On Monday last, I gave Notice of a Question to be put to the Chancellor of the Exchequer in reference to Home Rule. When I took that Question up to the Table, it was found to be inadmissible, because it involved matters of opinion. Thereupon, after consultation with the authorities of the House, I altered the form of the Question in a way which I understood would be admissible. Now, I find that the Question has been cut in two, and the part which I consider the most important has been expunged. With the view of having your opinion, Sir, as to whether I may put it to the right hon. Gentleman or not, I will read this portion of my Question. It is this—[ Loud cries of "Order!"] 
+<speaker>MR. SPEAKER</speaker> I must point out to the hon. Member that it is not permissible to deliberately read any part of a Question which I have ruled to be entirely out of Order. It is irregular to ask Questions with regard to matters of opinion, as it is obvious that if that practice were allowed to be indulged in it would give rise to a great deal of debate and controversy. 
+<speaker>MR. BORLASE</speaker> I bow entirely to the authority of the Chair, and I will now, Sir, put the Question as it stands upon the Paper. 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> I confess I was rather puzzled by the Question as it appears on the Paper. All I have to say is, that when the hon. Member submits to the House, as I hope he may be able to do next Session, the scheme for Home Rule, which I understand from his Question he has in contemplation, I shall be prepared to state the intentions of Her Majesty's Government with regard to it.

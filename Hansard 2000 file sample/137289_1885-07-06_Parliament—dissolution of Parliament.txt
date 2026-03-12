@@ -1,0 +1,11 @@
+<FileID>137289</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/06/parliament-dissolution-of-parliament</URL>
+<Title>Parliament—dissolution of Parliament</Title>
+<DebRef>HC Deb 06 July 1885 vol 298 cc1705-6</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>264</WordCount>
+
+
+<speaker>MR. HENEAGE</speaker> asked Mr. Chancellor of the Exchequer, Whether his attention has been called to the advice which Mr. Disraeli tendered to Her Majesty in April 1868, that every effort should be made with a view that a direct appeal should be made to the new constituencies at the earliest possible date, and which advice he communicated to the House of Commons on the 4th of May 1868; and, whether the present Prime Minister has considered it to be his duty, having regard to the special circumstances under which he has accepted office, to tender to Her Majesty similar advice? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> When I saw this Question on the Paper I thought it had reference to a state of affairs precisely the opposite of that which now exists; and that the hon. Gentleman opposite (Mr. Heneage) had in his mind the possibility of the late Government retaining Office after the vote of the House, in consequence of which they resigned. The parallel in that case would have been far more exact with the circumstances that occurred in 1868 than with any which exist at the present moment. But, although I do not agree in the premises of the hon. Gentleman, I entirely agree in his conclusions. At the instance of Lord Salisbury himself, provisions were inserted in the Redistribution Bill , which has now become law, to secure an early Dissolution and the election of a new Parliament. It is the intention and desire of Her Majesty's Government that these provisions should take effect as soon as possible.

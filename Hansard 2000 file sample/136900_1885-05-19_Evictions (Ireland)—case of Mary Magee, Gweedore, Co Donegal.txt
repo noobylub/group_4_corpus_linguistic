@@ -1,0 +1,11 @@
+<FileID>136900</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/evictions-ireland-case-of-mary-magee</URL>
+<Title>Evictions (Ireland)—case of Mary Magee, Gweedore, Co Donegal</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 cc938-9</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>259</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, with reference to the process of eviction on Tuesday last at Gweedore, county Donegal, in the case of Mary Magee, a widow with eleven children, whose husband had suddenly died the day before, leaving her without means to satisfy the claim of the landlord, Whether it is true, as reported in the press— The police constables (present to enforce the eviction) would willingly have subscribed, but the officers refused to permit them, as their doing; so would be a direct breach of the constabulary code of discipline; what article of the code prohibits such a contribution; and, whether within the last few years constables present on duty at evictions in Ireland have on several occasions subscribed to save families from being turned out of their homes? 
+<speaker>MR. CAMPBELL-BANNERMAN</speaker> It appears that when the police were assembled to carry out this eviction, the Rev. Mr. M'Fadden asked permission of the County Inspector to go round the ranks and make a collection for this woman, and that the County Inspector declined to give it. He added, however, that if, after all was over, any of them chose to give anything in charity, there would be no objection. The County Inspector acted in accordance with the Regulation which directs that no general subscription for any purpose is to be made in the Force without the previous consent of the Inspector General, who informs me that he only knows of one instance in which money was so raised for evicted persons.

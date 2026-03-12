@@ -1,0 +1,9 @@
+<FileID>137081</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/04/merchant-shipping-transfer-of-registry-c</URL>
+<Title>Merchant Shipping (Transfer of Registry, &C) Bill— [Bill 179]</Title>
+<DebRef>HC Deb 04 June 1885 vol 298 cc1324-5</DebRef>
+<SittingDate>1885-06-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>11</WordCount>
+
+( Mr. Holms, Mr. Chamberlain. ) cc1324-5 SECOND READING. 168 words

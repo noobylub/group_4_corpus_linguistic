@@ -1,0 +1,9 @@
+<FileID>138801</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/21/outlawries-bill</URL>
+<Title>Outlawries Bill</Title>
+<DebRef>HC Deb 21 January 1886 vol 302 c85</DebRef>
+<SittingDate>1886-01-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>18</WordCount>
+
+Bill "for the more effectual preventing Clandestine Outlawries," read the first time; to be read a second time.

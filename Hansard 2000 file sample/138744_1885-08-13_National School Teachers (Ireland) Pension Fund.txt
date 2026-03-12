@@ -1,0 +1,9 @@
+<FileID>138744</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/national-school-teachers-ireland-pension</URL>
+<Title>National School Teachers (Ireland) Pension Fund</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c28</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>32</WordCount>
+
+Copy presented ,—of Account of Receipts and Payments for the year ended 31st December 1884, with the Report of the Comptroller and Auditor General thereon [by Act]; to lie upon the Table.

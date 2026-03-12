@@ -1,0 +1,13 @@
+<FileID>137514</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/crime-and-outrage-ireland-the-murder-of</URL>
+<Title>Crime and Outrage (Ireland) —The Murder of Mrs Nolan</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c420</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>276</WordCount>
+
+
+<speaker>MR. W. J. CORBET</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If his attention has been called to the murder of a woman named Nolan in the county Kerry; whether it is true, as stated in the papers, that her husband, who is charged with the murder, was discharged from prison a month ago on ticket of leave "inconsequence of showing signs of insanity;" and, whether, if this be true, any notice will be taken of the conduct of the prison authorities in discharging the prisoner under the circumstances? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HAET DYKE)</speaker> Nolan was convicted of a White boy offence in 1881, and sentenced to five years' penal servitude. Soon after his imprisonment, and on several subsequent occasions, his wife memorialized for his release, and the usual reference was made to the Judge; but it was not considered advisable to comply with her prayer, owing to the unsettled state of the locality. In April last the convict himself sent in a memorial, and on the usual form attached thereto the medical officers of the prison reported for the first time that the convict was weak-minded, but in good health. Lord Spencer, after some local inquiries, felt enabled to order Nolan's release on licence, and he was accordingly discharged. The discharge was not on the ground of ill-health or in consequence of his showing signs of insanity. No report was ever made that he showed signs of insanity, and his conduct in prison was always reported as good. 
+<speaker>MR. W. J. CORBET</speaker> asked what was the verdict of the Coroner's jury? 
+<speaker>THE CHIEF SECRETARY</speaker> asked for Notice of the Question.

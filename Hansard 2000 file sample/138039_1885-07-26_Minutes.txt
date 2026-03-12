@@ -1,0 +1,9 @@
+<FileID>138039</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/26/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 26 July 1885 vol 300 c212</DebRef>
+<SittingDate>1885-07-26</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>104</WordCount>
+
+PUBLIC BILLS— First Reading —Evidence by Commission * (212); Pluralities * (213); Poor Law Unions' Officers (Ireland) * (214). Second Reading —Women's Suffrage (27), negatived; Medical Relief Disqualification Removal (207); Bankruptcy (Office Accommodation) * (191). Committee —River Thames (No. 2) (171–218); Parliamentary Elections (Corrupt Practices) * (199–219). Committee — Report —Post Office Sites * (181). Report —Earldom of Mar Restitution * (107–217); Public Health (Members and Officers) * (194). Third Reading —Cholera Hospitals (Ireland) * (182); Shannon Navigation * (184); Polehampton Estates * (183); National Debt * ; School Boards * (200); Exchequer and Treasury Bills * ; Greenwich Hospital * (201), and passed.

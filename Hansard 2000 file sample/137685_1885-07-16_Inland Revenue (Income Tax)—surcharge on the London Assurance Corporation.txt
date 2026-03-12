@@ -1,0 +1,11 @@
+<FileID>137685</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/inland-revenue-income-tax-surcharge-on</URL>
+<Title>Inland Revenue (Income Tax)—surcharge on the London Assurance Corporation</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc924-5</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>274</WordCount>
+
+
+<speaker>MR. M'LAREN</speaker> asked the Financial Secretary to the Treasury, Whether he has considered the effect of the decision in favour of the Crown of the majority of the House of Lords reversing the Court of Appeal, in the case of the Commissioners of Inland Revenue and the London Assurance Corporation, reported in yesterday's newspapers, and particularly the judgment of Lord Bramwell, the dissenting judge, in which occurs the following passage:— If the Crown is right, Income Tax will be payable in all eases in which employers have agreed with the employed that, besides fixed wages, the employed shall receive what is called a share of the profits. The Income Tax will apply to Cooperative Societies, strictly so called, and be payable on a sum falsely called profits, with no deduction of the wages contingently payable to workmen, if gross profits enable them to be paid. This is what Counsel for the Crown admitted. I think it most disastrous and most unreasonable; and, whether he will introduce provisions in Committee on the Tax Bill to obviate the consequences of this decision? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> This Question only appeared on the Paper this morning, and the case alluded to was only decided on Tuesday. The consequences of this decision will be considered when the shorthand writer's notes are available; but as the highest Court of Appeal has now pronounced in favour of what has been the contention of the Crown throughout, I am unable, as at present advised, to hold out any hope to the hon. Member that legislation will be proposed to alter the law as declared by that decision.

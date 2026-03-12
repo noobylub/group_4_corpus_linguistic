@@ -1,0 +1,10 @@
+<FileID>137407</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/the-magistracy-ireland-resident</URL>
+<Title>The Magistracy (Ireland)— Resident Magistrates</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c127</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>100</WordCount>
+
+
+<speaker>MR. KENNY</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If any rule or order at present exists against a resident magistrate holding in Ireland the position of land agent; and, if not, whether the Irish Government will consider the advisability of issuing such an order for the future guidance of persons acting as stipendiary magistrates? THE CHIEF SECRETARY There is no rule on this subject. I am not aware that any Resident Magistrate acts as a land agent; and I apprehend that it is very generally understood that no such arrangement would be permitted by the Government.

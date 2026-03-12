@@ -1,0 +1,11 @@
+<FileID>137988</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/allotments-extension-act-1882-charity</URL>
+<Title>Allotments Extension Act, 1882— Charity Lands in the Isle of Ely</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 cc1784-5</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>305</WordCount>
+
+
+<speaker>MR. JESSE COLLINGS</speaker> asked the Vice President of the Committee of Council, If he is aware that the trustees of the Charity Lands in Elm, March, and Wimblington, Isle of Ely, have advertised to let the lands by auction on Wednesday 29th July for a term of seven years instead of offering them to the labourers of the parish, as directed by "The Allotments Extension Act, 1882 ;"whether he is aware that a distinct assurance was given by the clerk of the trustees that the lands should be offered to the labourers on the expiration of the present leases; and, whether the Charity Commissioners will take immediate steps to prevent the letting of the lands by auction, and will compel the trustees to carry out the provisions of the Act of 1882? 
+<speaker>THE VICE PRESIDENT (Mr. E. STANHOPE)</speaker> The Governors of the March Consolidated Charities have offered for letting by auction on the 29th instant, for a term of seven years, about 96 acres of the charity lands situated in the parishes of March, Wimblington, and Elm, which comprise in all about 286 acres. Whether or not the assurance mentioned was given by the clerk of the Governors, the Charity Commissioners have as yet had no opportunity of ascertaining. It appears that part only of the lands of the Charities, amounting to less than one-fourth of the whole, is subject to the Allotments Extension Act, 1882 . The case was brought to the notice of the Charity Commissioners for the first time on the 21st instant, and they have advised the Governors that, before proceeding to let any of the Charity lands on lease, they should, in the first instance, take steps for ascertaining, under Section 8 of the Allotments Extension Act, 1882 , what part of the Charity lands is subject to its provisions.

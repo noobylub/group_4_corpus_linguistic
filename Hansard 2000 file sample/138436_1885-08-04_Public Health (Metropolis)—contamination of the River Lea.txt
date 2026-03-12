@@ -1,0 +1,10 @@
+<FileID>138436</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/public-health-metropolis-contamination</URL>
+<Title>Public Health (Metropolis)—contamination of the River Lea</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1064</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>54</WordCount>
+
+In reply to Mr. JOHN HOLMS, 
+<speaker>THE PRESIDENT of the LOCAL GOVERNMENT BOARD (Mr. A. J. BALFOUR)</speaker> said, that the Local Authority of Tottenham had decided to construct sewage works, with the view of removing the sewage of the district from the River Lea; and the Local Government Board had sanctioned the requisite loan.

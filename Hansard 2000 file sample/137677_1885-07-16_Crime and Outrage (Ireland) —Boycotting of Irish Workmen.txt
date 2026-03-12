@@ -1,0 +1,11 @@
+<FileID>137677</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/crime-and-outrage-ireland-boycotting-of</URL>
+<Title>Crime and Outrage (Ireland) —Boycotting of Irish Workmen</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc919-20</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>138</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether it is true that an Irish detective, named Brady, who is now stationed at Greenock, has endeavoured to intimidate employers of labour into Boycotting their Irish workmen; whether he has threatened to pursue a similar course with regard to others; and, what course Her Majesty's Government intend to take in the matter? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> The hon. Member has sent me a telegram which, I presume, came from his informant in this matter. The sender of the telegram has been interviewed, and has named three persons as the employers of labour to whom he referred; but those persons deny that there is any truth in the statement that they had been asked by Sergeant Brady to "Boycott" Irish workmen.

@@ -1,0 +1,9 @@
+<FileID>138037</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/24/land-purchase-ireland-bill</URL>
+<Title>Land Purchase (Ireland) Bill</Title>
+<DebRef>HL Deb 24 July 1885 vol 299 cc1775-7</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>14</WordCount>
+
+( The Lord Chancellor of Ireland. ) cc1775-7 (NOS. 204–205.) THIRD READING. 776 words

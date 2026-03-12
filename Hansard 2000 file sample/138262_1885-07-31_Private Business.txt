@@ -1,0 +1,9 @@
+<FileID>138262</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/private-business</URL>
+<Title>Private Business</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 cc660-6</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>18</WordCount>
+
+WORCESTER EXTENSION BILL (by order). cc660-3 LORDS AMENDMENTS. 919 words cc663-6 WORCESTER EXTENSION BILL (by Order.) 1,372 words

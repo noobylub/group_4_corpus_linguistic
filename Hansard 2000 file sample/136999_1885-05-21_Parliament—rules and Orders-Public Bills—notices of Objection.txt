@@ -1,0 +1,14 @@
+<FileID>136999</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/parliament-rules-and-orders-public-bills</URL>
+<Title>Parliament—rules and Orders-Public Bills—notices of Objection</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1039-40</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>129</WordCount>
+
+
+<speaker>MR. WARTON</speaker> desired to ask a Question with regard to the duration of Notices of objections to Bills which, according to an Order of the House, expired the week after that in which, they were given? 
+<speaker>MR. SPEAKER</speaker> said, the Question could be put when the point arose. There was no Question now before the House. 
+<speaker>MR. WARTON</speaker> said, he desired to put the Question on account of the Holidays. 
+<speaker>MR. GIBSON</speaker> said, he would ask whether the matter was not settled by the late Speaker ruling that a Notice of objection given after the Motion for Adjournment had been agreed to was kept alive for the usual period after the Holidays? 
+<speaker>MR. SPEAKER</speaker> said, the Notice would operate for the usual period after the meeting of the House.

@@ -1,0 +1,12 @@
+<FileID>138832</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/22/ireland-boycotting-alleged-outrage</URL>
+<Title>Ireland—boycotting—alleged Outrage</Title>
+<DebRef>HC Deb 22 January 1886 vol 302 c192</DebRef>
+<SittingDate>1886-01-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>185</WordCount>
+
+
+<speaker>MR. STANLEY LEIGHTON</speaker> gave Notice that he would ask the Chief Secretary for Ireland, Whether it is true, as stated on the occasion of a deputation to Lord Salisbury, that a boycotted woman in Ireland was held down by her neighbours, while a dog gnawed her legs; and, if true, whether any persons have been arrested for the outrage? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> said, that this statement referred to a very horrible and serious outrage if it really occurred. He had no doubt that if it had occurred it had already come under the cognizance of the authorities in Ireland. He had taken steps to make inquiries, and had no doubt his hon. Friend would get the information he sought. 
+<speaker>MR. STANLEY LEIGHTON</speaker> said, he would repeat the Question on Monday. MR. HEALY I beg to give Notice that when this Question is asked I shall ask the Home Secretary, Whether his attention has been called to the action of an English lady who tied a little child, aged two, to a chair before a fire and slowly roasted her to death?

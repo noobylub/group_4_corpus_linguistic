@@ -1,0 +1,11 @@
+<FileID>138493</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/church-of-england-excommunication-at</URL>
+<Title>Church of England—excommunication at Saham Toney</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 c1276</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>232</WordCount>
+
+
+<speaker>MR. PICTON</speaker> asked the Secretary of State for the Home Department, Whether it is a fact that, as reported in The Thetford Times, and several London papers of later date, the Reverend Coker Adams, Rector of Saham Toney, did, on Sunday July 26th, pronounce in his parish church a sentence of excommunication against Mr. Joseph Payne, a parishioner, aged 82; whether the reason alleged by the Reverend Coker Adams for the sentence of excommunication was Mr. Payne's "persistent neglect of the Church's ordinances and refusal of her ministrations;" whether the Reverend Coker Adams was acting in this case by the instruction of any higher ecclesiastical authority; or, if not, whether he was acting ultra vires; and, if so, whether any notice will be taken of his illegal action; whether the sentence of excommunication carries with it any secular consequences, and whether every one who declines to attend his parish church is legally liable to have a sentence of excommunication publicly pronounced against him; and, whether the action of the Reverend Coker Adams has the approval of his bishop? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> I can only say that I saw this announcement with the deepest surprise and regret. I know nothing of the facts; but I thought it right that the sentence should be sent to the Bishop, who, I have no doubt, will make inquiry into the matter.

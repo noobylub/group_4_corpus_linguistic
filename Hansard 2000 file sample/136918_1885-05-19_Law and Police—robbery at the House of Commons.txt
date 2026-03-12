@@ -1,0 +1,13 @@
+<FileID>136918</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/law-and-police-robbery-at-the-house-of</URL>
+<Title>Law and Police—robbery at the House of Commons</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 cc949-50</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>200</WordCount>
+
+
+<speaker>MR. RAIKES</speaker> I wish to ask the noble Lord the Patronage Secretary to the Treasury, Whether his attention has been directed to the report that a considerable sum of money has been abstracted from an official despatch box in one of the rooms of this House; whether it is the custom of the Members of the Government to bring down to the House considerable sums in cash; and, if so, for what purpose? 
+<speaker>LORD RICHARD GROSVENOR</speaker> I am not aware why the right hon. Gentleman wishes to put that Question to me, for I think it more properly belongs to the Financial Secretary. I can assure the right hon. Gentleman that I am not aware of any Member of the Government having a large sum of money in his pocket, and I am certainly not responsible for the amounts they carry about with them, nor am I responsible for any robbery that may take place in this House. 
+<speaker>MR. SEXTON</speaker> Am I correctly informed that the money stolen was for the payment of some of the officials of the House of Commons? If so, how is it to be made good? 
+<speaker>LORD RICHARD GROSVENOR</speaker> I really know nothing about it.

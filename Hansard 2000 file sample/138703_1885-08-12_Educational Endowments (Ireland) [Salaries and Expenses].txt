@@ -1,0 +1,9 @@
+<FileID>138703</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/12/educational-endowments-ireland-salaries</URL>
+<Title>Educational Endowments (Ireland) [Salaries and Expenses]</Title>
+<DebRef>HC Deb 12 August 1885 vol 300 c1913</DebRef>
+<SittingDate>1885-08-12</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>74</WordCount>
+
+Considered in Committee. (In the Committee.) Resolved, That it is expedient to authorise the payment, out of moneys to be provided by Parliament, of the Salaries and Expenses of Commissioners, Assistant Commissioners, Secretary, and other Officers, as well as any Expenses incurred by the Lord Lieutenant in Council, which may become payable under the provisions of any Act of the present Session for reorganising the Educational Endowments of Ireland. Resolution to be reported Tomorrow.

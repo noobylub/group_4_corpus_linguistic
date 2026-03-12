@@ -1,0 +1,14 @@
+<FileID>138227</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/egypt-the-international-guaranteed-loan-1</URL>
+<Title>Egypt—the International Guaranteed Loan</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc524-5</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>374</WordCount>
+
+
+<speaker>MR. VILLIERS-STUART</speaker> asked Mr. Chancellor of the Exchequer, Whether the present market value of French Three per Cents, is about 80 per cent.; whether that of Russian Four per Cents. is about 80; whether that of Italian Five per Cents, is about 99; whether that of English Three per Cents. is about par; whether the New Egyptian Three per Cent. Loan is to be brought out at 95½ per cent.; whether this issue price is determined, not by the National credit standard of any Foreign State, but by that of England; whether it is England that is ultimately responsible for the payment of the dividends and capital; and, whether the additional interest acquired in Egypt by England in consequence of her guarantee will be weakened by the nominal share taken in it by Foreign Powers, or his hand rendered less free in dealing with Egyptian reforms? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> The prices quoted by the hon. Member are no doubt correct. I cannot undertake to say how far the issue price of the new Egyptian Loan is determined by the credit standard of England. Various other circumstances must be considered as elements in the determination of such price. The responsibility of England is the same as that of the other guaranteeing Powers, except Russia—namely, a joint and several guarantee for the regular payment of the annuity of £315,000 required for the purpose of the loan. The question of the effect of a joint guarantee on the interests of England in Egypt involves matter of opinion rather than of fact. If the hon. Gentleman wishes to know my opinions on the subject he will find them expressed in the debate of last spring; but this country being pledged to the Convention, of course it was our duty to carry it out. 
+<speaker>MR. VILLIERS-STUART</speaker> I hope the right hon. Gentleman will be able to give a reassuring answer as to the effect of the joint guarantee upon the freedom of the hands of England in carrying out reforms. 
+<speaker>MR. ARTHUR ARNOLD</speaker> I wish to know whether the right hon. Gentleman will lay on the Table the Correspondence with foreign Governments on this subject? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I cannot answer that Question without Notice.

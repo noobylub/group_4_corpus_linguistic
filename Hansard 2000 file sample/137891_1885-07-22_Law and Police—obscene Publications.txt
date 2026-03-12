@@ -1,0 +1,11 @@
+<FileID>137891</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/22/law-and-police-obscene-publications</URL>
+<Title>Law and Police—obscene Publications</Title>
+<DebRef>HC Deb 22 July 1885 vol 299 c1516</DebRef>
+<SittingDate>1885-07-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>139</WordCount>
+
+
+<speaker>MR. ONSLOW</speaker> asked the Secretary of State for the Home Department, Whether his attention has been called to the indecent prints now being hawked about in the streets (and also sold in various shops), especially those under the heading The Pall Mall Illustrated; and, whether there is no power in the Executive to put a stop to the sale of such illustrations? 
+<speaker>THE SECRETARY OF STATE FOE THE HOME DEPARTMENT (Sir R. ASSHETON CROSS)</speaker> I said yesterday that the publishers of obscene publications published them at their peril. Whatever may be said for the motives of those who made the first publication, nothing whatever can be said but evil about these pictorial illustrations; and the police have had special instructions to watch these publications and take such action as they may be recommended to take under proper legal advice.

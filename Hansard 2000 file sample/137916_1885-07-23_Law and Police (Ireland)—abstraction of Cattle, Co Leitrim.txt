@@ -1,0 +1,10 @@
+<FileID>137916</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/law-and-police-ireland-abstraction-of</URL>
+<Title>Law and Police (Ireland)—abstraction of Cattle, Co Leitrim</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1617-8</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>283</WordCount>
+
+COLONEL O'BELRNE asked the Chief Secretary to the Lord Lieutenant of Ireland, If it is true that two bullocks, value respectively £12 each, were driven off a farm in the parish of Kiltoghart, county Leitrim, the property of Francis O'Beirne, a minor, on the night of the 13th inst., and that the cattle have not yet been found, although the country all round the farm for a radius of ten miles has been searched by the police; whether it is also a fact, that in May 1882 fourteen bullocks, worth £16 each, were driven off a farm, the property of a Mr. Ormsby Lawder, and close to Fenagh Police Barracks, county Leitrim, and that up to present date, in each of the above-mentioned instances, no traces of the stolen cattle have been found, nor the person or persons who carried out the robbery; if any reason can be assigned for the complete failure of the authorities in each instance, either to trace the whereabouts of the stolen property or to obtain some information as to who or what were the persons that planned and effected the theft; and, what legal redress is available to the owners of the stolen property? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The facts are as stated in the two first paragraphs of this Question. The Divisional Magistrate assures me that no effort has been spared to trace the animals and the perpetrators of the thefts; and he has himself personally directed the inquiries, and can say that nothing has been neglected, though the exertions of the police have, so far, been unsuccessful. I will see that the vigilance of the police in this matter is not relaxed.

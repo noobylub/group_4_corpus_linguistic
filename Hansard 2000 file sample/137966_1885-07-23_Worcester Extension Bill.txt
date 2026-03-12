@@ -1,0 +1,9 @@
+<FileID>137966</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/23/worcester-extension-bill</URL>
+<Title>Worcester Extension Bill</Title>
+<DebRef>HL Deb 23 July 1885 vol 299 cc1595-7</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc1595-7 THIRD READING. 839 words

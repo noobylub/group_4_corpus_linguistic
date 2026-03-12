@@ -1,0 +1,10 @@
+<FileID>138311</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/31/no-221-second-reading</URL>
+<Title>(No 221) Second Reading</Title>
+<DebRef>HL Deb 31 July 1885 vol 300 cc659-60</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>122</WordCount>
+
+Order of the Day for the Second Reading read. 
+<speaker>THE SECRETARY TO THE LOCAL GOVERNMENT BOARD (Earl BROWNLOW)</speaker> , in moving that the Bill be now read a second time, said, it was the same measure as had been presented earlier in the year by the noble and learned Earl who then occupied the Woolsack. Its object was simply to enable Boards of Guardians to detain lunatics in the workhouses in certain cases. Moved, "That the Bill be now read 2 a "—( The Earl Brownlow. ) Motion agreed to; Bill read 2 a accordingly, and committed to a Committee of the Whole House on Monday next. House adjourned at half past Six o'clock, to Monday next, a quarter past Four o'clock.

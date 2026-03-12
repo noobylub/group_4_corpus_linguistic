@@ -1,0 +1,9 @@
+<FileID>137363</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/08/withdrawn-sale-of-intoxicating-liquors</URL>
+<Title>Withdrawn —Sale of Intoxicating Liquors on Sunday (Durham)  129</Title>
+<DebRef>HC Deb 08 July 1885 vol 299 c2</DebRef>
+<SittingDate>1885-07-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>12</WordCount>
+
+; Corn Sales * [57]; Merchant Shipping (Transfer of Registry) * [179].

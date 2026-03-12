@@ -1,0 +1,9 @@
+<FileID>137175</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/12/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 12 June 1885 vol 298 c1521</DebRef>
+<SittingDate>1885-06-12</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>78</WordCount>
+
+Representative Feer for Scotland —The Earl of Lindsay, v. The Earl of Selkirk, deceased. Took the Oath —The Earl of Lindsay. PUBLIC BILLS— First Reading —Real Property Registration * (132). Committee —Gas Provisional Orders (No. 1) * (108). Committee — Report —Local Government Provisional Orders (Poor Law) (No. 4) * (123). Select Committee — Report —Poor Law Guardians (Ireland) [No. 130]. Report —Poor Law Guardians (Ireland) * (3–31). Report — Third Reading —Parliamentary Elections (Redistribution) (129), and passed.

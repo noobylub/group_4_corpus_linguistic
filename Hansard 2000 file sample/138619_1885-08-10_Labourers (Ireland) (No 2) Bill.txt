@@ -1,0 +1,9 @@
+<FileID>138619</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/10/labourers-ireland-no-2-bill</URL>
+<Title>Labourers (Ireland) (No 2) Bill</Title>
+<DebRef>HL Deb 10 August 1885 vol 300 cc1546-9</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>12</WordCount>
+
+( The Marquess of Waterford. ) cc1546-9 (No 235.) REPORT. 1,157 words

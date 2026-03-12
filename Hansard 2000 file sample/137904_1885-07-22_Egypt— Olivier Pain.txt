@@ -1,0 +1,11 @@
+<FileID>137904</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/22/egypt-olivier-pain</URL>
+<Title>Egypt— Olivier Pain</Title>
+<DebRef>HC Deb 22 July 1885 vol 299 c1594</DebRef>
+<SittingDate>1885-07-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>36</WordCount>
+
+
+<speaker>MR. ARTHUR O'CONNOR</speaker> asked, Whether there was any reason to believe that the report that Olivier Pain was living and at Berber was correct? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> No, Sir; we have no authentic information.

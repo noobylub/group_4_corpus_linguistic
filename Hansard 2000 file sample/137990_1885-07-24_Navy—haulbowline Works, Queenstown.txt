@@ -1,0 +1,11 @@
+<FileID>137990</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/navy-haulbowline-works-queenstown</URL>
+<Title>Navy—haulbowline Works, Queenstown</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 cc1785-6</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>269</WordCount>
+
+
+<speaker>MR. DEASY</speaker> asked the First Lord of the Admiralty, Whether it is a fact that an order has been posted at the Haul-bowline Works, Queenstown, to the effect that the service of any man who has reached the age of sixty years will be no longer required; and, whether, if such an order does exist, it is intended for the employés of dockyards proper; and, if so, whether, having regard to the fact that the Haulbowline Works will not be complete for three years, and cannot therefore in the meantime be termed dockyard, the men coming within the prescribed age will be permitted to remain in their employment until the completion of the works? THE LORD OF THE ADMIRALTY (Mr. ASHMEAD-BARTLETT) , who replied, said: The order referred to by the hon. Member was issued by the late Board. With regard to the first Question of the hon. Member, I would answer "Yes," unless special reasons exist, which should be reported. The regulation for discharge of workmen on attaining 60 years of age forms part of the Dockyard instructions, and is in force at other works for the construction of dockyards. 
+<speaker>MR. DEASY</speaker> asked, whether, having regard to the fact that the works would be completed in three years, the order would not be cancelled, so as to allow the men to continue at the works until their completion? THE LORD OF THE ADMIRALTY The order referred to was issued by the late Board; but I will take the matter into consideration, and see if anything can be done in the direction of the Question of the hon. Member.

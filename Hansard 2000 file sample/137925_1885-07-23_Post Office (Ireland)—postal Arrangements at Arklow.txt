@@ -1,0 +1,11 @@
+<FileID>137925</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/post-office-ireland-postal-arrangements</URL>
+<Title>Post Office (Ireland)—postal Arrangements at Arklow</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1622-3</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>168</WordCount>
+
+
+<speaker>MR. W. J. CORBET</speaker> asked the Postmaster General, Whether the request of the people of the Johnstown Post Office District, near Arklow, for a different arrangement in regard to the delivery of letters, will be acceded to? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS)</speaker> The inquiries on the subject to which the hon. Member refers are not yet complete; but I have ascertained that if the rural post of Arklow wore not despatched until after the arrival of the day mail at Arklow, a detention of four hours, and not two hours only, as suggested in the Memorial, would be necessary; and it seems doubtful whether the majority of the residents would acquiesce in such a change. There is also a question of affording a collection of letters in the evening over the whole line of post; but it is feared that the expense involved in meeting the wishes of the Memorialists would be greater than the correspondence would warrant. On this point, however, further information is being collected.

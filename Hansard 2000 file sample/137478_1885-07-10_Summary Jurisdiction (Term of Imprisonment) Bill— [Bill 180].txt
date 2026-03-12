@@ -1,0 +1,9 @@
+<FileID>137478</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/summary-jurisdiction-term-of</URL>
+<Title>Summary Jurisdiction (Term of Imprisonment) Bill— [Bill 180]</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 cc382-3</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>26</WordCount>
+
+( Mr. Henry B. Fowler, Secretary Sir William Harcourt. ) cc382-3 SECOND READING. 178 words WAYS AND MEAN'S. c383 CONSOLIDATED FUND (NO. 2) BILL. 36 words

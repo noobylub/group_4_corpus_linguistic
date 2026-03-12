@@ -1,0 +1,13 @@
+<FileID>137122</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/india-finance-c-probable-deficit-arising</URL>
+<Title>India (Finance, &C)—probable Deficit Arising From War Preparations</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 cc1397-8</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>169</WordCount>
+
+
+<speaker>MR. ONSLOW</speaker> asked the Under Secretary of State for India, What is the expected deficit, for the current year on the Indian finances, in consequence of the war preparations undertaken in that country; if there will be any savings effected in any branches of the service; and, if so, what is the estimate; whether any addition is contemplated on the present taxation of the country; and, if any portion of the deficit is to be met by loan? 
+<speaker>MR. J. K. CROSS</speaker> The Government of India are revising their financial position, and have called on all the Provincial Governments to report by June 10 what reductions of expenditure can be effected. Until they have had time to consider the Reports of the Provincial Governments, and communicate the results to the Secretary of State, it is impossible to give definite answers to these Questions. 
+<speaker>MR. ONSLOW</speaker> inquired whether, after that answer, the lion. Gentleman intended to proceed with the East India Loan Bill tonight. 
+<speaker>MR. J. K. CROSS</speaker> Yes, certainly.

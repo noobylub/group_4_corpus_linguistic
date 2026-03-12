@@ -1,0 +1,9 @@
+<FileID>138609</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/10/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 10 August 1885 vol 300 c1525</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>59</WordCount>
+
+PUBLIC BILLS— First Reading —County Officers and Courts (Ireland) (Pensions) * (244). Report —Labourers (Ireland) (No. 2) * (241–245). Third Reading —River Thames (No. 2) (238); Metropolitan Police Staff Superannuation * (222); Public Works Loans * 234); Consolidated Fund (Appropriation) * ; East India Army Pensions Deficiency * (239), and passed. Withdrawn —Burgh Police and Health (Scotland) * (190).

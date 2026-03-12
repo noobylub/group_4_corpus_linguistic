@@ -1,0 +1,11 @@
+<FileID>137401</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/parliamentary-elections-returning</URL>
+<Title>Parliamentary Elections (Returning Officers) Bill</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 cc124-5</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>148</WordCount>
+
+
+<speaker>MR. SYDNEY BUXTON</speaker> asked Mr. Chancellor of the Exchequer, Whether the Government would be prepared to accept Amendments on the Parliamentary Elections (Returning Officers) Bill , with, a view of placing the expenses of Returning Officers on the Consolidated Fund or on the Rates; and, whether, if he be unable to accept such Amendments, he will allow them to be discussed by the House and decided on their merits, or whether, in the event of the House accepting such Amendments, he will withdraw the Bill? 
+<speaker>THE CHANCELLOR or THE EXCHEQUER</speaker> We neither could accept such Amendments as are suggested in the Question, nor proceed with the Bill if they were adopted by the House. The Bill deals with a very small matter, and I think the hon. Member and others might be disposed to waive the question in order to allow the Bill to become law this Session.

@@ -1,0 +1,15 @@
+<FileID>137890</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/22/royal-irish-constabulary-distribution</URL>
+<Title>Royal Irish Constabulary— Distribution</Title>
+<DebRef>HC Deb 22 July 1885 vol 299 cc1515-6</DebRef>
+<SittingDate>1885-07-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>238</WordCount>
+
+
+<speaker>MR. DEASY(for Mr. PARNELL)</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If he could give the House the details of the new distribution of the Constabulary Force in Ireland which it is proposed to make under the Act of this Session? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> I am unable at present to state the details which the hon. Member asks for. The late Government did not dispose of the matter, and in the great press of Public Business Lord Carnarvon has not had time as yet to deal with it. The hon. Member is, of course, aware that the three months within which action is to be taken under the Statute will not expire until the 21st of August, before which date the Lord Lieutenant will have disposed of the matter. 
+<speaker>MR. DEASY</speaker> said, he would like to know if the information he wanted would be furnished before the Vote for the Constabulary was asked for? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> said, he might be able to give some general information, but not any specific information. 
+<speaker>MR. SEXTON</speaker> asked if the Government could not undertake to get this information before the Constabulary Vote came on, or to postpone the Vote until the information could be given? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> was not prepared now to say that he would postpone the Vote; Supply was very late.

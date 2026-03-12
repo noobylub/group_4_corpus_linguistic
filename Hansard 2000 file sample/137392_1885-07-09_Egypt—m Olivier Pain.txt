@@ -1,0 +1,10 @@
+<FileID>137392</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/egypt-m-olivier-pain</URL>
+<Title>Egypt—m Olivier Pain</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 cc120-1</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>260</WordCount>
+
+
+<speaker>MR. O'KELLY</speaker> asked the Secretary of State for War, Whether it is true that Captain G. F. Wilson, R.E., offered a reward of fifty pounds to whoever would capture M. Olivier Pain "dead or alive, or would present his papers;" and, if so, what was the date of this proclamation; whether the proclamation was withdrawn, and what was the date of the withdrawal; whether Her Majesty's Government have taken any steps with regard to Captain Wilson's conduct; and, if not, whether it is intended to take any action against that officer; and, whether it is true that General Wolseley has announced the death of M. Olivier Pain? THE SECRETARY In consequence of the Question of the hon. Member for Athlone (Mr. Justin Huntly M'Carthy) on the subject, inquiries were made by Sir Evelyn Baring as to the authenticity of the alleged Proclamation. Sir Redvers Buller, who was at the time in command on the Nile, was unable to trace that any such Proclamation had been issued; and I may add that there never was a Commandant at Sarras, where it is alleged the Proclamation was issued, who had any power or authority to issue such a Proclamation. With reference to the announcement of the death of Olivier Pain, Lord Wolse-ley telegraphed, on the 27th of June, that Luigi Bonomi, a priest who escaped from Kordofan, received in November last from Lupton Bey a letter stating that Pain was dead. On the other hand, one Ghalli, a merchant from Khartoum, alleged that when he recently left the town Pain was there.

@@ -1,0 +1,17 @@
+<FileID>138324</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/royal-commission-on-depression-of-trade</URL>
+<Title>Royal Commission on Depression of Trade and Industry—names of the Commissioners</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc823-4</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>306</WordCount>
+
+
+<speaker>MR. ARTHUR ARNOLD</speaker> asked Mr. Chancellor of the Exchequer, Whether be can now state the names of the Commissioners in the Royal Commission on Trade Depression; and, whether the Memorandum, to which he referred on Thursday, will be communicated to the House before the end of the Session? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER,</speaker> in reply, said, he was afraid, for reasons he gave the other day, that he was not in a position to communicate to the House the names of the Royal Commissioners. The Memorandum to which he previously referred would have to be laid before the Royal Commission before it could be communicated to the House. 
+<speaker>MR. ARTHUR ARNOLD</speaker> Does the right hon. Gentleman not remember that he promised the Memorandum should be laid before Parliament? Does he mean the next Parliament? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I said it should be laid before Parliament. It is impossible that a Memorandum addressed to the Royal Commissioners should be made public before the Royal Commissioners themselves have received it. 
+<speaker>MR. SEXTON</speaker> May I ask the right hon. Gentleman the Chancellor of the Exchequer, whether he has reconsidered his decision with reference to the appointment of a Royal Commission for inquiring into the causes of the decline of the industries of Ireland? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I must abide by the answer which I have already given in regard to this matter. It is a matter which is entirely separate from the subject of the Royal Commission that is to be appointed to inquire into the depression of trade. 
+<speaker>MR. BROADHURST</speaker> asked, whether any stops had been taken to secure a proper representation on the Commission of the main industries of the country both as to employers and employed? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> Yes, Sir, such steps have been taken and are being taken.

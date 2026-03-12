@@ -1,0 +1,11 @@
+<FileID>138421</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/egypt-military-expedition-the-soudan</URL>
+<Title>Egypt (Military Expedition)—the Soudan—battle of Abu Klea</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1055</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>130</WordCount>
+
+
+<speaker>SIR WALTER B. BARTTELOT</speaker> asked the Secretary of State for War, Whether any Despatch was received from Sir Herbert Stewart, giving an account of the Battle of Abu Klea, and the conduct of the Troops subsequent to the Despatch from Abu Klea of the 13th of January; and, if there be such a Despatch, whether he will lay it upon the Table of the House? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> I assume that the date in the hon. and gallant Baronet's Question is a misprint for the 18th of January, the date of the despatch referred to in my reply of yesterday. So far as I am aware there was no later despatch from Sir Herbert Stewart, who received his fatal wound early on the following day.

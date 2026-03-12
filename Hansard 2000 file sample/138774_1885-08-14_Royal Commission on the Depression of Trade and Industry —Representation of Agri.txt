@@ -1,0 +1,13 @@
+<FileID>138774</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/14/royal-commission-on-the-depression-of</URL>
+<Title>Royal Commission on the Depression of Trade and Industry —Representation of Agriculture</Title>
+<DebRef>HC Deb 14 August 1885 vol 301 cc35-6</DebRef>
+<SittingDate>1885-08-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>356</WordCount>
+
+
+<speaker>MR. STORER</speaker> asked Mr. Chancellor of the Exchequer, How it happens that on the Commission about to be appointed regarding the Depression of Industry in this country, including, as it is understood, the connection between the depression in Agriculture and the depression in other Trades acting and reacting upon each other, at present no Member of that Commission has been appointed who is supposed to have any practical knowledge of Agriculture? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> Sir, I am not prepared to admit that there is no Member of the Commission who has practical knowledge of agriculture. The Question is, however, one which I cannot answer without Notice. I think my noble Friend (Lord Iddesleigh) is still in communication with one or two Gentlemen upon the subject, and it is possible that the result may be an addition to the Commission of some such Gentlemen as the hon. Member desires. 
+<speaker>MR. CAUSTON</speaker> asked whether it was not by an afterthought that the subject of agriculture had been added to the Commission? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> No, Sir; it was by no afterthought at all that the subject referred to is to be considered by the Royal Commission on Depression of Trade. Agriculture, as such, is not included within the scope of the inquiry, though, of course, the obvious connection between trade and agriculture will secure that the depression in agriculture, so far as it is influenced by the depression of trade, shall be considered. The following List of the Commissioners appeared in The London Gazette , September 1:— The Earl of IDDESLEIGH (Chairman), The Earl of DUNRAVEN, Right Hon. G. SCLATER-BOOTH, Sir JAMES ALLPORT, Knt., JOHN AURD, Esq., THOMAS BIRTWHISTLE, Esq., LIONEL LEWIS COHEN, Esq., JAMES PORTER CORRY, Esq., DAVID DALE, Esq., CHARLES JAMES DRUMMOND, Esq., WILLIAM FARRER ECROYD, Esq., HENRY HUCKS GIBBS, Esq., WILLIAM HENRY HOULDSWORTH, Esq., WILLIAM LAWIES JACKSON, Esq., GEORGE AULDJO JAMIESON, Esq., NEVILLE LUBBOCK, Esq., PHILIP ALBERT MUNTZ, Esq., ARTHUR O'CINNOR, Esq., ROBERT HARRY INGLIS PALGRAVE, Esq., CHARLES MARK PALMER, Esq., WILLIAN OEARCE, Esq., BONAMY PRICE, Esq., Professor of Political Economy, Oxford University, SAMUEL STOREY, Esq. HERBERT GEORGE MURRAY, Esq., Secretary.

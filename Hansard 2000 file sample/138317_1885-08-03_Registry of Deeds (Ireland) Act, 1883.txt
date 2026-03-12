@@ -1,0 +1,11 @@
+<FileID>138317</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/registry-of-deeds-ireland-act-1883</URL>
+<Title>Registry of Deeds (Ireland) Act, 1883</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc818-9</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>192</WordCount>
+
+
+<speaker>MR. FINDLATER</speaker> asked the Financial Secretary to the Treasury, Whether he is aware that the operation of the Registry of Deeds (Ireland) Holidays Act of 1883 has been practically defeated by the action of the Treasury in deducting from the ordinary leave of the clerks a number of days equal to the number of holidays conferred by the Act; and, whether he will undertake that in future the clerks shall enjoy not only the holidays created by the Act of Parliament, but also the same amount of annual leave as they were entitled to prior to the passing of the said Act? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> The hon. Member put a similar Question on March 31, 1884, and the hon. Member for Liskeard (Mr. Courtney) then answered that the object of the Act referred to was to enable this office to be closed on the same days as other offices. The staff now get legally altogether 36 week days' leave in the year, which, in the opinion of the Registrar, and also that of the Treasury, is quite sufficient, and as much as is allowed in analogous positions.

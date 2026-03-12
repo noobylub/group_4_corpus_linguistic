@@ -1,0 +1,11 @@
+<FileID>137457</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/law-and-police-the-pall-mall-gazette</URL>
+<Title>Law and Police—the Pall Mall Gazette—objectionable Articles</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 c281</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>180</WordCount>
+
+
+<speaker>MR. ALBERT GREY</speaker> asked the Secretary of State for the Home Department, Whether ho can assure the House that orders have been given to the Police to use the utmost possible exertions allowable by Law to suppress the abominations revealed by The Pall Mall Gasette and, whether the Government will introduce into the Criminal Law Amendment Bill such amendments as may, in the opinion of the Law Officers of the Grown, be necessary to secure that the perpetrators and abettors of such abominations be brought to justice '? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS)</speaker> The orders given to the Metropolitan Police are that, on sufficient information given to them, every exertion allowable by law is to be used to suppress the alleged practices. The existing law, supplemented by the main clauses of the Criminal Law Amendment Bill , which was read a second time last night, is, in the opinion of myself and my hon. and learned Friend the Attorney General (Sir Richard Webster), sufficient to bring to justice the perpetrators of such abominations.

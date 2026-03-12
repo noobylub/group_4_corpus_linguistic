@@ -1,0 +1,9 @@
+<FileID>137359</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/07/new-peers</URL>
+<Title>New Peers</Title>
+<DebRef>HL Deb 07 July 1885 vol 298 c1793</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>79</WordCount>
+
+Edward Charles Baring, Esquire, having been created Baron Revelstoke of Membland in the County of Devon—Was (in the usual manner) introduced. The Right Honourable Sir Robert Porrett Collier, Knight, a Member of the Judicial Committee of the Privy Council, having been created Baron Monkswell of Monkswell in the county of Devon—Was (in the usual manner) introduced. Sir Ralph Robert Wheeler Lingen, K.C.B., having been created Baron Lingen of Lingen in the county of Hereford—Was (in the usual manner) introduced.

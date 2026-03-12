@@ -1,0 +1,9 @@
+<FileID>138796</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1886/jan/19/sat-first</URL>
+<Title>Sat First</Title>
+<DebRef>HL Deb 19 January 1886 vol 302 c31</DebRef>
+<SittingDate>1886-01-19</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>27</WordCount>
+
+The Earl of Wilton—after the death of his brother. The Duke of Newcastle—after the death of his father. The Marquess of Abereorn—after the death of his father.

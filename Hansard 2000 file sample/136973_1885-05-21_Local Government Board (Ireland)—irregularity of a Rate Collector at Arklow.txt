@@ -1,0 +1,13 @@
+<FileID>136973</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/local-government-board-ireland</URL>
+<Title>Local Government Board (Ireland)—irregularity of a Rate Collector at Arklow</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1021-2</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>169</WordCount>
+
+
+<speaker>MR. WILLIAM REDMOND (for Mr. W. J. CORBET)</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If he can state the circumstances under which the rate collector at Arklow left his rate book in Lord Carysfort's Estate Office; what was his object; who called upon him to do so; and, will he inquire if other landlords, or their agents, have taken a similar course? 
+<speaker>MR. CAMPBELL-BANNERMAN</speaker> It appears that the rate collector at Arklow left his rate-book with Lord Carysfort's agent, on the application of the latter, with the view of facilitating the numerous Returns which he had to make under the Representation of the People Act . The Local Government Board are not aware of any similar cases. They propose to address the Guardians in the present instance on the subject of this irregularity. 
+<speaker>MR. WILLIAM REDMOND</speaker> asked, whether the clerks would be instructed to leave their rate-books with the secretaries of branches of the National League also? 
+<speaker>MR. CAMPBELL-BANNERMAN</speaker> No, Sir; it is irregular altogether.

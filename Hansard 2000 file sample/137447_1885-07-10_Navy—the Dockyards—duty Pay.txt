@@ -1,0 +1,11 @@
+<FileID>137447</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/navy-the-dockyards-duty-pay</URL>
+<Title>Navy—the Dockyards—duty Pay</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 cc276-7</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>186</WordCount>
+
+
+<speaker>MR. STEWART MACLIVER</speaker> asked the First Lord of the Admiralty, How many men in Her Majesty's Dockyards are in receipt of the "duty-pay" au- thorised to be paid to them, and how many clerks receive it at Whitehall? 
+<speaker>THE FIRST LORD OF THE ADMIRALTY (Lord GEORGE HAMILTON)</speaker> Sir, in the London Establishments there are about 70 duty-pay places held by Lower Division clerks. In the Dockyards there are no Lower Division clerks employed at all. The clerical staff consists of Higher Division clerks, who are paid on the Playfair scheme, and Dockyard writers, mechanic and otherwise. A Departmental Committee was appointed by the late Board to fix the number of writers to be allowed as a settled Establishment, and to report as to the necessity of granting duty-pay to this class of employes. The Committee completed their labours some months back. The late Board had the Report of this Committee under their review; but as it contained references to the Higher Division staff, and necessitated further references and re-references, no decision was arrived at when they left office. We hope shortly to take the matter up.

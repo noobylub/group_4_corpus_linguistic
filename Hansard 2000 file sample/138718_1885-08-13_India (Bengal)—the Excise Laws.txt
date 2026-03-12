@@ -1,0 +1,13 @@
+<FileID>138718</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/india-bengal-the-excise-laws</URL>
+<Title>India (Bengal)—the Excise Laws</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 cc12-3</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>410</WordCount>
+
+
+<speaker>SIR GEORGE CAMPBELL</speaker> asked the Secretary of State for India, Whether any Reports have been received at the India Office regarding the inquiry which the Government of Bengal was understood to be making into the change of late years from the instill to the out-still system of taxing spirituous liquors; and, whether any information has been elicited tending to justify the suspicion entertained by some that the recent extraordinary increase in the Excise Revenue is in some measure due to changes of the character alluded to in having the effect of cheapening and promoting the consumption of intoxicating liquors. The hon. Member added that, as the noble Lord was not in his place, he might, perhaps, be permitted to answer the Question himself. He did not expect that the noble Lord would come down to the House for the purpose of answering this one Question; but he had been furnished with a reply which was of some public interest, and with the permission of the House he would read it. The hon. Gentleman was proceeding to read the reply, when— 
+<speaker>MR. SPEAKER</speaker> , interrupting, pointed out that the course about to be taken was contrary to the practice of the House. 
+<speaker>Sir GEORGE CAMPBELL</speaker> thereupon resumed his seat; but upon the noble Lord the Secretary of State for India subsequently taking his seat he rose again, and asked the Question standing in his name on the Paper. 
+<speaker>THE SECRETARY OF STATE FOR INDIA (Lord RANDOLPH CHURCHILL)</speaker> , in reply, said, he was sorry not to have been in his place at the first; but the hour at which the House mot today was so unusual and inconvenient. A copy of the Report of the Commission to which the hon. Member alluded as to Excise administration in Bengal had lately been received; but they had not yet received the orders made on the Report of that Commission by the Lieutenant Governor of Bengal or the Government of India. The Commission appeared to consider that the change of the out-still system was one amongst several causes of the increased consumption of liquor in Bengal in recent years; and he might add, for the information of the hon. Member, that it was not at all impossible that the administration of the Excise Laws in India might be one of the subjects into which the Committee of Inquiry, which they hoped would be appointed next year, would make some more or less complete investigation.

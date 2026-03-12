@@ -1,0 +1,9 @@
+<FileID>137624</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/14/second-reading</URL>
+<Title>Second Reading</Title>
+<DebRef>HL Deb 14 July 1885 vol 299 cc607-8</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>167</WordCount>
+
+Order of the Day for the Second Reading read. THE ARCHBISHOP OF CANTERBURY , in moving that the Bill be now read a second time, said, that it was directed simply to explain Clause 34 of 3 & 4 Vict. c. 113, so as to enable the Ecclesiastical Commissioners to make up the salaries of archdeacons to the sum originally fixed. That clause had been interpreted in the sense of this Bill for 30 years up to 1869, when an opinion was given that the same stipend could be reviewed only once. Hence the intended stipends of £200 a-year, which often sufficed only for travelling expenses, had, in some cases, sunk much below that sum. This Bill merely explained that the Commissioners might, from time to time. review the cases and remedy the grievance. Moved, "That the Bill be now read 2a."— {The Lord Archbishop of Canterbury. ) Motion agreed to; Bill read 2a accordingly, and committed to a Committee of the Whole House on Thursday next.

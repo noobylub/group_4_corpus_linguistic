@@ -1,0 +1,9 @@
+<FileID>137484</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/public-health-ships-c-bill</URL>
+<Title>Public Health '(Ships, &C) Bill</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 cc383-4</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>51</WordCount>
+
+On Motion of Mr. ARTHUR BALFOUR, Bill to amend the " Public Health Act, 1876 ,"in relation to Ships and Port Sanitary Authorities, ordered to be brought in by Mr. ARTHUR BALFOUR and Mr. STUART-WORTLEY. Bill presented, and read the first time. [Bill230.] House adjourned at Two o'clock till Monday next.

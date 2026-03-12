@@ -1,0 +1,16 @@
+<FileID>138358</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/parliament-business-of-the-house-1</URL>
+<Title>Parliament — Business of the House—consolidated Fund (Appropriation) Bill</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc847-8</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>215</WordCount>
+
+
+<speaker>MR. JAMES STUART</speaker> said, it was not quite clear from a previous answer of the Chancellor of the Exchequer, that he had definitely fixed Wednesday for the Report of the Criminal Law Amendment Bill . 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER,</speaker> in reply, said, that he could not make a definite promise. He could only say he hoped it might be taken on Wednesday. 
+<speaker>MR. LABOUCHERE</speaker> asked whether the third reading of the Appropriation Bill would be put down for Thursday? 
+<speaker>MR. T. P. O'CONNOR</speaker> asked whether, seeing the important Business before the House, the final stage of the Bill could not be postponed for a few days? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I hope it will not be necessary to do that. I remember the promise I gave the hon. Member for Northampton (Mr. Labouchere), and I shall be careful not to take the third reading until the Egyptian Papers are circulated. If circulated tomorrow, as I hope, we may ask the House to take it tomorrow. 
+<speaker>MR. LABOUCHERE</speaker> said, they had been circulated that morning. 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> said, he had not been aware of that fact. He could not say whether the Bill would be taken tomorrow or Wednesday; but, at any rate, it would be taken at a convenient hour.

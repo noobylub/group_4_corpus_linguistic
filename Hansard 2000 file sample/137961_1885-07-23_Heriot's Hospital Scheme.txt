@@ -1,0 +1,9 @@
+<FileID>137961</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/heriots-hospital-scheme</URL>
+<Title>Heriot's Hospital Scheme</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1734-57</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>21</WordCount>
+
+cc1734-57 MOTION FOR AN ADDERSS. 8,907 words c1757 CROWN LANDS BILL. 101 words c1757 METROPOLITAN POLICE STAFF SUPERANNUATION BILL. 36 words

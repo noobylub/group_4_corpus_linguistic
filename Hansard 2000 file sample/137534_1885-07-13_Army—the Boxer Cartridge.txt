@@ -1,0 +1,11 @@
+<FileID>137534</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/army-the-boxer-cartridge</URL>
+<Title>Army—the Boxer Cartridge</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc434-5</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>95</WordCount>
+
+
+<speaker>MR. JERNINGHAM</speaker> asked the Secretary of State for War, Whether he will lay upon the Table of the House a Statement addressed to him by General E. M. Boxer on the subject of the alleged failure of the Boxer Cartridge in the late operations in the Soudan? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> The transactions to which this Memorandum refers occurred 15 years ago. There is much controversial matter in the statement; and as the ordinary means of publication are open to General Boxer, I must decline to present it officially to Parliament.

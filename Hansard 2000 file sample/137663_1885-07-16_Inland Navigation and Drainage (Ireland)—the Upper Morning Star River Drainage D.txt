@@ -1,0 +1,11 @@
+<FileID>137663</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/inland-navigation-and-drainage-ireland</URL>
+<Title>Inland Navigation and Drainage (Ireland)—the Upper Morning Star River Drainage District</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc911-2</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>93</WordCount>
+
+
+<speaker>MR. O'SULLIVAN</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If he is aware of the dangerous state of the lands and crops in the "Upper Morning Star River Drainage District" should flood arise there during the harvest; and, if so, will he take any steps to pass at once into Law the Bill introduced on the 23rd of March last to drain and improve this district? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> My hon. Friend the Financial Secretary to the Treasury (Sir Henry Holland) will answer this.

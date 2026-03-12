@@ -1,0 +1,9 @@
+<FileID>138818</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1886/jan/21/new-peer</URL>
+<Title>New Peer</Title>
+<DebRef>HL Deb 21 January 1886 vol 302 c36</DebRef>
+<SittingDate>1886-01-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>53</WordCount>
+
+John Henry Lord Fermanagh—Was (in the usual manner) introduced by virtue of a Patent dated the thirteenth day of January 1876, his father, the first Baron (Earl of Erne in the Peerage of Ireland, a representative Peer for Ireland), who was created by such Patent, never having taken his seat as Lord Fermanagh.

@@ -1,0 +1,9 @@
+<FileID>137350</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/motions</URL>
+<Title>Motions</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 cc1943-4</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>37</WordCount>
+
+c1943 BANKRUPTCY (OFFICE ACCOMMODATION) BILL. 46 words c1943 POLEHAMPTON ESTATES BILL. 58 words c1944 ARTILLERY AND RIFLE RANGES BILL. 55 words c1944 TURNPIKE ACTS CONTINUANCE BILL. 37 words c1944 POOR LAW UNIONS' OFFICERS (IRELAND) BILL. 43 words

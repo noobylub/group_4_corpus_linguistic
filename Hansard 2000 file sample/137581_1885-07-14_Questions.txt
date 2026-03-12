@@ -1,0 +1,9 @@
+<FileID>137581</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/questions</URL>
+<Title>Questions</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 cc653-4</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>32</WordCount>
+
+c653 NAVY—ROYAL MARINES AND THE COMMISSARIAT STAFF. 74 words cc653-4 POOR LAW (ENGLAND AND WALES)— RECIPIENTS OF MEDICAL RELIEF ONLY. 120 words c654 REPRESENTATION OF THE PEOPLE ACT, 1884—UNDERGRADUATE OCCUPIERS. 196 words

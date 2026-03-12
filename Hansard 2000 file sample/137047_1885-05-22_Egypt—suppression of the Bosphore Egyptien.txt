@@ -1,0 +1,11 @@
+<FileID>137047</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/22/egypt-suppression-of-the-bosphore</URL>
+<Title>Egypt—suppression of the Bosphore Egyptien</Title>
+<DebRef>HC Deb 22 May 1885 vol 298 cc1149-50</DebRef>
+<SittingDate>1885-05-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>140</WordCount>
+
+
+<speaker>MR. GIBSON (for Sir R. ASSHETON CROSS)</speaker> asked the Under Secretary of State for Foreign Affairs, Whether any steps were taken by the Government, before the sending of the Despatch of the 1st of April by Lord Granville to Sir Evelyn Baring, to ascertain what steps could be legally undertaken to suppress The Bosphore Egyptien? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> Her Majesty's Government accepted the assurances of the Egyptian Government that they were entitled to suppress The Bosphore Egyptien, and that, if any illegality were committed, the case could be tried before the International Tribunals. No question arose as to the legality of the suppression, but only as to the procedure adopted. Her Majesty's Government were not informed that the French Consul opposed the measure, or that what amounted, at least technically, to the use of force would be made against him.

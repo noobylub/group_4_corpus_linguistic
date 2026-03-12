@@ -1,0 +1,9 @@
+<FileID>137373</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/08/vacating-of-seats-bill</URL>
+<Title>Vacating of Seats Bill</Title>
+<DebRef>HC Deb 08 July 1885 vol 299 c84</DebRef>
+<SittingDate>1885-07-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>46</WordCount>
+
+On Motion of Dr. CAMERON, Bill to amend the Law in regard to the Vacating of Seats in the House of Commons, ordered to be brought in by Dr. CAMERON, Mr. GRANTHAM,.Mr. PULESTON, and Mr. JOHN CORBETT. Bill presented, and read the first time. [Bill 221.]

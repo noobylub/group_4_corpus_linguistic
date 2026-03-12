@@ -1,0 +1,11 @@
+<FileID>138340</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/post-office-mails-to-the-western-islands</URL>
+<Title>Post Office—mails to the Western Islands</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c837</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>45</WordCount>
+
+
+<speaker>LORD COLIN CAMPBELL</speaker> asked the Postmaster General, Whether any, and, if any, what arrangement has been made to accelerate the Mails to the Western Islands? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS),</speaker> in reply, said, that the subject was now under the consideration of the Treasury.

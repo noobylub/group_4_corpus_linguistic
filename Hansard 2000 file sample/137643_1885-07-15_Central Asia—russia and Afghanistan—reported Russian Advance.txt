@@ -1,0 +1,11 @@
+<FileID>137643</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/15/central-asia-russia-and-afghanistan</URL>
+<Title>Central Asia—russia and Afghanistan—reported Russian Advance</Title>
+<DebRef>HC Deb 15 July 1885 vol 299 c882</DebRef>
+<SittingDate>1885-07-15</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>127</WordCount>
+
+
+<speaker>SIR JOHN LUBBOCK</speaker> I wish to ask the noble Lord the Secretary of State for India, Whether the Government have received any confirmation of the rumours that the Russians have attacked Zulfikar? 
+<speaker>THE SECRETARY OF STATE FOE INDIA (Lord RANDOLPH CHURCHILL)</speaker> In reply to the hon. Baronet, I beg to say that rumours have reached Her Majesty's Government that there has been some increase of the Russian Forces in the neighbourhood of Zulfikar. As to the actual extent of that increase, the Government have not received at the present moment any very reliable information; but inquiries are, of course, being made. Colonel Ridgeway's Commission has moved to the neighbourhood of Herat, and two officers—Captain Peacock and Captain Yate—have, on the invitation of the Heratees, repaired to Herat.

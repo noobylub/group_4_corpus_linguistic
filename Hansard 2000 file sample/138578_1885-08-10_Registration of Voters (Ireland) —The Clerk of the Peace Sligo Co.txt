@@ -1,0 +1,11 @@
+<FileID>138578</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/registration-of-voters-ireland-the-clerk</URL>
+<Title>Registration of Voters (Ireland) —The Clerk of the Peace Sligo Co</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 c1565</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>116</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> With respect to the promise given by the Attorney General for Ireland to inquire into the conduct of the Clerk of the Peace for the county of Sligo, I would ask the right hon. and learned Gentleman, Whether it has come to his knowledge that the Parliamentary lists were not posted until the 7th instant, three days after it was possible for persons to lodge claims? 
+<speaker>THE ATTOENEY GENERAL FOR IEELAND (Mr. HOLMES)</speaker> No, Sir, it has not come to my knowledge; but since I gave the undertaking to the House, I have taken steps for the fullest inquiry into the matters connected with the Clerk of the Peace for the county of Sligo.

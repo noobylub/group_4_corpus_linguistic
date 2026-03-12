@@ -1,0 +1,13 @@
+<FileID>138292</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/the-papal-see-diplomatic-communication</URL>
+<Title>The Papal See—diplomatic Communication With the Vatican— Sir George Errington</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 cc685-6</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>317</WordCount>
+
+
+<speaker>MR. T. P. O'CONNOR</speaker> asked the Under Secretary of State for Foreign Affairs, Whether he knew anything of a letter published in this week's issue of United Ireland purporting to be addressed by Sir George Errington to Earl Granville, as Foreign Secretary, in which Earl Granville was informed that it is necessary to keep the Vatican in good humour with you"— that is, the English Government— in order to have your nominee appointed to the Archbishopric of Dublin? He wished to ask the right hon. Gentleman whether there was any record of such a letter, or a letter of a similar character, in the Foreign Office; if so, whether the Government would not feel it to be its duty, in view of the feeling amongst Orangemen with regard to the connection of the Government with the Vatican, to indicate their opinion of such conduct on the part of their Predecessors in reference to the Archiepiscopal See of Dublin? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> In answer to the Question of the hon. Member, I beg to say that I have not seen the letter referred to, and that I have told the House before that I have not read the Correspondence which took place between that gentleman and the late Government. If the hon. Gentleman wishes for further information on the subject, and puts down his Question, I shall be happy to answer it. 
+<speaker>MR. T. P. O'CONNOR</speaker> I will put down the Question, and will ask the right hon. Member whether the Government will not consider it necessary, especially amongst Orangemen, who regard with disfavour any relations between the British Government and the Vatican, to set public opinion right? 
+<speaker>MR. BOURKE</speaker> If the hon. Gentleman puts down a Question on the subject, I shall be glad to consult with the Prime Minister on it, I cannot take any steps of this kind without his consent.

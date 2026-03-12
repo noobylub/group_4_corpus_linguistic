@@ -1,0 +1,11 @@
+<FileID>138530</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/poor-law-ireland-charge-of-intoxication</URL>
+<Title>Poor Law (Ireland)—charge of Intoxication Against the Schoolmasters of the Belfast Workhouse</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 cc1450-1</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>266</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, What steps the Local Government Board for Ireland have taken regarding the report furnished them, about two schoolmasters of the Belfast Workhouse named Madden and M'Guinness, who were seen in a helpless state of drunkenness in the streets of Belfast on the 14th July 1885; is it true that, although Madden was assisted by some friends through a back entrance into the workhouse on this date, to the knowledge of the head schoolmaster and other officials of the workhouse, as well as several paupers, no report of Madden's condition was made to the Guardians; is it true that Madden offered a written explanation to the Guardians of his misconduct, and that the Chairman of the Board directed him to withdraw it, so that the document would not require to be entered on the minutes of their proceedings; is Madden the same person who was convicted at the Belfast Petty Sessions of drunkenness and using party expressions; and, is it desirable that schoolmasters of this class should be continued in office; and, if not, what steps will be taken in relation to these two teachers? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> No such Report as that mentioned in this Question has been furnished to the Local Government Board. I understand that anonymous letters containing a charge of this kind against these two schoolmasters have been sent to the Chairman of the Board of Guardians, and to the Local Government Board, who have both very properly declined to take notice of communications of that character.

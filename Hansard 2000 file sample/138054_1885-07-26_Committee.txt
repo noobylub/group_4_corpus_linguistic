@@ -1,0 +1,11 @@
+<FileID>138054</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/26/committee</URL>
+<Title>Committee</Title>
+<DebRef>HL Deb 26 July 1885 vol 300 c235</DebRef>
+<SittingDate>1885-07-26</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>214</WordCount>
+
+Order of the Day for the House to be put into Committee read. Moved, "That the House do now resolve itself into Committee."—( The Lord Mount-Temple. ) 
+<speaker>VISCOUNT BURY</speaker> explained certain alterations which he desired to see introduced into the Bill. 
+<speaker>LORD MOUNT-TEMPLE</speaker> , explained that the Conservancy would have authority to remove boats that now remained for months opposite to private houses to the annoyance of the residents. Motion agreed to; House in Committee accordingly. Clauses 1 to 3, inclusive, agreed to. Clause 4 (Right of navigation to include anchoring and mooring). Amendments made. Moved, "To leave out the Clause as amended."—( The Lord Clinton. ) On Question, "That the Clause, as amended, stand part of the Bill?" Their Lordships divided: —Contents 7; Not-Contents 6: Majority 1. Resolved in the affirmative. Clause 5 agreed to. Clause 6 (Provision for preventing annoyance to riparian owner). Amendment moved, in page 2, line 37, in lieu of ("seven days") omitted, to insert ("forty-eight hours.")—( The Earl of Abingdon. ) On Question? Their Lordships divided: — Contents 4; Not-Contents 17: Majority 13. Resolved in the negative. Clauses, as amended, agreed to. Remaining Clauses agreed to, with Amendments. The Report of the Amendments to be received on Thursday next; and Bill to be printed as amended. (No. 218.)

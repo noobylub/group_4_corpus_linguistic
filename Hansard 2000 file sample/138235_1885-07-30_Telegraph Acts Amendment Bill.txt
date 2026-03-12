@@ -1,0 +1,9 @@
+<FileID>138235</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/telegraph-acts-amendment-bill</URL>
+<Title>Telegraph Acts Amendment Bill</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc554-77</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>13</WordCount>
+
+( Mr. Shaw Lefevre, Mr. Hibbert. ) cc554-77 [BILL 121.] COMMITTEE. 9,778 words

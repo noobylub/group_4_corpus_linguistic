@@ -1,0 +1,11 @@
+<FileID>138732</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/law-and-police-england-and-wales</URL>
+<Title>Law and Police (England and Wales)—suppression of Disorderly Houses—case of Mrs Jeffries</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c21</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>89</WordCount>
+
+
+<speaker>MR. CALLAN</speaker> asked the Secretary of State for the Home Department, Whether, in view of the mass of fresh evidence and the new and material facts disclosed in connection with the Jeffries case, he would grant an inquiry by an independent tribunal into the dismissal of Inspector Minahan? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> , in reply, said, that, while he could make no promise, he could assure the hon. Member that any Memorial with regard to this or any other case would receive his best attention.

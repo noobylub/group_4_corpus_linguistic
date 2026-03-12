@@ -1,0 +1,9 @@
+<FileID>137091</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/05/local-government-provisional-orders-no-7</URL>
+<Title>Local Government Provisional Orders (No 7) Bill</Title>
+<DebRef>HC Deb 05 June 1885 vol 298 c1333</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>74</WordCount>
+
+On Motion of Mr. GEORGE RUSSELL, Bill to confirm certain Provisional Orders of the Local Government Board relating to the Borough of Batley, the Improvement Act District of Bournemouth, the Borough of Evesham, the City of Manchester, the Local Government District of Worthing, and the Ystradyfodwg and Pontypridd Main Sewerage District, ordered to be brought in by Mr. GEORGE RUSSELL and Sir CHARLES W. DILKE. Bill presented, and read the first time. [Bill 201.]

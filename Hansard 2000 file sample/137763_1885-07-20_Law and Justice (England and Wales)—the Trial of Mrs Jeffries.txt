@@ -1,0 +1,11 @@
+<FileID>137763</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/law-and-justice-england-and-wales-the</URL>
+<Title>Law and Justice (England and Wales)—the Trial of Mrs Jeffries</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 c1187</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>104</WordCount>
+
+
+<speaker>MR. W. FOWLER</speaker> asked the Secretary of State for the Homo Department, Whether he has made such inquiries by letter or otherwise as will enable him to give the House the information asked for as to the part taken by the Assistant fudge at the trial of the woman Jeffries, and which information he could not give by reason of the absence of the Judge? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSETON CROSS),</speaker> in reply, said, that the Judge who presided at the trial would return to town on Monday or Tuesday next, and he would then communicate with him.

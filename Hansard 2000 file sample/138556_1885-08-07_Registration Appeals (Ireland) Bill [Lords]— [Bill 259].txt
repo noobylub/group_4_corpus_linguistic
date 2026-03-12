@@ -1,0 +1,9 @@
+<FileID>138556</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/registration-appeals-ireland-bill-lords</URL>
+<Title>Registration Appeals (Ireland) Bill [Lords]— [Bill 259]</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 c1522</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>11</WordCount>
+
+( Mr. Attorney General for Ireland. ) c1522 COMMITTEE. 88 words

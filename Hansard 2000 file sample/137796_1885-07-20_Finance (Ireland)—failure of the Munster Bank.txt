@@ -1,0 +1,15 @@
+<FileID>137796</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/finance-ireland-failure-of-the-munster</URL>
+<Title>Finance (Ireland)—failure of the Munster Bank</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1210-1</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>400</WordCount>
+
+
+<speaker>MR. SEXTON (for Mr. PARNELL)</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, in view of the monetary situation created in Ireland by suspension of payment on the part of the Munster Bank, and considering that the Bank of Ireland enjoys special facilities under the law, and exceptional advantages from the Government, and has at its disposal increased note-issue power to the extent of about a million sterling, Whether the Government will use its influence to cause the Bank of Ireland to sustain, in case of need, by temporary aid, any other Irish bank which may be threatened by the excitement of the moment; and, to assist the Munster Bank to recover its position, if, on investigation, its affairs are found to be in a condition to warrant the adoption of such a course? MR. BRODRIOK I would like to ask the right hon. Gentleman, whether any application was made to the Bank of Ireland before the suspension of the Munster Bank; and, if so, whether that application was refused? Several hon. MEMBERS: It was. 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> The hon. Member for Sligo (Mr. Sexton)is probably aware, from statements that have appeared in the Press since Notice was given of this Question, that the Bank of Ireland has already taken action of the kind indicated in its second paragraph; and I can refer him to the statements made by the Lord Lieutenant on July 18, and also to a deputation from the shareholders of the Munster Bank today, as explaining His Excellency's views of the situation and in proof of the earnest attention he is devoting to this important subject. I must ask for Notice of the hon. Member for West Surrey's (Mr. Broderick's) Question. 
+<speaker>MR. SEXTON</speaker> asked the Chancellor of the Exchequer whether he, or any other Member of the Government, could communicate to the House the substance or practical effect of the statement made by Lord Carnarvon in Dublin with regard to the position of the Munster Bank? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> No, Sir; I am not in a position to do so. 
+<speaker>MR. SEXTON</speaker> Was the statement made by Lord Carnarvon made on the part of the Government? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> Of course, Lord Carnarvon made the statement on his responsibility as Lord Lieutenant of Ireland, and as a Member of the Government.

@@ -1,0 +1,13 @@
+<FileID>137770</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/suspension-of-evictions-scotland-bill</URL>
+<Title>Suspension of Evictions (Scotland) Bill</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1191-2</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>140</WordCount>
+
+
+<speaker>MR. MACFARLANE</speaker> asked Mr. Chancellor of the Exchequer, If he will afford any facilities for the passing of the Suspension of Evictions (Scotland) Bill , which now stands for Second Reading? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS - BEACH),</speaker> in reply, said that the intentions of the Government had not changed with reference to the Bill mentioned in the Question. He was afraid he could not promise any facilities for passing the Bill. 
+<speaker>MR. MACFARLANE</speaker> Would it induce the right hon. Gentleman to alter his decision if the period proposed by the Bill were changed from two years to one? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I can add nothing to the answer I formerly gave, which was given without reference to anything in the Bill. MR. J. LOWTHER said, that, under any circumstances, he should oppose the Bill.

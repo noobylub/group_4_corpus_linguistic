@@ -1,0 +1,9 @@
+<FileID>138835</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/22/address-in-answer-to-her-ma-jestys-most</URL>
+<Title>Address in Answer to Her Ma Jesty's Most Gracious Speech</Title>
+<DebRef>HC Deb 22 January 1886 vol 302 cc193-262</DebRef>
+<SittingDate>1886-01-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>7</WordCount>
+
+cc193-262 ADJOURNED DEBATE. [SECOND NIGHT.] 27,257 words

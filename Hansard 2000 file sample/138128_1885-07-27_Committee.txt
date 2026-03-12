@@ -1,0 +1,12 @@
+<FileID>138128</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/committee</URL>
+<Title>Committee</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc210-1</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>214</WordCount>
+
+Order for Committee read. 
+<speaker>MR. TOMLINSON,</speaker> in moving "That Mr. Speaker do now loave the Chair," said, that the object of the Bill was to give to the magistrates a summary jurisdiction in charges of obstructing the police in the execution of their duty. Assaults on the police could already be summarily dealt with, and he thought that the enactment should be extended to obstructing them. At present the Summary Jurisdiction Act dealt with the greater offence, but did not touch the minor one, and cases coming under the latter were necessarily sent to the Quarter Sessions. Motion made, and Question proposed, I "That Mr. Speaker do now leave the Chair."—( Mr. Tomlinson. ) 
+<speaker>MR. HOPWOOD</speaker> said, it was far too late to discuss this matter. He had a great deal to say with regard to it, therefore he begged to move the adjournment of the debate. Motion made, and Question proposed, "That the Debate be now adjourned."—( Mr. Hopwood. ) 
+<speaker>THE UNDER SECRETARY OF STATE FOR THE HOME DEPARTMENT (Mr. STUART-WORTLEY)</speaker> said, that although there was not much to be said against the Bill, there was not much to be said in its favour. He hoped the House would consent to adjourn the debate. Question put, and agreed to. Debate adjourned till Tomorrow.

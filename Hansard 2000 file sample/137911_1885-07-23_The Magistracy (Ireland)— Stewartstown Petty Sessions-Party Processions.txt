@@ -1,0 +1,11 @@
+<FileID>137911</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/the-magistracy-ireland-stewartstown</URL>
+<Title>The Magistracy (Ireland)— Stewartstown Petty Sessions-Party Processions</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1615-6</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>246</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether it is a fact that the magistrates in Stewartstown Petty Sessions ordered that no drumming parties should be allowed to parade the roads in their district; whether, in spite of this order by the magistrates, the police allowed the Orange Party to parade the roads on 1st, 13th, and 14th instant, without interference; whether, on the 13th, they stopped a party of Nationalists; and, whether he will take care that the police for time to come carry out impartially the orders of the magistrates? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> It appears that the magistrates made an order forbidding drumming parties in the public streets; but, on the 1st instant, they directed the police not to enforce the order without further instructions. The police consequently did not interfere with the Orangemen on the 1st, 13th, and 14th instant. On the 13th instant, the sergeant turned a drumming party of Nationalists back in order to prevent their coming into collision with a large body of Orangemen who were returning home. The Police authorities are satisfied that if this had not been done a serious riot would have occurred. On a previous occasion they treated a party of Orangemen in Coalisland in a similar manner. From the reports I have received I do not think that any charge of partiality can be sustained against the police in the discharge of a most difficult duty.

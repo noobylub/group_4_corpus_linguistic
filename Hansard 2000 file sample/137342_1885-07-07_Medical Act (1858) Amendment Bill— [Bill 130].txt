@@ -1,0 +1,9 @@
+<FileID>137342</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/medical-act-1858-amendment-bill-bill-130</URL>
+<Title>Medical Act (1858) Amendment Bill— [Bill 130]</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 cc1938-9</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>11</WordCount>
+
+[ Dr. Lyons. ) cc1938-9 SECOND READING. [ADJOURENED DEBATE.] 437 words

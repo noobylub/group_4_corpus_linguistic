@@ -1,0 +1,9 @@
+<FileID>136960</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1014</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>151</WordCount>
+
+SUPPLY— considered in Committee — Resolution [May 18] reported; — Postponed Resolution [May 7] considered and agreed to. PUBLIC BILLS— Ordered—First Reading —Public Health (Scotland) Provisional Order ٭ [194]; Drainage and Improvement of Lands (Ireland) Provisional Order (No. 2) ٭ [192]; Intermediate Education, Wales [195]. Second Reading —Local Government (Gas) Provisional Orders ٭ [170]; Local Government Provisional Orders (No. 3) ٭ [168]; Local Government Provisional Orders (No. 4) ٭ [169]; East India Loan (£10,000.000) [109]; Princess Beatrice's Annuity ٭ [187]. Select Committee —River Thames (No. 2) ٭ [90], nominated. Report of Select Committee —Post Office Sites [No. 208]. Committee—Report—Third Reading — Friendly Societies Act (1875) Amendment ٭ [139], and passed. Report —Tramways (Ireland) Provisional Order (No. 1) ٭ [131]. Considered as amended—Third Reading —Honorary Freedom of Boroughs [153], and passed. Third Reading —Local Government (Ireland) Provisional Orders (Labourers Act) (No. 2) ٭ [155]; Waterworks Clauses Act (1847) Amendment [152], and passed.

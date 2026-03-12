@@ -1,0 +1,11 @@
+<FileID>138081</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/south-africa-basutoland</URL>
+<Title>South Africa—basutoland</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc56-7</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>196</WordCount>
+
+
+<speaker>SIR ROBERT FOWLER (LORD MAYOR)</speaker> asked the Secretary of State for the Colonies, Whether he has received any recent communication from Colonel Clarke on the state of affairs in Basutoland; and, if so, will he inform the House of their purport? THE SECRETARY OF STATE FOR THE COLONIES (Colonel STANLEY) Our last general Report from Colonel Clarke is dated April 22. I fear it would be impossible to state within the limits of an answer the substance of the Correspondence which has taken place with Her Majesty's Representative in Basutoland; but the Papers will be presented to Parliament, and my right hon. Friend will see that tranquillity in Basutoland has been fairly well preserved. I am now glad that my right hon. Friend postponed his Question until today, for it so happens that in a telegram, principally on other matters, I have this day heard from the Cape that Masupha has sent in some but tax, and that things in Basutoland are looking rather better. 
+<speaker>SIR ROBERT FOWLER (LORD MAYOR)</speaker> Will Papers be presented before the close of the Session? THE SECRETARY OF STATE FOR THE COLONIES I will make inquiry; but I am afraid not.

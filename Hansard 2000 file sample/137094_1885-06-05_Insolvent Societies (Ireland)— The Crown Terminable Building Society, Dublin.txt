@@ -1,0 +1,11 @@
+<FileID>137094</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/05/insolvent-societies-ireland-the-crown</URL>
+<Title>Insolvent Societies (Ireland)— The Crown Terminable Building Society, Dublin</Title>
+<DebRef>HC Deb 05 June 1885 vol 298 c1334</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>126</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Financial Secretary to the Treasury, If he can say what is the present condition of the matter of liquidation of the Crown Terminable Building Society (Dublin), the Chairman, Secretary, and Treasurer of which were officials of the Crown, and the affairs of which were handed over, more than two years since, by a judgment of the Recorder of Dublin, to Messrs. Kevins and Kean, public accountants, of that city, to act as liquidators; and, when the persons entitled may expect to receive their shares of the. 
+<speaker>MR. HIBBERT</speaker> I am afraid I am in no better position for obtaining information on this matter than the hon. Member himself. The Attorney General for Ireland may be able to give the information asked for.

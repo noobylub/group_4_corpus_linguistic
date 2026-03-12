@@ -1,0 +1,10 @@
+<FileID>138401</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/post-office-ireland-tampering-with</URL>
+<Title>Post Office (Ireland)—tampering With Letters</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1041-2</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>183</WordCount>
+
+
+<speaker>MR. CALLAN (for Mr. MARUM)</speaker> asked the Postmaster General, Whether his attention has been directed to an alleged irregularity in the transit, through the postal officials, of two letters posted in Dublin on the 10th of June last, and addressed to John Lowry, Esq., Post Office, Ballybrophy, in the Queen's County, Ireland, wherein those letters have been tampered with, and that the writer of the letters in question has proposed to the postal authorities in Dublin to prove on oath the alleged tampering with the documents furnished to them; and, whether he will cause an inquiry to be instituted under which the writer may be enabled to make good the above charge? THE POSTMASTER GENERAL (Lord JOHN MAXNERS) My attention has been called to the case alluded to by the hon. Member. Very careful inquiry has already been made, and I see no reason whatever for coming to any other conclusion than that already stated to Mr. Lowry—namely, that the letters were not tampered with while in the hands of the Post Office. I, therefore, see no reason to hold the inquiry suggested.

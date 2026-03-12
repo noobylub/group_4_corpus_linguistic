@@ -1,0 +1,10 @@
+<FileID>138197</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/royal-irish-constabulary-extra-police-at</URL>
+<Title>Royal Irish Constabulary—extra Police at Portadown</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c505</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>118</WordCount>
+
+MR. MACARTNEY asked the Chief Secretary to the Lord Lieutenant of Ireland, "Whether it is a fact that head constable Egan, of Portadown, upon the 10th instant, telegraphed to Armagh for extra police to be sent to Portadown, without consulting the resident magistrate of Portadown or the district inspector of constabulary? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> It appears that in the temporary absence of the District Inspector, the head constable, who was acting for him, telegraphed for extra police assistance. He did not obtain the advice of the Resident Magistrate, though he endeavoured to do so. An unexpected disturbance had arisen in the town, and the head constable was quite justified in the course he took.

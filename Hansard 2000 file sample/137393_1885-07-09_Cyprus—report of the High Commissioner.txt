@@ -1,0 +1,9 @@
+<FileID>137393</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/cyprus-report-of-the-high-commissioner</URL>
+<Title>Cyprus—report of the High Commissioner</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c121</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>58</WordCount>
+
+CAPTAIN AYLMER asked the Secretary of State for the Colonies, "When the Report of the High Commissioner of Cyprus, in continuation of C. 4188, which was up to March 1884, will be presented to Parliament? THE SECRETARY , in reply, said, that the Paper referred to had not arrived; but he hoped it would be shortly before him.

@@ -1,0 +1,9 @@
+<FileID>138451</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/04/telegraph-acts-amendment-bill</URL>
+<Title>Telegraph Acts Amendment Bill</Title>
+<DebRef>HL Deb 04 August 1885 vol 300 cc1026-8</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>12</WordCount>
+
+( The Lord Mount-Temple. ) cc1026-8 (NO. 230.) SECOND READING. 450 words

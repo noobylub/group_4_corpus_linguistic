@@ -1,0 +1,11 @@
+<FileID>136972</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/education-department-scotland-aberdeen</URL>
+<Title>Education Department (Scotland)—aberdeen University</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1021</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>262</WordCount>
+
+
+<speaker>MR. CRAIG SELLAR</speaker> asked the Vice President of the Committee of Council, Whether the Committee of Council on Education in Scotland intend to take any, and, if so, what, steps to carry out the proposal of the Senatus of the University of Aberdeen, contained in their Letter of May 9th, 1884, supplemented by their detailed scheme of May 6th of this year, for the establishment of a Training College in connection with the University; and, whether any communications have been received in the Education Department from other Universities or Colleges in England or Scotland, containing suggestions or proposals for giving University training to Elementary school teachers; and, if so, whether, before the consideration of the Education Estimates, he will lay the Correspondence with the University of Aberdeen and with the other Universities upon the Table? 
+<speaker>MR. MUNDELLA</speaker> I received a deputation from Aberdeen University, at which the hon. Member was present; and while I expressed my concurrence in the general principle of the scheme, I explained that, under present circumstances, it would not be possible to take any immediate steps in the matter. I have received communications from Aberdeen, St. Andrews, and from the Education Committee of the Church of Scotland on the subject of the scheme, and there will be no objection to produce the Papers if the hon. Member wishes. I have received no communications from the English Universities; but the subject has engaged their attention, and suggestions have been made to us through one of the Inspectors of Training Colleges, which will be referred to in his forthcoming Report.

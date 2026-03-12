@@ -1,0 +1,9 @@
+<FileID>137105</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/05/parliament-business-of-the-house</URL>
+<Title>Parliament—business of the House</Title>
+<DebRef>HC Deb 05 June 1885 vol 298 cc1344-5</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>5</WordCount>
+
+cc1344-5 MINISTERIAL STATEMENT. 434 words

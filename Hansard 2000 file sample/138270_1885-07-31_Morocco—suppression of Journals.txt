@@ -1,0 +1,13 @@
+<FileID>138270</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/morocco-suppression-of-journals</URL>
+<Title>Morocco—suppression of Journals</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 cc669-70</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>237</WordCount>
+
+
+<speaker>MR. LABOUCHERE</speaker> asked the Under Secretary of State for Foreign Affairs, Whether his attention has been called to statements in the French papers respecting the endeavours of Sir John Hay, Her Majesty's Representative in Morocco, to cause the suppression of The Times of Morocco, The Al-Moghreb, a journal published in Spanish, and Le Reveil du Maroc, a journal published in French; and, whether he is acting in this matter under the instructions or with the approval of Her Majesty's Government? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> Sir John Drummond Hay has not taken any steps to bring about the suppression of the newspapers alluded to; on the contrary, he has deprecated the adoption of any such extreme measure. The Moorish Government have repeatedly complained to him of the insulting language used in certain papers respecting the Sultan of Morocco and the Moorish Government, as well as regards Foreign Governments and their Representatives in Morocco, and has urged their suppression. Sir John Hay has confined himself to warning the editors to be careful to avoid the insertion of language of a character to justify the Moorish Government in taking measures against the papers. His action in the matter is approved by Her Majesty's Government. 
+<speaker>MR. M'COAN</speaker> Will the right hon. Gentleman say whether Sir John Drummond Hay has any power actually to suppress any newspaper whatever? Under the Capitulations he has none. 
+<speaker>MR. BOURKE</speaker> Certainly not, Sir.

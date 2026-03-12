@@ -1,0 +1,11 @@
+<FileID>137039</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/22/post-office-charges-against-post-office</URL>
+<Title>Post Office-Charges Against Post Office Servants</Title>
+<DebRef>HC Deb 22 May 1885 vol 298 cc1144-5</DebRef>
+<SittingDate>1885-05-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>280</WordCount>
+
+
+<speaker>MR. KENNY</speaker> asked the Postmaster General, Whether postmasters or the superintendents of postal or telegraph departments in the larger offices are allowed the right of withholding from their subordinates official papers which are not marked "confidential" by the secretary, and which affect the characters and reputations of those subordinates; whether this system is pursued in order to conceal from those affected by these papers the nature of the representations made to the secretary or the surveyor, as the case may be, in cases of petty irregularities, and in consequence of which punishment in the way of fines and cautions are inflicted; whether these fines and cautions militate against these officers when the question of their promotion comes to be considered; whether the system has his approval; whether he is aware that clerks and other subordinates are frequently required to sign official papers without knowing anything of the nature of the representations upon which the secretary or surveyor decides to subject them to punishment; and, whether, if illustrative cases are brought under his notice, he is prepared to state how he will deal with them? 
+<speaker>MR. SHAW LEFEVRE</speaker> No charge is ever entertained against a Post Office servant until he has had full opportunity of answering it; but, of course, in forwarding the answer the superior officer, whether a postmaster or superintendent, is required to express his own opinion on the case, and to state the general character of the officer whose conduct is impugned; and the report in which these particulars are given, though not marked confidential, is of a confidential nature. The same practice prevails, I believe, in other Public Departments, and I see no reason to alter it.

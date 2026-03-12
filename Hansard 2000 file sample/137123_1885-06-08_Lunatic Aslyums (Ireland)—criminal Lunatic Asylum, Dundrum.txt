@@ -1,0 +1,11 @@
+<FileID>137123</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/lunatic-aslyums-ireland-criminal-lunatic</URL>
+<Title>Lunatic Aslyums (Ireland)—criminal Lunatic Asylum, Dundrum</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 c1398</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>236</WordCount>
+
+
+<speaker>MR. W. J. CORBET</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If he will make further inquiry as to whether he was correctly informed in the reply he gave on the 1st of May as to the circumstances under which a number of the Royal Irish Constabulary are employed in the Criminal Lunatic Asylum at Dundrum; whether it is true that the hospital patients were removed to make room for the constables; whether the hospital has since been, and still is, occupied exclusively by a force of twelve constables, under the command of a sergeant; if so, what arrangements are made for sick patients in the asylum; whether it is the fact that heretofore, with a much smaller proportion of attendants, and when the grounds were only partially enclosed, an escape was hardly ever attempted; and, whether he can find out what is the reason for the change? 
+<speaker>MR. CAMPBELL-BANNERMAN</speaker> I have nothing to add to my previous answer as to the reasons for which police have been employed at this asylum. The hospital patients having been transferred to the body of the house, the police have been allowed the use of the hospital, which is a small detached building. With regard to the escapes which occurred a few months ago, I cannot undertake, within the limits of an answer to a Question, to explain the causes which may have led to them.

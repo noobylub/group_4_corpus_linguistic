@@ -1,0 +1,11 @@
+<FileID>137582</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/navy-royal-marines-and-the-commissariat</URL>
+<Title>Navy—royal Marines and the Commissariat Staff</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 c653</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>82</WordCount>
+
+
+<speaker>COLONEL NOLAN (for Colonel COLT-HUKST)</speaker> asked the Secretary to the Admiralty, If there is any objection to officers of the Royal Marines volunteering for the Commissariat Staff as probationers? 
+<speaker>THE SECRETARY (Mr. RITCHIE)</speaker> Officers of Royal Marines are not eligible under existing Regulations for transfer as probationers to the Commissariat Staff; but a communication on the subject will be made to the War Office, and when a reply is received, the matter will receive the consideration of the Lords of the Admiralty.

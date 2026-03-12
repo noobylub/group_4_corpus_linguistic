@@ -1,0 +1,11 @@
+<FileID>137801</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/retirement-of-the-serjeant-at-arms</URL>
+<Title>Retirement of the Serjeant-at-Arms</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1213-4</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>194</WordCount>
+
+
+<speaker>MR. SPEAKER</speaker> I have to inform the House that I have received a letter from Mr. Gosset, the Serjeant-at-Arms attending this House, which I propose to read. It is as follows:— " House of Commons, "20th July, 1885." Sir, "I have the honour to make application to you that you will be pleased to sanction my retirement on the 30th of September next from my office, by Patent, of Her Majesty's Serjeant-at-Arms attending the Speaker of the House of Commons. " I have been in the service of this honourable House for upwards of 49 years, and I feel that the time has arrived when it is desirable that I should no longer retain my appointment. "I make this early communication in order that arrangements may be made without inconvenience. "I have the honour to be, "Sir, "Your very obedient Servant, "R. A. GOSSET, "Serjeant-at-Arms. "The Rt. Honble. "The Speaker." 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> I beg to propose that the letter read by Mr. Speaker be taken into consideration by this House at a quarter-past 4 on Thursday next, when I shall move a Resolution on the subject. Ordered accordingly.

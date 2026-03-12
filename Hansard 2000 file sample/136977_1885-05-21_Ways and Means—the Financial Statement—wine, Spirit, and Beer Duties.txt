@@ -1,0 +1,10 @@
+<FileID>136977</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/ways-and-means-the-financial-statement</URL>
+<Title>Ways and Means—the Financial Statement—wine, Spirit, and Beer Duties</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1027</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>168</WordCount>
+
+
+<speaker>SIR MICHAEL HICKS-BEACH</speaker> asked Mr. Chancellor of the Exchequer, Whether he will take an early opportunity of stating the intentions of Her Majesty's Government with regard to the provisions of the Customs and Inland Revenue Bill affecting the Duties on Wine, Spirits, and Beer, in order that the House may be aware of any changes in the proposals explained in his Financial Statement, before it is asked to proceed with the Second Beading of the Bill? MR. GLADSTONE (who replied) said: We have not thought it right to refer in any manner to this subject while the negotiations with Russia were going on, and we must still persevere in that course. I understand the object of the Question to be that, before we ask the House to read the Customs and Inland Revenue Bill a second time, a clear expression of our intention should be given with regard to the provisions affecting the Duties on wines, spirits, and beer. We will take care that that shall be done.

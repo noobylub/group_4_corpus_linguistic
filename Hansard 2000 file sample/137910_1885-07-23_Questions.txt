@@ -1,0 +1,9 @@
+<FileID>137910</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/questions</URL>
+<Title>Questions</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1615-6</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>16</WordCount>
+
+cc1615-6 THE MAGISTRACY (IRELAND)— STEWARTSTOWN PETTY SESSIONS-PARTY PROCESSIONS. 239 words c1616 FISHERIES (IRELAND)—MUSSEL FISHERIES. 150 words

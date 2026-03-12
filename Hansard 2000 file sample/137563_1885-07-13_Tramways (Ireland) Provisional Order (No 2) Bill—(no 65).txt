@@ -1,0 +1,9 @@
+<FileID>137563</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/13/tramways-ireland-provisional-order-no-2</URL>
+<Title>Tramways (Ireland) Provisional Order (No 2) Bill—(no 65)</Title>
+<DebRef>HL Deb 13 July 1885 vol 299 cc384-91</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>9</WordCount>
+
+( The Earl Spencer. ) cc384-91 RESOLUTION. 2,668 words

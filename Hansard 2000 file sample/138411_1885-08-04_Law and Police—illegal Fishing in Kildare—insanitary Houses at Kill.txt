@@ -1,0 +1,10 @@
+<FileID>138411</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/law-and-police-illegal-fishing-in</URL>
+<Title>Law and Police—illegal Fishing in Kildare—insanitary Houses at Kill</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1048</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>166</WordCount>
+
+MR. O'BRIEN asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the constabulary at Kill, county Kildare, have reported that Lord Mayo, and members of his family and servants, have repeatedly dragged the canal with large nets for fish, which when taken are conveyed to fish ponds in Lord Mayo's demesne in Palmerston, and whether a prosecution will be instituted; and, whether the houses in the village of Kill, on Lord Mayo's property, were two years ago condemned as unfit for human habitation by the late medical officer, Dr. Hayes; and, if so, who is responsible for the failure to enforce the law? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE),</speaker> in reply, said, the police had not made any Report on this matter, nor were they aware that such a thing had taken place. He was informed that, at Kill, houses held under leases were condemned as unfit for human habitation, and the sanitary officer stated that action was duly taken in the matter.

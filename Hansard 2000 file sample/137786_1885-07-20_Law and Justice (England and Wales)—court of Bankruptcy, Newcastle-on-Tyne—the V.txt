@@ -1,0 +1,11 @@
+<FileID>137786</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/law-and-justice-england-and-wales-court</URL>
+<Title>Law and Justice (England and Wales)—court of Bankruptcy, Newcastle-on-Tyne—the Vicar of St Mark's, South Shields</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 c1203</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>155</WordCount>
+
+
+<speaker>MR. BROADHURST</speaker> asked the Vice President of the Committee of Council, Whether his attention has been called to a recent case in the Newcastle on Tyne Bankruptcy Court of the Vicar of St. Mark's, South Shields, in which it was stated in evidence that he had handed over for the purpose of liquidating his debts, among other sources of income, his draft from the Ecclesiastical Commissioners, and his "school grant;" whether he will cause inquiry to be made into the truth of these statements; and, whether the teaching staff of the school for which the grant was intended have lost any part of their income in consequence of such reported diversion of funds? 
+<speaker>THE VICE PRESIDENT OF THE COUNCIL (Mr. E. STANHOPE),</speaker> in reply, said, he was making inquiries into this matter; but he was sure the hon. Member would not expect him to answer the Question until he received the result of the inquiries.

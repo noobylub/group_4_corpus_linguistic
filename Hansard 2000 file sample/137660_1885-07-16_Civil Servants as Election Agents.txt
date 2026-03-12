@@ -1,0 +1,11 @@
+<FileID>137660</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/civil-servants-as-election-agents</URL>
+<Title>Civil Servants as Election Agents</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c910</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>113</WordCount>
+
+
+<speaker>MR. BRODRICK</speaker> asked Mr. Attorney General, Whether the fact of holding a position as a salaried civil servant is a legal disqualification for the post of election agent; and, whether, except in the case of interference with official duties, any objection exists to a civil servant accepting such an appointment? 
+<speaker>THE ATTORNEY GENERAL (Sir RICHARD WEBSTER)</speaker> The fact that a person holds the position of a salaried Civil servant does not, as a matter of law, disqualify him for the post referred to in the Question. In the absence of Departmental Rules to the contrary, there is no objection to his accepting the appointment, provided it does not interfere with his official duties.

@@ -1,0 +1,11 @@
+<FileID>138626</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/the-royal-irish-constabulary-pursuit-of</URL>
+<Title>The Royal Irish Constabulary— Pursuit of Poachers</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1721-2</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>280</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Is he aware that a number of police from the Draperstown and Maghera Stations drove by cars to Glenshare Mountain on Sunday last, 2nd inst. in quest of poachers; is he aware that on the same day another lot of police from the Claudy and Park Stations were called off to Glenedera Mountain for the same purpose, the first named place being between Maghera and Dungiven, the last between Draperstown and Feeney, county Derry; he ware the police paid for this extra duty, and by whom; and, is he aware that a gentleman called at Draperstown Police Station the other day, and requested the sergeant to proceed with him to county Tyrone in pursuit of poachers; the sergeant explained that he could not go into Tyrone without a special order, when the gentleman said he was brother to Mr. Meldon, M.P., was a solicitor in Dublin, and would see that the matter would be looked after in the proper quarter? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The police in question did not go in pursuit of poachers, but for the purpose of preserving the peace and protecting gamekeepers from acts of violence while engaged in the discharge of their duty. This is one of the ordinary duties of the police, and involves no cost to the locality. It appears that a gentleman named Meldon called at Draperstown Police Station a few days ago, and made a statement about poachers on Tyrone mountains; but he did not ask the sergeant to accompany him in pursuit, and merely inquired as to the duties of the Constabulary in such cases.

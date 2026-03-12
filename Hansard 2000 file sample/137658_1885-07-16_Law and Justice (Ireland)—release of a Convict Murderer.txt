@@ -1,0 +1,11 @@
+<FileID>137658</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/law-and-justice-ireland-release-of-a</URL>
+<Title>Law and Justice (Ireland)—release of a Convict Murderer</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c909</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>175</WordCount>
+
+
+<speaker>MR. HEALY</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, On what grounds did Lord Spencer order the release of the Orangeman who murdered a Catholic solicitor in Omagh twenty-one years ago under the most horrible circumstances; and, did the late Viceroy leave any Minute behind him recommending the release of the Phoenix Park prisoners after they have served a portion of their sentences? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> The convict referred to as having been recently released is a Roman Catholic. At the time of his conviction, 20 years ago, the jury strongly recommended him to mercy on the ground that the crime was unpremeditated, and Baron Fitzgerald, who tried the case, reported that, in his opinion, it was one of aggravated manslaughter rather than murder. The case came up for consideration in the usual course after 20 years of the sentence had expired. There was nothing exceptional in its treatment. The late Viceroy left no such Minute as is suggested in the second part of the Question.

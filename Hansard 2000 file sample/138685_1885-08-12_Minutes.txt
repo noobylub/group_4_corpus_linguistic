@@ -1,0 +1,9 @@
+<FileID>138685</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/12/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 12 August 1885 vol 300 c1869</DebRef>
+<SittingDate>1885-08-12</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>30</WordCount>
+
+PUBLIC BILLS— Committee—Report —Educational Endowments (Ireland) [176]. Considered as amended—Third Reading —Housing of the Working Classes (England) [248], and passed. Withdrawn —Police Enfranchisement Extension * [219]; Moveable Dwellings * [239].

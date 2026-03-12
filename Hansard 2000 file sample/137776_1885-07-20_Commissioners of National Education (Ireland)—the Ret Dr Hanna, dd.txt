@@ -1,0 +1,11 @@
+<FileID>137776</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/commissioners-of-national-education</URL>
+<Title>Commissioners of National Education (Ireland)—the Ret Dr Hanna, dd</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 c1196</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>180</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the Rev. Hugh Hanna, D.D., Commissioner of National Education in Ireland, took an active part in the recent electioneering contest in county Down, and advocated the cause of the Conservative candidate on a public platform; whether he took a similar course in the last election in county Derry; and, whether it is a fact that the board, of which Dr. Hanna is a member, did, a few years ago, on the evidence of a newspaper report, dismiss two teachers in the West of Ireland for attempting to aid the candidature of a Poor Law Guardian? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> I understand that the Rev. Dr. Hanna did advocate the cause of my noble Friend at the recent election for the County Down. I am not aware what the fact is as regards Derry. I believe there was no contest at the last election in that county. No such case as that referred to in the last paragraph of this Question has occurred.

@@ -1,0 +1,11 @@
+<FileID>138408</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/tramway-companies-metropolis-employes</URL>
+<Title>Tramway Companies (Metropolis) —Employes Hours of Labour</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1046</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>107</WordCount>
+
+
+<speaker>MR. SAMUEL SMITH</speaker> asked the Secretary of State for the Home Department, If the attention of the Government has been called to the condition of labour imposed on the London tram men; if he is aware that they are compelled to work sixteen hours a-day, including Sundays; and, whether he will grant an inquiry into the subject? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> Yes, Sir; I have made inquiries, and I believe these men very often have to work 16 hours a-day. It seems to me enormous labour, as the House can understand, for we are ourselves working 16 hours a-day. We were so yesterday.

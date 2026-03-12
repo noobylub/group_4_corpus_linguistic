@@ -1,0 +1,11 @@
+<FileID>138773</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/14/central-asia-russia-and-afghanistan-the</URL>
+<Title>Central Asia—russia and Afghanistan—the Afghan Boundary Commission</Title>
+<DebRef>HC Deb 14 August 1885 vol 301 c35</DebRef>
+<SittingDate>1885-08-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>197</WordCount>
+
+
+<speaker>MR. GOURLEY</speaker> asked the Secretary of State for India, To be good enough to inform the House if the duties of Lord Granville's Afghan Boundary Commission have been completed; if so, whether it is the intention of Her Majesty's Government to order its withdrawal, and arrange amicably between London and St. Petersburg the existing trivial dispute regarding Zulfikar? 
+<speaker>THE SECRETARY OF STATE (Lord RANDOLPH CHURCHILL)</speaker> The duties of the Afghan Boundary Commission have not yet been completed. It is not the intention of Her Majesty's Government at the present moment to order its withdrawal; but Sir Joseph Ridgeway and those who are under his command have done, and are still doing, good and useful work. I must altogether take exception to the adjective which the hon. Member (Mr. Gourley) has inserted in the last line of his Question, where he alludes to the dispute regarding Zulfikar as "trivial." I take exception to that adjective; but I may say that Her Majesty's Government are not altogether without some confidence that before long they may be fortunate enough to arrive at a satisfactory settlement of the remaining points of the Boundary question, which have not yet been decided upon.

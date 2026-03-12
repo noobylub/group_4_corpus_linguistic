@@ -1,0 +1,14 @@
+<FileID>138506</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/parliament-business-of-the-house</URL>
+<Title>Parliament—business of the House</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 c1285</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>174</WordCount>
+
+
+<speaker>MR. LABOUCHERE</speaker> said, it would be a great convenience to the House if the Chancellor of the Exchequer would state on what day he would take non-contentious matter. 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I am afraid I am not able to answer that Question. 
+<speaker>MR. A. R. D. ELLIOT</speaker> asked what course the Government intended to take in regard to the Burgh Police and Health (Scotland) Bill ? It had already passed the House of Lords. 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I have not heard of the Bill before; and therefore I do not know anything of its prospects. 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> Perhaps I may be allowed to answer the Question. This Bill which my right hon. Friend has not heard of—and it is not in the least to be wondered at—is a Bill of very great importance; but my hon. Friend (Mr. A. R. D. Elliot) is perfectly right; the Bill is so long and complicated that it would be absolutely impossible to proceed with it this Session.

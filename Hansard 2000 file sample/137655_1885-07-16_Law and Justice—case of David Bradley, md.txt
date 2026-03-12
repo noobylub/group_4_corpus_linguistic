@@ -1,0 +1,10 @@
+<FileID>137655</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/law-and-justice-case-of-david-bradley-md</URL>
+<Title>Law and Justice—case of David Bradley, md</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c907</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>144</WordCount>
+
+
+<speaker>MR. MACFARLANE</speaker> asked the Secretary of State for the Home Department, If his attention has been called to a Memorial addressed to the late Home Secretary, by a large number of medical practitioners of Sheffield, and other places, having reference to the case of David Bradley, M.D., who was sentenced to two years' hard labour for an alleged outrage upon a woman named Sweetmore who was subject to epilepsy; and, if the facts are as stated in the Memorial, he will order an immediate inquiry into the case? THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir E. ASSHETON CROSS), in reply, said, that a considerable number of Memorials had been received with reference to this case, which was, at the present moment, being made the subject of most careful investigation. He should be prepared to make a statement on the subject on Tuesday.

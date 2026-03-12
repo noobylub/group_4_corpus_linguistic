@@ -1,0 +1,11 @@
+<FileID>138179</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/29/rathmines-and-eathgae-township-bill</URL>
+<Title>Rathmines and Eathgae Township Bill [Lords] (By Order)</Title>
+<DebRef>HC Deb 29 July 1885 vol 300 c385</DebRef>
+<SittingDate>1885-07-29</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>185</WordCount>
+
+Lords Amendment to Commons Amendments considered. 
+<speaker>MR. SEXTON</speaker> said, he believed that the Lords had taken out certain words from the Amendment which had been proposed by his hon. and learned Friend the Member for Monaghan (Mr. Healy). He (Mr. Sexton) was not in a position to judge what the exact effect of the Lords Amendment would be; but the Parliamentary Agent had assured him that the only effect of making it was to render the provision more operative. If the right hon. Gentleman the Chairman of Ways and Means accepted the assurance of the Parliamentary Agent he (Mr. Sexton) would not object to the Amendment. 
+<speaker>THE CHAIRMAN (Sir ARTHTUR OTWAY)</speaker> said, he was quite prepared to accept the Lords Amendment. He had not had an opportunity of carefully considering the matter; and he was bound to rely very much upon the judgment of the Parliamentary Agent. But as he had always found that the view of the Parliamentary Agent was never misleading, he was quite prepared to accept the Amendment on the assurance which had been given. Lords Amendment to Commons Amendments agreed to.

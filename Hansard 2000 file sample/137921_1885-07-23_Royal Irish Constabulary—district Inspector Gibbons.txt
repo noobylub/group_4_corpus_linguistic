@@ -1,0 +1,11 @@
+<FileID>137921</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/royal-irish-constabulary-district</URL>
+<Title>Royal Irish Constabulary—district Inspector Gibbons</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1620-1</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>188</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether James S. Gibbons, District Inspector, Irish Constabulary, who, as appears by official returns, was— Promoted ten steps on the seniority list, and granted a first-class favourable record (1. 11. Y. S.) for special detective intelligence and capacity, as shown in the successful prosecution of the Maamtrasna murderers, still retains the post of District Inspector, and the seniority so granted, al- though he has been serving for more than two years past as a Lieutenant Colonel in the Egyptian police; and, whether he will be removed from the Irish force? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> In April, 1883, the services of Mr. Gibbons were lent to the Egyptian Government for a period of two years in connection with their Police Force, and, on their application, the time has been extended by a further 12 months. Mr. Gibbons is allowed to retain the rank he held in the Royal Irish Constabulary, but without pay. He will not, of course, be promoted to any higher rank should his turn arise while he is serving in Egypt.

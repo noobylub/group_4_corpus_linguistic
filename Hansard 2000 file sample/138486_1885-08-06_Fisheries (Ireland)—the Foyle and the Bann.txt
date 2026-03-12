@@ -1,0 +1,11 @@
+<FileID>138486</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/fisheries-ireland-the-foyle-and-the-bann</URL>
+<Title>Fisheries (Ireland)—the Foyle and the Bann</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 cc1271-2</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>235</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Have the Fishery Inspectors investigated the complaints made by the fishermen off the Rivers Foyle and Bann; have the Inspectors made any Report on the inquiries made in the spring of this year at Moville, and in the winter at Portrush; and, if so, has any decision been made thereon, or will any decision be made, so as to protect the poor fishermen in their lawful avocations from such depredations as the steamer causes by sailing among the fleet of fishing boats, and destroying their nets; whether, considering the inability of these people to pay for Law, he will direct the captains and owners of the steamer, and all the parties concerned, to be prosecuted for thus obstructing fishermen, and also to recover damages for the losses already sustained by the fishermen; and, will he give Copy of Inspectors' Report? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The Inspectors have held two inquiries into this matter. Their Report and two volumes of evidence reached me yesterday. I have only had time to observe that some of the complaints of the fishermen were proved, and that many of them were found to be groundless; and also that the Inspectors are not unanimous in all their recommendations. The matter requires careful consideration, and I can only promise the hon. Member that it shall receive it.

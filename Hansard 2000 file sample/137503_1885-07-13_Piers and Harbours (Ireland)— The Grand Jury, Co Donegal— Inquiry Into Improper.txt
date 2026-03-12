@@ -1,0 +1,15 @@
+<FileID>137503</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/piers-and-harbours-ireland-the-grand</URL>
+<Title>Piers and Harbours (Ireland)— The Grand Jury, Co Donegal— Inquiry Into Improper Expenditure</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc413-4</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>308</WordCount>
+
+
+<speaker>MR. HEALY</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether his attention has been called to the reiterated demands of the Grand Jury of the county Donegal, and espe- cially by resolution at the last Spring Assizes, for a searching inquiry into the alleged improper expenditure of public grants and other moneys intended for the benefit of the Fisheries in Ireland in the construction of public works in useless localities, as well as imperfect in execution; whether he will lay upon the Table of the House Copies of the Resolutions and Correspondence between the Grand Jury (and of the Committee appointed by them) and the Government; and, whether it is a fact that it is now intended by the Government to employ an engineer to investigate the professional part of the matter, only leaving uninvestigated the misapplication of the Public Funds in the various ways alleged? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The Government have decided to have an inspection of these piers made by an independent engineer of undoubted eminence, who will inquire and report not only as to the suitability of the sites selected for these works, but also as to their design and the manner in which they have been executed. I do not understand the hon. Member to allege any "misapplication" or "improper expenditure" which is not covered by those points of reference. I have no objection to produce the Correspondence; but I think it would be bettor to await the engineer's Report before doing so. 
+<speaker>MR. HEALY</speaker> What is the engineer's name? 
+<speaker>THE CHIEF SECRETARY</speaker> Mr. Stevenson. 
+<speaker>MR. MITCHELL HENRY</speaker> asked whether the inspection would be confined to the county of Donegal, or would it be extended to other places? 
+<speaker>THE CHIEF SECRETARY</speaker> At present, I think, it will be confined to Donegal; but its extension is under consideration.

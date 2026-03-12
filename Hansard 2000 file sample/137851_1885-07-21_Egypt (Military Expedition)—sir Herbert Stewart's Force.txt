@@ -1,0 +1,11 @@
+<FileID>137851</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/egypt-military-expedition-sir-herbert</URL>
+<Title>Egypt (Military Expedition)—sir Herbert Stewart's Force</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 cc1404-5</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>100</WordCount>
+
+
+<speaker>GENERAL OWEN WILLIAMS</speaker> asked the Secretary of State for War, Whether, in view of the gallantry displayed and of the great hardships endured by the Force under the command of the late Sir Herbert Stewart, during the Desert march to Gubat, and in the various engagements with the enemy, he will cause a special decoration to be given to the officers and men of this Force? 
+<speaker>THE SECRETARY OF STATE FOR WAR (Mr. W. H. SMITH)</speaker> This point will be considered in connection with the general question of rewards for the campaign, on which I shall make a statement shortly.

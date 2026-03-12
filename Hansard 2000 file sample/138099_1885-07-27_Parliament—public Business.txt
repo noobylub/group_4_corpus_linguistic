@@ -1,0 +1,12 @@
+<FileID>138099</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/parliament-public-business</URL>
+<Title>Parliament—public Business</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c66</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>82</WordCount>
+
+In reply to Sir EDWARD COLEBROOKE, 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> said: We propose to finish Supply, and then take as the next Business the Telegraphs Bill and next the Criminal Law Amendment Bill , until the Committee on the Bill is finished. 
+<speaker>MR. LEWIS</speaker> I beg to ask the Chancellor of the Exchequer whether it is still understood that the Vote for the Queen's Colleges will be the first Order tomorrow? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> Yes, Sir.

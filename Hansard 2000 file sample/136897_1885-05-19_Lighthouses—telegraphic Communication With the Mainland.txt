@@ -1,0 +1,10 @@
+<FileID>136897</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/lighthouses-telegraphic-communication</URL>
+<Title>Lighthouses—telegraphic Communication With the Mainland</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 cc936-7</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>94</WordCount>
+
+MR. VIVIAN asked the President of the Board of Trade, Whether he can lay upon the Table of the House any Papers showing the results of the recent experiments for connecting outlying lighthouses with the mainland by electric telegraph? 
+<speaker>MR. CHAMBERLAIN,</speaker> in reply, said, there were no Papers which, could at present be laid on the Table. The experiments were to extend over 12 months, beginning in December last; and as soon as that experimental period was passed, he expected to have a Report which he should be happy to lay on the Table.

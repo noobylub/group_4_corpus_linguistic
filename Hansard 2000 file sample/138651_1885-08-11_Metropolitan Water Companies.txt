@@ -1,0 +1,11 @@
+<FileID>138651</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/metropolitan-water-companies</URL>
+<Title>Metropolitan Water Companies</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 c1738</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>163</WordCount>
+
+
+<speaker>GENERAL SIR GEORGE BALFOUR</speaker> asked the Secretary of State for the Home Department, Whether Her Majesty's Government will cause a statement to be prepared, for the information of the next Parliament, showing the capital, including loans and debentures, the gross income, working expanses, and net divisible profits of the Metropolitan Water Companies for the years 1880 to 1884 inclusive; and a comparative statement showing the amount the Companies would respectively have received, in the same years, under the provisional agreements of the late Mr. Edmund James Smith, as embodied in "The Metropolitan Waterworks Purchase Bill , 1880," and showing the capital, including loans and debentures, of each Company, as it stood at the date of the provisional agreements; and a statement of the amount of capital expended upon new works during the same period? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS),</speaker> in reply, said, that a Return had been presented to Parliament giving the information required by the hon. and gallant Member.

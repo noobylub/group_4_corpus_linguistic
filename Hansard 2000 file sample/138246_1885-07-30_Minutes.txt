@@ -1,0 +1,9 @@
+<FileID>138246</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/30/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 30 July 1885 vol 300 c476</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>143</WordCount>
+
+— Took the Oath for the First Time — The Lord Bishop of Truro. SELECT COMMITTEE— Fifth Report —Office of the Clerk of the Parliaments and Office of the Gentleman Usher of the Black Rod. PUBLIC BILLS— First Reading — Customs and Inland Revenue (No. 2) * (220); Lunacy Acts Amendment * (221); Metropolitan Police Staff Superannuation * (222); Patent Law Amendment * (223). Second Reading —Public Health (Scotland) Provisional Order (No. 2) * (188); Smoke Nuisance Abatement (50); Copyhold Enfranchisement (185). negatived ; Pluralities (213); Poor Law Unions Officers (Ireland) (214); Metropolitan Board of Works (Money) * (209). Committee —Earldom of Mar Restitution (217). Committee — Report —Medical Relief Disqualification Removal (207); Bankruptcy (Office Accommodation) * (191). Report — Parliamentary Elections (Corrupt Practices) * (219). Third Reading — Post Office Sites * (181); Public Health (Members and Officers) * (194), and passed.

@@ -1,0 +1,11 @@
+<FileID>137943</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/egypt-the-soudan-reported-death-of-the</URL>
+<Title>Egypt—the Soudan—reported Death of the Mahdi</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1634</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>141</WordCount>
+
+
+<speaker>SIR WALTER B. BARTTELOT</speaker> May I ask the right hon. Gentleman the Under Secretary of State for Foreign Affairs, Whether he has received any information confirming the reported death of the Mahdi? 
+<speaker>THE UNDER SECRETARY OF STATE FOR FOREIGN AFFAIRS (Mr. BOURKE)</speaker> Yes, Sir; a telegram reached the Foreign Office a short time ago from Cairo. It mentions that Brigadier General Grenfell, who is on the Nile between Assouan and Wady Haifa, had telegraphed to Mr. Egerton to say the report of the Mahdi's death seemed to be generally confirmed; that a Sheik who had arrived in the neighbourhood of Assouan spoke of having attended the Mahdi's funeral. Most of the Mahdi's agents in and around Dongola appear to have returned South from that place, and Brigadier General Grenfell adds—"The news of the death is universally believed in and around Dongola."

@@ -1,0 +1,9 @@
+<FileID>138243</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/consolidated-fund-appropriation-bill</URL>
+<Title>Consolidated Fund (Appropriation) Bill</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c631</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>83</WordCount>
+
+Resolution [July 29] reported, and agreed to. Ordered, That leave be given to bring in a Bill to apply a sum out of the Consolidated Fund to the service of the year ending on the thirty-first day of March, one thousand eight hundred and eighty-six, and to appropriate the Supplies granted in this Session of Parliament, and that Sir ARTHUR OTWAY, Mr. CHANCELLOR of the EXCHEQUER, and Sir HENRY HOLLAND do prepare and bring it in. Bill presented, and read the first time.

@@ -1,0 +1,11 @@
+<FileID>137761</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/public-health-small-pox-the-castalia</URL>
+<Title>Public Health— Small-Pox—the Castalia Hospital Ship—vaccination of an Infant at Btrh, and Again Three Days After</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1185-6</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>210</WordCount>
+
+
+<speaker>MR. HOPWOOD</speaker> asked the President of the Local Government Board, Whether his attention has been directed to the vaccination on board the Catalia Hospital Ship, of a child when only three hours old, and the re-vaccination of the same child when three days old, on both occasions unsuccessfully, the reason alleged being that the mother had been attacked with smallpox; whether he, or his predecessor in office, have expressed, or will express, disapproval of such treatment of infants; and, whether the child in this case had small pox and recovered, though vaccination was ineffective? 
+<speaker>THE PRESIDENT OF THE LOCAL GOVERNMENT BOARD (Mr. A. J. BALFOUR)</speaker> The mother was received on board the hospital ship suffering from smallpox, and the child was horn 12 days after her admission. The infant was vaccinated on the day of birth, and again two days later unsuccessfully, and afterwards had smallpox. The medical superintendent stated that he vaccinated the child in the hope of averting an attack of smallpox communicated after birth; but it was afterwards found that the disease had developed before the child's birth, and that the child was consequently protected against vaccination. I see no reason to doubt that the medical superintendent acted rightly in causing vaccination and re-vaccination of the infant.

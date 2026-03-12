@@ -1,0 +1,9 @@
+<FileID>138308</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/31/medical-relief-disqualification-removal</URL>
+<Title>Medical Relief Disqualification Removal Bill—(no 207)</Title>
+<DebRef>HL Deb 31 July 1885 vol 300 c659</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>11</WordCount>
+
+( The Earl of Milltown. ) c659 THIRD READING. 150 words

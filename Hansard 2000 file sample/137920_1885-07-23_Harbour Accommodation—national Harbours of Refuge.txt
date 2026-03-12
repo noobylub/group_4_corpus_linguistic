@@ -1,0 +1,11 @@
+<FileID>137920</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/harbour-accommodation-national-harbours</URL>
+<Title>Harbour Accommodation—national Harbours of Refuge</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1620</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>206</WordCount>
+
+
+<speaker>MR. CHARLES ROSS</speaker> asked the Parliamentary Secretary to the Board of Trade, Whether it is the intention of the Government to adopt the recommendation of the Select Committee on Harbour Accommodation (1884), and to appoint a Commission for the purpose of visiting and reporting on those portions of the coasts of the United Kingdom which have been indicated in the Report of the Committee as sites suitable for the construction of National Harbours of Refuge, or as localities urgently in need of refuges especially adapted to the requirements of fishermen and of the coasting trade? 
+<speaker>THE SECRETARY TO THE BOARD (Baron HENRY DE WORMS)</speaker> Her Majesty's Government have no intention of departing from the policy of successive Governments during the last 25 years under which they have hitherto declined to make grants of public money for harbour construction, except in cases of Imperial and National necessity. As the recommendation by the Select Committee of the appointment of such a Commission as is suggested in my hon. Friend's Question contemplated grants of public money, and not loans, the Government do not propose to appoint this Commission. With regard to the subject of loans to harbour authorities, the Treasury and the Board of Trade are considering the matter.

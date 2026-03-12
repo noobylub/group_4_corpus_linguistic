@@ -1,0 +1,11 @@
+<FileID>137853</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/ireland-the-protestant-episcopalian</URL>
+<Title>Ireland—the Protestant Episcopalian Church of Ireland</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 cc1405-6</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>130</WordCount>
+
+
+<speaker>MR. HEALY</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Will instructions now be issued to the Registrar General and other Government Departments in Ireland as to the style by which members of the disestablished religion of that country are to be officially addressed, in accordance with the decision of the authorities that the title "Church of Ireland," no longer belongs to Protestant Episcopalianism? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> Her Majesty's Government, on succeeding to Office, found that their Predecessors had come to the conclusion to adopt the title of Protestant Episcopalian Church of Ireland. No orders have been given on the subject, and, owing to the great press of Public Business, the Lord Lieutenant has not yet been able to deal with it.

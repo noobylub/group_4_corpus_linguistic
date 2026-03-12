@@ -1,0 +1,9 @@
+<FileID>138005</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/supply-civil-service-estimates</URL>
+<Title>Supply—civil Service Estimates</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 cc1814-57</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>32</WordCount>
+
+c1814 SUPPLY—considered in Committee. 3 words cc1814-57 CLASS III. — LAW AND JUSTICE. 17,256 words c1857 CLASS VI. — NONEFFECTIVE AND CHARITABLE SERVICES. 34 words c1857 CLASS VII. — MISCELLANEOUS. 26 words

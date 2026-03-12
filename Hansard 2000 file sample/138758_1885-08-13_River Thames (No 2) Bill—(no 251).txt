@@ -1,0 +1,9 @@
+<FileID>138758</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/13/river-thames-no-2-bill-no-251</URL>
+<Title>River Thames (No 2) Bill—(no 251)</Title>
+<DebRef>HL Deb 13 August 1885 vol 301 c4</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>13</WordCount>
+
+( The Lord Mount Temple. ) c4 CONSIDERATION OF COMMONS' AMENDMENTS. 19 words

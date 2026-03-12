@@ -1,0 +1,9 @@
+<FileID>137010</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/honorary-freedom-of-boroughs-bill-lords</URL>
+<Title>Honorary Freedom of Boroughs Bill [Lords]— [Bill 153]</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1134-5</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>8</WordCount>
+
+( Mr. Norwood. ) cc1134-5 CONSIDERATION. 573 words

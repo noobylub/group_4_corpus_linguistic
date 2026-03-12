@@ -1,0 +1,9 @@
+<FileID>138787</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1886/jan/13/speaker-of-the-house-of-commons</URL>
+<Title>Speaker of the House of Commons</Title>
+<DebRef>HL Deb 13 January 1886 vol 302 cc19-20</DebRef>
+<SittingDate>1886-01-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>6</WordCount>
+
+cc19-20 PRESENTED AND APPROVED. 332 words

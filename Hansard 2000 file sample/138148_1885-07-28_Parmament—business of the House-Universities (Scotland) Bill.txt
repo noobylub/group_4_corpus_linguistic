@@ -1,0 +1,10 @@
+<FileID>138148</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/parmament-business-of-the-house</URL>
+<Title>Parmament—business of the House-Universities (Scotland) Bill</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 c242</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>216</WordCount>
+
+MR. WEBSTER asked Mr. Chancellor of the Exchequer, Whether, having regard to the necessity of ample time being afforded for the discussion of the Universities (Scotland) Bill , the prospect of prolonged opposition to its provisions, and the advanced period of the Session, he will now see fit to announce, for the convenience of the House, that the Bill will not be proceeded with this Session? The hon. Member, observing that the Chancellor of the Exchequer was not yet present, said he should postpone the Question till he saw the right hon. Gentleman in his place. THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir E. ASSHETON CROSS) Will the hon. Member allow me to say that if this Bill does not go through it will certainly be due to the opposition of the hon. Member himself, who will have to account for it to the people of Scotland. 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH), having now arrived in his place, said</speaker> Looking to the list of Bills on the Paper, and to the opposition of the hon. Member and some other Members from Scotland, I am afraid we cannot hope to proceed with this Bill. MR. WEBSTER was understood to ask whether he was to accept this as a final answer? [No reply.]

@@ -1,0 +1,11 @@
+<FileID>137096</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/05/south-africa-bechuanaland-despatch-of</URL>
+<Title>South Africa—bechuanaland—despatch of Sir Hercules Robinson</Title>
+<DebRef>HC Deb 05 June 1885 vol 298 cc1335-6</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>133</WordCount>
+
+
+<speaker>SIR HENRY HOLLAND</speaker> asked the Under Secretary of State for the Colonies, When the Colonial Office received the Despatch from Sir Hercules Robinson, which has been published in the Amsterdam Dagblad; whether the substance of that Despatch is correctly stated in the "Central News" telegram of 4th June; and, when Papers, including this Despatch, will be presented to Parliament? 
+<speaker>MR. EVELYN ASHLEY,</speaker> in reply, said, that the despatch referred to in the hon. Baronet's Question, extracts from which appeared to have been published in the Amsterdam newspaper, was received at the Colonial Office on April 23, and, together with other Papers, it was laid upon the Table the day before the House separated for the Recess. He hoped that it would be in the hands of hon. Members in a day or two.

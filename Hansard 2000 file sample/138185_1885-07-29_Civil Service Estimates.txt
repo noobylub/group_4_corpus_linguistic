@@ -1,0 +1,9 @@
+<FileID>138185</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/29/civil-service-estimates</URL>
+<Title>Civil Service Estimates</Title>
+<DebRef>HC Deb 29 July 1885 vol 300 c468</DebRef>
+<SittingDate>1885-07-29</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>10</WordCount>
+
+c468 CLASS I. — PUBLIC WORKS AND BUILDINGS. 28 words

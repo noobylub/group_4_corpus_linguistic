@@ -1,0 +1,9 @@
+<FileID>137353</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/artillery-and-rifle-ranges-bill</URL>
+<Title>Artillery and Rifle Ranges Bill</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 c1944</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>55</WordCount>
+
+On Motion of Mr. Secretary SMITH, Bill to provide for the regulation of land held by one of Her Majesty's Principal Secretaries of State or a Volunteer Corps for an Artillery or Rifle Range, or a School of Gunnery or like purposes, ordered to be brought in by Mr. Secretary SMITH and Mr. GUY DAWNAY.

@@ -1,0 +1,9 @@
+<FileID>137174</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/12/consideration-of-lords-amendments</URL>
+<Title>Consideration of Lords' Amendments</Title>
+<DebRef>HC Deb 12 June 1885 vol 298 c1532</DebRef>
+<SittingDate>1885-06-12</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>33</WordCount>
+
+On the Motion of Sir CHARLES W. DILKE, Lords' Amendments to be considered upon Monday next, and to be printed. [Bill 202.] House adjourned at a quarter after Five o'clock till Monday next.

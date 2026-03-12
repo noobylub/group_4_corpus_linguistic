@@ -1,0 +1,13 @@
+<FileID>138532</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/land-purchase-ireland-bill</URL>
+<Title>Land Purchase (Ireland) Bill</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 c1452</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>346</WordCount>
+
+
+<speaker>MR. J. G. HUBBARD</speaker> asked Mr. Chancellor of the Exchequer, With reference to the forty-nine years annuity of £4, which, under the Land Purchase (Ireland) Bill , is to be the price paid to the State for £100 in land; and, whether the annuity in its entirety is under the 5 and 6 Vic. c. 35, s. 60, to be subject to the deduction of Income Tax by the debtor of the State, in which case the State would lose the amount of the Tax on the whole of its capital invested in the land, or whether, following the precedent of 16 and 17 Vic. c. 34, s. 42, it shall be made lawful for any person paying such annuity to deduct and retain thereout the Duty computed on the interest included in such annuity, and no more? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> A tenant taking advantage of the provisions of the Land Purchase (Ireland) Bill will in no case be entitled to deduct Income Tax on the annuity in its entirety; because such an annuity consists not only of interest, but also of a repayment of the principal. On so much, however, of the annuity as represents interest, the tenant will have a claim, if duly assessed, to deduct Income Tax by analogy to the 16 & 17 Vict., c. 34, s. 42. The proportion which consists of interest, and which has to be retained, will have to be determined, either by legislation, as in the Irish Church Amendment Act , 35 & 36 Vict., c. 90, or by Treasury authority, as in the case of loans under the Relief of Distress (Ireland) Act, 1880 . The attention of the Inland Revenue Board has been called to the matter, and before any repayments under the Land Purchase Bill are made it will be determined in what way the point raised should be met. 
+<speaker>GENERAL SIR GEORGE BALFOUR</speaker> asked whether the same rule would be applied to all Terminable Annuities? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> No, Sir; I can only undertake to deal with this question.

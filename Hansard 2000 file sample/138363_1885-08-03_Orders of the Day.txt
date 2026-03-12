@@ -1,0 +1,9 @@
+<FileID>138363</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/orders-of-the-day</URL>
+<Title>Orders of the Day</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc850-1026</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>93</WordCount>
+
+cc850-922 CRIMINAL LAW AMENDMENT BILL. 7 words cc850-922 COMMITTEE. [Progress 31st July.] 28,032 words cc922-80 SECRETARY FOR SCOTLAND BILL. [Lords.]— [BILL 242.] 5 words cc922-80 COMMITTEE. 23,312 words cc980-1 CONSOLIDATED FUND (APPROPRIATION) BILL. 11 words cc980-1 COMMITTEE. 84 words cc981-3 PUBLIC WORKS LOANS BILL.— [BILL 254.] 5 words cc981-3 COMMITTEE. 672 words c983 SEA FISHERIES (SCOTLAND) AMENDMENT BILL [Lords.]— [BILL 250.] 4 words c983 COMMITTEE. 183 words cc983-1025 LABOURERS (IRELAND) (No. 2) 6 words cc983-1025 [BILL 68.] COMMITTEE. 14,544 words cc1025-6 INFANTS BILL [Lords].— [BILL 157.] 2 words cc1025-6 SECOND READING. 333 words

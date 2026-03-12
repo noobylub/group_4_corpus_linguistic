@@ -1,0 +1,11 @@
+<FileID>138279</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/army-ordnance-department-widow-of-mr</URL>
+<Title>Army—ordnance Department—widow of Mr Frederick Rance</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 cc675-6</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>345</WordCount>
+
+
+<speaker>MR. BOORD</speaker> asked the Surveyor General of the Ordnance, Whether it is a fact that the widow and six children of the late Mr. Frederick Rance, an artificer of the Royal Laboratory, Woolwich Arsenal, who died of injuries received from the explosion of a shell on the 26th February last, have been awarded £10 per annum as a compassionate allowance; whether the widows and families of those who have previously lost their lives under similar circumstances had not, in some cases, been granted the amount of the full pay of the deceased, and, in others, the amount of pension or superannuation allowance to which the deceased would have been entitled at the date of his death; whether, at the time of his death, Mr. Rance was entitled, in the event of being rendered unfit for further service, to a pension of from 12 s. to 14 s. per week; and, whether he will reconsider the case, with a view to an increase of the allowance proposed? 
+<speaker>THE SURVEYOR GENERAL OF ORDNANCE (Mr. GUY DAWNAY)</speaker> The widow of the late Mr. Frederick Rance has been awarded a compassionate allowance of £10 12 s. 6 d. a-year, and a gratuity of £44 on behalf of her six children, under the Regulations laid down by the Treasury for such cases. With regard to the second paragraph of the hon. Member's Question, there is no record of the full pay of the deceased, or the amount of pension to which the deceased would have been entitled, having been granted, under similar circumstances, to the widow. Mr. Rance would not, under ordinary circumstances, have been entitled to any pension in the event of his unfitness for further service, unless the unfitness was caused by injuries received in the execution of his duty. In such a case the compensation would have been regulated by the nature of the injury. With reference to the concluding inquiry, I should explain that it rests with the Treasury to award compassionate allowances, and the Secretary of State has no power to increase the amount awarded.

@@ -1,0 +1,11 @@
+<FileID>137124</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/piers-and-harbours-ireland-arklow</URL>
+<Title>Piers and Harbours (Ireland)—arklow Harbour Works</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 cc1398-9</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>136</WordCount>
+
+
+<speaker>MR. W. J. CORBET</speaker> asked the Financial Secretary to the Treasury, Whether he has received a communication from the representatives of the ship and boat-owners of Arklow as to the failure of the harbour works; whether they have forwarded a Report thereon from Mr. W. G. Strype, C.E., the engineer under whose direction the adjacent harbour at Wicklow has been constructed; and, whether he will lay that Report upon the Table? 
+<speaker>MR. HIBBERT</speaker> A communication to the effect stated by the hon. Member has been received. As the Government have it in contemplation to procure a Report on the case from some independent engineer who has not been mixed up in the personal controversies which have, unfortunately, arisen about it, I do not think it desirable to lay any further Papers on the Table at present.

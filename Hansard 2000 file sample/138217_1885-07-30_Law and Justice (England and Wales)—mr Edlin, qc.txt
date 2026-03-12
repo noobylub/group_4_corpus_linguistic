@@ -1,0 +1,13 @@
+<FileID>138217</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/law-and-justice-england-and-wales-mr</URL>
+<Title>Law and Justice (England and Wales)—mr Edlin, qc</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc518-9</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>157</WordCount>
+
+
+<speaker>MR. GRAY</speaker> asked the Secretary of State for the Home Department, Whether Mr. Edlin, Q.C, has yet returned from his Continental tour; and, if not, when he may be expected; at what date he was granted leave of absence; for what period he was granted leave of absence; by whom he was granted leave of absence; and, on what ground he was granted leave of absence? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> Mr. Edlin had been given leave of absence by the late Secretary of State for the Home Department, who was the only person competent to grant it. The leave was given on the date of the completion of the business of the Sessions which were held on June 4. Mr. Edlin has not had any leave since the autumn of 1883. 
+<speaker>MR. GRAY</speaker> The right hon. Gentleman did not answer the first part of the Question. 
+<speaker>THE SECRETARY OF STATE</speaker> He has returned.

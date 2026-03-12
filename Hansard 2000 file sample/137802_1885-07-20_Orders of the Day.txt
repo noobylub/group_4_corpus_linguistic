@@ -1,0 +1,9 @@
+<FileID>137802</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/orders-of-the-day</URL>
+<Title>Orders of the Day</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1214-338</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>82</WordCount>
+
+c1214 SUPPLY—CIVIL SERVICE ESTIMATES. 6 words cc1214-63 CLASS I. — PUBLIC WORKS AND BUILDINGS. 19,374 words cc1264-315 CLASS II. — SALARIES AND EXPENSES OF CIVIL DEPARTMENTS. 20,481 words cc1315-24 CLASS III. — LAW AND JUSTICE. 3,065 words cc1324-32 CLASS IV. — EDUCATION, SCIENCE, AND ART. 3,171 words cc1332-4 SUPPLY. — REPORT. 747 words c1334 POOR LAW UNIONS' OFFICERS (IRELAND) BILL.— [BILL 214.] 9 words cc1334-7 COMMITTEE. 880 words c1337 PARLIAMENTARY ELECTIONS (CORRUPT PRACTICES) BILL.— [BILL 148.] 9 words cc1337-8 COMMITTEE. 342 words

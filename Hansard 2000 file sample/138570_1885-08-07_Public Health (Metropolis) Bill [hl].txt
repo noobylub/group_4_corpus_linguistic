@@ -1,0 +1,9 @@
+<FileID>138570</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/07/public-health-metropolis-bill-hl</URL>
+<Title>Public Health (Metropolis) Bill [hl]</Title>
+<DebRef>HL Deb 07 August 1885 vol 300 c1445</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>42</WordCount>
+
+A Bill to consolidate with amendments certain Acts relating to nuisances, infectious diseases, and other matters concerning public health in the Metropolis—Was presented by The Marquess of Salisbury; read 1ª (No. 240.) House adjourned during pleasure; and resumed by the Viscount Hawarden.

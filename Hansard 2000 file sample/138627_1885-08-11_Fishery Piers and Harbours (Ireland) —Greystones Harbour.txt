@@ -1,0 +1,10 @@
+<FileID>138627</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/fishery-piers-and-harbours-ireland</URL>
+<Title>Fishery Piers and Harbours (Ireland) —Greystones Harbour</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 c1722</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>108</WordCount>
+
+MR. O'BRIEN (for Mr. W. J. CORBET) asked the Financial Secretary to the Treasury, If Greystones Harbour is to be constructed on the monolithic system, as asked by the inhabitants of the town in a recent memorial to the Treasury? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> With every wish to meet all reasonable local views, the Government is unable to build the work at Greystones in the style advocated by the hon. Member, as this would involve an estimated increase of £4,000 beyond the cost approved of by the Fishery Piers and Harbours Commission, and an excess of £2,000 even if the design were materially reduced.

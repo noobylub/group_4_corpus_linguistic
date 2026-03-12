@@ -1,0 +1,9 @@
+<FileID>137206</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/15/parliament-adjournment-resignation-of</URL>
+<Title>Parliament—adjournment—resignation of Ministers</Title>
+<DebRef>HL Deb 15 June 1885 vol 298 cc1534-5</DebRef>
+<SittingDate>1885-06-15</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>24</WordCount>
+
+c1534 MOTION. 278 words c1535 PUBLIC OFFICES—THE NEW ADMIRALTY AND WAR OFFICES—THE MODELS. — QUESTION. 171 words c1535 YORKSHIRE REGISTRIES BILL. [H.L.] 33 words

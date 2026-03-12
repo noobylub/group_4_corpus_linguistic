@@ -1,0 +1,12 @@
+<FileID>138232</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/parltamentary-elections-eye-election</URL>
+<Title>Parltamentary Elections—eye Election</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c527</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>201</WordCount>
+
+
+<speaker>MR. LABOUCHERE</speaker> asked Mr. Attorney General, Whether he is aware that the returning officer in the recent bye election at Eye has charged £131 10 s. 4 d. for the official costs of taking 808 votes, or an average of nearly 3 s. 4 d. per vote; whether he is aware that this charge averages per vote a larger amount than has been charged at any previous election since the passing of the Act limiting the expense of returning officers; and whether the charge is legal? 
+<speaker>THE ATTORNEY GENERAL (Sir RICHARD WEBSTER),</speaker> in reply, said, he believed the amount charged by the Returning Officer was accurately stated in the Question; but he would remind the hon. Member that all these charges were fixed by the Schedule in the Returning Officers Bill , 1876. The question whether the charges were legal depended on whether the items were in accordance with the Schedule, and he had no means of arriving at what these items were. In reply to Sir HENRY JAMES, 
+<speaker>THE ATTORNEY GENERAL</speaker> said, he had only looked at the Schedule summarily; but he would obtain the information, add up the items, and see if they were in accordance with the Schedule.

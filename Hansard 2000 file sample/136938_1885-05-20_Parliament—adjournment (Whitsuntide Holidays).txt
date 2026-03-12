@@ -1,0 +1,9 @@
+<FileID>136938</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/20/parliament-adjournment-whitsuntide</URL>
+<Title>Parliament—adjournment (Whitsuntide Holidays)</Title>
+<DebRef>HC Deb 20 May 1885 vol 298 cc951-2</DebRef>
+<SittingDate>1885-05-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>4</WordCount>
+
+cc951-2 RESOLUTION. 213 words

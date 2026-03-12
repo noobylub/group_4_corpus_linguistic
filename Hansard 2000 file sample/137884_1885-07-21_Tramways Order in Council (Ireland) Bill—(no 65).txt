@@ -1,0 +1,9 @@
+<FileID>137884</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/21/tramways-order-in-council-ireland-bill</URL>
+<Title>Tramways Order in Council (Ireland) Bill—(no 65)</Title>
+<DebRef>HL Deb 21 July 1885 vol 299 cc1370-1</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>10</WordCount>
+
+( The Earl Spencer. ) cc1370-1 THIRD READING. 223 words

@@ -1,0 +1,11 @@
+<FileID>138588</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/science-and-art-department-ireland</URL>
+<Title>Science and Art Department, Ireland</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 c1572</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>144</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the Commissioners of National Education in Ireland have, in numerous instances, prevented duly qualified teachers from forming classes under the Science and Art Department, although such classes were to be taught outside school hours, and in premises obtained for the purpose; whether it is the fact that no corresponding prohibition is imposed on a teacher in Great Britain; and, whether the Irish Commissioners, while refusing to allow teachers to form evening science classes, allow them to give private tuition, to keep shops, and to cultivate farms? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The Commissioners of National Education never prevent a teacher who discharges his duties to the pupils of his school with a fair degree of efficiency from forming classes and earning results fees under the Science and Art Department.

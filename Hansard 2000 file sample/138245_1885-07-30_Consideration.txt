@@ -1,0 +1,9 @@
+<FileID>138245</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/consideration</URL>
+<Title>Consideration</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c631</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>47</WordCount>
+
+Bill, as amended, considered. A Clause (Amendment to "The Parliamentary Elections (Returning Officers' Expenses) (Scotland) Act, 1878 ,")— ( Mr. J. B. Balfour, )—was twice read, and made part of the Bill. Amendments made. Bill to be read the third time Tomorrow. House adjourned at Three o'clock.

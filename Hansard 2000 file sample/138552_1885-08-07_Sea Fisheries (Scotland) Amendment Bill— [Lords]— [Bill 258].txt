@@ -1,0 +1,9 @@
+<FileID>138552</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/sea-fisheries-scotland-amendment-bill</URL>
+<Title>Sea Fisheries (Scotland) Amendment Bill— [Lords]— [Bill 258]</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 cc1509-11</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>11</WordCount>
+
+( Secretary Baron Henry De Worms. ) cc1509-11 CONSIDERATION. 841 words

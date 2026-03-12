@@ -1,0 +1,9 @@
+<FileID>137421</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/copyhold-enfranchisement-bill</URL>
+<Title>Copyhold Enfranchisement Bill</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c224</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>14</WordCount>
+
+( Mr. Waugh, Mr. George Howard, Mr. Stafford Howard, Mr. Ainsworth, Mr. Ferguson. )

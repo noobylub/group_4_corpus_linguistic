@@ -1,0 +1,12 @@
+<FileID>137167</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/09/parliament-adjournment-resignation-of</URL>
+<Title>Parliament—adjournment—resignation of Ministers</Title>
+<DebRef>HL Deb 09 June 1885 vol 298 cc1516-7</DebRef>
+<SittingDate>1885-06-09</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>213</WordCount>
+
+
+<speaker>EARL GRANVILLE</speaker> My Lords, your Lordships are aware, not only from the ordinary means of communication, but also by the Minutes of the proceedings of the House of Commons, communicated to this House, of what took place in that Assembly last night. In consequence of that event, I have to move that your Lordships do adjourn until Friday. It will, perhaps, be convenient that the Provisional Order Bills should be taken before I make the Motion. The Orders of the Day having been disposed of, 
+<speaker>EARL GRANVILLE</speaker> said: I now beg to move the adjournment of the House till Friday. I may state that the Sittings will be continued for the purpose of Judicial Business, and also for Private Bill Committees. Moved, "That the House do adjourn until Friday."—( The Earl Granville. ) LORD BALFOUR I should like to ask whether the Committee of Privileges will meet tomorrow? 
+<speaker>THE LORD CHANCELLOR</speaker> Yes. LORD DENMAN , who had a Notice on the Paper to move the second reading of the Women's Suffrage Bill , said, that this subject had been before their Lord- ships for several years, and he hoped that the House would proceed with it at once. Motion agreed to. House adjourned at a quarter before Five o'clock, till Tomorrow, Eleven o'clock.

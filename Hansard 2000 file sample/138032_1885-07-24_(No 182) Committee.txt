@@ -1,0 +1,10 @@
+<FileID>138032</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/24/no-182-committee</URL>
+<Title>(No 182) Committee</Title>
+<DebRef>HL Deb 24 July 1885 vol 299 c1772</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>139</WordCount>
+
+Order of the Day for the House to be put into Committee read. 
+<speaker>THE MARQUESS OF WATERFORD</speaker> , in moving that the House do resolve itself into Committee on the Bill, said, that this was an annual measure, and only came into operation in the event of a virulent attack of Asiatic cholera. Under its provisions, no hospital was to be erected within 300 yards of a dwelling-house, and when the hospital was removed the land was to be restored to its original state. Moved, "That the House do now resolve itself into Committee."—( The Marquess of Waterford. ) THE EARL OF MILLTOWN said, he would suggest that the Act should be made a perpetual instead of an annual one. Motion agreed to. House in Committee accordingly; Bill reported without Amendment; and to be read 3a on Tuesday next.

@@ -1,0 +1,11 @@
+<FileID>138328</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/registration-of-voters-ireland-revision</URL>
+<Title>Registration of Voters (Ireland) —Revision Sessions—kilmac-Thomas Union</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc826-7</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>76</WordCount>
+
+
+<speaker>MR. P. J. POWER</speaker> asked the Chief Secretary to the Lord Lieutenant of Ire- land, Whether, owing to the difficulty people from the Kilmacthomas Union find in attending revision sessions held in Waterford or Dungarvan, it is intended to hold revision sessions at Kilmacthomas, in compliance with the wishes of the people of that union? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> Yes, Sir; Kilmacthomas has been established as a place for holding a Revision Court.

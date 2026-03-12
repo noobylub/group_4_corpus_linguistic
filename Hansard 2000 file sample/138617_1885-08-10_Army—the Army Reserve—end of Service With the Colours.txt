@@ -1,0 +1,9 @@
+<FileID>138617</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/10/army-the-army-reserve-end-of-service</URL>
+<Title>Army—the Army Reserve—end of Service With the Colours</Title>
+<DebRef>HL Deb 10 August 1885 vol 300 cc1545-6</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc1545-6 QUESTION. OBSERVATIONS. 259 words

@@ -1,0 +1,13 @@
+<FileID>136908</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/egypt-the-fortifications-of-alexandria</URL>
+<Title>Egypt—the Fortifications of Alexandria</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 c944</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>109</WordCount>
+
+
+<speaker>SIR WALTER B. BARTTELOT</speaker> asked the Secretary of State for War, Whether any steps have been taken to restore the fortifications at Alexandria; and, if not, whether it is intended to take any steps to put that most important town in a proper state of defence? 
+<speaker>SIR ARTHUR HAYTER</speaker> (who replied) said: A project for the repair of the defences of Alexandria has been submitted by the General Officer commanding in Egypt, and is now under the consideration of the Secretary of State. 
+<speaker>SIR H. DRUMMOND WOLFF</speaker> Will the work be done at the expense of England or of Egypt? 
+<speaker>SIR ARTHUR HAYTER</speaker> I am afraid I cannot say.

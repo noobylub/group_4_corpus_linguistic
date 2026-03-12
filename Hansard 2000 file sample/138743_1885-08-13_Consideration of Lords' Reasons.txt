@@ -1,0 +1,14 @@
+<FileID>138743</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/consideration-of-lords-reasons-1</URL>
+<Title>Consideration of Lords' Reasons</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 cc26-7</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>351</WordCount>
+
+Lords Reasons considered. 
+<speaker>THE UNDER, SECRETARY OF STATE FOR THE HOME DEPARTMENT (Mr. STUART-WORTLEY)</speaker> , in moving "That this House insists on the said Amendment," said, the clause was inserted last evening when the Bill was before the House, on account of the great objection of some Members from Ireland to the inclusion of that country in the Bill. As it was not expected that the clause would be left out, he thought it would not be fair to the Irish Members if that House were to agree with the Lords' Amendment. He therefore moved that Clause 8 be insisted upon. Motion made, and Question proposed, "That this House doth insist on the Amendment disagreed to by the Lords."—( Mr Stuart-Wortley. ) 
+<speaker>SIR HENRY JAMES</speaker> said, if he had thought that he could insist on the Amendment on the preceding Bill without losing the Bill he certainly should have done so. 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> said, this was simply a question of good faith with the Irish Members. In a full House it was arranged that this Bill should not extend to Ireland, and it would be a breach of faith if they did not insist on their Amendment. 
+<speaker>SIR HENRY JAMES</speaker> said, he hoped the Irish Members would be content with this, and would not insist on the Amendment. He would appeal to the Irish Members present to assist the Government in the difficult position in which they were placed. 
+<speaker>MR. SEXTON</speaker> said, there was no use appealing to the Irish Members. It was simply a question of good faith. A pledge was given them in the matter, and they expected to see the pledge redeemed. Question put, and agreed to. Committee appointed , "to draw up Seasons to be assigned to The Lords for insisting on the Amendment made by this House to the said Bill, to which The Lords have disagreed:"—Mr. ATTORNEY GENERAL for IRELAND, Mr. STUART-WOETLEY, Sir R. ASSHETON CROSS, Sir HENRY HOLLAND, Mr. SEXTON, and Mr. AKERS DOUGLAS. Said Reasons reported , and agreed to: — To be communicated to The Lords.

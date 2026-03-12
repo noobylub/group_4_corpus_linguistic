@@ -1,0 +1,11 @@
+<FileID>138349</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/education-ireland-the-model-school</URL>
+<Title>Education (Ireland)—the Model School, Kilkenny</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc841-2</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>137</WordCount>
+
+
+<speaker>MR. MARUM</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the Infant Department of the Model School of the district of Kilkenny has not been amalgamated with the Female Department; whether the Model School Farm of the same district has not been surrendered, and agricultural training and teaching has not ceased; and, why the Model School appears upon the face of the Estimates for Public Education this year in its normal aspect? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> In answer to the hon. Member, I have to say that the Kilkenny Model School only appears on the face of the Estimate for the amount required for the boys' school, and the amalgamated girls' and infants' school; no charge, therefore, appears in the Estimate for the model school farm which has ceased to exist.

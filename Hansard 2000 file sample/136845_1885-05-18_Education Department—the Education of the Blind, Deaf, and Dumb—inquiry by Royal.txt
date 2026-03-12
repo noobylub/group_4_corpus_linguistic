@@ -1,0 +1,11 @@
+<FileID>136845</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/education-department-the-education-of</URL>
+<Title>Education Department—the Education of the Blind, Deaf, and Dumb—inquiry by Royal Commission</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 c701</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>75</WordCount>
+
+
+<speaker>MR. ACKERS</speaker> asked the Vice President of the Committee of Council, Whether the Government will grant an inquiry into the education and condition of the deaf in the United Kingdom and Dependencies by means of a Royal Commission, or otherwise? 
+<speaker>MR. MUNDELLA</speaker> The question of an inquiry into the education of the blind, deaf, and dumb is now under the consideration of the Government; and I expect that a decision will shortly be arrived at.

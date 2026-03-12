@@ -1,0 +1,13 @@
+<FileID>138829</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/22/india-finance-c-income-tax</URL>
+<Title>India (Finance, &C)—income Tax</Title>
+<DebRef>HC Deb 22 January 1886 vol 302 cc190-1</DebRef>
+<SittingDate>1886-01-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>414</WordCount>
+
+
+<speaker>MR. JOSEPH CHAMBERLAIN</speaker> asked the Secretary of State for India, Whether it is true that the Financial Minister for India has proposed, with the approval of the Viceroy, a graduated Income or License Tax; and, if so, whether the Government has offered any objection to this proposal? 
+<speaker>THE SECRETARY OF STATE (Lord RANDOLPH CHURCHILL)</speaker> I have some difficulty in answering the Question of the right hon. Gentleman. I do not quite know what ho precisely means by a graduated Income Tax. As far as I can gather, ho has been careful to leave not only his opponents, but also his possible Colleagues, in a state of the utmost uncertainty on this point; and, therefore, I can only answer his Question by telling him what the Indian Income Tax proposed by the Government is, and leave him to draw his own conclusions as to whether it comes up to his own idea of a graduated Income Tax. The draft Bill of the Government of India, which has now passed through two stages in the Legislative Council, provides that nonagricultural incomes shall be taxed, and the sources are classified under four heads — offices, profits of Companies, interest on securities, and other sources. The rate of Income Tax is five pice a rupee, which, I believe, in English money is a little under ¼d. in 1 s. 6 d., on incomes of 2,000 rupees per annum and upwards; and, roughly, 4 pice on incomes under 2,000 rupees. There are certain exceptions—namely, incomes derived from land or agriculture, charities, soldiers with pay under 500 rupees a month, Government officials with salaries under 100 rupees a month, also all persons with a total income of less than 500 rupees per annum. In cases of incomes derived under the fourth head of "other sources," incomes under 2,000 rupees per annum are assessed in six grades, rising from 500 rupees to 2,000 rupees. The approval of the Secretary of State in Council has been given to the Bill. This is all the information I can give to the right hon. Gentleman, and upon that, no doubt, he will form his own conclusions. 
+<speaker>MR. JOSEPH CHAMBERLAIN</speaker> The noble Lord has not answered the last portion of the Question. 
+<speaker>LORD RANDOLPH CHURCHILL</speaker> Of course, the Indian Budget has not come before the Government as a whole; but the approval of the Secretary of State in Council has been given to the Bill, the heads of which I have stated to the House.

@@ -1,0 +1,11 @@
+<FileID>138152</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/poor-law-ireland-bantry-union</URL>
+<Title>Poor Law (Ireland)—bantry Union</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 c245</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>126</WordCount>
+
+
+<speaker>MR. DEASY</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the promised inquiry into the alleged irregular alterations of the rate books of the Bantry Union has yet taken place; if not, whether he will compel the revising officer to proceed to an inquiry at once; and, whether he will take steps to have Mr. Gilhooly, P.L.G., who has made charges against certain of the Union officials and others, informed of the day on which it is intended to have the rate books examined? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> The Commissioner of Valuation informs me that it is intended to investigate this complaint next month, and that Mr. Gilhooly will receive notice prior to the holding of the inquiry.

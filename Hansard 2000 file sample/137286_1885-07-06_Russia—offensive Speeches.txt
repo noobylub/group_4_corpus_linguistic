@@ -1,0 +1,13 @@
+<FileID>137286</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/06/russia-offensive-speeches</URL>
+<Title>Russia—offensive Speeches</Title>
+<DebRef>HC Deb 06 July 1885 vol 298 c1704</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>226</WordCount>
+
+
+<speaker>MR. LABOUCHERE</speaker> asked Mr. Chancellor of the Exchequer, Whether any communication has been received from the Russian Government, in regard to the recent published statement of Lord Randolph Churchill, that Russia has tricked us, deceived us, lied to us, as only a Russian can, or in regard to the recent public statement of the Marquess of Salisbury as to the impossibility of our making a trustworthy agreement with Russia, which was couched in the following commercial illustration:— If a man does not keep his promise in commercial matters, if he does it intentionally, you say he is a swindler; if he fails to keep his promise, because he cannot help it, you say he is a bankrupt. But whether swindler or bankrupt you are very careful in trusting him next time. 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> No, Sir. I ought to add, though, that my noble Friend beside me (Lord Randolph Churchill) informs me that the quotation of his statements is not accurate. I must also not be taken to admit that the quotation from Lord Salisbury's speech is accurate either. 
+<speaker>MR. PICTON</speaker> On the same subject of the speeches referred to by my hon. Friend (Mr. Labouchere), may I ask, whether Her Majesty's Government purpose to tender any explanation or apology to Russia regarding them? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> No, Sir.

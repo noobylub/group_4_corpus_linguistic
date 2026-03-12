@@ -1,0 +1,9 @@
+<FileID>137240</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/24/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 24 June 1885 vol 298 c1622</DebRef>
+<SittingDate>1885-06-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>30</WordCount>
+
+NEW WRIT ISSUED—.For Wakefield Borough, v. Robert Bownas Mackie, esquire, deceased. PUBLIG BILLS— Considered as amended —Tramways Provisional Orders (No. 2) * [166]; Tramways Provisional Orders (No. 3) * [107].

@@ -1,0 +1,10 @@
+<FileID>138643</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/registration-of-voters-england-list-of</URL>
+<Title>Registration of Voters (England) — List of Voters—willesden</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 c1731</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>194</WordCount>
+
+MR. GEORGE RUSSELL asked the President of the Local Government Board, Whether he is aware that, in the parish of Willesden, part of the Harrow Division of Middlesex, with a population of more than 30,000, the list of occupation voters, which ought to have been published on the 1st of August, was not obtainable on the 8th of August; that, as the last day for making claims and objections is this year the 20th of August, the time prescribed by Law for the examination and correction of the overseers list has thus been already curtailed by one-half; and, whether he can take any steps to remedy the inconvenience thus caused? 
+<speaker>THE PRESIDENT OF THE BOARD (Mr. A. J. BALFOUR)</speaker> I have made inquiry, and am told by the Vestry Clerk that the delay was caused partly by the greatly increased duties thrown on the officials of the parish in connection with obtaining the necessary information, but chiefly by the failure of the printer to furnish complete lists, owing to an injury to his plant. This explanation appears to me to be very unsatisfactory. The lists, I am informed, were obtainable at 1 o'clock today.

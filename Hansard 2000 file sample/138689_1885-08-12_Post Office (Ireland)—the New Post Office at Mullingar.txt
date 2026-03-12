@@ -1,0 +1,11 @@
+<FileID>138689</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/12/post-office-ireland-the-new-post-office</URL>
+<Title>Post Office (Ireland)—the New Post Office at Mullingar</Title>
+<DebRef>HC Deb 12 August 1885 vol 300 c1871</DebRef>
+<SittingDate>1885-08-12</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>77</WordCount>
+
+
+<speaker>MR. T. D. SULLIVAN</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the Irish Board of Works will cause proper drainage accommodation to be provided for the new Post Office at Mullingar? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> (who replied) said, he had no reason to suppose that the Board of Works had overlooked the matter alluded to; but a copy of the Question would be sent to them with an inquiry.

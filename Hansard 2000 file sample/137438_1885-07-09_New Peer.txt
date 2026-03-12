@@ -1,0 +1,9 @@
+<FileID>137438</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/09/new-peer</URL>
+<Title>New Peer</Title>
+<DebRef>HL Deb 09 July 1885 vol 299 c85</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>22</WordCount>
+
+Sir Nathaniel flayer Rothschild, Baronet, having been created Baron Rothschild of Tring in the county of Hertford—Was in the usual manner) introduced.

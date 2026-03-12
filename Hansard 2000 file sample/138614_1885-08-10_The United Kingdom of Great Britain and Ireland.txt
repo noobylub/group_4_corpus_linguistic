@@ -1,0 +1,9 @@
+<FileID>138614</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/10/the-united-kingdom-of-great-britain-and</URL>
+<Title>The United Kingdom of Great Britain and Ireland</Title>
+<DebRef>HL Deb 10 August 1885 vol 300 cc1528-31</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc1528-31 QUESTION. OBSERVATIONS, 1,146 words

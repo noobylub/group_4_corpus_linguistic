@@ -1,0 +1,11 @@
+<FileID>138630</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/poor-law-ireland-mr-wiggins-master-of</URL>
+<Title>Poor Law (Ireland)—mr Wiggins, Master of the Clones Union Workhouse</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 c1724</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>137</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether Mr. Wiggins, Master of Clones Workhouse, is not bound by the rule of the service to give his whole time to his duties in the workhouse; whether he acts as the rent agent of the Reverend Thomas Averill, a local landlord; and, can he, in accordance with the rules of the Local Government Board, continue to act as such rent agent? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The Local Government Board are informed that Mr. Wiggins receives the rent of some houses in the town of Clones, and that his doing so does not interfere with the discharge of his official duties. There is no specific rule on the subject; but the Board will ask their local Inspector to look into the case.

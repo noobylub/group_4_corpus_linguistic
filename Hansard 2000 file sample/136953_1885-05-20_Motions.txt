@@ -1,0 +1,9 @@
+<FileID>136953</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/20/motions</URL>
+<Title>Motions</Title>
+<DebRef>HC Deb 20 May 1885 vol 298 cc985-6</DebRef>
+<SittingDate>1885-05-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>33</WordCount>
+
+c985 LOCAL LOANS (SINKING FUNDS) BILL. 46 words cc985-6 POSTAL SERVICE (GREAT BRITAIN AND NORTH AMERICA). 79 words c986 RIVERS PURIFICATION BILL 33 words c986 VALUATION OF LANDS (SCOTLAND) (APPEALS) BILL. 59 words

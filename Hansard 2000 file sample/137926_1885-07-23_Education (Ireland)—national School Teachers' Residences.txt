@@ -1,0 +1,11 @@
+<FileID>137926</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/education-ireland-national-school</URL>
+<Title>Education (Ireland)—national School Teachers' Residences</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1623</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>127</WordCount>
+
+
+<speaker>COLONEL COLTHURST</speaker> asked the Secretary to the Treasury, Whether he will consider the advisability of extending the period of repayment for loans for teachers' residences in Ireland from 35 to 50 years, thus reducing the annual charge from £5 to £3 15s. per cent., as suggested in a Memorial by the Catholic Bishops recently laid upon the Table? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> The extension suggested by the Roman Catholic Bishops cannot, I fear, be agreed to, either in the interests of managers and teachers, or of the public. I may add that in any case the change would have required legislation, and therefore could not have been secured this Session. The question whether any less extension would be possible will receive careful consideration.

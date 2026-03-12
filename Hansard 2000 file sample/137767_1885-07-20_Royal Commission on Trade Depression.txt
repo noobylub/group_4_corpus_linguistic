@@ -1,0 +1,14 @@
+<FileID>137767</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/royal-commission-on-trade-depression</URL>
+<Title>Royal Commission on Trade Depression</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1190-1</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>198</WordCount>
+
+
+<speaker>MR. ARTHUR ARNOLD,</speaker> in whose name the following Question stood on the Paper:— To ask Mr. Chancellor of the Exchequer, whether he can now state the terms of the Royal Commission on Trade Depression, and the names of the Commissioners? said, that he understood that it would be convenient if he were to postpone the Question until Thursday. 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> I am afraid I must ask the hon. Member to postpone the Question for the present week at least. This is a Commission of great importance, and there is a desire on the part of many gentlemen of standing in the country to serve upon it. 
+<speaker>MR. ARTHUR ARNOLD</speaker> Is the right hon. Gentleman aware that the hon. Member for South Nottinghamshire (Mr. Storer) has a Motion on the Paper for Friday bearing somewhat on the same subject? It would have been very convenient if a statement could have been made before the Motion was discussed. 
+<speaker>MR. ARTHUR O'CONNOR</speaker> Can the right hon. Gentleman say if Ireland will be represented on the Commission? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> I am afraid I must ask for Notice of that Question.

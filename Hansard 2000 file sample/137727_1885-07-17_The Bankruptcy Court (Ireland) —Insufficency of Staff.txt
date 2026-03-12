@@ -1,0 +1,11 @@
+<FileID>137727</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/the-bankruptcy-court-ireland</URL>
+<Title>The Bankruptcy Court (Ireland) —Insufficency of Staff</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 c1058</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>266</WordCount>
+
+
+<speaker>MR. FINDLATER</speaker> asked the Financial Secretary to the Treasury, If he has seen the observations made by the Honourable Judge Miller, while presiding in the Irish Court of Bankruptcy on the 5th June, with regard to the delay of business, by reason of the official staff, as at present constituted, being insufficient to discharge the duties of the offices attached to the Court; and, whether, having regard to the consequent inconvenience and loss to suitors and the public arising from such a state of things, the Treasury are prepared to sanction the appointment of an additional clerk, as recommended by the Judges of the Court. 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> My attention has been called to a report of certain statements alleged to have been made by this Judge, and a full and correct statement of the facts has been placed before me. The work of this Office having decreased about 40 per cent since its staff was last fixed, the Treasury have insisted on the very moderate reduction of two clerks in a staff of 14. The delay referred to by the Judge arose from the temporary absence of one of the staff through sickness, and in order to meet it the choice of two alternatives was offered to the Bankruptcy Judges, after full local inquiry, neither of which they saw fit to accept. The clerk has, I believed, now returned to his duties, and it is not expected that there will be any more delays. In these circumstances the Treasury are not prepared to sanction the appointment of an additional clerk.

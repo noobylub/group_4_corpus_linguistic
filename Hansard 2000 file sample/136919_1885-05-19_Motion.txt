@@ -1,0 +1,9 @@
+<FileID>136919</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/motion</URL>
+<Title>Motion</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 c950</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>7</WordCount>
+
+c950 PARLIAMENT—WEDNESDAY SITTINGS. — RESOLUTION. 78 words

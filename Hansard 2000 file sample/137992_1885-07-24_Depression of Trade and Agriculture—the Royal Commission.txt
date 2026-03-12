@@ -1,0 +1,10 @@
+<FileID>137992</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/depression-of-trade-and-agriculture-the</URL>
+<Title>Depression of Trade and Agriculture—the Royal Commission</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 c1787</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>198</WordCount>
+
+
+<speaker>MR. STORER</speaker> asked Mr. Chancellor of the Exchequer, Whether the Commission about to be appointed to inquire into the depression of trade would embrace the question of how far it might be connected with the lamentable depression in agriculture; and, whether the inquiry would be directed with a view of providing a remedy for both should that appear possible? THE CHANCELLOR OF THE EXCHEQUER I must not lead my hon. Friend to suppose that this inquiry on the depression of trade and industry can be an inquiry into the depression of agriculture; but in so far as the depression of trade and industry is affected by or reacts upon agriculture—and it is a fact that it does so to a great extent—no doubt that must be a matter which would come within the scope of the inquiry. In the Motion of which the hon. Gentleman has given notice for this' evening he refers to the "inability of those depending on the land to purchase as formerly," and "the increasing volume of manufactured imports from foreign countries, which refuse to reciprocate our practice of Free Trade," both of which matters must necessarily come within the scope of the inquiry.

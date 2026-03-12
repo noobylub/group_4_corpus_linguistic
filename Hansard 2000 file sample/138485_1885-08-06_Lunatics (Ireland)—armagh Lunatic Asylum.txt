@@ -1,0 +1,11 @@
+<FileID>138485</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/lunatics-ireland-armagh-lunatic-asylum</URL>
+<Title>Lunatics (Ireland)—armagh Lunatic Asylum</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 cc1270-1</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>201</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, What is the number of patients in Armagh Lunatic Asylum; how many of these are Catholic, how many Protestant, and how many Presbyterian; what is the number of governors who constitute the Board of the Armagh Asylum; how many of those are Catholic, how many Protestant, and how many Presbyterian; how many Catholic and how many Presbyterian clergymen are members of the Board; what are the present salaries of the Catholic, Protestant, and Presbyterian chaplains respectively; what were their respective salaries before April 1885; and, why were the salaries then changed? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The number of patients in this Asylum is 264. Of these, 79 are Protestants, 39 Presbyterians, 138 Roman Catholics, and eight of other persuasions. The Board consists of 13 Protestants, four Presbyterians, three Roman Catholics, one member of the Society of Friends, and one Methodist. There are two Presbyterian clergymen Governors, and I believe the Roman Catholic Archbishop is also a Governor. Each of the chaplains receives a salary of £30. These salaries were not changed in April last, but a proposal to increase them is at present before the Government.

@@ -1,0 +1,9 @@
+<FileID>137629</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/14/earldom-of-mar-restitution-bill</URL>
+<Title>Earldom of Mar Restitution Bill</Title>
+<DebRef>HL Deb 14 July 1885 vol 299 c634</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>7</WordCount>
+
+c634 NOMINATION OF SELECT COMMITTEE. 243 words

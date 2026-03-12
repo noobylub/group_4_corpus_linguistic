@@ -1,0 +1,9 @@
+<FileID>137632</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/15/orders-of-the-day</URL>
+<Title>Orders of the Day</Title>
+<DebRef>HC Deb 15 July 1885 vol 299 cc799-879</DebRef>
+<SittingDate>1885-07-15</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>42</WordCount>
+
+c799 SUPPLY—CIVIL SERVICE ESTIMATES. 6 words cc799-879 CLASS I. — PUBLIC WORKS AND BUILDINGS. 31,940 words c879 CLASS VI. — NONEFFECTIVE AND CHARITABLE SERVICES. 50 words c879 CLASS IV. — EDUCATION, SCIENCE, AND ART. 72 words c879 SUPPLY. — REPORT. 20 words

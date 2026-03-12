@@ -1,0 +1,10 @@
+<FileID>137505</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/post-office-postal-orders</URL>
+<Title>Post Office—postal Orders</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c415</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>209</WordCount>
+
+
+<speaker>MR. RANKIN</speaker> asked the Postmaster General, If any, and, if so, which, of the Colonies have expressed their willingness to adopt the use of Postal Orders with the United Kingdom; and, if he is willing to open up a correspondence with those Colonies that have not so expressed themselves to ascertain if they are disposed to enter into an arrangement to honour such Postal Orders that may be sent from the United Kingdom and presented for payment at any Post Office under their control that already are authorized to pay Money Orders, so that all the advantages given by the Act of Parliament passed in 1883 may not any longer remain unused by the friends of emigrants residing in this Country? THE POSTMASTER I am glad to inform the hon. Member that the postal order system has been extended to Malta and Gibraltar, and that arrangements have been made, and are now in force, which enable persons in India, Hong Kong, and the Straits Settlement to remit money by means of postal orders to the United Kingdom. About 12 months ago a similar proposal was made by my Predecessor to the Canadian Post Office; but although further communications have been addressed to that Department no decision has been received.

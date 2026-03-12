@@ -1,0 +1,9 @@
+<FileID>138676</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/11/sea-fisheries-scotland-amendment-bill-no</URL>
+<Title>Sea Fisheries (Scotland) Amendment Bill—(no 247)</Title>
+<DebRef>HL Deb 11 August 1885 vol 300 c1716</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>12</WordCount>
+
+( The Lord Elphinstone. ) c1716 CONSIDERATION OF COMMONS' AMENDMENTS 121 words

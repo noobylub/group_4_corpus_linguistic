@@ -1,0 +1,9 @@
+<FileID>138740</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/housing-of-the-working-classes-england</URL>
+<Title>Housing of the Working Classes (England) Bill [Lords]</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c26</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>7</WordCount>
+
+c26 CONSIDERATION OF LORDS' REASONS. 129 words

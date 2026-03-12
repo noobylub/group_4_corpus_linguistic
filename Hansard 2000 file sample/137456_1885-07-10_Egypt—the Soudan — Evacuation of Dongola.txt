@@ -1,0 +1,11 @@
+<FileID>137456</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/egypt-the-soudan-evacuation-of-dongola</URL>
+<Title>Egypt—the Soudan — Evacuation of Dongola</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 c281</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>53</WordCount>
+
+
+<speaker>MR. WINGFIELD DIGBY</speaker> asked the Under Secretary of State for Foreign Affairs, What provision was made by the late Government for the accommodation of the population of the province of Dongola, which has migrated from that province since the late Government determined upon its evacuation? 
+<speaker>THE UNDER SECRETARY STATE (Mr. BOURKE)</speaker> None, Sir.

@@ -1,0 +1,9 @@
+<FileID>138804</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/21/county-of-monaghan-northern-division-and</URL>
+<Title>County of Monaghan (Northern Division) and County of Derry (Southern Division)</Title>
+<DebRef>HC Deb 21 January 1886 vol 302 c85</DebRef>
+<SittingDate>1886-01-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>90</WordCount>
+
+Mr. SPEAKER acquainted the House that ho had received a Letter from Timothy M. Healy, esquire, returned as a Member for the County of Monaghan (Northern Division), and for the County of Derry (Southern Division), making his election to serve for South Derry; and the said Letter was read as followeth:— 21 Jan. 1886. Sir, Having been returned for North Monaghan and South Derry, I beg to say that I elect to sit for South Derry. I am Sir, Your obedient Servant, The Right Honble. T. M. HEALY. The Speaker.

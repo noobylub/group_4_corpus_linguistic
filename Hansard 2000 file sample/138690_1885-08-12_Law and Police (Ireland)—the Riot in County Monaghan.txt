@@ -1,0 +1,11 @@
+<FileID>138690</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/12/law-and-police-ireland-the-riot-in</URL>
+<Title>Law and Police (Ireland)—the Riot in County Monaghan</Title>
+<DebRef>HC Deb 12 August 1885 vol 300 c1871</DebRef>
+<SittingDate>1885-08-12</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>61</WordCount>
+
+
+<speaker>MR. HEALY</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether it was while on leave of absence that Dr. Hall, medical officer, led the armed Orange attack on the Catholics in county Monaghan? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE),</speaker> in reply, said, that as the matter was still sub judice he preferred not to answer the Question.

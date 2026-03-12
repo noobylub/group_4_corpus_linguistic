@@ -1,0 +1,9 @@
+<FileID>137307</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/06/waterworks-clauses-act-1847-amendment</URL>
+<Title>Waterworks Clauses Act (1847) Amendment Bill—(no 127)</Title>
+<DebRef>HL Deb 06 July 1885 vol 298 cc1647-51</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>10</WordCount>
+
+( The Viscount Enfield. ) cc1647-51 SECOND READING. 1,457 words

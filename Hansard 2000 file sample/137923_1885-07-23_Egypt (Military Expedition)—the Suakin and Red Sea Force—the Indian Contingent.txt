@@ -1,0 +1,11 @@
+<FileID>137923</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/egypt-military-expedition-the-suakin-and</URL>
+<Title>Egypt (Military Expedition)—the Suakin and Red Sea Force—the Indian Contingent</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1621-2</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>210</WordCount>
+
+
+<speaker>MR. M'LAREN</speaker> asked the Secretary of State for India, Whether the officers and men of the Indian contingent at Suakin, under orders to return to Bombay at the beginning of June, have yet embarked; and, if so, in what transport; whether the Goa, the Scindia, the Roehampton, or the Persian Monarch transports were successively intended for this service, and whether none of these vessels arrived at Suakin last month; and, if he can say how many of the Force in question have been invalided during June, what has become of those invalided, and how many horses and camels at Suakin have died in the same period? 
+<speaker>THE SECRETARY or STATE (Mr. W. H. SMITH)</speaker> , who replied, said: The 9th Bengal Cavalry, to which, I presume, the hon. Member refers, left Suakin on the 10th of June in the Italy and Persian Monarch, and had reached Bombay on the 21st of June. The Goa, Scindia, and five other vessels not only arrived last month at Suakin but subsequently reached Bombay within the month, with followers, labourers, and mules. The Roehampton arrived later, and left Suakin for Bombay on the 12th of July. I am not yet in a position to state the casualties and invaliding for the month of June.

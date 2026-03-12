@@ -1,0 +1,11 @@
+<FileID>138017</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/second-reading-adjourned-debate</URL>
+<Title>Second Reading [Adjourned Debate]</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 c1865</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>133</WordCount>
+
+Order read, for resuming Adjourned Debate on Question [15th July], "That the Bill be now read a second time." Question again proposed. Debate resumed. 
+<speaker>MR. J. G. TALBOT</speaker> said, it was understood that at that time of the Session it was useless to proceed with Bills of a highly contentious character. He thought it would be impossible at that time to discuss a matter of this importance; and, therefore, he thought that the proper course would be to discharge the Order. Motion made, and Question proposed, "That the Order be discharged."— ( Mr. Newdegate. ) 
+<speaker>MR. SPEAKER</speaker> said, in the absence of the hon. and learned Member in charge of the Bill (Mr. Hopwood), it would be a very unusual course for the Order to be discharged. Debate further adjourned till Wednesday next.

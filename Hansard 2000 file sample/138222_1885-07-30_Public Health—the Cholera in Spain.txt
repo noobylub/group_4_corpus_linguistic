@@ -1,0 +1,11 @@
+<FileID>138222</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/public-health-the-cholera-in-spain</URL>
+<Title>Public Health—the Cholera in Spain</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc521-2</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>140</WordCount>
+
+
+<speaker>MR. LABOUCHERE</speaker> asked the President of the Local Government Board, Whether, in view of the ravages of the cholera in Spain, and of the fact that there are large imports of fruit from Spain, during the latter end of August and in September, which are packed in sawdust, it is intended to take any steps to ensure that cholera germs will not. by these means, be introduced into this Country? 
+<speaker>THE PRESIDENT (Mr. A. J. BALFOUR)</speaker> English ports that are in frequent communication with Spain have received much recent attention from the Board's Medical Department. Hitherto we have no experience of cholera ever having been conveyed in the manner suggested; but, if indications of its possible transport by such moans should be observed, the Board will not fail to convey to local sanitary authorities such cautions as may be requisite.

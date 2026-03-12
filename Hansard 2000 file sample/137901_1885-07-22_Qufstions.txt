@@ -1,0 +1,9 @@
+<FileID>137901</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/22/qufstions</URL>
+<Title>Qufstions</Title>
+<DebRef>HC Deb 22 July 1885 vol 299 c1594</DebRef>
+<SittingDate>1885-07-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>31</WordCount>
+
+c1594 EGYPT(THE SOUDAN)—REPORTED DEATH OF THE MAHDI. 32 words c1594 EGYPT (THE SOUDAN)—REPORTED FIGHTING AT KASSALA. 72 words c1594 EGYPT— OLIVIER PAIN. 29 words c1594 LUNACY LAWS AMENDMENT BILL. 43 words

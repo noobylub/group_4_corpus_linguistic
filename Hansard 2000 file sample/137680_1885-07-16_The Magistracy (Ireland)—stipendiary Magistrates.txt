@@ -1,0 +1,14 @@
+<FileID>137680</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/the-magistracy-ireland-stipendiary</URL>
+<Title>The Magistracy (Ireland)—stipendiary Magistrates</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c922</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>283</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, How many stipendiary magistrates held office in Ireland in May 1882, at the date of the introduction of the Crimes Prevention (Ireland) Bill , and how-many hold office now; and, whether the establishment of stipendiary magistrates and police will be now brought down to the ordinary level? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> In May, 1882, there were 90 Resident Magistrates in Ireland. There are now 80. The number of Constabulary in the Estimates for 1883 was 14,277. The number for the current financial year is 12,667, and this number is being further reduced, so far as the requirements of the country permit, by the suspension of recruiting. There is no intention at present of further reducing the number of Resident Magistrates; but, on the occurrence of vacancies, we shall carefully consider whether economies can be effected by a redistribution of districts. 
+<speaker>MR. HEALY</speaker> May I ask the right hon. Gentleman if he is aware of what took place last year as to the illegal payment of a greater salary to certain Resident Magistrates than the Vote warranted, and that the late Government brought in a Bill making it legal? Will the right hon. Gentleman or the Financial Secretary to the Treasury give any guarantee that no sum not authorized by Act of Parliament will be paid to the Resident Magistrates? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND</speaker> said, he was well aware that the matter had been under consideration. 
+<speaker>MR. SEXTON</speaker> Will the right hon. Gentleman consider whether the cessation of the Crimes Act Courts will not allow the Government to reduce greatly the number of stipendaries? [Reply inaudible.]

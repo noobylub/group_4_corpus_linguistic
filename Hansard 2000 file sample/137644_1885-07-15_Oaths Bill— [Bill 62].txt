@@ -1,0 +1,9 @@
+<FileID>137644</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/15/oaths-bill-bill-62</URL>
+<Title>Oaths Bill— [Bill 62]</Title>
+<DebRef>HC Deb 15 July 1885 vol 299 c882</DebRef>
+<SittingDate>1885-07-15</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>24</WordCount>
+
+( Mr. Hopwood, Mr. Stansfeld, Mr. Percy Wynd-ham, Mr. Charles Russell, Mr. Nod, Mr. Pennington, Mr. Arthur Elliot. ) c882 SECOND READING. 33 words

@@ -1,0 +1,11 @@
+<FileID>137042</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/22/crimes-ireland-return-of-statistics</URL>
+<Title>Crimes (Ireland)—return of Statistics, January 1 to April 30, 1885</Title>
+<DebRef>HC Deb 22 May 1885 vol 298 cc1146-7</DebRef>
+<SittingDate>1885-05-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>131</WordCount>
+
+
+<speaker>MR. O'SHEA</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether he will furnish a Return, similar to that presented for 1880, showing all crimes against public life, firing into dwelling houses, administering unlawful oaths, demands for money, threatening letters or other intimidation, incendiary fires, robbery of arms, which have been reported by the Royal Irish Constabulary between the 1st day of January 1885, and the 30th day of April, inclusive, distinguishing, as far as possible, Agrarian Crimes, and showing (1) number and names of persons convicted, (2) number and names of persons made amenable, but not convicted, (3) number of cases in which no person was made amenable? 
+<speaker>MR. CAMPBELL-BANNERMAN</speaker> There is no objection to the production of the Return, if the hon. Member will move for it.

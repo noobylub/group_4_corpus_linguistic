@@ -1,0 +1,11 @@
+<FileID>138200</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/corporate-bodies-metropolis-the-city</URL>
+<Title>Corporate Bodies (Metropolis)— The City Fellowship of Porters</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc506-7</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>261</WordCount>
+
+
+<speaker>MR. BRYCE</speaker> asked the Secretary of State for the Home Department, Whether he is aware of the present unsatisfactory condition of the Fellowship of Porters of the City of London, and in particular of the facts following, viz.:— That, in spite of a new Act of Common Council passed in 1884, the expenses of the management of the body are out of all proportion to its resources; that the capital funds are being reduced owing to the relatively largo amount of the annual expenditure; that the state of the accounts has caused the greatest dissatisfaction to members of the body; that, by a recent decision in a court of Law, the bye-laws of the Society have been held to be invalid; and that the Court of Common Council have been more than once petitioned with a view to thorough reform of the Fellowship, but without avail; and, if he will consider whether some means may be taken to remedy these abuses, and a full and impartial inquiry instituted into the state of the body? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS),</speaker> in reply, said, the matter was now receiving the attention of one of the Corporation committees, to which it had been referred on the petition of the porters themselves. No doubt, owing to the altered times and circumstances, the state of things was not what it might have been expected to be; but the Corporation had no control over the Fellowship, which, managed its own affairs. He was informed that the last two allegations in the Question were inaccurate.

@@ -1,0 +1,9 @@
+<FileID>138812</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/21/address-in-answer-to-her-majestys-most</URL>
+<Title>Address in Answer to Her Majesty's Most Gracious Speech</Title>
+<DebRef>HC Deb 21 January 1886 vol 302 cc87-181</DebRef>
+<SittingDate>1886-01-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>5</WordCount>
+
+cc87-181 FIRST EIGHT. 37,740 words

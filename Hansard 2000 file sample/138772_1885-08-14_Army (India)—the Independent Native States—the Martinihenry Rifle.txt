@@ -1,0 +1,11 @@
+<FileID>138772</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/14/army-india-the-independent-native-states</URL>
+<Title>Army (India)—the Independent Native States—the Martinihenry Rifle</Title>
+<DebRef>HC Deb 14 August 1885 vol 301 cc34-5</DebRef>
+<SittingDate>1885-08-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>108</WordCount>
+
+
+<speaker>MR. GOURLEY</speaker> asked the Secretary of State for India, Whether, in consequence of his having decided that Na- tive Indian Regiments in the service of the Queen shall be armed with Martini-Henry rifles, it is the intention of Her Majesty's Government to recommend that the armies of independent Native Princes shall be similarly armed? 
+<speaker>THE SECRETARY OF STATE (Lord RANDOLPH CHURCHILL)</speaker> , in reply, said, that the subject was a very large one, and was surrounded with many difficulties. He was not aware that the arming of the regiments of the Native Princes of India with the Martini-Henry rifle had ever been considered by the Government of India.

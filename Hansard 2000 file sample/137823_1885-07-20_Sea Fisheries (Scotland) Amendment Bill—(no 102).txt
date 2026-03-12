@@ -1,0 +1,9 @@
+<FileID>137823</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/20/sea-fisheries-scotland-amendment-bill-no</URL>
+<Title>Sea Fisheries (Scotland) Amendment Bill—(no 102)</Title>
+<DebRef>HL Deb 20 July 1885 vol 299 c1164</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>6</WordCount>
+
+( The Earl of Dalhouse. )

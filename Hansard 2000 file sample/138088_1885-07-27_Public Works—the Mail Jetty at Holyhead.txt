@@ -1,0 +1,11 @@
+<FileID>138088</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/public-works-the-mail-jetty-at-holyhead</URL>
+<Title>Public Works—the Mail Jetty at Holyhead</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c60</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>155</WordCount>
+
+
+<speaker>MR. MORGAN LLOYD</speaker> asked Mr. Chancellor of the Exchequer, If he is prepared to sanction the expenditure necessary to render the Mail Jetty at Holyhead safe and commodious for the arrival and departure of the Mail Steamers from and to Ireland? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENEY HOLLAND)</speaker> (who replied) said: The Mail Packet Company have for some time been in correspondence with the Treasury and Board of Trade with reference to this subject; and special Reports on it were accordingly obtained from Sir John Hawkshaw and from the Harbour Master at Holyhead, Admiral Mackenzie. Both these experienced authorities concur in saying that the present works, subject to some repairs which will be carried out in due course, afford reasonable security to the mail packets; and the Government would, therefore, not be justified in proposing to Parliament any further expenditure on the jetty beyond what is required by the terms of the mail contract.

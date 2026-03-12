@@ -1,0 +1,11 @@
+<FileID>137657</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/trade-and-commerce-the-depression-of</URL>
+<Title>Trade and Commerce—the Depression of Trade—the Royal Commission</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc908-9</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>151</WordCount>
+
+
+<speaker>MR. WILLIAMSON</speaker> asked Mr. Chancellor of the Exchequer, Whether the Government intends that the proposed Royal Commission on Trade Depression shall inquire specially into the alleged hindrances to British enterprise and commerce with silver using countries, in consequence of recent monetary changes adversely affecting silver in Europe; and also into the effect of these changes on the "appreciation of gold," and the fall in the values of commodities? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> I am afraid I can only give the hon. Member this general reply—that the subjects proposed to be referred to the Royal Commission on the Depression of Trade and Industry are undergoing very careful consideration; but in reference to this and other questions, I would venture to say that I think the House will feel that if the inquiry is to be of any service, care must be taken not to make it too discursive.

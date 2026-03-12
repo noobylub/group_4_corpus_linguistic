@@ -1,0 +1,9 @@
+<FileID>137878</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/21/housing-of-the-working-classes-england</URL>
+<Title>Housing of the Working Classes (England) Bill—(no 177)</Title>
+<DebRef>HL Deb 21 July 1885 vol 299 cc1338-41</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>10</WordCount>
+
+( The Marquess of Salisbury. ) cc1338-41 REPORT. 1,121 words

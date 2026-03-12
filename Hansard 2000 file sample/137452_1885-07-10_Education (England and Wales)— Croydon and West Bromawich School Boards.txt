@@ -1,0 +1,10 @@
+<FileID>137452</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/education-england-and-wales-croydon-and</URL>
+<Title>Education (England and Wales)— Croydon and West Bromawich School Boards</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 c279</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>118</WordCount>
+
+SIR ARTHUR BASS asked the Vice President of the Committee of Council, Whether the Government intend to proceed with the Bill relating to the Croydon and West Bromwich School Boards, in accordance with the promise given by the late Vice President? 
+<speaker>THE VICE PRESIDENT OF THE COUNCIL (Mr. E. STANHOPE)</speaker> Yes, Sir; we propose to introduce a short Bill dealing with the cases of Croydon and of West Bromwich. We wish, at the same time, to legislate upon a matter which has been much pressed upon us, and to take powers to the Education Department to divide the enormous School Board Division of Lambeth into two parts. The Bill will probably be introduced in the House of Lords.

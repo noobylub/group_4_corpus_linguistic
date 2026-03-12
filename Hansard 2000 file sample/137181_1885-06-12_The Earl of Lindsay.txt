@@ -1,0 +1,9 @@
+<FileID>137181</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/12/the-earl-of-lindsay</URL>
+<Title>The Earl of Lindsay</Title>
+<DebRef>HL Deb 12 June 1885 vol 298 c1527</DebRef>
+<SittingDate>1885-06-12</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>32</WordCount>
+
+The Clerk of the Crown in Chancery delivered his certificate that the Earl of Lindsay had been elected a Representative Peer for Scotland in the room of the Earl of Selkirk deceased.

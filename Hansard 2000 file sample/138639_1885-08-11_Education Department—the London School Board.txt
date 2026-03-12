@@ -1,0 +1,11 @@
+<FileID>138639</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/education-department-the-london-school</URL>
+<Title>Education Department—the London School Board</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1729-30</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>142</WordCount>
+
+
+<speaker>MR. PULESTON</speaker> asked the Vice President of the Committee of Council, Whether, in view of the serious statements in reference to the London School Board finances, and having regard to the present want of authority on the part of the Government to interfere, he will advise some legislation for the protection of the ratepayers? 
+<speaker>THE VICE PRESIDENT OF THE COUNCIL (Mr. E. STANHOPE)</speaker> The expenditure of the London School Board is only to be controlled in one of two ways. If any item of expenditure is illegal, it is liable to be surcharged by the auditor; and if, in the opinion of the ratepayers, the expenditure of the Board, or any particular item of it, is excessive or deficient in amount, it is in the power of the ratepayers to vote only for those candidates who will give effect to that opinion.

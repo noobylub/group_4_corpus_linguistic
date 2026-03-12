@@ -1,0 +1,10 @@
+<FileID>138434</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/egypt-the-soudan-reported-death-of-osman</URL>
+<Title>Egypt (The Soudan)—reported Death of Osman Digna</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1064</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>47</WordCount>
+
+In answer to Sir WALTER B. BAKTTELOT, 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> said, that a telegram had been received to the effect that Osman Digna was believed to have been killed, but a subsequent telegram stated that the report of his death was untrue.

@@ -1,0 +1,15 @@
+<FileID>138352</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/parliament-business-of-the-house</URL>
+<Title>Parliament—business of the House</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c843</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>130</WordCount>
+
+
+<speaker>SIR WILLIAM HARCOURT</speaker> I desire to ask Mr. Chancellor of the Exchequer, Whether he can inform the House what Business will be taken tomorrow? 
+<speaker>THE CHANCELLOE OF THE EXCHEQUER</speaker> I think the principal Business tomorrow, if we finish the Committee on the Criminal Law Amendment Bill this evening, as I hope we may, and take a stage of the Secretary for Scotland Bill , would be the Irish Land Purchase Bill , and the Federal Council of Australasia Bill . 
+<speaker>MR. SERJEANT SIMON</speaker> asked when the Criminal Law Amendment Bill would be taken on Report? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I should hope on Wednesday. 
+<speaker>MR. NEWDEGATE</speaker> asked whether the Government intended to take any other Business on Wednesday? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> Wednesday is now a Government day.

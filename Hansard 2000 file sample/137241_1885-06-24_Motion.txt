@@ -1,0 +1,9 @@
+<FileID>137241</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/24/motion</URL>
+<Title>Motion</Title>
+<DebRef>HC Deb 24 June 1885 vol 298 c1623</DebRef>
+<SittingDate>1885-06-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>7</WordCount>
+
+c1623 PARLIAMENT—ADJOURNMENT—THE NEW MINISTRY—NEW WRITS. 78 words

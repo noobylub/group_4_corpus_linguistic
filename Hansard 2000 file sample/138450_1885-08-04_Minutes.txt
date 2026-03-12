@@ -1,0 +1,9 @@
+<FileID>138450</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/04/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 04 August 1885 vol 300 c1026</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>67</WordCount>
+
+PUBLIC BILLS— Second Reading —Expiring Laws Continuance * (229); Parliamentary Elections (Returning Officers) * (231); Crown Lands * (224); Telegraph Acts Amendment (230). Second Reading—Committee negatived—Third Heading— Registration Appeals (Ireland) * (226), and passed. Report —Burgh Police and Health (Scotland) * (190); Evidence by Commission * (228). Third Reading —Pluralities * (213); Customs and Inland Revenue (No. 2) * (220); Lunacy Acts Amendment * (221), and passed.

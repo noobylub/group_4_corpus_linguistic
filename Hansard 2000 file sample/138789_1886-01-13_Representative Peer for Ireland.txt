@@ -1,0 +1,9 @@
+<FileID>138789</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1886/jan/13/representative-peer-for-ireland</URL>
+<Title>Representative Peer for Ireland</Title>
+<DebRef>HL Deb 13 January 1886 vol 302 c20</DebRef>
+<SittingDate>1886-01-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>54</WordCount>
+
+Writs and Returns electing the Viscount Bangor a Representative Peer for Ireland in the room of the late Earl of Erne, deceased, with the Certificate of the Clerk of the Crown in Ireland annexed thereto: Delivered (on oath), and Certificate read. Several Lords—took the Oath. House adjourned at Four o'clock, till Tomorrow, Two o'clock.

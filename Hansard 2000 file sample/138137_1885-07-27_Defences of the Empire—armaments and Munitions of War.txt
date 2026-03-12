@@ -1,0 +1,9 @@
+<FileID>138137</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/27/defences-of-the-empire-armaments-and</URL>
+<Title>Defences of the Empire—armaments and Munitions of War</Title>
+<DebRef>HL Deb 27 July 1885 vol 300 cc17-24</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc17-24 QUESTION. OBSERVATIONS. 2,798 words

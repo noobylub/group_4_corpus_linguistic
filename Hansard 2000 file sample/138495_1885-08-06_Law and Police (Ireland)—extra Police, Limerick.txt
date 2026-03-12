@@ -1,0 +1,11 @@
+<FileID>138495</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/law-and-police-ireland-extra-police</URL>
+<Title>Law and Police (Ireland)—extra Police, Limerick</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 c1277</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>112</WordCount>
+
+
+<speaker>MR. LEWIS</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the Limerick Corporation is still a heavy debtor to the Treasury in respect of charges for extra police; whether other Corporations have not recently refused to pay for extra police until the liability is equally and impartially enforced; and, what steps the Government proposes to take impartially to recover the money due to the Government? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> A charge extending over three years is due for extra police by the Limerick Corporation. No other Corporations have refused to pay for extra police. The matter is at present engaging the attention of the Lord Lieutenant.

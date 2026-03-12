@@ -1,0 +1,9 @@
+<FileID>138135</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/27/parliament-palace-of-westminster-house</URL>
+<Title>Parliament—palace of Westminster —House of Lords—the Frescoes in the Peers' Robing Room</Title>
+<DebRef>HL Deb 27 July 1885 vol 300 cc13-7</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc13-7 QUESTION. OBSERVATIONS. 1,675 words

@@ -1,0 +1,10 @@
+<FileID>137545</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/polehampton-estates-bill</URL>
+<Title>Polehampton Estates Bill</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc548-66</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>94</WordCount>
+
+( Sir Henry Holland, Mr. Attorney General. ) [BILL 216.] SECOND READING. Order for Second Reading read. 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> said, that this was also a very simple Bill. It provided that the Charity Commissioners should, subject to the approval of the Court of Chancery, make a scheme for the distribution of part of the Pole-hampton Estate. Motion made, and Question, "That the Bill be now read a second time,"— ( Sir Henry Holland, )—put, and agreed to. Bill committed for Tomorrow. cc548-66 SUPPLY [8TH JULY] REPORT. 6,745 words

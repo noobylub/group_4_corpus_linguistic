@@ -1,0 +1,11 @@
+<FileID>138484</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/registration-of-voters-ireland-revision</URL>
+<Title>Registration of Voters (Ireland) —Revision Courts, Co Cavan</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 c1270</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>106</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Is he aware that there is no place fixed for holding a Revision Court in county Cavan further north than Ballyconnell, which is twenty-four miles distant from some parts of the district; and, whether he will arrange for an additional Revision Court to accommodate the northern part of the county? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> This matter is under consideration, and I think I can promise the hon. Member that a Revision Court will be appointed at some convenient place in the Northern part of West Cavan, probably at Swanlinbar or Blacklion.

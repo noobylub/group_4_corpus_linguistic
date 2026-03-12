@@ -1,0 +1,10 @@
+<FileID>138595</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/army-alleged-unpopularity</URL>
+<Title>Army—alleged Unpopularity</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 c1577</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>199</WordCount>
+
+
+<speaker>SIR WALTER B. BARTTELOT</speaker> asked the Secretary of State for War, Whether his attention has been called to a statement in The Pall Mall Gazette of Friday August 7th, headed "Why the Army is unpopular," and purporting to be a letter from a private soldier at the depot of the Royal Fusiliers at Hounslow, bringing forward a series of charges, if true, of a most serious character with regard to the treatment of recruits at that depôt; and, whether there is any foundation for such a statement with regard to any of the charges contained in that letter? THE SECRETARY OF STATE (Mr. W.H.SMITH) Yes, Sir; I have noticed the article in The Pall Mall Gazette, and have already called for a full Report upon the depot at Hounslow. The statements made, which refer to the month of May, are much exaggerated: but it is impossible within the limits of an answer to refute all the charges put forward. If, however, my hon. and gallant Friend will call on me at the War Office I will gladly show him the Report I have received on the subject; or if he will move for the Papers they shall be given.

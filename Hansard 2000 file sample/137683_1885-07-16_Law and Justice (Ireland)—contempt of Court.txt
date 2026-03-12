@@ -1,0 +1,12 @@
+<FileID>137683</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/law-and-justice-ireland-contempt-of-court</URL>
+<Title>Law and Justice (Ireland)—contempt of Court</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc923-4</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>161</WordCount>
+
+
+<speaker>MR. M'COAN</speaker> asked Mr. Attorney General for Ireland, Whether the fine of £500 imposed by the Irish Court of Queen's Bench, for contempt of Court, upon the defendant in the case of Bolton v. O'Brien has been enforced; and, if not, for what reason? 
+<speaker>THE ATTORNEY GENERAL FOR IRELAND (Mr. HOLMES)</speaker> I understand the fine referred to has not been inflicted. The fine having been imposed for contempt of Court it rests with the Court to impose its payment. Probably some steps are necessary to put the Court in motion; but such steps can only be taken by the litigants at whose instance the fine was imposed. The matter is not within the province of the Attorney General. 
+<speaker>MR. HEALY</speaker> May I ask the right hon. Gentleman, if it is within his province to say how often the editor of The Levant Herald was fined by the Turkish Government for Press offences, and how often he paid the fine? [No reply.]

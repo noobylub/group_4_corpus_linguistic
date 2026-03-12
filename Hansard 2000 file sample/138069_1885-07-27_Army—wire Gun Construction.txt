@@ -1,0 +1,13 @@
+<FileID>138069</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/army-wire-gun-construction</URL>
+<Title>Army—wire Gun Construction</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc48-9</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>207</WordCount>
+
+
+<speaker>MR. GRAY</speaker> asked the Secretary of State for War, Whether the Government are aware that the Longridge system of wire gun construction has formed the matter of scientific examination by Prussian artillery officers; whether Copies of their Report will be ordered to be printed for the use of Members of this House; and, whether it is the intention of the Government, in any experiments to be made in wire gun construction, to call in the aid of Mr. Longridge, the inventor, and thus insure a full test of the invention? 
+<speaker>THE SECRETARY OF STATE FOR WAR (Mr. W. H. SMITH)</speaker> A lecture on Mr. Longridge's system of wire gun construction was delivered at Coblenz in January last by an officer of Prussian Artillery. It is presumed that this lecture is the Report to which the hon. Member refers. It is not considered that any useful purpose would be answered by presenting the document to Parliament. Mr. Longridge has, however, been recently invited to submit a gun constructed on his principle to the War Department. 
+<speaker>MR. GRAY</speaker> asked at whose expense was the gun to be submitted? 
+<speaker>THE SECRETARY OF STATE FOR WAR</speaker> He will, of course, be asked to furnish a gun for examination by the Department.

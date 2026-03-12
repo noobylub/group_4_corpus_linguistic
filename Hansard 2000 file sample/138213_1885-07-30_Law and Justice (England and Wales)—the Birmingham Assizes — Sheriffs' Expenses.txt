@@ -1,0 +1,11 @@
+<FileID>138213</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/law-and-justice-england-and-wales-the</URL>
+<Title>Law and Justice (England and Wales)—the Birmingham Assizes — Sheriffs' Expenses</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc514-5</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>234</WordCount>
+
+
+<speaker>MR. SAMPSON LLOYD</speaker> asked Mr. Chancellor of the Exchequer, Whether he is aware that, by the recent establishment of Assizes at Birmingham in addition to the usual Assizes at Warwick, very heavy additional expenses have fallen on the Sheriff of Warwick- shire and his officials. That the two last Assizes at Birmingham lasted together 20 days, and occasioned additional expenses to the sheriff of about £400, which have been disallowed by the Treasury. That the establishment of these new Assizes (while the Bar of the Midland and Oxford Circuits is united at Birmingham) attracts at Birmingham many additional civil causes which would otherwise have been tried in Staffordshire and Worcestershire, thereby shortening the Assizes for those counties, and lessening the claims made on the Treasury by their sheriffs in respect thereof; and, whether Her Majesty's Government cannot grant to the Sheriff of Warwickshire, in respect of the Assizes at Birmingham, similar allowances to those granted in respect to the extra gaol deliveries at Warwick in the spring and autumn? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER,</speaker> in reply, said, no doubt additional expenses were incurred by the Sheriff of Warwickshire by the Assizes which were now held at Birmingham; but the Treasury could not take this into consideration without opening up the whole subject of allowances to Sheriffs in respect of Assizes. Upon the desirability of doing this he, at the present moment, expressed no opinion.

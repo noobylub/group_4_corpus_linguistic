@@ -1,0 +1,10 @@
+<FileID>137139</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/spain-the-treaty-of-commerce</URL>
+<Title>Spain—the Treaty of Commerce</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 cc1407-8</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>243</WordCount>
+
+CAPTAIN AYLMER asked the Under Secretary of State for Foreign Affairs, If he is aware that British fish is charged 2 s. per cwt. more than French, Norwegian, or other fish on import to Spain; if his attention has been called to the reply of Senor Elbuazen, Spanish Minister of Foreign Affairs, to a deputation of the Madrid Mercantile Club, as follows:— The Spanish Government are willing to carry out their part of the contract, and that, provided the English Government had not some ulterior motive for allowing the matter to fall through, he still hoped to reestablish negotiations; and, whether any instructions have been sent to our Ambassador at Madrid, to disabuse the minds of Spanish Statesmen that we have no ulterior motive to cause us to desire the failure of the Convention? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> I believe the duty on British fish imported into Spain to be what the hon. Member states. With reference to the latter portion of his Question, since I made a statement on this subject to the House a further despatch has been received from the Spanish Government, which will require a reply from Her Majesty's Government. From the character of the Spanish communication Her Majesty's Government are not without hope that they may be able to resume the negotiations, and instructions will be given in that sense to Mr. Ford, the successor of Sir Robert Morier, who has been appointed Her Majesty's Ambassador at St. Petersburg.

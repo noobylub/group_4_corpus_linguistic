@@ -1,0 +1,9 @@
+<FileID>137254</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/25/adjournment</URL>
+<Title>Adjournment</Title>
+<DebRef>HC Deb 25 June 1885 vol 298 c1640</DebRef>
+<SittingDate>1885-06-25</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>21</WordCount>
+
+Resolved, That this House will, at the rising of the House this day, adjourn till Monday 6th July.—( Mr. Akers-Douglas. )

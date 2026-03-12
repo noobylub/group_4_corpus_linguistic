@@ -1,0 +1,11 @@
+<FileID>137726</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/the-protestant-episcopal-church-of</URL>
+<Title>The Protestant Episcopal Church of Ireland</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 cc1057-8</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>71</WordCount>
+
+
+<speaker>MR. HEALY</speaker> asked the Secretary of State for the Home Department, Can he state the result of the correspondence between his official predecessor and Dublin Castle as to the title to be given to the Disestablished Church in Ireland? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS)</speaker> The title which was settled by my Predecessor, after consultation with Lord Spencer was the Protestant Episcopal Church of Ireland.

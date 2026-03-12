@@ -1,0 +1,9 @@
+<FileID>138458</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/05/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 05 August 1885 vol 300 cc1196-7</DebRef>
+<SittingDate>1885-08-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>91</WordCount>
+
+PRIVATE BILLS ( by Order )— Third Reading —Ramsden Estate, and passed. Considered as amended — Third Reading —Manchester Ship Canal, * and passed. PUBLIC BILLS— Second Reading —Registration Appeals (Ireland) * [259]. Committee —Police Enfranchisement Extension [219], debate adjourned. Considered as amended — Third Reading —Federal Council of Australasia * [165]: Secretary for Scotland * [242], and passed. Third Reading —Elementary Education Provisional Order Confirmation (London) * [233]; Consolidated Fund (Appropriation); East India (Army Pensions Deficiency) * [225]. Withdrawn —Universities (Scotland) * [115]; Factory Acts (Extension to Shops) * [23].

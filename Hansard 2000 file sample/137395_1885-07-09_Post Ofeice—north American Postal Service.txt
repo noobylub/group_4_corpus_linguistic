@@ -1,0 +1,11 @@
+<FileID>137395</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/post-ofeice-north-american-postal-service</URL>
+<Title>Post Ofeice—north American Postal Service</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c122</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>102</WordCount>
+
+
+<speaker>MR. GILES</speaker> asked the Postmaster General, When the Select Committee on the Great Britain and North American Postal Service will commence its sittings? THE POSTMASTER , in reply, said, he was not able at present to give any information on the subject. 
+<speaker>MR. SHAW LEFEVRE</speaker> said, that this Committee was moved for by his right hon. Friend the Member for Montrose, who was appointed Chairman. His right hon. Friend had informed him that he would not be able to act as Chairman. Looking to the period of the year, he thought it would be better to postpone the Committee to another Session.

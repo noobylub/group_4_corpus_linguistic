@@ -1,0 +1,10 @@
+<FileID>138809</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/21/the-queens-speech-address-to-her-majesty</URL>
+<Title>The Queen's Speech—address to Her Majesty</Title>
+<DebRef>HC Deb 21 January 1886 vol 302 cc86-7</DebRef>
+<SittingDate>1886-01-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>216</WordCount>
+
+MR. JESSE CODLINGS gave Notice that he would move the following Amendment to the Address:— After the word "transient," in the 10th paragraph, add— "But this House humbly expresses its regret that no measures are announced by Her Majesty for the present relief of these classes, and especially for affording facilities to the agricultural labourers and others in the rural districts to obtain allotments and small holdings on equitable terms as to rent and security of tenure. 
+<speaker>MR. J. W. BARCLAY</speaker> gave Notice that he would move an Amendment to the Address— To insert, after the word "Agriculture," in the 10th paragraph, the words "and humbly to represent the pressing necessity for securing without delay to the cultivators of the soil such conditions of tenure as will aid and encourage them to meet the new and trying circumstances in which the Agriculture of the Country is placed. MR. HUNTER gave Notice that he would move an Amendment to the Address— At end of the 5th paragraph, add— "But this House humbly expresses to Her Majesty their regret that the Revenues of India have been applied to defray the expenses of the military operations carried on in the Kingdom of A va, without the consent of Parliament as required by 'The Government of India Act, 1858 .'

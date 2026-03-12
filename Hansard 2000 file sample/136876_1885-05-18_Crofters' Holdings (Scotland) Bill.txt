@@ -1,0 +1,9 @@
+<FileID>136876</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/crofters-holdings-scotland-bill-1</URL>
+<Title>Crofters' Holdings (Scotland) Bill</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 cc843-73</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>15</WordCount>
+
+cc843-73 MOTION FOR LEAVE. [ADJOURNED DEBATE.] 11,976 words c873 PRINCESS BEATRICE'S ANNUITY BILL. 32 words

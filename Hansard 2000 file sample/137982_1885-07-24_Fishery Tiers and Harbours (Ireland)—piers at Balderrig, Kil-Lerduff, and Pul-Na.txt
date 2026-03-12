@@ -1,0 +1,11 @@
+<FileID>137982</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/fishery-tiers-and-harbours-ireland-piers</URL>
+<Title>Fishery Tiers and Harbours (Ireland)—piers at Balderrig, Kil-Lerduff, and Pul-Na-Muck, Co Mayo</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 cc1781-2</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>258</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Financial Secretary to the Treasury, Whether petitions from the fishermen of Bal-derrig, Killerduff, and Pul-na-Muck (county Mayo), having been presented to the Board of Works, about December 1883, praying for the construction of piers at these places, inquiries were held, in the October following, by the Piers and Harbours Commissioners, and upon their recommendation that plans and estimates be prepared, an engineer of the Board of Works visited the districts in February last and prepared the plans and estimates; why nothing has since been done; and, whether, in view of the great difficulties and dangers under which the fishermen pursue their avocation, the Government will take steps to secure that there is no further delay in proceeding with those necessary works, on a part of the coast where no public funds have hitherto been expended? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> This Question should more properly have been addressed to the hon. and gallant Member for the county of Gal way (Colonel Nolan), as Chairman of the Fishery, Piers, and Harbour Commission. He has, however, been good enough to inform me that his Commission wished to make a harbour at Bal-derrig, but found that the expense and risk would be too great. They recommended yesterday grants for Killerduff and Pul-na-Muck; and in these cases the Board of Works will put the contract plans at once in hand, and will call for tenders as soon as they are ready. There has been, therefore, no delay on the part of the Board of Works.

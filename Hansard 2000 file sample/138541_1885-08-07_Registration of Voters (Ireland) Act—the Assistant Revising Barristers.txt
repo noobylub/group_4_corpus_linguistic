@@ -1,0 +1,10 @@
+<FileID>138541</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/registration-of-voters-ireland-act-the</URL>
+<Title>Registration of Voters (Ireland) Act—the Assistant Revising Barristers</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 c1457</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>68</WordCount>
+
+MR. O'BRIEN asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether he is yet in a position to name the Assistant Revising Barristers about to be appointed under the new Registration Act in Ireland? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> If the hon. Member will put this Question to me on Tuesday next I shall probably be in a position to give him the information.

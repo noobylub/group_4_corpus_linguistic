@@ -1,0 +1,9 @@
+<FileID>137354</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/turnpike-acts-continuance-bill</URL>
+<Title>Turnpike Acts Continuance Bill</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 c1944</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>37</WordCount>
+
+On Motion of Mr. ARTHUR BALEOUR, Bill to continue certain Turnpike Acts, and to repeal certain other Turnpike Acts, and for other purposes connected therewith, ordered to be brought in by Mr. ARTHUR BALFOUR and Mr. STUART-WORTLEY.

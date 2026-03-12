@@ -1,0 +1,11 @@
+<FileID>138098</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/high-commissioner-of-new-guinea</URL>
+<Title>High Commissioner of New Guinea</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c66</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>64</WordCount>
+
+
+<speaker>SIR GEORGE CAMPBELL</speaker> asked, Whether there was to be any Vote proposed for the High Commissioner of New Guinea? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH),</speaker> in reply, said, he was afraid that there could be no Vote for the High Commissioner of New Guinea, because negotiations with the Colonies were still proceeding, and they did not know what expenses would be required.

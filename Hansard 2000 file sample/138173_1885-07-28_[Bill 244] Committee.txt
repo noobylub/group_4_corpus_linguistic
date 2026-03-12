@@ -1,0 +1,11 @@
+<FileID>138173</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/bill-244-committee</URL>
+<Title>[Bill 244] Committee</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 cc382-3</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>233</WordCount>
+
+Bill considered in Committee. (In the Committee.) 
+<speaker>MR. WARTON</speaker> said, he did not wish to delay the progress of this Bill; but he had an Amendment on the Paper to one of the clauses. He desired to point out to the right hon. Gentleman (Mr. A. J. Balfour) the difference between some of the provisions in the Bill and those in 5 & 6 Vict. c. 97. In the present Bill, the pauper lunatic and the lunatic who was not a pauper, but was simply walking about, were jumbled up in a most remarkable way. It would have been far better if they had followed the wording of the old Act. It would have been better if Section 2 had been divided, so as to have made a distinction between these two classes of lunatics. He would not move his Amendment, but recommended the matter to the attention of the right hon. Gentleman. 
+<speaker>THE PRESIDENT OF THE LOCAL GOVERNMENT BOARD (Mr. A. J. BALFOUR)</speaker> expressed a hope that the hon. and learned Member would not delay the progress of the measure. Without the Bill, pauper lunatics had to be taken to the police station and placed in a cell, which was perhaps one of the worst places that a lunatic could be put into. Therefore, he hoped the hon. and learned Member would not press his Amendment. Bill reported, without Amendment. House resumed.

@@ -1,0 +1,10 @@
+<FileID>137794</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/the-royal-university-of-ireland-second</URL>
+<Title>The Royal University of Ireland —Second Examination in Arts</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1208-9</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>261</WordCount>
+
+MR. JUSTIN M'CARTHY asked the Chief Secretary to the Lord Lieutenant of Ireland, If his attention has been called to the following instructions contained in the Calendar of the Royal University (Ireland) for 1885 regarding the Second Examination in Arts:— In the year 1885, the Second Examination in Arts …will he held not only in Dublin, but also in Belfast, Carlow, Cork. Galway, Limerick, and Londonderry … But any candidate who desires to present as portion of the course of examination any of the following subjects— "Experimental Physics, "Chemistry, "Biology, "Geology, "must attend for the whole examination in Dublin; and also to this note appended to the programme of examination in Experimental Physics:— For the present there will not he for pass candidates any practical examination involving the use of apparatus; and, whether, having regard to the fact that no experiments with apparatus will be required of pass men, they could not be examined in Cork, or any other large town, as well as in Dublin, and thus spared the trouble and loss of going up to Dublin from places like Cork, Galway, and Londonderry? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> I am informed that, although it is true that this year pass candidates in Experimental Physics will not be required to perform experiments, yet that they will have to undergo an oral examination by the Examiners, for which their presence in Dublin will be necessary; and the Senate of the University consider it desirable to have the complete examination of a candidate conducted at the same place.

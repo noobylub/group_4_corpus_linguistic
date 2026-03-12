@@ -1,0 +1,11 @@
+<FileID>137738</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/law-and-police-ireland-protection-at</URL>
+<Title>Law and Police (Ireland)—protection at Cladymore</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 c1064</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>190</WordCount>
+
+
+<speaker>MR. SMALL</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether a Constabulary station has recently been formed at Cladymore, county Armagh, in a district perfectly free from crime or disorder of any kind; whether such station has been formed at the instance of or for the protection of a person now known by the name of Dent, who has recently come to the locality, and to whom no threat or violence has been offered, and upon what grounds has this person based his request, or for what other reason has the station been formed; and, upon what fund or area will the expenses of the station be charged? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> On the recommendation of the County and District Inspectors of Constabulary, and with the concurrence of the Resident Magistrate, a temporary police station was formed at Cladymore, in May last, for the protection of a man named John Dent. The protection was considered necessary in consequence of information in possession of the police. The district is peaceable, and the cost of the station will not be charged against the county.

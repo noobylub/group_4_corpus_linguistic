@@ -1,0 +1,11 @@
+<FileID>136843</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/irish-land-commission-courts-fair-rents</URL>
+<Title>Irish Land Commission Courts—fair Rents—case Of—shortal</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 cc700-1</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>335</WordCount>
+
+
+<speaker>MR. MARUM</speaker> asked the Financial Secretary to the Treasury, Whether his attention has been directed to the case of one Shortal, a tenant, who applied to the Land Commission Court, on circuit in Kilkenny, upon the 28th ultimo, to have a fair rent fixed, in ordinary course; whether the landlord resisted the application, on the ground that the tenant succeeded his father, in 1877, in occupation, but that no letters of administration had been taken out by the applicant; that, after the father's death, receipts were given to the representatives (in the plural) of Shortal, deceased; that the tenant now applied to the legal Assistant Commissioner to be appointed special limited administrator, under sections fourteen and three of "The Land Law (Ireland) Act, 1881 ;" whether the legal Assistant Commissioner refused the application upon the ground, amongst others, that the Treasury has issued a Minute requesting the Land Commission Bench not to grant such limited administrations; whether such is the fact; and, if so, will the Government lay a Copy of such alleged Minute upon the Table of the House; whether the difference of assessment of Stamp Duty is the main or only reason of the issue of the alleged Minute; and, whether the Treasury will be prepared to modify the the terms of the Minute, if issued, so as not to impair the beneficial operation of the Land Law (Ireland) Act, 1881 , especially in regard to small tenancies and poor class of tenants? 
+<speaker>MR. HIBBERT</speaker> I have made inquiry into this case, and it appears that Shortal's complaint rests on a misapprehension. No such rule has been made by the Treasury. The sections of the Land Act quoted do not apply to this case; and the application was not dismissed by the Sub-Commissioner, but only adjourned. This is not a small holding, but one for which administration clearly ought to be taken out. I must not be supposed to express any opinion on the merits of the case as between landlord and tenant.

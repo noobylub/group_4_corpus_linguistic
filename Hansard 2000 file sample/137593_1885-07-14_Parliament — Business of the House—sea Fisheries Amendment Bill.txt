@@ -1,0 +1,10 @@
+<FileID>137593</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/parliament-business-of-the-house-sea</URL>
+<Title>Parliament — Business of the House—sea Fisheries Amendment Bill</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 c659</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>80</WordCount>
+
+
+<speaker>LORD ELCHO</speaker> asked Mr. Chancellor of the Exchequer, Whether the Government can see their way to taking up and passing the Sea Fisheries Amendment Bill , which has been before the House of Lords, and to which there is no opposition of any kind? THE CHANGELLOR OF THE EXCHEQUER , in reply, said, this Bill had only just received a second reading in "another place." When it reached this House, he would consider the point suggested by the noble Lord.

@@ -1,0 +1,13 @@
+<FileID>138653</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/recreation-grounds-woodcote-green</URL>
+<Title>Recreation Grounds—woodcote Green, Bromsgrove</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1739-40</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>318</WordCount>
+
+
+<speaker>MR. JESSE COLLINGS</speaker> asked the Secretary of State for the Home Department, If he is aware that the Land Commissioners, by their award signed July 5th, 1855, gave a piece of land, being a part of Woodcote Green, and containing two acres, to the Earl of Shrewsbury, to be held by him and his heirs in trust as a place of recreation for the inhabitants of Bromsgrove; whether he is aware that the Earl of Shrewsbury is now letting the land and taking the rents for the same; and, whether the Land Commissioners will direct the Trustee to carry out the award, and restore the land to the people of Bromsgrove to be used as a recreation ground? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS),</speaker> in reply, said, he believed it was quite true that in 1855 an award was made giving the land in question to the Earl of Shrewsbury, to be held by him and his heirs, in trust, as a place for the exercise and recreation of the inhabitants of Bromsgrove. That was done under the general Inclosure Act, 1845. What the Earl of Shrewsbury had done he did not know, as he knew nothing about the facts; but the Commissioners informed him that if the facts were as stated in the Question they had no power at all to direct the present owner of the land to act as suggested in the Question. He might inform the hon. Member that since the passing of the Act of 1876 no more land could be allotted as had been the case here. 
+<speaker>MR. JESSE COLLINGS</speaker> asked if he rightly understood that the Earl of Shrewsbury had deliberately put aside the award, and that the Land Commissioners refused to enforce their award? 
+<speaker>THE SECRETARY OF STATE</speaker> The Commissioners say they have no jurisdiction to direct the present owner of the land as suggested in the Question.

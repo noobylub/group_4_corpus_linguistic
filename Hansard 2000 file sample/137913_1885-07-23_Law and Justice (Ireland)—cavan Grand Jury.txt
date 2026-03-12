@@ -1,0 +1,11 @@
+<FileID>137913</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/law-and-justice-ireland-cavan-grand-jury</URL>
+<Title>Law and Justice (Ireland)—cavan Grand Jury</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1616</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>110</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the charges made by the Secretary to the Cavan Grand Jury for contract forms, cheques, &c. are legal charges; and, if not, will he use his influence to have the illegality discontinued? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The Secretary of a Grand Jury is not an officer of Government, and it does not fall within my province to advise as to the legality of the charges he may make. It is open to those who doubt his power to make these charges to contest the matter in such a way as they may be advised.

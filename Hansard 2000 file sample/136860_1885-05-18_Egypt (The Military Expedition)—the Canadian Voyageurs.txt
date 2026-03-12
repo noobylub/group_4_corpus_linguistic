@@ -1,0 +1,10 @@
+<FileID>136860</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/egypt-the-military-expedition-the</URL>
+<Title>Egypt (The Military Expedition)—the Canadian Voyageurs</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 cc713-4</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>178</WordCount>
+
+
+<speaker>LORD GEORGE HAMILTON</speaker> asked the Secretary of State for War, If he is aware that much annoyance has been caused in Canada by a statement which appeared in the newspaper Truth of April 10th, page 608, in reference to the Canadian voyageurs who were sent with the River Nile expedition, in which they are spoken of as a "disreputable gang" of whom only 25 percent, were efficient the rest being "a nondescript rabble of the loafer class;" and, whether he is in possession of any official reports which confirm or disprove the above allegations? THE MARQUESS OF HARTINGTON I think the best reply I can make to this Question is to lay upon the Table—as I will do this evening—the copy of a letter from Lord Wolseley which, by that Officer's request, I have forwarded to the Colonial Office for transmission to the Governor General of Canada. In that letter it will be seen that Lord Wolseley expresses in the highest terms his appreciation of the valuable aid which the Nile Expedition has received from the Canadian voyageurs.

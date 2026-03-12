@@ -1,0 +1,9 @@
+<FileID>136884</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/18/south-eastern-and-london-chatham-and</URL>
+<Title>South-Eastern and London, Chatham, and Dover Railway Companies (Arbitration) Bill</Title>
+<DebRef>HL Deb 18 May 1885 vol 298 cc650-5</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>4</WordCount>
+
+cc650-5 MOTION. 2,029 words

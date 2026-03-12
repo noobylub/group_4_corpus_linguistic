@@ -1,0 +1,9 @@
+<FileID>137490</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/10/east-india-loan-lb10000000-bill</URL>
+<Title>East India Loan (£10,000,000) Bill</Title>
+<DebRef>HL Deb 10 July 1885 vol 299 cc271-4</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>12</WordCount>
+
+( The Lord Harris. ) cc271-4 (NO. 164.) SECOND READING. 1,299 words

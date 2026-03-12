@@ -1,0 +1,9 @@
+<FileID>137056</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/22/motions</URL>
+<Title>Motions</Title>
+<DebRef>HC Deb 22 May 1885 vol 298 cc1182-3</DebRef>
+<SittingDate>1885-05-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>37</WordCount>
+
+c1182 PRIVATE BILLS. 64 words c1183 LOCAL GOVERNMENT PROVISIONAL ORDERS (NO. 5) BILL. 73 words c1183 LOCAL GOVERNMENT PROVISIONAL ORDERS (NO. 6) BILL. 89 words c1183 LOCAL GOVERNMENT PROVISIONAL ORDERS (POOR LAV) (NO. 9) BILL. 112 words

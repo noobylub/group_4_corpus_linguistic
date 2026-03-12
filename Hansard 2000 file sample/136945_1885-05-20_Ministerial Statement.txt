@@ -1,0 +1,10 @@
+<FileID>136945</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/20/ministerial-statement</URL>
+<Title>Ministerial Statement</Title>
+<DebRef>HC Deb 20 May 1885 vol 298 cc971-2</DebRef>
+<SittingDate>1885-05-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>316</WordCount>
+
+MR. GLADSTONE Before the Clerk proceeds to read the Orders of the Day, I wish to make a modification of a statement which I made last week with respect to the Bills which the Government propose to introduce during the present Session. I then said that we did not think it was likely to be in our power to deal effectually this Session with the question of land purchase in Ireland, and that, therefore, we did not intend to introduce a Bill upon the subject. But, upon reconsideration of the matter, and after communications made I with Members since that announcement, I have considerable hope that a judiciously-constructed amendment of the present law might meet with such ac- ceptance as not to make a serious demand upon the time of the House. That is the point which is really material. We have a plan of a Bill prepared, and we shall be ready to introduce it on an early day after Whitsuntide. The facts that have come to my knowledge seem to justify our entertaining the hope that the measure might make no serious demand upon the time of the House; and if that hope were fulfilled we should be very desirous to pass that Bill and also the Labourers' Bill into law during the present Session. As regards the Labourers' Bill , we shall do everything we can in that sense, though I should wish to put the Land Bill on the same footing. I hope that with both of those measures we may make progress and pass them through the House; but it is the prospect that we have before us that leads me to think it is worth while that we should make the effort. 
+<speaker>MR. ONSLOW</speaker> asked whether the Motion for the Adjournment would take precedence of the East India Loan Bill tomorrow? MR. GLADSTONE The East India Loan Bill stands first.

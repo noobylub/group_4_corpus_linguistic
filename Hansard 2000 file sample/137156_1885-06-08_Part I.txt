@@ -1,0 +1,9 @@
+<FileID>137156</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/08/part-i</URL>
+<Title>Part I</Title>
+<DebRef>HL Deb 08 June 1885 vol 298 cc1374-7</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>4</WordCount>
+
+cc1374-7 REDISTRIBUTION. 1,225 words

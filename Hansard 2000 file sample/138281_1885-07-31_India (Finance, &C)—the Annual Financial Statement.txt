@@ -1,0 +1,11 @@
+<FileID>138281</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/india-finance-c-the-annual-financial</URL>
+<Title>India (Finance, &C)—the Annual Financial Statement</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 c676</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>145</WordCount>
+
+
+<speaker>GENERAL SIR GEORGE BALFOUR</speaker> asked the Secretary of State for India, To consider the expediency of printing and circulating an Indian Financial Statement, and, by allowing the Debate on Indian Finance to be based on the usual Resolutions, thereby save the time in discussing the Affairs of India by at least two hours, which would be needed in speaking on the Indian Statement? 
+<speaker>THE SECRETARY OF STATE (Lord RANDOLPH CHURCHILL)</speaker> The hon. and gallant Member makes an admirable suggestion, which might with advantage be applied to all the annual Departmental Statements; but I do not think there is time to carry it into effect this year before Thursday next, on which day it may be convenient for the hon. and gallant Member and other hon. Members to know I shall, with the permission of the House, make the usual Statement in regard to Indian Finance.

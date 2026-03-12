@@ -1,0 +1,9 @@
+<FileID>137355</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/poor-law-unions-officers-ireland-bill</URL>
+<Title>Poor Law Unions' Officers (Ireland) Bill</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 c1944</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>43</WordCount>
+
+On Motion of Sir WILLIAM HART DYKE, Bill for enabling allowances to be made to the Officers of Poor Law Unions in Ireland on abolition of office, ordered to be brought in by Sir WILLIAM HART DYKE and Mr. ATTORNEY GENERAL for IRELAND.

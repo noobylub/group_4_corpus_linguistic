@@ -1,0 +1,11 @@
+<FileID>138631</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/poor-law-ireland-belfast-union-workhouse</URL>
+<Title>Poor Law (Ireland)—belfast Union Workhouse—charge of Drunkenness Against the Schoolmasters</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1724-5</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>214</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, What steps the Local Government Board for Ireland have taken regarding the report furnished them about two schoolmasters of the Belfast Workhouse named Madden and M'Guinness, who were seen in a helpless state of drunkenness on the streets of Belfast on the 14th July, 1885; is it true that, although Madden was assisted by some friends through a back entrance into the workhouse on this date, to the knowledge of the head schoolmaster and other officials of the workhouse, as well as several paupers, no report of Madden's condition was made to the Guardians; is it true that Madden offered a written explanation to the Guardians of his misconduct, and that the Chairman of the Board directed him to withdraw it, so that the document would not require to be entered on the minutes of their proceedings; is Madden the same person who was convicted at the Belfast Petty Sessions of drunkenness and using party expressions; and, is it desirable that schoolmasters of this class should be continued in office; and, if not, what steps will be taken in relation to these two teachers? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> I have already answered this Question, and have nothing to add.

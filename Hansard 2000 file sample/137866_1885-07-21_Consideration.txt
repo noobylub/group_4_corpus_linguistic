@@ -1,0 +1,11 @@
+<FileID>137866</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/consideration</URL>
+<Title>Consideration</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 c1512</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>136</WordCount>
+
+Bill, as amended, considered. 
+<speaker>MR. HEALY</speaker> said, he had, on a former occasion, appealed to the Government for a promise that they would apply to Ireland the English Act of 1879. He ventured to ask the right hon. and learned Attorney General for Ireland that he would endeavour to consider how far this useful provision would enable them in Ireland to appeal in cases where one month's imprisonment was given. It was quite impossible for anyone to imagine the amount of misery caused by short sentences. Where there was no appeal the magistrates did exactly what they liked in matters of the kind. 
+<speaker>THE ATTORNEY GENERAL FOR IRELAND (Mr. HOLMES)</speaker> said, he could assure the hon. and learned Gentleman that the matter referred to should be considered. Amendments made. Bill read the third time, and passed.

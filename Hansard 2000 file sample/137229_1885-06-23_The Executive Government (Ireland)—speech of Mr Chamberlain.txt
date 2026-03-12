@@ -1,0 +1,11 @@
+<FileID>137229</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/23/the-executive-government-ireland-speech</URL>
+<Title>The Executive Government (Ireland)—speech of Mr Chamberlain</Title>
+<DebRef>HC Deb 23 June 1885 vol 298 cc1617-8</DebRef>
+<SittingDate>1885-06-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>157</WordCount>
+
+
+<speaker>MR. COLERIDGE KENNARD</speaker> gave the following Notice: — On the first day of Sitting to ask the late President of the Board of Trade (Mr. Chamberlain), "Whether he is correctly reported as having, in a recent speech, charged the late Government with ruling Ireland in a spirit of unjustifiable oppression, comparable only to the rule of Russia over Poland and of Austria over Venice; and, if so, whether the Cabinet, of which he was a Member, agreed to the course he pursued of thus publicly denouncing the Russian and Austrian systems of government? 
+<speaker>MR. CHAMBERLAIN</speaker> Perhaps I can save the time of the House by answering the Question at once. I did not use language which I think is capable of the interpretation put upon it by the hon. Member. What I said was, that the government of Ireland resembled that of Russia in Poland and that of Austria in Venice in its centralized and bureaucratic character.

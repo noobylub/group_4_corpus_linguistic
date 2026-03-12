@@ -1,0 +1,9 @@
+<FileID>137371</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/08/police-enfranchisement-extension-bill</URL>
+<Title>Police Enfranchisement Extension Bill</Title>
+<DebRef>HC Deb 08 July 1885 vol 299 c84</DebRef>
+<SittingDate>1885-07-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>62</WordCount>
+
+On Motion of Mr. COLERIDGE KENNARD, Bill for the complete enfranchisement of the Police Forces of the United Kingdom, ordered to he brought in by Mr. COLERIDGE KENNARD, Sir HENRY SELWIN-IBBETSOX, Sir HENRY DRUM-MOND WOLFF, Mr. COWEN, Lord CLAUD JOHN HAMILTON", Mr. ROBERT FOWLER, Mr. REID, Mr. HOULDSWORTH, and Mr. GEORGE ELLIOT. B ill presented, and read the first time. [Bill 219.]

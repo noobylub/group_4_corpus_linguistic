@@ -1,0 +1,10 @@
+<FileID>137493</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/10/question</URL>
+<Title>Question</Title>
+<DebRef>HL Deb 10 July 1885 vol 299 c275</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>263</WordCount>
+
+
+<speaker>LORD BRAYE</speaker> called the attention of Her Majesty's Government to the fact that the Report of the Select Committee of this House on the law relating to the protection of minors was sent to the Commons as far back as 25th August 1881, and that the Criminal Law Amendment Bill , founded on the evidence contained in that Report, is not yet passed into law, and inquired, Whether there is an intention on the part of Her Majesty's Government to proceed with the Bill at the earliest possible date; also to inquire whether, considering the nature of the evidence in the Lords Report of 1881, showing an existing state of things in London which, but for such Report, would have been considered incredible, and considering also the incessant petitions presented to Parliament in favour of this Bill, Her Majesty's Government will make efforts to pass it without delay, even if a prolongation of the present Session for some days be necessary for the passing thereof? THE PAYMASTER GENERAL (Earl BEAUCHAMIP), in reply, said, that the noble Lord had doubtless learned from the ordinary channels of information that the Home Secretary had stated that it was the intention of the Government to adopt the Bill with certain modifications, and that he would on Tuesday state their character and extent. He had no doubt that when those modifications were presented to the House of Commons that House would, with the least possible delay, proceed with the Bill in the earnest hope that it might be passed into law in the course of the present Session.

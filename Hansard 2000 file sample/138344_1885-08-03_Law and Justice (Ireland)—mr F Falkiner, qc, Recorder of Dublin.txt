@@ -1,0 +1,11 @@
+<FileID>138344</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/law-and-justice-ireland-mr-f-falkiner-qc</URL>
+<Title>Law and Justice (Ireland)—mr F Falkiner, qc, Recorder of Dublin</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c839</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>139</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the attention of the Irish Government, or of the Irish Judiciary, has been drawn to the fact that Mr. Frederick Falkiner, Q.C., Recorder of Dublin, in sentencing a grocers' assistant, said— He believed there was an idea existing among grocers' assistants that they could keep to themselves their employers' money; and, whether the Irish Government, or the Lord Chancellor, will make any representation to the Recorder of Dublin on the impropriety of such remark? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HABT DYKE)</speaker> I do not know whether this quotation is correct or not. The Recorder is a Judge of independent position, and the Executive Government and the Lord Chancellor have no power or right to question or impugn the language in which a Judge conveys his decisions.

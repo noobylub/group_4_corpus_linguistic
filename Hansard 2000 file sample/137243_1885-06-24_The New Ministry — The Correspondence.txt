@@ -1,0 +1,9 @@
+<FileID>137243</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/24/the-new-ministry-the-correspondence</URL>
+<Title>The New Ministry — The Correspondence</Title>
+<DebRef>HC Deb 24 June 1885 vol 298 cc1623-30</DebRef>
+<SittingDate>1885-06-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>16</WordCount>
+
+cc1623-9 STATEMENT OF MR. GLADSTONE. 2,898 words cc1629-30 NEW WRITS. 228 words c1630 PARLIAMENT—ADJOURNMENT. 14 words

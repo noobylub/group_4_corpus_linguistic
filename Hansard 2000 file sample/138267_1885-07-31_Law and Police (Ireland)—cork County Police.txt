@@ -1,0 +1,13 @@
+<FileID>138267</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/law-and-police-ireland-cork-county-police</URL>
+<Title>Law and Police (Ireland)—cork County Police</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 c667</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>178</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If it is a fact that Head Constable Irwin, of Cork, sent a circular to several Police Stations in the City and County of Cork soliciting subscriptions towards a testimonial to Sergeant Stafford, late Chief Clerk to County Inspector Carr; whether a list of names of the subscribers has been posted in several barrack rooms; and, whether it is forbidden in the Force to ask for or give a subscription for such a purpose; and, if so, what steps will be taken with reference to this case? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The Cork County Inspector states that no such Circular was sent out. It is not forbidden in the Force to get up such subscriptions, provided the sanction of the Inspector General is obtained. A subscription was got up in this case, and it had the Inspector General's sanction. 
+<speaker>MR. SEXTON</speaker> Is the right hon. Gentleman aware that the police are forbidden to subscribe for an evicted tenant? 
+<speaker>THE CHIEF SECRETARY</speaker> No, Sir.

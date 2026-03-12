@@ -1,0 +1,13 @@
+<FileID>138087</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/defences-of-the-empire-defence-of-the</URL>
+<Title>Defences of the Empire—defence of the Seaports</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc59-60</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>166</WordCount>
+
+
+<speaker>CAPTAIN PRICE</speaker> asked Mr. Attorney General, If his attention has been called to the proposed scheme for the defence of our seaports by private enterprise; and, whether he has considered how far the use of armed private ships or torpedo vessels, manned by officers and men not members of the Royal Navy, nor under its Articles of War, would be in accordance with International Law? 
+<speaker>THE ATTORNEY GENERAL (Sir RICHARD WEBSTER)</speaker> said, he was not quite sure that he had seen the scheme referred to; but as to whether the use of armed private ships and torpedo vessels would be in accordance with International Law would depend on the service on which such ships and vessels were engaged, and the regulations under which they were acting. In the absence of more detailed information on those points, he could not give any further answer. 
+<speaker>SIR JOHN HAY</speaker> Would it not depend upon whether the officers were duly commissioned? 
+<speaker>THE ATTORNEY GENERAL</speaker> Upon that and many other circumstances.

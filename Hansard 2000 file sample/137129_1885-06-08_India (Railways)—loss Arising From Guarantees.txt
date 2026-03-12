@@ -1,0 +1,11 @@
+<FileID>137129</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/india-railways-loss-arising-from</URL>
+<Title>India (Railways)—loss Arising From Guarantees</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 cc1401-2</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>138</WordCount>
+
+
+<speaker>MR. ARTHUR O'CONNOR</speaker> asked the Under Secretary of State for India, If he will furnish a Return showing the loss in working Railways paid from Indian taxation to the several Guaranteed Railway Companies to 1884 beyond the amount of net revenue? 
+<speaker>MR. J. K. CROSS</speaker> The inquiry of the hon. Member for Queen's County refers, I apprehend, not to the loss on working the guaranteed railways, but to the loss sustained by the Government of India up to 1884 through the payment of guarantees. The hon. Member will find a detailed statement of this matter at [pages 705–6 of the Appendix to the Report of the Select Committee on East Indian Railway Communications presented last year, from which it appears that the charge on the Revenues of India up to March 31, 1885, reached 35 crores of rupees.

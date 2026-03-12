@@ -1,0 +1,12 @@
+<FileID>137196</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/15/bill-26-committee</URL>
+<Title>[Bill 26] Committee</Title>
+<DebRef>HC Deb 15 June 1885 vol 298 cc1585-6</DebRef>
+<SittingDate>1885-06-15</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>318</WordCount>
+
+Order for Committee read. 
+<speaker>MR. PELL,</speaker> in moving that the Speaker leave the Chair, said, he only asked it to do so formally, although the Bill was quite as important, if not more so, than the one relating to disfranchisement through medical relief, which the hon. Member for Ipswich (Mr. J. Collings) was so anxious to push through the House. It was one in which small holders, who were among the most provident people in the country, were interested. Motion made, and Question proposed, "That Mr. Speaker do now leave the Chair."—( Mr. Pell. ) 
+<speaker>MR. JESSE COLLINGS</speaker> said, he hoped the Bill would not be proceeded with, as it would be impossible to adequately discuss its merits on this occasion. If this Bill, which was a very good one, was proceeded with, he thought it was likely that the reasons of its interposition would be taken to be a desire to prevent the bringing on of the Bill for which the House had consented to go through the Orders. He hoped there would be no attempt by any side wind to upset the conclusion to which the House had so recently come. 
+<speaker>MR. WARTON</speaker> protested against this attempt of hon. Members opposite to set aside the understanding which had been entered into early that evening, that no Business except the Redistribution Bill and the Princess Beatrice's Annuity Bill should be proceeded with. The Government had, by their statement, induced the majority of the House to leave, and had now failed to secure the adjournment of the House. He accused the Radical Members of a want of honesty and fair play in their endeavour to force a Bill upon the House in the face of the understanding between the two Front Benches. Sharp practice did not pay in the long run. Question put, and agreed to. Bill considered in Committee. Committee report Progress; to sit again upon Friday.

@@ -1,0 +1,11 @@
+<FileID>136998</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/public-health-reported-outbreak-of</URL>
+<Title>Public Health-Reported Outbreak of Cholera</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1039</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>132</WordCount>
+
+
+<speaker>SIR LYON PLAYFAIR</speaker> asked the President of the Local Government Board, Whether he had observed statements in the Continental Press that there had been a severe outbreak of cholera in the city of Durham; and whether he had any knowledge of such outbreak? 
+<speaker>SIR CHARLES W. DILKE</speaker> The first knowledge that I had of any rumour of an outbreak of cholera in this country was from the calling, at the Local Government Board yesterday, of some of the Consular Agents of Foreign Powers to make inquiries on the subject. But there is no foundation whatever, so far as I know, for any rumour of the kind. As Durham has been publicly mentioned in the newspapers from abroad, I have made inquiry, and find that there is no foundation whatever for that statement.

@@ -1,0 +1,10 @@
+<FileID>137989</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/navy-range-for-torpedo-practice</URL>
+<Title>Navy—range for Torpedo Practice</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 c1785</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>124</WordCount>
+
+
+<speaker>MR. WARTON</speaker> asked the Civil Lord of the Admiralty, What provision, if any, has been made by the Admiralty for a torpedo range and for torpedo practice? THE LORD OF THE ADMIRALTY (Mr. ASHMEAD-BARTLETT) A torpedo range 500 yards long was provided last year at Malta. One at Portsmouth, 800 yards long, is about to be provided on Horsea Island, which has just been purchased for the purpose at a cost of £15,500. As regards money for the Portsmouth range, £25,000 has been provided in the Annual Estimates for 1885–6 and £45,000 from the Vote of Credit. Torpedo practice of all kinds is carried out by the torpedo schools— namely, Vernon, in Portsmouth, and Defiance, at Devonport, and also in all ships and fleets.

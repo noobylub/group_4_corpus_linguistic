@@ -1,0 +1,11 @@
+<FileID>138654</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/the-charity-commissioners-schemes</URL>
+<Title>The Charity Commissioners' Schemes—labourers' Allotments</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 c1740</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>163</WordCount>
+
+
+<speaker>MR. JESSE COLLINGS</speaker> asked the Vice President of the Committee of Council, Whether the Charity Commissioners will issue and make public a list of the Schemes sanctioned by them, in which they have omitted to insert provisions for allotments, so that the agricultural labourers and others interested may have an opportunity of applying to the Commissioners to remedy their error by the insertion of such provisions in amended Schemes? 
+<speaker>THE VICE PRESIDENT OF THE COUNCIL (Mr. E. STANHOPE)</speaker> It is the practice of the Charity Commissioners to provide in their scheme that every person interested in the Charity may have access to the scheme, and in any case where he may be unable to do so the Commissioners are ready to afford every information. I will personally look into the list of schemes mentioned by the hon. Member, in order to see if there is any case where amendment appears to be necessary; but I cannot, as at present advised, publish the list.

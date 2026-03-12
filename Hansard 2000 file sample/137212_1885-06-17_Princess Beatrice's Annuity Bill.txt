@@ -1,0 +1,9 @@
+<FileID>137212</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/17/princess-beatrices-annuity-bill</URL>
+<Title>Princess Beatrice's Annuity Bill</Title>
+<DebRef>HL Deb 17 June 1885 vol 298 c1592</DebRef>
+<SittingDate>1885-06-17</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>49</WordCount>
+
+Read 1 a ; to be printed; and to be read 2 a on Friday next; and Standing Order No. XXXV. to be considered in order to its being dispensed with ( The Earl Granville. ) (No. 138.) House adjourned at half past Four o'clock, till Tomorrow, Eleven o'clock.

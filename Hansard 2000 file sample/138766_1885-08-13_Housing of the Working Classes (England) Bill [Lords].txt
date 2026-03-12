@@ -1,0 +1,9 @@
+<FileID>138766</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/13/housing-of-the-working-classes-england-1</URL>
+<Title>Housing of the Working Classes (England) Bill [Lords]</Title>
+<DebRef>HL Deb 13 August 1885 vol 301 c8</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>22</WordCount>
+
+( The Marquess of Salisbury. ) Returned from the Commons with the Amendment to which the Lords have disagreed, not insisted on.

@@ -1,0 +1,11 @@
+<FileID>138044</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/26/question</URL>
+<Title>Question</Title>
+<DebRef>HL Deb 26 July 1885 vol 300 c213</DebRef>
+<SittingDate>1885-07-26</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>207</WordCount>
+
+
+<speaker>EARL GRANVILLE</speaker> I wish to ask the noble Marquess, Whether he is able to confirm the report that the Egyptian Financial Loan has been practically settled? I shall hear that, not with surprise, because it would be quite impossible that the great statesmen who conduct the affairs of European countries should have raised any unnecessary objections to an arrangement, or the promulgation of an arrangement, that has taken so much time to complete; but, at the same time, if it is finished it will be a matter of the greatest possible pleasure and congratulation both in this country and in Egypt. 
+<speaker>THE MARQUESS OF SALISBURY</speaker> The noble Earl is quite correct. The Egyptian Loan is being issued at this moment with the consent of all the Powers. I entirely agree with the noble Earl that as matters stand it was becoming a matter of the greatest importance to Egypt that the loan should issue. I am very glad it is issued, for I believe that it will facilitate the course of the Egyptian Government in the future. I will not go into explanations, as the matter is somewhat complicated; but I hope shortly to lay Papers on the Table which will show exactly what has been done.

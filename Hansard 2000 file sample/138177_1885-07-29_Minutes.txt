@@ -1,0 +1,9 @@
+<FileID>138177</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/29/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 29 July 1885 vol 300 cc384-5</DebRef>
+<SittingDate>1885-07-29</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>151</WordCount>
+
+SUPPLY— considered in Committee —CIVIL SERVICE ESTIMATES—CLASS IV. — EDUCATION, SCIENCE, AND ART, Vote 14; CLASS V. — FOREIGN AND COLONIAL SERVICES, Vote 7; REVENUE DEPARTMENTS; CIVIL SERVICE ESTIMATES—CLASS I. — PUBLIC WORKS AND BUILDINGS;£500 (SUPPLEMENTARY) GORDON MONUMENT. Resolutions [July 28] reported. WAYS AND MEANS— considered in Committee — £45,361,227, Consolidated Fund. RESOLUTIONS IN COMMITTEE—Navy and Army Expenditure, 1883–4. PRIVATE BILLS ( by Order )— lords Amendments to Commons Amendments agreed to —Rath-mines and Rathgar Township. PUBLIC BILLS— Ordered — First Reading —Public Works Loans * [254]; East India, Army Pensions Deficiency * [255]. First Reading —Ecclesiastical Commissioners (No. 2) * [253]. Report of Select Committee —Crown Lands * [51]. Committee —Sea Fisheries (Scotland) Amendment * [250]—R.P. Committee — Report —Revising Barristers * [237]. Third Reading —Elementary Education Provisional Orders Confirmation (Birmingham, &c.) * [228]; Local Government (Ireland) Provisional Orders ( Public Health Act ) (No. 2) * [212], and passed.

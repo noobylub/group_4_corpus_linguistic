@@ -1,0 +1,11 @@
+<FileID>138126</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/bill-240-committee</URL>
+<Title>[Bill 240] Committee</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c210</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>88</WordCount>
+
+Bill considered in Committee. (In the Committee.) Clauses 1 to 3, inclusive, agreed to. Clause 4 (Specifications, &c. not to be published unless application accepted). 
+<speaker>MR. TOMLINSON</speaker> said, he had no observation to make as to the clause; but he thought Progress should be reported before the clause was agreed to, because he expected that he or some other Member might have an additional clause to move. 
+<speaker>SIR FARBER HERSCHELL</speaker> said, he had no objection to reporting Progress. Clause agreed to. Committee report Progress; to sit again Tomorrow.

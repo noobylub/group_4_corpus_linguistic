@@ -1,0 +1,9 @@
+<FileID>138711</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c9</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>24</WordCount>
+
+PUBLIC BILL— Considered as amended — Re-Committed — Committee — Report — Considered as amended — Third Reading —Educational Endowments (Ireland) [176], and passed.

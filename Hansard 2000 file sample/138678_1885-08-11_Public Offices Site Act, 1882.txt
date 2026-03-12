@@ -1,0 +1,9 @@
+<FileID>138678</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/11/public-offices-site-act-1882</URL>
+<Title>Public Offices Site Act, 1882</Title>
+<DebRef>HL Deb 11 August 1885 vol 300 cc1716-8</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc1716-8 QUESTION. OBSERVATIONS. 755 words

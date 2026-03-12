@@ -1,0 +1,11 @@
+<FileID>137045</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/22/contagious-diseases-animals-act-foot-and</URL>
+<Title>Contagious Diseases (Animals) Act—foot-and-Mouth Disease (Yorkshire)</Title>
+<DebRef>HC Deb 22 May 1885 vol 298 c1148</DebRef>
+<SittingDate>1885-05-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>164</WordCount>
+
+
+<speaker>COLONEL GUNTER</speaker> asked the Chancellor of the Duchy of Lancaster, If his attention has been called to the alleged outbreak of foot and mouth disease at Settle, in Yorkshire, on the farm of Messrs. Dugdale, as stated in The Yorkshire Post of Thursday, and if the report is true; and, if so, if this is the only known case at present existing in the United Kingdom? 
+<speaker>MR. TREVELYAN</speaker> An outbreak of foot-and-mouth disease was reported on Wednesday at Settle, in the West Riding of Yorkshire, in a herd of 10 cattle, of which one only was attacked. This was at a farm belonging to Messrs. Lord. Yesterday a further outbreak on adjoining premises, belonging to Mr. Dugdale, was reported in a herd of 189 cattle, of which two are affected. The Department have telegraphed to one of the travelling Inspectors to visit the place and see that all precautions are taken. These are the only cases in which foot-and-mouth disease is reported to exist.

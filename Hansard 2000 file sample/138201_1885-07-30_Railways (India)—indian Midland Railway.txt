@@ -1,0 +1,11 @@
+<FileID>138201</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/railways-india-indian-midland-railway</URL>
+<Title>Railways (India)—indian Midland Railway</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc507-8</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>195</WordCount>
+
+
+<speaker>SIR GEORGE CAMPBELL</speaker> asked the Secretary of State for India, Whether, in the present depressed condition of Indian trade and difficulty in regard to Indian finance, he has given a Government guarantee to a third through line of Railway from the North West Provinces to Bombay, which will compete with two Government lines already in existence, and will connect with and feed a guaranteed line (the Great Indian Peninsular) which has taken the lead in resisting the cheapening of the rates for the carriage of Indian produce to the sea coast? 
+<speaker>THE SECRETARY OF STATE (Lord RANDOLPH CHURCHILL)</speaker> The Question of the hon. Gentleman contains assumptions and inferences to which I cannot reply within the limits of a Question, but which I content myself by generally traversing. The actual fact is this. The line to which the hon. Gentleman alludes is the Indian Midland Railway, of which the Secretary of State in Council has sanctioned the construction, giving the promoters a Government guarantee of 4 per cent. This course has been adopted by the Secretary of State in Council principally in consequence of the urgent and reiterated advice of the Viceroy and Government of India.

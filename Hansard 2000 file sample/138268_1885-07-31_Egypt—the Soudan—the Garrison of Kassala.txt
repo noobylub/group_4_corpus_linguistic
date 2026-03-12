@@ -1,0 +1,11 @@
+<FileID>138268</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/egypt-the-soudan-the-garrison-of-kassala</URL>
+<Title>Egypt—the Soudan—the Garrison of Kassala</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 c667</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>101</WordCount>
+
+
+<speaker>MR. LABOUCHERE</speaker> asked the Under Secretary of State for Foreign Affairs, Whether any expenditure will be incurred in the contemplated endeavour to rescue the garrison of Kassala; and, if so, whether a vote for this expenditure will be presented to Parliament during the present Session? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> The matter alluded to by the hon. Member is still under consideration; but I am sure he will see that it is inexpedient at present to make any public announcement with respect to it. With regard to expenditure, no Vote will be presented to Parliament during the present Session.

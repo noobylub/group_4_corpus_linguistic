@@ -1,0 +1,9 @@
+<FileID>138384</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/03/private-bills</URL>
+<Title>Private Bills</Title>
+<DebRef>HL Deb 03 August 1885 vol 300 c815</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>37</WordCount>
+
+Standing Orders Nos. 10., 22., 52., 57., 64., 85., 114., 115., 134., and 179., considered and amended; and to be printed as amended. (No. 227.) House adjourned at Six o'clock, till Tomorrow, a quarter past Four o'clock.

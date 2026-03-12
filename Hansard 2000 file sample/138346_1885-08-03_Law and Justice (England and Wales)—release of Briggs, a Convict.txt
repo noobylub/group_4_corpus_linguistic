@@ -1,0 +1,11 @@
+<FileID>138346</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/law-and-justice-england-and-wales</URL>
+<Title>Law and Justice (England and Wales)—release of Briggs, a Convict</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c840</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>93</WordCount>
+
+
+<speaker>MR. HOPWOOD</speaker> asked the Secretary of State for the Home Department, Whether it is true that Briggs was tried at Leicester Assizes last November, convicted of starving his wife to death, and sentenced to twenty years' penal servitude; whether the medical evidence given at the trial was found on further inquiry to be erroneous and misleading; and, whether Her Majesty was advised to pardon the unfortunate man, as innocent? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS),</speaker> in reply, said, that he believed Briggs had not been pardoned, but was released on licence.

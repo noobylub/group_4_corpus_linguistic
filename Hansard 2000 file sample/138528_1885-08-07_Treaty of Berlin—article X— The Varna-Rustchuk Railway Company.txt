@@ -1,0 +1,11 @@
+<FileID>138528</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/treaty-of-berlin-article-x-the-varna</URL>
+<Title>Treaty of Berlin—article X— The Varna-Rustchuk Railway Company</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 c1449</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>238</WordCount>
+
+
+<speaker>MR. TOTTENHAM</speaker> asked the Under Secretary of State for Foreign Affairs, If any steps have been taken to call the attention of the Bulgarian Government to the obligations imposed on that country by the 10th Article of the Treaty of Berlin, in her relations with the Varna Railway Company; if it is the case that the Bulgarian Government is now indebted to this Company in the sum of £980,000; and, whether any offer has been made to discharge this debt or any portion of it? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> The attention of the Bulgarian Government has been repeatedly drawn to the obligations imposed on Bulgaria by the 10th Article of the Treaty of Berlin. The Correspondence on the subject will be found in the Blue Book No. 13, of 1884, where it will be seen that the amount of the claim is disputed by the Bulgarian Government. The last offer made by Bulgaria has been rejected by the Company. Her Majesty's Government are of opinion that the best course would be to press for the reference to the Ambassadors at Constantinople, as provided for in the Treaty of Berlin, and which was agreed to by Bulgaria in 1881. Difficulties, however, of a material character have hitherto arisen as to the terms of reference under this engagement, and the matter is still in course of arrangement between the Company, the Bulgarian Government, and Her Majesty's Government.

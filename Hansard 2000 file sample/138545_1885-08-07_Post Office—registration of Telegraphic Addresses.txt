@@ -1,0 +1,11 @@
+<FileID>138545</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/post-office-registration-of-telegraphic</URL>
+<Title>Post Office—registration of Telegraphic Addresses</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 c1459</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>55</WordCount>
+
+
+<speaker>COLONEL KING-HARMAN</speaker> asked the Postmaster General, Whether, under the Telegraph Acts Amendment Bill , any alteration would be made in the existing system of registration of addresses for telegraphic purposes? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS)</speaker> It is not proposed to make any alteration in the charge or the system for the registration of addresses.

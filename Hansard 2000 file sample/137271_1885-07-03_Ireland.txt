@@ -1,0 +1,9 @@
+<FileID>137271</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/03/ireland</URL>
+<Title>Ireland</Title>
+<DebRef>HL Deb 03 July 1885 vol 298 c1643</DebRef>
+<SittingDate>1885-07-03</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>32</WordCount>
+
+Lord Lieutenant Right Hon. Earl Spencer, K.G. Lord Chancellor Right Hon. John Naish. Chief Secretary to the Lord Lieutenant Right Hon. Henry Campbell-Bannerman. Attorney General Samuel Walker, Esq. Solicitor General The Macdermott.

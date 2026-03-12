@@ -1,0 +1,9 @@
+<FileID>137162</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/08/africa-south-east-coast-st-lucia-bay</URL>
+<Title>Africa (South-East Coast)—st Lucia Bay</Title>
+<DebRef>HL Deb 08 June 1885 vol 298 cc1395-6</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc1395-6 QUESTION. OBSERVATIONS. 466 words

@@ -1,0 +1,9 @@
+<FileID>137615</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/public-health-members-and-officers-bill</URL>
+<Title>Public Health (Members and Officers) Bill— [Bill 114]</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 cc788-98</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>13</WordCount>
+
+( Sir John Kennaway, Mr. Long, Mr. Cowen. ) cc788-98 COMMITTEE. 3,986 words

@@ -1,0 +1,11 @@
+<FileID>137931</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/education-department-educationof-the</URL>
+<Title>Education Department — Educationof the Deaf—a Royal Commission</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1625</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>126</WordCount>
+
+
+<speaker>MR. ACKERS</speaker> asked the Vice President of the Committee of Council, Whether he will advise that a Royal Commission be appointed to consider the education and condition of the deaf in the United Kingdom, similar to the Commission that has been granted in the case of the blind? 
+<speaker>THE VICE PRESIDENT (Mr. E. STANHOPE)</speaker> I have already stated the form of inquiry which Her Majesty's Government think ought to be instituted into the education of the deaf and dumb; and although it is very possible that some principles which may be laid down by the Royal Commission on the condition of the blind may be also applicable to the case of the deaf, we do not see our way to the appointment of a second Commission.

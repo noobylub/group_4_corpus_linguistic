@@ -1,0 +1,11 @@
+<FileID>138399</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/egypt-the-soudan-the-late-expedition</URL>
+<Title>Egypt (The Soudan)—the Late Expedition Under Hicks Pasha —Case of the Late E B Evans, Interpreter</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1040</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>250</WordCount>
+
+
+<speaker>MR. CALLAN (for Mr. MARUM)</speaker> asked the Under Secretary of State for Foreign Affairs, Whether his attention has been called to the case of the late Edward Baldwin Evans, Interpreter to the Expedition under Hicks Pasha, and who was killed therein together with that General officer; whether, having lived for many years in Alexandria, Cairo, and Hedjaz, and carried Despatches from the Consul there to Suez, he (E. B. Evans) found the Indian Contingent on its way to the front, and was engaged in the Intelligence Department with the honorary rank of Captain and pay at the rate of £400 per annum; that he was at Tel-el-Kebir, and afterwards was employed as Interpreter for Mr. Broadly in the Egyptian State Trials; that he received his Commission from the Khedive; that, after the Battle of Marabia, his rank was raised to that of Major with pay of £500; that for his valuable services he was promised by the Egyptian Government a gratuity of six months' pay; whether, notwithstanding no such gratuity has been paid to his sisters, who were dependent on him for support, and who are now in straitened circumstances, there is still outstanding an arrear of two months' pay that accrued due before the fate of the Expedition; and, whether the Government will use its influence to see right done? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> There is no information in the Foreign Office regarding this case; but inquiry will be made as to what are the facts.

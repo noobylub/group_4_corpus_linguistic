@@ -1,0 +1,13 @@
+<FileID>137369</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/08/bill-203-consideration</URL>
+<Title>[Bill 203] Consideration</Title>
+<DebRef>HC Deb 08 July 1885 vol 299 c84</DebRef>
+<SittingDate>1885-07-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>92</WordCount>
+
+Order for Consideration, as amended, read. Motion made, and Question proposed, "That the Bill, as amended, be now-considered."—( Sir Charles W. Dilke. ) 
+<speaker>COLONEL MAKINS</speaker> desired to make an Amendment to Clause 6, by leaving out seven days, and inserting 48 hours. 
+<speaker>SIR CHARLES W. DILKE</speaker> said, there was a general agreement on this point, and he did not think they could accept the Amendment. 
+<speaker>COLONEL MAKINS</speaker> Then I must object to the Bill being taken. 
+<speaker>SIR CHARLES W. DILKE</speaker> We must put it off then. Consideration, as amended, deferred till Tomorrow.

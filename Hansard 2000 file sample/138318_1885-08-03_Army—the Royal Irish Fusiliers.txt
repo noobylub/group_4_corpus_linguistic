@@ -1,0 +1,11 @@
+<FileID>138318</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/army-the-royal-irish-fusiliers</URL>
+<Title>Army—the Royal Irish Fusiliers</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c819</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>172</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Secretary of State for War, The number of days the Adjutant of the Fusiliers was absent with and without leave from the termination of the training of 1884 to the commencement of the training of 1885, and by whom were the Regimental duties performed during his absence; and, if an immense saving to the Military expenditure of the Country could be effected by dispensing with the services of those Adjutants attached to Regiments where the head quarters are apart from the Regimental depôts? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> Sir, the officer referred to has had, since the training of 1884, his ordinary annual leave, and, in addition, has been absent by permission of his commanding officer on certain occasions from Saturday to Monday. There is no record of any absence without leave. During the Adjutant's absence the Quartermaster performed his duties. The Adjutants of detached Militia regiments act as recruiting officers, and for that and other reasons could not be dispensed with without serious inconvenience.

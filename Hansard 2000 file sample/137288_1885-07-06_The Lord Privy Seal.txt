@@ -1,0 +1,12 @@
+<FileID>137288</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/06/the-lord-privy-seal</URL>
+<Title>The Lord Privy Seal</Title>
+<DebRef>HC Deb 06 July 1885 vol 298 c1705</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>250</WordCount>
+
+
+<speaker>MR. HENEAGE</speaker> asked Mr. Chancellor of the Exchequer, Whether it is his intention of bringing in a Supplementary Estimate for the Salary of the Lord Privy Seal; and, whether he will undertake not to bring it on without due notice to the House? 
+<speaker>MR. ARTHUR O'CONNOR</speaker> also asked, whether this post was not one which it had been previously proposed to abolish; and, whether, when the Resolution for that officer's salary was proposed in Committee of Supply in 1881, the right hon. Gentleman opposite (Sir Michael Hicks-Beach) had not opposed it? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> I am really not acquainted with the facts referred to by the hon. Member (Mr. Arthur O'Connor). The Office of Lord Privy Seal is an honorary appointment so far as Departmental duties in the Office are concerned. I am very glad that the hon. Member for Grimsby (Mr. Heneage) has asked a Question on this subject, because it enables me to clear up a most unjust misunderstanding that appears to exist with regard to my noble Friend (Lord Harrowby). Lord Harrowby is not in very strong health, and yet the Prime Minister was extremely anxious to secure to the Cabinet the advantages of his long political and Parliamentary experience, not merely as a Member of a former Government, but also as having represented for many years the important constituency of Liverpool. Lord Salisbury, therefore, offered Lord Harrow by this Office, which my noble Friend has accepted without any salary at all.

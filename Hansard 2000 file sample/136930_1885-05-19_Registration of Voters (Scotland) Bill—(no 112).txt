@@ -1,0 +1,9 @@
+<FileID>136930</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/19/registration-of-voters-scotland-bill-no</URL>
+<Title>Registration of Voters (Scotland) Bill—(no 112)</Title>
+<DebRef>HL Deb 19 May 1885 vol 298 cc903-5</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>10</WordCount>
+
+( The Lord Privy Seal. ) cc903-5 COMMITTEE. 559 words

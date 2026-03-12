@@ -1,0 +1,15 @@
+<FileID>138648</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/civil-service-lower-division-clerks-and</URL>
+<Title>Civil Service—lower Division Clerks and Writers</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1733-4</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>266</WordCount>
+
+
+<speaker>MR. PULESTON</speaker> asked Mr. Chancellor of the Exchequer, Whether he has been able to consider the Memorials presented to the Treasury on behalf of the Lower Division clerks, and the Civil Service writers, and others, under the Playfair scheme, asking for a Parliamentary inquiry; and, if so, whether he will advise that a Committee of this House be granted early next Session? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> The Memorial of the Lower Division clerks, which has recently been received, will be considered by the Treasury; that of the Civil Service writers has been referred to the Civil Service Commissioners, by whom the Regulations affecting them are administered. I am sorry to say that I have not yet been able to give to this important subject the attention it deserves; and, therefore, I should not like to give a definite promise with reference to the appointment of a Committee next year to inquire into the working of the Play-fair scheme; but I am disposed to think that such an inquiry would be desirable. It is proposed to obtain Reports from the different Departments as to the working of the scheme, so that the replies received would form a basis for the investigation of such a Committee if appointed. 
+<speaker>MR. PULESTON</speaker> asked, would the inquiry deal with the particular case of the Civil Service writers? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> Yes, Sir; that is so. 
+<speaker>MR. TOMLINSON</speaker> asked, would the case of the Inland Revenue officers with the Excise Department be included? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> So far as I am aware that matter has been settled.

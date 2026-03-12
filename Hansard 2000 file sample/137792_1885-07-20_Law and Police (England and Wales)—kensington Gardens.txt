@@ -1,0 +1,12 @@
+<FileID>137792</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/law-and-police-england-and-wales-1</URL>
+<Title>Law and Police (England and Wales)—kensington Gardens</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 c1207</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>238</WordCount>
+
+
+<speaker>MR. ARTHUR ARNOLD</speaker> asked the Secretary of State for the Home Department, with reference to the recent escape of burglars, after attempting to murder a police constable, through the garden on the north side of Kensington Park Gardens, Whether he is aware that the police hold keys of the larger garden on the south side, and of the smaller garden on the west, and that the Commissioner of Police, in October last, refused to allow the police in the same manner to hold keys and to visit the northern garden, stating that "the place is very free from burglaries;" and, whether he approves this partial system of protection? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS),</speaker> in reply, said, he was informed by the Commissioner of Police that in 1882 the Home Secretary laid down a rule that the police were not to go off their beats to patrol private grounds. Since then they had ceased to do so, except in a few cases where strong objection was raised to their withdrawal after they had held keys of the ground for some years. The cases quoted by the hon. Member wore in point, and showed the danger of making such concessions. 
+<speaker>MR. ARTHUR ARNOLD</speaker> gave Notice that he would call attention to the responsibility of the Commissioner of Police in this matter if any burglary or attempted burglary should take place in these gardens.

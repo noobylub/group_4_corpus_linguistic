@@ -1,0 +1,11 @@
+<FileID>136915</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/central-asia-the-russo-persian-frontier</URL>
+<Title>Central Asia—the Russo-Persian Frontier</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 c947</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>66</WordCount>
+
+
+<speaker>MR. E. STANHOPE</speaker> asked the Under Secretary of State for Foreign Affairs, Whether he can now lay upon the Table the Correspondence with the Government of Russia relating to the delimitation of the Persian Frontier? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> There are no further communications with the Russian Government than those which will be found in the Papers laid before Parliament last year (Central Asia, No. 1, 1884).

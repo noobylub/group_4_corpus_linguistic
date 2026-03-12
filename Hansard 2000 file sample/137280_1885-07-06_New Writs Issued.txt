@@ -1,0 +1,9 @@
+<FileID>137280</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/06/new-writs-issued</URL>
+<Title>New Writs Issued</Title>
+<DebRef>HC Deb 06 July 1885 vol 298 c1671</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>21</WordCount>
+
+For Brighton, v. William Thackeray Marriott, esquire, Q.C., Judge Advocate General. For Chatham, v. John Eldon Gorst, esquire, Q.C., Solicitor General.

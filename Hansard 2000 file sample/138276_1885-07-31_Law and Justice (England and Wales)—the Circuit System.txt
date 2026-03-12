@@ -1,0 +1,10 @@
+<FileID>138276</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/law-and-justice-england-and-wales-the</URL>
+<Title>Law and Justice (England and Wales)—the Circuit System</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 cc673-4</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>145</WordCount>
+
+
+<speaker>MR. WHITLEY</speaker> asked the Secretary of State for the Home Department, Whether the Government will, during the Recess, consider the present circuit system, and especially the best mode of providing increased facilities required in the large centres with regard to the trial of actions in other Divisions of the High, Court besides the Queen's Bench? THE SECRETARY OF STATE (Sir E. ASSHETON CROSS) , in reply, said, that the Judges had arranged to try all actions entered for trial at the various Assize towns during the present Assize Circuit. It had not been brought to the notice of the Lord Chancellor that any action set down in any place for trial had not been tried there; but if any question relating to the system of Circuits should require to be considered, the Lord Chancellor would be ready to consult with the Judges on the subject.

@@ -1,0 +1,9 @@
+<FileID>137005</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/east-india-loan-lb10000000-bill</URL>
+<Title>East India Loan (£10,000,000) Bill</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1042</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>13</WordCount>
+
+( Sir Arthur Otway, Mr. Chancellor of the Exchequer, Mr. Kynaston Cross. )

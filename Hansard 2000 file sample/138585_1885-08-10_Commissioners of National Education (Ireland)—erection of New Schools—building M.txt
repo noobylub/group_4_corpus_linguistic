@@ -1,0 +1,10 @@
+<FileID>138585</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/commissioners-of-national-education</URL>
+<Title>Commissioners of National Education (Ireland)—erection of New Schools—building Materials</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 c1570</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>168</WordCount>
+
+MR. O'BRIEN asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether it has come to his knowledge that the official specifications supplied by the Commissioners of National Education to managers applying for grants towards the erection of new schools require that all cement used in the buildings shall be of London make; whether he is aware that cement of a very superior quality is manufactured at Wexford which would be excluded by this specification; and, whether instructions will be issued to the Department to alter the specification so as not to make it prohibitory with regard to Irish-made materials? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> I understand that in a form of specification fur school buildings issued by the Board of Works the use of cement of London make is recommended, but that it has never been enforced. The Board of Works inform me that when shortly issuing a reprint of this specification it is their intention to expunge the recommendation referred to.

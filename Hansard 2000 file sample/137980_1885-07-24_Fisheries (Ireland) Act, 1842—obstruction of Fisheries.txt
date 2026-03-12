@@ -1,0 +1,11 @@
+<FileID>137980</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/fisheries-ireland-act-1842-obstruction</URL>
+<Title>Fisheries (Ireland) Act, 1842—obstruction of Fisheries</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 cc1779-80</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>225</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether a few days since, while certain fishermen were engaged in lawfully fishing for mackerel off Teelin Point, county Donegal, a water bailiff employed by a Mr. Musgrave pulled his boat into the middle of the net and cast anchor, thereby preventing the fishermen from drawing the net; whether the coastguards made any report of this proceeding to the Inspectors of Fisheries, and what action they have taken; and, whether, as the fishermen were not in a condition to provide the cost of legal proceedings, the Government will cause the Inspectors of Fisheries to take such pro- ceedings as may be necessary to recover in this case the penalty prescribed by 5 and C Vic. c. 100, sec. 28, as being incurred by any one who is guilty of obstructing persons lawfully engaged in fishing? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> This case has been reported by the Coastguards to the Inspectors of Fisheries, who have pointed out that under the 28th section of the Act 5 & 0 Viet. c. 106, any person obstructing others lawfully engaged in fishing is liable on conviction to a penalty of £5. I am advised that the case is not one in which the Government should institute proceedings, the cost of which would be trivial.

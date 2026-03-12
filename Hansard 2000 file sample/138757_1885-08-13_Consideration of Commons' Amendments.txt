@@ -1,0 +1,10 @@
+<FileID>138757</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/13/consideration-of-commons-amendments-1</URL>
+<Title>Consideration of Commons' Amendments</Title>
+<DebRef>HL Deb 13 August 1885 vol 301 cc3-4</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>85</WordCount>
+
+Commons' Amendments considered (according to Order). 
+<speaker>THE LORD CHANCELLOR OF IRELAND (Lord ASHBOURNE)</speaker> , in moving that the House do agree with the Commons' Amendments to the Bill, said, that he thought their Lordships could not object to any of the Amendments, which were only alterations in matters of machinery, and would, in his opinion, make the Bill work more smoothly. Moved , "That this House doth agree with the Commons in the said Amend- ments."—( The Lord Chancellor of Ireland. ) Motion agreed to.

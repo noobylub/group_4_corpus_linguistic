@@ -1,0 +1,9 @@
+<FileID>137631</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/15/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 15 July 1885 vol 299 c799</DebRef>
+<SittingDate>1885-07-15</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>161</WordCount>
+
+SELECT COMMITTEE— Second Report —Public Accounts [No. 267], Mr. Solicitor General added; Admiralty (Expenditure and Liabilities), appointed. SUPPLY— considered in Committee —CIVIL SERVICE ESTIMATES—CLASS I. — PUBLIC WORKS AND BUILDINGS—Vote 4; CLASS VI. — NONEFFECTIVE AND CHARITABLE SERVICES; Votes 2 to 4, 7 & 8—CLASS IV. — EDUCATION, SCIENCE AND ART; Votes 4 to 9 Resolutions [July 14] reported. PRIVATE BILLS ( by Order )— Second Reading —Cart Navigation*; Evesham, Redditeh, and Stratford - upon - Avon Junction Railway *; Witham Drainage (Steeping River).* PUBLIC BILLS— Ordered — First Reading —School Boards* [235]. Second Heading —Elementary Education Provisional Orders Confirmation (Birmingham, &c.)*[228]; Poor Law Unions' Officers (Ireland)*[214]; Marriages (Saint John, Cowley)*[234]; Oaths [62], debate adjourned. Committee —Trustees Belief*[83]—R.P. Considered as amended— Public Health (Scotland) Provisional Order (No. 2)*[207]. Third Heading —Local Government (Ireland) Provisional Orders ( Public Health Act ) (No. 1)*[162]; Metropolis (Hughes Fields, Deptford) Provisional Order Confirmation*[205]; Metropolis (Tabard Street, Newington) Provisional Order Confirmation*[204], and passed. Withdrawn —Burial Grounds*[164].

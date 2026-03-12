@@ -1,0 +1,11 @@
+<FileID>138272</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/navy-dockyard-expenditure</URL>
+<Title>Navy—dockyard Expenditure</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 c671</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>113</WordCount>
+
+
+<speaker>MR. GOURLEY</speaker> asked the First Lord of the Admiralty, To be good enough to inform the House if it is his intention to appoint a Departmental Committee to inquire into the present system of Dockyard expenditure; if so, whether he will consent to add to the Committee a few men independents the ordinary official routine of Admiralty work? 
+<speaker>THE FIRST LORD OF THE ADMIRALTY (Lord GEORGE HAMILTON)</speaker> I stated yesterday the circumstances under which a Committee was appointed by the late Board of Admiralty and the nature of the inquiry they were directed to make; and until that inquiry is completed, it is not our intention to extend the scope of their investigations.

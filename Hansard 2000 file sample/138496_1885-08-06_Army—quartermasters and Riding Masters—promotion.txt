@@ -1,0 +1,11 @@
+<FileID>138496</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/army-quartermasters-and-riding-masters</URL>
+<Title>Army—quartermasters and Riding Masters—promotion</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 cc1277-8</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>231</WordCount>
+
+
+<speaker>MR. CAUSTON</speaker> asked the Secretary of State for War, If he will take into consideration, at an early date, the claims of the Army Quartermasters and Riding Masters for a reduction in the period (ten years) those Officers are now obliged to serve as Commissioned Officers before they can obtain the honorary and relative rank of Captain, taking into account their previous long service in the ranks, their age when Commissioned, which, with very few exceptions, debars them from any advantage under Article G of the Royal Warrant of 1884, and the fact that the average service of the Senior Lieutenants of Regiments, with whom they rank, is less than seven Years? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> I would remind the hon. Member that considerable privileges were conceded in the way of rank to this class of officers so recently as 1881, and that their case was fully considered by my Predecessor, who decided that more could not be done for them. I am not prepared to depart from that decision. As regards Article fl of the Royal Warrant, promotion to the rank of Lieutenant would be a doubtful advantage to a Quartermaster unless he had attained that rank much earlier than is usually the case. I may remark that the average service of the senior Lieutenants is nearer nine years than seven, as stated in the Question.

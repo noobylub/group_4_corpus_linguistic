@@ -1,0 +1,9 @@
+<FileID>136944</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/20/legislation-for-ireland-land-bill-and</URL>
+<Title>Legislation for Ireland—land Bill and Labourers' Bill</Title>
+<DebRef>HC Deb 20 May 1885 vol 298 cc971-2</DebRef>
+<SittingDate>1885-05-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>5</WordCount>
+
+cc971-2 MINISTERIAL STATEMENT. 312 words

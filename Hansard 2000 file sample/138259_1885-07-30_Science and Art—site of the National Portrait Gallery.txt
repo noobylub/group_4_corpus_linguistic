@@ -1,0 +1,9 @@
+<FileID>138259</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/30/science-and-art-site-of-the-national</URL>
+<Title>Science and Art—site of the National Portrait Gallery</Title>
+<DebRef>HL Deb 30 July 1885 vol 300 cc501-3</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>4</WordCount>
+
+cc501-3 OBSERVATIONS. 981 words

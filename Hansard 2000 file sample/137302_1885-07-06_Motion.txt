@@ -1,0 +1,8 @@
+<FileID>137302</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/06/motion-1</URL>
+<Title>Motion</Title>
+<DebRef>HC Deb 06 July 1885 vol 298 c1791</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>0</WordCount>
+

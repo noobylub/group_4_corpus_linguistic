@@ -1,0 +1,9 @@
+<FileID>138449</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/land-purchase-ireland-salaries</URL>
+<Title>Land Purchase (Ireland) [Salaries]</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1194-5</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>79</WordCount>
+
+Considered in Committee. (In the Committee.) Resolved, That it is expedient to authorise the payment, out of moneys to be provided by Parliament, of the Salaries of additional Members of the Irish Land Commission, and of any Officers who may be appointed under the pro- visions of any Act of the present Session for providing greater facilities for the sale of Land to occupying tenants in Ireland. Resolution to be reported Tomorrow. House adjourned at half after Two o'clock.

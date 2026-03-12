@@ -1,0 +1,11 @@
+<FileID>138218</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/tramways-order-in-council-ireland-bill</URL>
+<Title>Tramways Order in Council (Ireland) Bill</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c519</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>100</WordCount>
+
+
+<speaker>COLONEL COLTHURST</speaker> asked the honourable Member for county Cavan, Whether he will withdraw his notice of opposition to the Tramways Order in Council (Ireland) Bill , so as to allow that measure to be discussed? 
+<speaker>MR. BIGGAR,</speaker> in reply, said, he had never known a case in which there was so much anxiety to have a Bill defeated as in regard to this particular Bill; and he did not feel disposed to withdraw his Notice of opposition, and thus assist Sir George Colthurst, who was a nephew of the hon. and gallant Member for Cork County, to rob the ratepayers.

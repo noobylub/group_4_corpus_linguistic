@@ -1,0 +1,9 @@
+<FileID>137177</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/12/parliamentary-elections-redistribution</URL>
+<Title>Parliamentary Elections (Redistribution) Bill—(no 129)</Title>
+<DebRef>HL Deb 12 June 1885 vol 298 cc1522-3</DebRef>
+<SittingDate>1885-06-12</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>10</WordCount>
+
+( The Earl of Kimberley. ) cc1522-3 REPORT. 579 words

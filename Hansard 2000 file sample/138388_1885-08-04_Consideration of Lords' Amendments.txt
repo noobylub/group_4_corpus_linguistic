@@ -1,0 +1,11 @@
+<FileID>138388</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/consideration-of-lords-amendments</URL>
+<Title>Consideration of Lords' Amendments</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1033-4</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>217</WordCount>
+
+Lords' Amendments considered. 
+<speaker>MR. ARTHUR ARNOLD</speaker> said, he had an Amendment to move which he did not believe would be opposed. Amendment proposed, In Clause 36a, leave out from "person," in the first line of the Clause, to the end of the Clause, in order to insert the following words, "except with the consent of the Corporation to erect or build, or to begin to erect or build, any new building abutting upon any new street or part of a new street unless the Corporation shall have previously approved of the level and available width of such now street or part of a new street, nor until the carriageway and footway of such new street or part of a new street shall have been formed to such a level and of such a width and constructed and sewered to the satisfaction of the Corporation, in accordance with section one hundred and fifty of 'The Public Health Act, 1875 ;' and any person offending against this enactment shall be liable for each offence to a penalty not exceeding twenty pounds."—( Mr. Arthur Arnold. ) Question proposed, "That those words be there inserted." 
+<speaker>THE CHAIRMAN OF COMMITTEES (Sir ARTHUR OTWAY)</speaker> said, he had no objection to the Amendment. Question put, and agreed to. Lords' Amendments, as amended, agreed to.

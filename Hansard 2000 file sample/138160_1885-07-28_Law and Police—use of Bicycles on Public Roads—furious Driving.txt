@@ -1,0 +1,11 @@
+<FileID>138160</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/law-and-police-use-of-bicycles-on-public</URL>
+<Title>Law and Police—use of Bicycles on Public Roads—furious Driving</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 cc249-50</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>162</WordCount>
+
+
+<speaker>MR. HICKS</speaker> asked the Secretary of State for the Home Department, Whether his attention has been drawn to the statement in The Observer of last Sunday, that a charge against the owner of a bicycle for furious driving had been dismissed by Mr. Bushby, on the ground that he had no jurisdiction; and, whether he will, during the recess, prepare a Bill for the better regulation of street traffic with reference to vehicles of all descriptions? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS)</speaker> , in reply, said, he could not understand this decision, because undoubtedly several persons had previously been fined for furious driving of bicycles on the ordinary road. There was a recent decision that a bicycle was a carrriage, and that its rider was a driver within the meaning of the Act. As to the second part of the Question, it would require very serious considera- tion, and he could not answer it at present.

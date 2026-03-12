@@ -1,0 +1,9 @@
+<FileID>138840</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/22/police-forces-enfranchisement-bill</URL>
+<Title>Police Forces Enfranchisement Bill</Title>
+<DebRef>HC Deb 22 January 1886 vol 302 c262</DebRef>
+<SittingDate>1886-01-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>49</WordCount>
+
+On Motion of Sir Henry Selwin-Ibbetson, Bill for the complete enfranchisement of the Police Forces of the United Kingdom, ordered to be brought in by Sir HENRY SELWIN-IBBETSON, Lord CLAUD HAMILTON, Mr. RADCLIFFE COOKE, Mr. COWEN, and Sir GEORGE RUSSELL. Bill presented, and read the first time. [Bill 3.]

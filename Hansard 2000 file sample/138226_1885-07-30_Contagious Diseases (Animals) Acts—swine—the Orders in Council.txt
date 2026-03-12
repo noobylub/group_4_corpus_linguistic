@@ -1,0 +1,11 @@
+<FileID>138226</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/contagious-diseases-animals-acts-swine</URL>
+<Title>Contagious Diseases (Animals) Acts—swine—the Orders in Council</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc523-4</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>266</WordCount>
+
+
+<speaker>MR. R. H. PAGET</speaker> asked the Chancellor of the Duchy of Lancaster, Whether, with reference to his reply of 13th instant, and in view of the fact that the Lords of the Council are now advised that Local Authorities have not the power, under existing Orders of Council, to compel the cleansing and disinfecting of premises used by dealers in swine, he will move their Lordships to issue an Order of Council to enable Local Authorities to deal effectively with such premises, and thus prevent the spread of disease? 
+<speaker>THE CHANCELLOR OF THE DUCHY (Mr. CHAPLIN)</speaker> My hon. Friend appears to be under some misapprehension in saying that the Lords of the Council are advised that Local Authorities have not the power to compel the disinfection of premises used by dealers in swine under the existing Orders in Council. That is a statement which applies solely to promises which are not connected in any way with markets, or sale-yards, or places of that kind. Where they are so connected the Local Authorities have ample powers under the existing Orders already. I should be very glad to go further, and to meet the views of the hon. Member if I could. But it appears to me that it would be exceedingly difficult to define who is and who is not a dealer in swine, and I do not see at present how his object can be attained without requiring private owners, however healthy their animals, to disinfect their premises all over the country; and that is a course which it appears to me would not be expedient.

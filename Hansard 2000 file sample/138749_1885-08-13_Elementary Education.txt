@@ -1,0 +1,9 @@
+<FileID>138749</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/elementary-education</URL>
+<Title>Elementary Education</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c28</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>78</WordCount>
+
+Return presented ,—showing, during the period from 1870 to 1885, in each year:— (1.) The number of Children attending Voluntary Schools; (2.) The total amount of Expenditure; (3.) The total amount of School Fees; (4.) The amount of Voluntary Subscriptions; (5.) The amount of Government Grant; (6.) The amount received from other sources; and (7.) The number of New Schools established [Address 13th August; Mr. Molloy ]; to lie upon the Table, and to be printed. [No. 354.]

@@ -1,0 +1,10 @@
+<FileID>137751</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/17/withdrawal-of-notice</URL>
+<Title>Withdrawal of Notice</Title>
+<DebRef>HL Deb 17 July 1885 vol 299 c1040</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>230</WordCount>
+
+
+<speaker>THE EARL OF LEITRIM,</speaker> who had placed a Notice upon the Paper of his intention To move for a Select Committee to inquire into and to report upon the tenure of lands held by grantees in perpetuity under Trinity College, Dublin, and the Provost thereof in his corporate capacity, and on the working of the Trinity College, Dublin, Leasing and Perpetuity Act, 1851 , with respect to the variation of rent and its effect on the value of the interests respectively' of the College, the perpetuity grantees, and the occupying perpetuity tenants of the lands, said, the Motion had been put down some time ago, and had been discussed, and ultimately adjourned for further information on the subject. This was the first day on which, with the consent of the Chancellor of the University of Dublin, he had been able to bring the Motion on. He was now advised that there were practical difficulties in the way of the appointment of a Select Committee, owing to the late period of the Session and the reluctance of Peers to attend. Even if Peers did attend on a Committee it would be difficult for them to complete their work before the Prorogation. That being the case, he would not move the Motion, and would content himself with giving Notice that he would take the earliest opportunity of bringing it forward next Session.

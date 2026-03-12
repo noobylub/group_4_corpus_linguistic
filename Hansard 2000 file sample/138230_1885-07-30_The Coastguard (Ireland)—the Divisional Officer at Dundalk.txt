@@ -1,0 +1,10 @@
+<FileID>138230</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/the-coastguard-ireland-the-divisional</URL>
+<Title>The Coastguard (Ireland)—the Divisional Officer at Dundalk</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c526</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>102</WordCount>
+
+MR. O'BRIEN (for Mr. HARRINGTON) I beg to ask the First Lord of the Admiralty, Whether it is true that the Divisional Officer of Coastguards in Dundalk, when visiting the stations in his district, compels the Coastguards to groom and attend his horse; and, whether, on the occasion of these official visits, he is in the habit of raising religious controversies with the Catholic coastguards under his command? 
+<speaker>THE FIRST LORD (Lord GEORGE HAMILTON),</speaker> in reply, said, he had received a communication from the Divisional Officer of Coastguards in Dundalk altogether denying the allegation contained in the Question of the hon. Member.

@@ -1,0 +1,12 @@
+<FileID>138211</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/royal-commission-on-the-depression-of</URL>
+<Title>Royal Commission on the Depression of Trade and Industries</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc513-4</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>223</WordCount>
+
+
+<speaker>MR. ARTHUR ARNOLD</speaker> asked Mr. Chancellor of the Exchequer, Whether he can now state the terms of the Royal Commission on Trade Depression, and the names of the Commissioners? 
+<speaker>MR. SEXTON</speaker> asked whether the Chancellor of the Exchequer would include Ireland in the scope of the Commission, or grant a separate Commission? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I must ask the hon. Member for Sligo (Mr. Sexton) to give me Notice of that Question. In regard to the Question of the hon. Member for Salford (Mr. Arthur Arnold), I have to inform him that the terms of the Royal Commission are "to inquire into the extent, nature, and probable causes of the depression now or recently existing in various branches of trade and industry." My noble Friend Lord Iddesleigh, the Chairman of the Commission, proposes to lay a Memorandum before the Commissioners at the first meeting, which u ill indicate the scope and manner of inquiry at greater length, and that Memorandum will be laid before Parliament. As to the composition of the Commission I cannot yet give a decided answer. It would not be well, I think, to state some of the names only. Some difficulties have arisen in the matter— delay winch is not duo to us; but I shall communicate the full list of names as soon as I can.

@@ -1,0 +1,11 @@
+<FileID>138688</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/12/law-and-justice-england-and-wales</URL>
+<Title>Law and Justice (England and Wales)—disorderly Houses— Case of Mrs Jeffries</Title>
+<DebRef>HC Deb 12 August 1885 vol 300 cc1870-1</DebRef>
+<SittingDate>1885-08-12</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>92</WordCount>
+
+
+<speaker>MR. CALLAN,</speaker> who had a Notice on the Paper for Returns of Reports by Mr. Batchelor, of the Solicitors' Department of the Treasury, and by Inspector Minahan, relative to the case of Mrs. Jeffries—asked the hon. Member for Preston, Whether he would be kind enough to withdraw his Notice of oppo- sition; and, further, whether he had put down that Notice in the interests of the late Home Secretary or in the interests of Mrs. Jeffries? 
+<speaker>MR. TOMLINSON</speaker> said, he considered the Reports were confidential, and he declined to withdraw his opposition.

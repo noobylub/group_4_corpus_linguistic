@@ -1,0 +1,9 @@
+<FileID>138760</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/13/housing-of-the-working-classes-england</URL>
+<Title>Housing of the Working Classes (England) Bill [Lords]—(no 252)</Title>
+<DebRef>HL Deb 13 August 1885 vol 301 cc4-7</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>13</WordCount>
+
+( The Marquess of Salisbury. ) cc4-7 CONSIDERATION OF COMMONS' AMENDMENTS. 1,161 words

@@ -1,0 +1,9 @@
+<FileID>138468</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/05/universities-scotland-hill</URL>
+<Title>Universities (Scotland) Hill</Title>
+<DebRef>HC Deb 05 August 1885 vol 300 cc1250-1</DebRef>
+<SittingDate>1885-08-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>23</WordCount>
+
+( The Lord Advocate, Secretary Sir William Harcourt, Mr. Solicitor General for Scotland. ) cc1250-1 [BILL 115.] SECOND READING. BILL WITHDRAWN. 160 words

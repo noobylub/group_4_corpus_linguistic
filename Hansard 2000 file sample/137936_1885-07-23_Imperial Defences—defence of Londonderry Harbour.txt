@@ -1,0 +1,11 @@
+<FileID>137936</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/imperial-defences-defence-of-londonderry</URL>
+<Title>Imperial Defences—defence of Londonderry Harbour</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1628-9</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>243</WordCount>
+
+
+<speaker>MR. LEWIS</speaker> asked the First Lord of the Admiralty, Whether he has received a Communication from the Port and Harbour Commissioners of Londonderry, complaining of the defenceless state of that port, and of Lough Foyle generally; whether the Government contemplate any steps to improve the condition of affairs, either by a man-of-war being stationed there, or a training ship and a volunteer torpedo brigade in connection therewith; and, if any, and what, local aid can be recommended by the Government? 
+<speaker>THE FIRST LORD (Lord GEORGE HAMILTON)</speaker> Yes; a communication has been received from the Port and Harbour Commissioners of Londonderry, complaining of the defenceless state of that port and of Lough Foyle generally. The Government do not contemplate stationing a vessel of war permanently at Lough Foyle. In time of war every assistance would be rendered by the Navy to protect the coasts of the United Kingdom to the extent which could be afforded by cruising ships, but vessels could not be kept permanently for the defence of any one port; such permanent defences must be provided by fortifications and gunboats, supplemented, if necessary, by torpedo boats, submarine mines, and torpedoes. As to the establishment of torpedo corps for the protection of the various commercial ports in the United Kingdom and the manner in which they can be provided and manned in an efficient manner, the question is at present being thoroughly considered, but no decision has as yet been finally arrived at.

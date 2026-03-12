@@ -1,0 +1,9 @@
+<FileID>137107</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/05/notice-of-resolution</URL>
+<Title>Notice of Resolution</Title>
+<DebRef>HC Deb 05 June 1885 vol 298 cc1345-6</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>9</WordCount>
+
+cc1345-6 LAW AND JUSTICE (IRELAND)—THE BARBAVILLA MURDER. 135 words

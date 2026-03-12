@@ -1,0 +1,9 @@
+<FileID>138309</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/31/third-reading</URL>
+<Title>Third Reading</Title>
+<DebRef>HL Deb 31 July 1885 vol 300 c659</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>160</WordCount>
+
+Order of the Day for the Third Reading read. THE EARL OF MILLTOWN , in moving that the Bill be now read the third time, said, he desired to thank their Lordships on both sides of the House for their forbearance, which had enabled him to pass this important Bill through the House with such facility. He sincerely trusted and believed that the experience of the next few years would prove to those noble Lords who had expressed doubts as to the expediency of such a measure that their fears had been groundless, and that in granting this important measure of franchise they had acted in accordance with the wishes of the great majority of their countrymen, and earned another title to the respect and esteem in which this House was held by the country. Moved, "That the Bill be now read 3 a "—( The Earl of Milltown. ) Motion agreed to; Bill read 3 a , and passed.

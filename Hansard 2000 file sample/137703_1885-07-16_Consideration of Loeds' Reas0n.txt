@@ -1,0 +1,10 @@
+<FileID>137703</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/consideration-of-loeds-reas0n</URL>
+<Title>Consideration of Loeds' Reas0n</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc1015-6</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>281</WordCount>
+
+Lords' Reason for disagreeing to the Amendment made by the Commons considered. 
+<speaker>MR. H. H. FOWLER</speaker> said, he rose to move that the House do insist upon its Amendment. This was a Bill brought forward to enable boroughs to confer honorary freedom upon distinguished persons. When the Bill came back, it was found that an Amendment had been put in it, that a majority of two-thirds should be required in order that the power might be exorcised. Objection was taken to that, on the ground that such a principle was entirely novel; that there was no such regulation in any Corporation in the country, nor in the City of London. It was alleged that the power of conferring the honorary freedom upon persons of distinction, or any persons who had rendered eminent services to a borough, being of a purely complimentary character, ought not to be exercised by a bare majority, inasmuch as the conferring of the freedom of the borough, without the support of a largely preponderating force of opinion among the burgesses, would, by giving rise to frequent and unnecessary discussions upon personal merits, lower the character of the distinction which was contemplated by the Bill, and lead to an undue consumption of public time. It seemed to him that the proposal of the Lords was more likely than the Amendment of the Commons to lead to undue consumption of public time. He, therefore, moved that this House do insist on its Amendment. Motion made, and Question put; "That this House doth insist upon the Amendment to which the Lords have disagreed."—( Mr. H. H. Fowler. ) The House divided: —Ayes 35; Noes 40: Majority 5.—(Div. List, No. 233.)

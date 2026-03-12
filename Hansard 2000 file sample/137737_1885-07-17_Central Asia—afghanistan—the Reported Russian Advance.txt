@@ -1,0 +1,11 @@
+<FileID>137737</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/central-asia-afghanistan-the-reported</URL>
+<Title>Central Asia—afghanistan—the Reported Russian Advance</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 c1064</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>31</WordCount>
+
+
+<speaker>MR. SALT</speaker> asked the Chancellor of the Exchequer, Whether there was any further information from Afghanistan? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> No, Sir; there is no further information.

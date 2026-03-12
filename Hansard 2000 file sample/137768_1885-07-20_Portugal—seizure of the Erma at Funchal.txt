@@ -1,0 +1,13 @@
+<FileID>137768</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/portugal-seizure-of-the-erma-at-funchal</URL>
+<Title>Portugal—seizure of the Erma at Funchal</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 c1191</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>172</WordCount>
+
+
+<speaker>MR. WILLS</speaker> asked the Under Secretary of State for Foreign Aflairs, What steps have been taken in reference to the seizure at Funchal, in January last, by the Portuguese Customs, of the British Brigantine Erma, of Yarmouth, Nova Scotia, which was detained until the sum of eighty-seven pounds sterling had been paid by her owner; and what reply, if any, has been received from the authorities at Lisbon to the representations that have been made to them? 
+<speaker>THE UNDER SECRETARY OF STATE FOR EOREIGN AFFAIRS (Mr. BOURKE)</speaker> Her Majesty's Minister at Lisbon addressed a representation on this subject to the Portuguese Government in February last. He reports that a delay has taken place owing to the necessity of referring the matter to Funchal; but he expects to receive in a few days the official answer, which it is hoped will be favourable. 
+<speaker>MR. WILLS</speaker> If the answer does not come in the course of the next few days, will the hon. Gentleman make further inquiries? 
+<speaker>THE UNDER SECRETARY (Mr. BOURKE)</speaker> Certainly, Sir.

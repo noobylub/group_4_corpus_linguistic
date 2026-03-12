@@ -1,0 +1,9 @@
+<FileID>138561</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/poor-law-guardians-ireland-bill-bill-245</URL>
+<Title>Poor Law Guardians (Ireland) Bill— [Bill 245]</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 c1524</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>16</WordCount>
+
+( Mr. John Redmond, Mr. O'Brien, Mr. Gray, Mr. Barry. ) c1524 LORDS' AMENDMENTS. 153 words

@@ -1,0 +1,13 @@
+<FileID>138580</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/egypt-light-dues</URL>
+<Title>Egypt—light Dues</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 cc1566-7</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>391</WordCount>
+
+
+<speaker>MR. SUTHERLAND</speaker> asked the Secretary to the Board of Trade, Whether he is aware that a representation has recently been made by shipowners of all Nationalities trading to Egypt to their several Ministers in that County, with respect to the Light Dues at present levied by the Egyptian Government; whether the Revenue derived from these Dues amounts to a figure between £80,000 and £90,000 per annum, while the Expenditure, allowing a liberal amount to be set aside for depreciation and maintenance, does not reach anything like half that sum; whether, also, it is the case that Great Britain only acceded to the present tariff on the express condition— That such tariff should be increased or lowered according to the state of the Light House Budget, to be drawn up by Government every year; and, if the facts as stated in this Question be correct, Her Majesty's Government will insist on the Dues on Shipping being diminished, in proportion to the excess of Revenue now obtained; or, in other words, to the extent of less than one-half the present tariff? 
+<speaker>THE SECRETARY TO THE BOARD (Baron HENRY DE WORMS)</speaker> I am aware, Sir, that a representation to the effect stated by the hon. Member has recently been made with respect to the light dues levied by the Egyptian Government. From the Lighthouse Accounts submitted, the receipts and expenditure are practically as stated. The annual balance on the accounts is devoted to the repayment to the Egyptian Government of the debt on the lighthouse funds for the first cost of the works. In the notice issued to the shipping interest in 1870, announcing the lighthouse tariff, it was stated that the dues should be susceptible of increase or diminution according to the state of the Lighthouse Budget to be published every year. This arrangement was approved by Her Majesty's Government. As regards the fourth point, I may state that the trade have long been pressing for additional lighthouses, and any question with respect to the reduction of lighthouse dues shall be fully considered, in connection with that subject. 
+<speaker>MR. SUTHERLAND</speaker> asked whether the hon. Gentleman was aware that the annual Lighthouse Budget had not been recently published by the Egyptian Government? 
+<speaker>THE SECRETARY TO THE BOARD</speaker> I believe the hon. Member is perfectly correct; but in future that Budget will be regularly published.

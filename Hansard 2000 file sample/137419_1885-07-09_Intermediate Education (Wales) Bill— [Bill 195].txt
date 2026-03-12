@@ -1,0 +1,9 @@
+<FileID>137419</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/intermediate-education-wales-bill-bill</URL>
+<Title>Intermediate Education (Wales) Bill— [Bill 195]</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c223</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>10</WordCount>
+
+( Mr. Mundella, Mr. Osborne Morgan, Lord Richard Grosvenor. )

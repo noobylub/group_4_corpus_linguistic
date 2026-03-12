@@ -1,0 +1,9 @@
+<FileID>138839</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/22/county-government-ireland-bill</URL>
+<Title>County Government (Ireland) Bill</Title>
+<DebRef>HC Deb 22 January 1886 vol 302 c262</DebRef>
+<SittingDate>1886-01-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>47</WordCount>
+
+On Motion of Mr. John O'Connor, Bill to provide for the better government of Counties in Ireland, ordered to be brought in by Mr. JOHN O'CONNOR, Mr. TIMOTHY HEALY, Mr. SEXTOX, Mr. DILLON, Mr. REYNOLDS, and Mr. SMALL. Bill presented, and read the first time. [Bill 2.]

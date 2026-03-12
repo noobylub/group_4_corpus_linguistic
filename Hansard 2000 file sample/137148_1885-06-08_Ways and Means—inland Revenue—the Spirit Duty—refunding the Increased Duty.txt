@@ -1,0 +1,13 @@
+<FileID>137148</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/ways-and-means-inland-revenue-the-spirit</URL>
+<Title>Ways and Means—inland Revenue—the Spirit Duty—refunding the Increased Duty</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 cc1415-6</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>387</WordCount>
+
+
+<speaker>MR. BOORD</speaker> asked the Chancellor of the Exchequer with respect to the statement which he made on Friday, that he did not propose to refund any part of the Spirit Duties which had been paid during the last five weeks to those who had paid them, Whether he had seen a letter which had appeared in the newspapers from a certain large Brewery Company, in which they made the distinct statement that they received an assurance from the authorities at the Custom House that in the event of a reduction of the duty the difference between the higher and the lower duty would be returned, and that they and others would certainly have restricted their duty payments had they had the least idea that the guarantee given was not to be adhered to; and, whether there was any foundation for, or explanation of, that statement? THE CHANCELLOR OF THE EXCHEQUER (Mr. GUILDERS) said, he had received Notice of a similar Question from the hon. Member for York (Sir Frederick Milner). In moving the second reading of the Customs and Inland Revenue Bill , which he should do in a few minutes, he should state what were the intentions of the Government in this respect. 
+<speaker>MR. J. G. HUBBARD</speaker> desired to ask the Chancellor of the Exchequer at what date wines up to 30 degrees of strength would be admitted to this country at the 1 s. duty? THE CHANCELLOR OF THE EXCHEQUER (Mr. GUILDERS) said, he answered that Question on the evening when he made his Financial Statement. He then said that, by the Resolution which the Government asked the House to adopt, the date was made to depend upon the decision of the Government. The clause in the Bill would give that power to the Government. 
+<speaker>MR. O'SULLIVAN</speaker> asked the Chancellor of the Exchequer whether he was prepared, on the second reading of the Customs and Inland Revenue Bill , to give the House the amount of duty paid on spirits during the last six months, and the amount spent in the corresponding month of 1884, so that the House might judge whether the increased duty had increased the Revenue or not? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Mr. CHILDERS)</speaker> said, that he could only give information, as to the receipt during a given period, after Notice.

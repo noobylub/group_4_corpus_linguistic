@@ -1,0 +1,11 @@
+<FileID>138579</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/ceylon-lighthouses-the-basses-lights</URL>
+<Title>Ceylon—lighthouses—the Basses Lights, Minicot Lighthouse</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 cc1565-6</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>296</WordCount>
+
+
+<speaker>MR. SUTHERLAND</speaker> asked the Secretary to the Board of Trade, If the dues levied on shipping on account of the Basses Lights amount in round figures to £17,000 per annum, while the cost of maintenance, including interest and repayment of loans, is little more than £10,000; and, whether there is a considerable balance in hand on this account derived from this surplus revenue; and, if so, under these circumstances, the time has arrived to reduce considerably the dues payable by shipping for the maintenance of these lights? 
+<speaker>THE SECRETARY TO THE BOARD (Baron HENRY DE WORMS)</speaker> The figures stated in the Question are practically accurate for the year 1882–3; but in the 1883–4 the receipts had increased to upwards of £20,000, and the expenditure amounted to £26,000, nearly £14,000 having been provided from surplus dues towards the cost of the construction of a new lighthouse on Mini-coy Island, and the balance being thus reduced to less than £6,000. Since that date the balance has increased; but, having regard to the hazardous nature of the service of attending and relieving the lighthouses—one tender having been lost—the Board of Trade think it desirable that a small reserve fund to meet con- tingencies should be maintained. The Board of Trade are under pledges to the Indian Government to reconsider the present rates at the earliest possible moment; but it must be borne in mind that, as the dues are held as security by the Public Works Loan Commissioners for advances remaining unpaid to the extent of nearly £100,000, the Board will not be in a position to propose a reduction in the tolls until they have gained more experience as to the revenue to be derived from the new dues for Minicoy Lighthouse and the cost of its maintenance.

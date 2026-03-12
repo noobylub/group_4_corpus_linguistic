@@ -1,0 +1,10 @@
+<FileID>138343</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/egypt-the-soudan-battle-of-abu-klea</URL>
+<Title>Egypt (The Soudan)—battle of Abu Klea</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c839</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>82</WordCount>
+
+SIR WALTER B.BARTTELOT asked the Secretary of State for War, Whether any Despatch was received from Sir Herbert Stewart, after the Battle of Abu Klea, giving an account of the behaviour of the Troops under his command; and, if such Despatch was sent and received, whether he will lay it upon the Table of the House? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> The hon. and gallant Baronet will find the despatch in the Egyptian Papers, No. 9, at page 4.

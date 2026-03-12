@@ -1,0 +1,9 @@
+<FileID>138024</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/24/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 24 July 1885 vol 299 c1758</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>87</WordCount>
+
+Sat First in Parliament— The Earl of Aylesford, after the death of his brother. PUBLIC BILLS— Second Heading —Polehampton Estates*(183);National Debt*; Parliamentary Elections (Corrupt Practices)*(199); School Boards*(200); Exchequer and Treasury Bills*; Greenwich Hospital*(201); Post Office Sites*(181); Public Health (Members and Officers)*(194). Committee — Report —Waterworks Clauses Act (1847) Amendment (127); Cholera Hospitals (Ireland) (182); Turnpike Acts Continuance*(174); Public Health (Ships, &c.)*(186); Artillery and Rifle Ranges *(193). Report —Submarine Telegraph Cables (203). Third Heading — Housing of the Working Classes (England) (196); Land Purchase (Ireland) (205), and passed.

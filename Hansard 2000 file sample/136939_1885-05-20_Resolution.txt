@@ -1,0 +1,11 @@
+<FileID>136939</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/20/resolution</URL>
+<Title>Resolution</Title>
+<DebRef>HC Deb 20 May 1885 vol 298 cc951-2</DebRef>
+<SittingDate>1885-05-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>222</WordCount>
+
+
+<speaker>SIR R. ASSHETON CROSS</speaker> said, he observed there was a Motion on the Paper in the name of the Prime Minister with reference to the adjournment of the House for the Whitsun Recess. It had been understood that this Motion would be made on Thursday, and of course a great number of hon. Gentlemen who would then have been present were not at this moment in the House. He wished to ask whether the Motion was set down simply as a matter of form, so that it might be moved and adjourned, and thus become an Order of the Day for tomorrow? If that were so it was quite right; but he should otherwise strongly object to proceeding with that Motion now. 
+<speaker>SIR CHARLES W. DILKE</speaker> said, the right hon. Gentleman had correctly interpreted the object of the Government in putting down the Motion today. As soon as the Motion was made it would be proposed to adjourn the debate till tomorrow, so that the Motion would come first among the Orders of the Day. He therefore begged to make the Motion standing in the name of the Prime Minister. Motion made, and Qustion proposed, "That the House at its rising on Friday, do adjourn till Thursday the 4th of June."—( Sir Charles W. Dilke. ) Debate arising; Debate adjourned till Tomorrow.

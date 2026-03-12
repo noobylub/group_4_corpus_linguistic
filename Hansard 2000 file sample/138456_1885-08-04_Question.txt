@@ -1,0 +1,11 @@
+<FileID>138456</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/04/question</URL>
+<Title>Question</Title>
+<DebRef>HL Deb 04 August 1885 vol 300 cc1031-2</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>350</WordCount>
+
+
+<speaker>THE EARL OF WEMYSS</speaker> asked, Whether, before Parliament separated, the noble Marquess would make a statement with reference to the Soudan, and particularly as to any steps to be taken for the protection of the tribes that had been friendly to us? The Question he had asked had reference to the Proclamation which had been issued by General Gordon promising protection to the friendlies. 
+<speaker>THE MARQUESS OF SALISBURY</speaker> I am afraid, to use a well-known phrase that "many things have happened" since General Gordon wrote those words-Whether there are any "friendlies" now in existence for us to protect is a matter on which I should not like to give any hasty assurance. I know that a great many friendlies were killed; and I think it probable that such as were not killed have ceased to be friendly. However that may be, no appeal has reached me from any tribes described as friendly who are now suffering danger in consequence of their conduct towards us. I quite recognize the responsibility which rests on this country with respect to vast masses of the population in consequence of what we did in the Soudan; but I am not aware that at present there is any call on Her Majesty's Government to take any steps for the protection of any peoples of that kind. I am afraid the time has passed when such protection could be given to anyone by England. With respect to the question of the Soudan generally, I will only say that it is a matter very specially belonging to the Mission on which my right hon. Friend Sir Drummond Wolff has started. It would not be for the public service or consistent with usage that I should state the recommendations which we shall have to make to the Sultan and others on this subject. But my noble Friend may be well assured that, after the immediate needs of Egyptian finance are happily disposed of, there is no subject which claims a more earnest attention on the part of Her Majesty's Government than that of the regions to which he referred.

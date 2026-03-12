@@ -1,0 +1,9 @@
+<FileID>137268</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/03/the-cabinet</URL>
+<Title>The Cabinet</Title>
+<DebRef>HL Deb 03 July 1885 vol 298 c1643</DebRef>
+<SittingDate>1885-07-03</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>177</WordCount>
+
+First Lord of the Treasury (Prime Minister) Right Hon. WILLIAM EWART GLADSTONE. Lord Chancellor Right Hon. Earl of Selborne. Lord Lieutenant of Ireland Right Hon. Earl Spencer, K.G. Lord President of the Council Right Hon. Lord Carlingford. Lord Privy Seal and First Commissioner of Works and Public Buildings Right Hon. Earl of Rosebery. Chancellor of the Exchequer Right Hon. H. C. E. Childers. Secretary of State, Home Department Right Hon. Sir William V. Harcourt. Secretary of State, Foreign Department. Right Hon. Earl Granville, K.G. Secretary of State for the Colonies Right Hon. Earl of Derby. Secretary of State for War Right Hon. Marquess of Hartington. Secretary of State for India Right Hon. Earl of Kimberley. First Lord of the Admiralty Right Hon. Earl of Northbrook. Chancellor of the Duchy of Lancaster and Vice President of the Committee of Council for Agriculture. Right Hon. George Otto Trevelyan. President of the Board of Trade Right Hon. Joseph Chamberlain. President of the Local Government Board Right Hon. Sir Charles W. Dilke. Bt. Postmaster General Right Hon. George John Shaw Lefevre.

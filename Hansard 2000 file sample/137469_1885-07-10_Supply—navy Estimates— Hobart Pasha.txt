@@ -1,0 +1,11 @@
+<FileID>137469</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/supply-navy-estimates-hobart-pasha</URL>
+<Title>Supply—navy Estimates— Hobart Pasha</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 c290</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>61</WordCount>
+
+
+<speaker>MR. BRYCE</speaker> asked Mr. Chancellor of the Exchequer, Whether it is intended to bring on the question of Hobart Pasha's allowances on the Report of Supply? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH),</speaker> in reply, said, that the Report of the Resolution agreed to in Committee of Supply, upon which the question could be raised, would be taken on Monday.

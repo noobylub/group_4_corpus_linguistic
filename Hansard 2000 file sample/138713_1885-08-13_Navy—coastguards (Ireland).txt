@@ -1,0 +1,11 @@
+<FileID>138713</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/navy-coastguards-ireland</URL>
+<Title>Navy—coastguards (Ireland)</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c9</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>125</WordCount>
+
+
+<speaker>MR. DAWSON</speaker> asked the First Lord of the Admiralty, Whether it is a fact that the Coastguards in Ireland, who were removed from their ordinary stations for torpedo practice, had one shilling per day deducted from their pay for their support; and, whether this deduction will be remitted? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> Chief officers and men of the Coastguard generally are, when serving afloat, subject to a deduction of 1 s. from the subsistence of 1 s. 4 d. a-day which they receive when on shore, as when on board ship they are provisioned from the ship's stores. No deviation from this practice took place as regards the Coastguard in Ireland who were embarked this year. This deduction cannot be remitted.

@@ -1,0 +1,9 @@
+<FileID>138117</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/parliamentary-elections-returning</URL>
+<Title>Parliamentary Elections (Returning Officers) Bill— [Bill 99]</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc196-207</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>16</WordCount>
+
+( Mr. Attorney General, Sir Charles W. Dilke. ) cc196-207 COMMITTEE. [Progress 14th July.] 4,125 words

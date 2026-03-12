@@ -1,0 +1,9 @@
+<FileID>138756</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/13/land-purchase-ireland-bill-lords-no-250</URL>
+<Title>Land Purchase (Ireland) Bill [Lords]—(no 250)</Title>
+<DebRef>HL Deb 13 August 1885 vol 301 cc3-4</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>14</WordCount>
+
+( The Lord Chancellor of Ireland. ) cc3-4 CONSIDERATION OF COMMONS' AMENDMENTS. 76 words

@@ -1,0 +1,10 @@
+<FileID>138469</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/05/bill-115-second-reading-bill-withdrawn</URL>
+<Title>[Bill 115] Second Reading Bill Withdrawn</Title>
+<DebRef>HC Deb 05 August 1885 vol 300 cc1250-1</DebRef>
+<SittingDate>1885-08-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>174</WordCount>
+
+
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS)</speaker> , in moving that the Order for the second reading of the Bill be discharged, said, he regretted very much that a Bill which he believed would have been of great use, and which was very much wanted in Scotland, should not have been allowed to pass. So far as he could learn, public opinion in Scotland was very much in favour of this Bill, and the persons who were opposed to it were small in number, and were becoming smallar and smaller. He, therefore, regretted that hon. Members opposite had pushed their objections to the Bill in the way they had. At that time of the Session, it was quite impossible that they could force the Bill through, and on the shoulders of those hon. Members who opposed it must fall the responsibility for its abandonment. Motion made, and Question, "That the Order for the Second Reading1 be read and discharged,"—( Sir E. Asshston Cross, )—put, and agreed to. Bill withdrawn.

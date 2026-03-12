@@ -1,0 +1,13 @@
+<FileID>137219</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/19/parliament-adjournment-resignation-of</URL>
+<Title>Parliament—adjournment—resignation of Ministers—statement of the Marquess of Salisbury</Title>
+<DebRef>HL Deb 19 June 1885 vol 298 cc1592-3</DebRef>
+<SittingDate>1885-06-19</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>392</WordCount>
+
+
+<speaker>THE MARQUESS OF SALISBURY</speaker> My Lords, I rise merely to ask tin noble Earl opposite whether he will consent to another adjournment of the House until Tuesday? The communications which have been going on have not yet reached a position which will enable either side of the House to make a statement; and it will be more convenient, therefore, in my opinion, and also probably in that of the noble Earl opposite, as well as for the interest of Public Business, that we should adjourn until Tuesday. I wish to make just one observation with regard to an important Order upon the Paper. I am quite aware of the importance, as a matter of general Business, of getting the Redistribution Bill passed as soon as possible, so as to enable the Local Authorities to do their work; but a very serious Constitutional question has unfortunately arisen. It turns out—and we have taken good opinion upon the point—that the Redistribution Bill , when it passes, absolutely takes away from this time until November next the power of Dissolution. It destroys one set of constituencies, and— 
+<speaker>EARL GRANVILLE</speaker> I beg the pardon of the noble Marquess. Does he propose to make his statement on the Motion for the Adjournment, or on the Order for the consideration of the Bill? 
+<speaker>THE MARQUESS OF SALISBURY</speaker> My proposal was to take the Motion for Adjournment before the Orders of the Day; but if the noble Earl proposes to go through the Orders of the Day first, I shall offer no objection to that course being adopted. I, however, think that it would be an inconvenient one. What I was about to say with regard to the Redistribution Bill was that that was the effect of it. It destroys one set of? THE EARL OF KIMBERLEY I rise to Order. It is against the Rules of the House to discuss one Order when the House is considering another question. I therefore object to the noble Marquess making a statement at the present moment. [ Cries of "Divide!"] 
+<speaker>THE MARQUESS OF SALISBURY</speaker> I am aware that these observations before half-past 4 o'clock are never technically in Order at all; but if the noble Earl objects, of course I will not proceed. THE EARL OF KIMBERLEY I think it will be more convenient to wait until the Order is reached.

@@ -1,0 +1,10 @@
+<FileID>137455</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/egypt-m-olivier-pain</URL>
+<Title>Egypt—m Olivier Pain</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 cc280-1</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>106</WordCount>
+
+MR. JUSTINHUNTLY M'CARTHY asked the Secretary of State for War, Whether any communications have passed between the Government and Captain G. F. Wilson, R.E., with respect to the proclamation alleged to have been issued by Captain Wilson, offering a reward for the capture of M. Olivier Pain, dead or alive? 
+<speaker>THE SECRETARY OF STATE FOR WAR (Mr. W. H. SMITH)</speaker> No, Sir; no communications whatever have passed between the Government and Captain Wilson, R.E. The Government could only in such a case communicate with the General in command of the Expedition, and this was done, with the result which I have already stated to the House.

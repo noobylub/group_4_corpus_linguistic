@@ -1,0 +1,9 @@
+<FileID>137022</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/21/parliament-palace-of-westminster</URL>
+<Title>Parliament—palace of Westminster—westminster Hall (Restoration)</Title>
+<DebRef>HL Deb 21 May 1885 vol 298 cc999-1000</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc999-1000 QUESTION. OBSERVATIONS. 598 words

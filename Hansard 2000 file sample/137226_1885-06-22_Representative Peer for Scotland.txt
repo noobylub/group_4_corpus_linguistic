@@ -1,0 +1,10 @@
+<FileID>137226</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/22/representative-peer-for-scotland</URL>
+<Title>Representative Peer for Scotland</Title>
+<DebRef>HL Deb 22 June 1885 vol 298 c1607</DebRef>
+<SittingDate>1885-06-22</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>127</WordCount>
+
+
+<speaker>THE LORD CHANCELLOR</speaker> acquainted the House that the Clerk of the Parliaments had received (by post) from the Lord Clerk Register of Scotland, Minutes of the election of the Earl of Lindsay as one of the sixteen Peers of Scotland, 10th June 1885, in room of Dunbar James Earl of Selkirk, deceased; and Separate Return by the Lord Clerk Register of certain Titles of Peerage called at the said election, in right of which respectively no vote had been received and counted at any election for fifty years then last past (pursuant to Act 14th and 15th Vict., chap. 87.): Ordered that the said Minutes of Election, &c. be printed. (No. 151.) House adjourned at a quarter past Four o'clock, till Tomorrow, a quarter past Ten o'clock.

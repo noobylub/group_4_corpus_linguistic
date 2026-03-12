@@ -1,0 +1,10 @@
+<FileID>136997</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/egypt-the-military-expedition-the-guards</URL>
+<Title>Egypt (The Military Expedition)—the Guards at Alexandria</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1038-9</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>219</WordCount>
+
+
+<speaker>SIR STAFFORD NORTHCOTE</speaker> I should like to ask the noble Marquess the Secretary of State for War, Whether he can give the House any reasons for the change of orders that have been given to the Guards? THE MARQUESS OF HARTINGTON I do not think it is desirable to give any details of the reasons which have induced the Government to direct the ships containing the Guards to be detained for a short time at Alexandria. The House is perfectly well aware of the reasons which existed some little time ago for the decision of the Government to concentrate, as far as possible, for service in any part of the world, the troops then serving in the Soudan; and the reasons which made it necessary for the Government to ask Parliament for a Vote of considerable amount for special preparations. Those preparations have not been suspended; and I do not think it would be desirable to state how soon, in the opinion of the Government, those preparations should be suspended. At the same time, it was thought desirable that the Brigade of Guards should remain in positions in the Mediterranean; but it is not possible for me to state precisely at this moment how long and what are the exact reasons why it may be desirable to retain them.

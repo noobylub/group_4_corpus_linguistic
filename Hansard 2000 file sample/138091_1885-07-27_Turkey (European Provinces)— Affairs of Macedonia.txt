@@ -1,0 +1,11 @@
+<FileID>138091</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/turkey-european-provinces-affairs-of</URL>
+<Title>Turkey (European Provinces)— Affairs of Macedonia</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c62</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>75</WordCount>
+
+
+<speaker>MR. BRYCE</speaker> asked the Under Secretary of State for Foreign Affairs, When it is intended to present to the House the Report on the condition of Macedonia, made by Major Trotter after his visit last winter, and which has been received by the Foreign Office some months ago? 
+<speaker>THE UNDER SECRETARY OF STATE FOR FOREIGN AFFAIRS (Mr. BOURKE)</speaker> Yes, Sir; this Report will be laid on the Table, probably before the end of the Session.

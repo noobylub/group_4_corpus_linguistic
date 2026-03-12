@@ -1,0 +1,9 @@
+<FileID>137888</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/22/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 22 July 1885 vol 299 c1515</DebRef>
+<SittingDate>1885-07-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>117</WordCount>
+
+SUPPLY— considered in Committee — CIVIL SERVICE ESTIMATES—CLASS III.——LAW AND JUSTICE; Votes 21 and 27; CLASS IV. — EDUCATION, SCIENCE, AND ART; Vote 10. Resolutions [July 20] reported. PUBLIC BILLS— Ordered — First Reading —Lunacy Acts Amendment * [244]. First Reading —Secretary for Scotland * [242]; Tramways Order in Council (Ireland), changed from Tramways (Ireland) Provisional Order (No. 2) [243]. Second Reading —Crown Lands * [51]. Report of Select Committee —Pluralities [No. 283]. Committee —Labourers (Ireland) (No. 2) * [68]— R.P. Considered as amended — Third Reading —Greenwich Hospital * [222], and passed. Third Reading —School Boards * [235]; Exchequer and Treasury Bills * [229], and passed. Withdrawn —Parliamentary Franchise (Extension to Women) (No. 2) * [39].

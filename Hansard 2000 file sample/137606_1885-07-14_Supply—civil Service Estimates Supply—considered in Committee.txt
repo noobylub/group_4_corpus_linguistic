@@ -1,0 +1,9 @@
+<FileID>137606</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/supply-civil-service-estimates-supply</URL>
+<Title>Supply—civil Service Estimates Supply—considered in Committee</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 cc665-775</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>32</WordCount>
+
+(In the Committee.) cc665-744 CLASS IV. — EDUCATION, SCIENCE, AND ART. 31,504 words cc744-58 CLASS III. — LAW AND JUSTICE. 5,436 words cc758-75 CLASS VI. — NONEFFECTIVE AND CHARITABLE SERVICES. 6,788 words

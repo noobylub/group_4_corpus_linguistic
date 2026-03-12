@@ -1,0 +1,9 @@
+<FileID>137083</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/04/shannon-navigation-re-committed-bill</URL>
+<Title>Shannon Navigation [Re-Committed) Bill— [Bill 171]</Title>
+<DebRef>HC Deb 04 June 1885 vol 298 c1325</DebRef>
+<SittingDate>1885-06-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>11</WordCount>
+
+( Mr. Hibbert, Mr. Herbert Gladstone. ) c1325 COMMITTEE. 131 words

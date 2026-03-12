@@ -1,0 +1,10 @@
+<FileID>137959</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/bill-241-committee</URL>
+<Title>[Bill 241] Committee</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1734</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>121</WordCount>
+
+Order for Committee read. Motion made, and Question proposed, "That Mr. Speaker do now leave the Chair." Motion agreed to. Bill considered in Committee. (In the Committee.) MR.ACLAND said, he hoped the Bill would be passed through Committee now. Notice had been given of three Amendments, but they were unimportant, and could be very well moved on Report. 
+<speaker>THE VICE PRESIDENT OF THE COUNCIL (Mr. E. STANHOPE)</speaker> trusted that the hon. Gentleman would be satisfied with getting the Speaker out of the Chair. The House was anxious to get to other Business, and the hon. Gentleman would, in all probability, promote the progress of the measure than otherwise by consenting to report Progress now. Committee report Progress; to sit again Tomorrow.

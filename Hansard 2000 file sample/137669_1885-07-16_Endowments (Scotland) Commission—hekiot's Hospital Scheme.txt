@@ -1,0 +1,13 @@
+<FileID>137669</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/endowments-scotland-commission-hekiots</URL>
+<Title>Endowments (Scotland) Commission—hekiot's Hospital Scheme</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c915</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>205</WordCount>
+
+
+<speaker>MR. BUCHANAN</speaker> asked Mr. Chancellor of the Exchequer, Whether he will, in the arrangement of public business, grant facilities for the discussion at a reasonable hour on an early day of the Motion relating to the Heriot's Hospital Scheme of the Endowments (Scotland) Commissioners? 
+<speaker>THE CHANOELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> I understand it will be in the power of the hon. Gentleman to bring forward the Motion referred to at any hour, and it has been usual for such schemes to be discussed at a very advanced hour of the Sitting. I am afraid, therefore, I cannot grant it any special facilities. 
+<speaker>MR. BUCHANAN</speaker> asked whether, if he put the Motion down for some day next week, considering the important matter involved, the right hon. Gentleman would give facilities for bringing on the subject at half-past 10 or 11 o'clock? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> said, he believed the scheme in question would become law by the 6th of August, if objection were not taken to it by the House. If the hon. Member would be good enough to communicate with the hon. Member for Buteshire (Mr. Dalrymple), who had charge of Scottish Business, he dared say some arrangement might be arrived at.

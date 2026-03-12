@@ -1,0 +1,11 @@
+<FileID>137764</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/navy-shipbuilding-contracts-time-allowed</URL>
+<Title>Navy (Shipbuilding Contracts)— Time Allowed for Completion</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 c1187</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>191</WordCount>
+
+
+<speaker>MR. WARTON</speaker> asked the Civil Lord of the Admiralty, Whether it is the case that the contracts entered into by the late Board of Admiralty, within the last year, for the building of certain ships, allowed more time for such building than was necessary; and, whether such contracts contained any clause inflicting any penalty for non-completion of such ships within such time? 
+<speaker>THE SECRETARY TO THE ADMIRALTY (Mr. RITCHIE),</speaker> who replied, said, he had not been able to make special inquiry into the facts of the case, but he had such general knowledge as would enable him to say that in the contracts for the building of ships made by the late Board of Admiralty no more time was allowed than was necessary for building them, and he remembered that certainly on some occasions the contractors were asked whether they could complete the contracts earlier than the specified time; but he was not aware whether any of them did so. As to the second part of the Question, the contract price was reduced if longer time than the contract time was taken by the contractor for the delivery of the ships.

@@ -1,0 +1,11 @@
+<FileID>138414</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/railways-england-and-wales-terminal</URL>
+<Title>Railways (England and Wales)—terminal Charges</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1049-50</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>185</WordCount>
+
+
+<speaker>MR. NORWOOD</speaker> asked the Secretary to the Board of Trade, Whether the attention of his Department has been directed to the decision of the Divisional Court in the case of Hall v. London, Brighton, and South Coast Railway, practically reversing the decisions for several years past of the Railway Commissioners in reference to terminal charges; and, whether, in view of the great importance of this decision to the trading community, the Government will, during the Recess, prepare a comprehensive measure dealing with the question? 
+<speaker>THE SECRETARY TO THE BOARD (Baron HENRY DE WORMS)</speaker> Yes, Sir; the attention of the Board of Trade has been directed to the decision of the Queen's Bench Division of the High Court of Justice in the case of Hall v. the London, Brighton, and South Coast Railway Company with reference to terminal charges; but I am not at the present moment in a position to give any pledge as to what course the Government may take with regard to railway legislation. The question is one of very great importance, and will receive the earnest attention of the Board of Trade.

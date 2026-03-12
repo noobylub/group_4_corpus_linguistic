@@ -1,0 +1,12 @@
+<FileID>137785</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/parliament-business-of-the-house</URL>
+<Title>Parliament—business of the House—criminal Law Amendment Bill</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 c1202</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>267</WordCount>
+
+
+<speaker>MR. J. G. TALBOT</speaker> asked Mr. Chancellor of the Exchequer, Whether, considering the great interest taken by a large number of Members in the Criminal Law Amendment Bill , he will arrange that the consideration of the Bill in Committee shall continue de die in diem until it be concluded? 
+<speaker>THE CBANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> Of course, we should be anxious to consult the convenience of the House in such matters as this; but I am afraid it will not be possible for us to do what the Question seems to suggest—namely, take this Billon Wednesday and Thursday; and I will give some reasons for this to the House. In the first place, we have still more than 50 Votes to take in Supply, and I think the House will wish that Supply should be proceeded with. Then the Customs and Inland Revenue Bill ought to be taken soon; and I would further add that this Bill has passed the other House, and therefore would necessarily stand after the measure I have last mentioned. But there is another reason which, perhaps, I may mention incidentally, and that is that the State duties of my right hon. Friend the Secretary of State for the Home Department will require his attendance elsewhere during part of Wednesday and Thursday, and it would be extremely inconvenient to the House that we should take this matter in his absence. But we shall take it as soon as we can. 
+<speaker>MR. M'COAN</speaker> Are we to understand that it will not be taken on Thursday? THE CHANCELLOR OF THE EXCHEQUER Yes.

@@ -1,0 +1,12 @@
+<FileID>137933</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/housing-of-the-working-classes-in</URL>
+<Title>Housing of the Working Classes in Scotland</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1626-7</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>321</WordCount>
+
+
+<speaker>MR. C. S. PARKER</speaker> asked the honourable Member for Bute, Whether Her Majesty's Government are willing to insert in the Housing of the Working Classes (England) Bill a Clause applying the Act, or parts of it, to Scotland (as in "The Artizans' and Labourers' Dwellings Act, 1868 ," amended by the Bill); and, whether they will give effect to the suggestion of the Royal Commissioners that the expenses of transfer of small houses could be reduced (probably without loss of revenue), by making some abatement of the registration fees in Scotland, and of the Stamp Duties on such transfers, throughout the United Kingdom? 
+<speaker>THE LORD OF THE TREASURY (Mr. DALRYMPLE)</speaker> In reply to the first part of my hon. Friend's Question, I have to say that I cannot positively state whether it is proposed to make the Bill applicable to Scotland or not; but I may mention that there are clauses in the Burgh Health and Police (Scotland) Bill which will secure the same benefits to Scotland which are desired by my hon. Friend. At the same time, unless the Scotch Members are disposed to accept that enormous Bill en bloc, it is not likely to be proceeded with this Session. As regards the second part of the Question, that will be answered by my hon. Friend the Secretary to the Treasury. 
+<speaker>THE SECEETAEY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> The suggestion of the Royal Commissioners will, no doubt, receive due consideration; but, as at present advised, the Revenue authorities do not think the present scale of stamp duties on transfers of small houses unreasonable. A reduction of the scale in cases of a small consideration would be subversive of the principle of an ad valorem, scale, and it would be difficult to confine any reduction to cases where the purchaser was poor. As regards the register house fees on searches, these are being reconsidered, with a view to their reduction.

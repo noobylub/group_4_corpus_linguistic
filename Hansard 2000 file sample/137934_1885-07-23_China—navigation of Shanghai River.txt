@@ -1,0 +1,11 @@
+<FileID>137934</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/china-navigation-of-shanghai-river</URL>
+<Title>China—navigation of Shanghai River</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1627-8</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>242</WordCount>
+
+
+<speaker>MR. SUTHERLAND</speaker> asked the Under Secretary of State for Foreign Affairs, Whether Her Majesty's Government will direct the attention of the Chinese authorities to the necessity of removing all traces of the barriers which were constructed some time ago at the entrance of the Shanghai River, with the intention of eventually blocking access to that port, inasmuch as these partial barriers, remaining in the Channel, constitute a danger to safe navigation; and, whether, at the same time, Her Majesty's Government will further urge upon the Chinese authorities the imperative necessity of resuming the work of dredging the entrance to the Shanghai River, which, only having been undertaken after long and continuous pressure on the part of the mercantile and shipping communities, was suddenly discontinued before any real work had been done? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> Her Majesty's Charge d'Affaires at Pekin will be directed to represent to the Chinese authorities the importance of removing all obstructions to navigation at the mouth of the Shanghai River. Instructions were sent in June of last year to the late Sir Harry Parkes to press on the attention of the Chinese Government the necessity of putting back the dredger which had been sent from England for the purpose of clearing the Woosung Bar, but which was temporarily removed to another place. Mr. O'Conor will now be directed to urge the Chinese authorities to proceed with this important work with the least possible delay.

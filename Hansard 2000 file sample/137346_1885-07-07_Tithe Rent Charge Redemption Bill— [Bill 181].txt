@@ -1,0 +1,9 @@
+<FileID>137346</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/tithe-rent-charge-redemption-bill-bill</URL>
+<Title>Tithe Rent Charge Redemption Bill— [Bill 181]</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 cc1940-1</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>16</WordCount>
+
+( Mr. Sampson Lloyd, Mr. Cubitt, Mr. Monk, Mr. Vivian. ) cc1940-1 SECOND READING. 142 words

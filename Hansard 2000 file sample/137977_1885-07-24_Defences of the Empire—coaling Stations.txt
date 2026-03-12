@@ -1,0 +1,11 @@
+<FileID>137977</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/defences-of-the-empire-coaling-stations</URL>
+<Title>Defences of the Empire—coaling Stations</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 cc1777-8</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>143</WordCount>
+
+
+<speaker>MR. SALT</speaker> asked the Secretary of State for War, If steps are being actively taken to provide a sufficient armament, in accordance with the necessities of modern warfare, at the distant coaling stations and other positions of strategical importance in the possession of Great Britain? 
+<speaker>THE SURVEYOR GENERAL or ORDNANCE (Mr. GUY DAWNAY)</speaker> , who replied, said: Steps are being actively taken to provide the necessary arma- ments for our coaling stations, such provision, as the hon. Member is aware, being limited by the amount of the annual sum granted by Parliament during a certain term of years for this specific purpose. The Secretary of State for War proposes, when the Army Estimates are taken on Monday next, to give fuller details as to what has been done in this direction than it would be convenient to give in answer to a Question.

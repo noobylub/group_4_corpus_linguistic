@@ -1,0 +1,13 @@
+<FileID>138650</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/allotments-extension-act-1882-folkestone</URL>
+<Title>Allotments Extension Act, 1882— Folkestone Charity Land</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1737-8</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>423</WordCount>
+
+
+<speaker>MR. JESSE COLLINGS</speaker> asked the Vice President of the Committee of Council, If he is aware that the Trustees of the Folkestone Charity Land refuse to carry out the provisions of the Allotments Extension Act, 1882 , and are demanding prohibitory rents for the land; if he has seen the following statement in The Folkestone News: — The rent asked is too high, the object being, no doubt, to discourage applicants, and then to show that the land was not required; and, whether the Charity Commissioners will compel the Trustees to offer the lands at such rents, and under such conditions, as the Act directs? 
+<speaker>THE VICE PRESIDENT OF THE COUNCIL (Mr. E. STANHOPE)</speaker> The Trustees do not refuse to carry out the provision of the Allotments Extension Act , so far as relates to giving the notices under Section 4, and those notices have been given. The rent asked is 1 s. 2 d. per rod, and, regarded simply as an agricultural rent, is, of course, very high; but I am not able to say whether the position of the land as regards Folkestone, or any other circumstances, make it a fair rent. If complaint is made that the Trustees have failed to comply with the provisions of the Act, the Charity Commission inform me that they will take the steps prescribed in that case by Section 10 of the Act. 
+<speaker>SIR EDWARD WATKIN</speaker> asked whether there was not a discussion going on between the Trustees and the owners of land a little further afield with a view to solve the difficulty, which entirely depended upon the fact that the land proposed to be used for these small holdings was really building land, which ought to be sold for the benefit of the particular charities? 
+<speaker>MR. JESSE COLLINGS</speaker> asked whether the Trustees did not a few months ago offer land at 7 d. per rod, or £4 13 s. 4 d. an acre; and whether they did not raise the rent to 1 s. 2 d. per rod, or double the price, on finding that it was eagerly sought for; also whether the clerk to the Trustees had not let a portion of the land to his own relatives at a farm rental? THE VICE PRESIDENT said, that he had no information whatever before him tending to support the allegations contained in the Questions of the hon. Member for Ipswich. He thought it was extremely probable that what the hon. Baronet the Member for Hythe (Sir Edward Watkin) stated was the case.

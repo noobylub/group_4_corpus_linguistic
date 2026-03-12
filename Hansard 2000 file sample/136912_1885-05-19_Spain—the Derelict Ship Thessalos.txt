@@ -1,0 +1,11 @@
+<FileID>136912</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/spain-the-derelict-ship-thessalos</URL>
+<Title>Spain—the Derelict Ship Thessalos</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 c946</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>128</WordCount>
+
+
+<speaker>MR. R. N. FOWLER (LORD MAYOR)</speaker> asked the Under Secretary of State for Foreign Affairs, What progress has been made in respect of the arrest of the judgment reported to have been given by the Spanish Courts in the matter of the Greek ship Thessalos derelict, towed by an English steamer into Vive no, on which subject the Foreign Office made representations through Sir Robert Morier? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> I regret to say that no result has yet attended the representations made by Sir Robert Morier with regard to this case. He was instructed on the 11th instant to call the attention of the Spanish Government again to the matter; and as soon as their answer is received I will communicate its purport to the right hon. Member.

@@ -1,0 +1,9 @@
+<FileID>137993</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/orders-of-the-day</URL>
+<Title>Orders of the Day</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 cc1788-9</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>18</WordCount>
+
+c1788 SUPPLY. — COMMITTEE. 17 words cc1788-9 DEPRESSION OF TRADE AND AGRICULTURE—THE ROYAL COMMISSION. — OBSERVATIONS. 551 words

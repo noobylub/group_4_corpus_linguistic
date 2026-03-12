@@ -1,0 +1,10 @@
+<FileID>137418</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/second-reading-bill-withdrawn</URL>
+<Title>Second Reading Bill Withdrawn</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c223</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>115</WordCount>
+
+Order for Second Reading read. Motion made, and Question proposed, "That the Order for the Second Reading be discharged." 
+<speaker>MR. H. H. FOWLER</speaker> said, that before the Order was discharged he would like, as he had the honour of introducing the Bill to the House, to express his regret that the Government had not seen their way to include it in the non-contentious list of measures. The Bill had received the approval of both Parties in the House, and the only possible contentious clause was that relating to Government contribution, and that could only come into operation when the county and borough funds became absolutely insolvent. Question put, and agreed to. Order discharged; Bill withdrawn.

@@ -1,0 +1,11 @@
+<FileID>138628</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/commissioners-of-national-education</URL>
+<Title>Commissioners of National Education (Ireland)—national School Teachers—case of Mr Andrew Devitt, Porrelsborough</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1722-3</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>314</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether, in 1875, Mr. Andrew Devitt, then teacher of the Porrelsborough National School, which he had taught for nearly 15 years, resigned on condition of being awarded the compensation or retiring allowance usually granted to old teachers before the passing of the Pension Act , namely, one year's salary for every ten years' service; whether the Commissioners of Education having, up to the end of 1877, failed to pay Mr. Devitt the retiring allowance, his case was brought to the notice of Sir Michael Hicks Beach, then Chief Secretary in 1878, with the result that an inquiry was held, and the former managers of the school, Very Rev. Canon O'Donoghue and Mr. Abraham Powell, on calling at the Education Office, were assured by the responsible officials that the money would be paid in the following week; whether the money remains still unpaid; whether the Department is aware that Mr. Devitt, now an old man of 70, is dependent on a few acres of reclaimed bog for the maintenance of his wife and six children; and, whether the Government will order the money withheld to be now paid to him? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> Mr. Devitt resigned on the 30th September, 1875. His manager subsequently applied for a gratuity for him; but as the teacher was under 60 years of age the answer was that a gratuity could only be given on a medical certificate that the teacher was permantly incapacitated. I understand that this certificate has not been furnished. It does not appear that the case was brought to the notice of the Chief Secretary in 1878. This allegation is not borne out either by the records of the Chief Secretary's Office or of the National Board. No grounds have been shown for reviewing the decision in this case.

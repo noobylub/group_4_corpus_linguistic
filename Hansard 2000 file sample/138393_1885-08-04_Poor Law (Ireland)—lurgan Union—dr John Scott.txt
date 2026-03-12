@@ -1,0 +1,11 @@
+<FileID>138393</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/poor-law-ireland-lurgan-union-dr-john</URL>
+<Title>Poor Law (Ireland)—lurgan Union—dr John Scott</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1037</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>114</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If he is aware that a Doctor Scott acts as elected guardian of Lurgan Union, and also dispensary doctor for a district within the Union; and, whether such conduct is regular; and, if not, will he have it remedied? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> I think there must be some misunderstanding in this matter. It appears there is a Doctor John Scott who is an elected Guardian of this Union, and a Doctor Francis Scott, who is medical officer of one of the dispensing districts of the Union. The former is not acting as a medical officer in the Union.

@@ -1,0 +1,9 @@
+<FileID>137012</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/waterworks-clauses-act-1847-amendment</URL>
+<Title>Waterworks Clauses Act (1847) Amendment Bill— [Bill 152]</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1136</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>27</WordCount>
+
+( Mr. Daniel Grant, Mr. Torrens, Mr. Sclater Booth, Mr. Arthur Cohen, Mr. Ritchie, Mr. William Laurence, Baron Henry De Worms. ) c1136 THIRD READING. 101 words

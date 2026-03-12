@@ -1,0 +1,10 @@
+<FileID>137501</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/ireland-the-collector-generalship-of</URL>
+<Title>Ireland—the Collector Generalship of Rates, Dublin</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c410</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>68</WordCount>
+
+
+<speaker>MR. SEXTON (for Mr. GRAY)</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether he adheres to the undertaking given by his two predecessors, that the office of Collector General of Rates for Dublin will not be permanently filled up pending the promised legislation on the collection of rates in Dublin? THE CHIEF SECRETARY The Government are prepared to undertake that this appointment shall remain provisional.

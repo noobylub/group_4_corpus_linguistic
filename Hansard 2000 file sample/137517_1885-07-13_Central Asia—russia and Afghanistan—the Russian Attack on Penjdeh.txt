@@ -1,0 +1,11 @@
+<FileID>137517</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/central-asia-russia-and-afghanistan-the</URL>
+<Title>Central Asia—russia and Afghanistan—the Russian Attack on Penjdeh</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c422</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>84</WordCount>
+
+
+<speaker>SIR GEORGE CAMPBELL</speaker> asked the Under Secretary of State for Foreign Affairs, If he can give any information regarding the Arbitration to determine whether the attacks by the Russians on the Afghans in the neighbourhood of Penjdeh was consistent with the promises of the Russian Government? 
+<speaker>THE UNDER SECRETARY OF STATE FOR FOREIGN AFFAIRS (Mr.BOURKE)</speaker> No definite arrangement has been come to on this subject. A case has been put in on behalf of the British Government, but the matter has not been arranged.

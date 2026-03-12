@@ -1,0 +1,9 @@
+<FileID>137051</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/22/orders-of-the-day</URL>
+<Title>Orders of the Day</Title>
+<DebRef>HC Deb 22 May 1885 vol 298 cc1154-82</DebRef>
+<SittingDate>1885-05-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>29</WordCount>
+
+c1154 TELEGRAPH ACTS AMENDMENT BILL. 5 words cc1154-75 [BILL 121.] SECOND READING. 8,314 words c1175 CRIMINAL LAW AMENDMENT BILL [Lords]. 3 words cc1175-82 [BILL 159.] SECOND READING. 2,794 words

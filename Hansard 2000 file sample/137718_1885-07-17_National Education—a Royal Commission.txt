@@ -1,0 +1,11 @@
+<FileID>137718</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/national-education-a-royal-commission</URL>
+<Title>National Education—a Royal Commission</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 cc1053-4</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>132</WordCount>
+
+
+<speaker>MR. J. G. TALBOT</speaker> asked Mr. Chancellor of the Exchequer, Whether, considering the great importance of securing an efficient system of National Education, at at the same time of pre- venting as far as possible an undue pressure upon the ratepayers, Her Majesty's Government will recommend the appointment of a Royal Commission to inquire into the working of the Elementary Education Acts, with a view to consider whether any and what improvements can be suggested? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> I agree with my hon. Friend that it is of great importance to secure an efficient system of national education, and as far as possible to prevent pressure on the ratepayers. I hope we shall be able to do something to effect both those objects without a Royal Commission.

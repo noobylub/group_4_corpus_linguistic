@@ -1,0 +1,9 @@
+<FileID>138247</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/30/smoke-nuisance-abatement-metropolis-bill</URL>
+<Title>Smoke Nuisance Abatement (Metropolis) Bill—(no 50)</Title>
+<DebRef>HL Deb 30 July 1885 vol 300 cc476-81</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>12</WordCount>
+
+( The Lord Stratheden and Campbell. ) cc476-81 SECOND READING. 2,066 words

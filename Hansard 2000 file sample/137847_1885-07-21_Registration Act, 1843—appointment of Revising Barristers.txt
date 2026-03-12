@@ -1,0 +1,10 @@
+<FileID>137847</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/registration-act-1843-appointment-of</URL>
+<Title>Registration Act, 1843—appointment of Revising Barristers</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 cc1402-3</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>305</WordCount>
+
+MR. J. W. LOWTHER asked Mr. Attorney General, Whether his attention has been called to the remarks made by Sir Henry Hawkins at Maidstone on the 16th instant, and reported in The Times of the 18th instant, with reference to the power of appointment of revising barristers; whether such power of appointment is, by the Registration Act of 1843, vested in the "Senior Judge for the time being in the Commission of Assize" of every county but Middlesex; whether such senior judge is the Lord Chief Justice of England; and, whether, if the view of Sir Henry Hawkins be correct, it is proposed to rectify a state of things never contemplated by the Legislature? 
+<speaker>THE ATTORNEY GENERAL (Sir RICHARD WEBSTER)</speaker> In reply to the hon. Member for Rutland I have to say that my attention has been called to the remarks of Sir Henry Hawkins. The appointment is, by the Registration Act , vested in the senior Judge for the time being in the Commission of Assize. Up till a few years ago the names of two Judges going the Circuit only were inserted in the Commission; but in pursuance of the recommendation of the Judicature Commission, and in order to avoid inconvenience in the event of illness, the names of all the Judges were included. As the Commissions now stand, the senior Judge named in the Commission is the Lord Chief Justice of England; but I am desired by the Lord Chief Justice to say that he never made the slightest claim to, nor had he any intention of claiming, the right to nominate the revising barristers on the Circuits; but in each case the appointments have been made and will continue to be made by the senior Judge going the Circuit. I have given Notice tonight of a Bill dealing with the matter.

@@ -1,0 +1,14 @@
+<FileID>138096</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/housing-of-the-working-classes-sites-of</URL>
+<Title>Housing of the Working Classes —Sites of the Metropolitan Prisons</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c65</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>242</WordCount>
+
+
+<speaker>MR. SHAW LEFEVRE</speaker> asked Mr. Chancellor of the Exchequer, Whether, with a view to the discussion of the Bill for the better Housing of the Working Classes, he will have a valuation made by the Consulting Surveyor of the Office of Works of the sites of Millbank and Pentonville Prisons? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> said, this matter did not belong to the Office of Works, therefore he could not tell how far it might come within the scope of the ordinary duty of the Surveyor. As to whether it would be well that a special valuation should be made, that was another matter; and if the right Iron. Gentleman would communicate with the right hon. Member for Chelsea (Sir Charles W. Dilke), who had charge of the Bill, he would be ready to pay the greatest attention to any suggestion which might fall from the right hon. Gentleman. 
+<speaker>MR. SHAW LEFEVRE</speaker> said, he had always understood that the Surveyor of the Office of Works was bound to undertake any duty relating to Government property. 
+<speaker>MR. COURTNEY</speaker> inquired whether, although the Bill was to be in the hands of the right hon. Member for Chelsea, it would have precedence as a Government measure; and if so, when might they expect it to be brought up? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> Yes, Sir; of course we will give it precedence, but I cannot say when it will be brought on.

@@ -1,0 +1,10 @@
+<FileID>138457</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/04/the-new-public-offices-designs-for-the</URL>
+<Title>The New Public Offices—designs for the New War Office and Admiralty—question</Title>
+<DebRef>HL Deb 04 August 1885 vol 300 c1032</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>82</WordCount>
+
+In reply to the Earl of WEMYSS, 
+<speaker>THE FIRST LORD OF THE TREASURY (The Earl of IDDESLEIGH)</speaker> said, that he would communicate with the First Commissioner of Works, in order to see whether some arrangement could not be made for placing the models of the new War and Admiralty Offices, now being exhibited in the Victoria Gallery, in some place where they could be inspected by architects and others interested in the matter. House adjourned at Five o'clock, till Tomorrow, Two o'clock.

@@ -1,0 +1,10 @@
+<FileID>137500</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/the-commissioners-of-woods-and-forests</URL>
+<Title>The Commissioners of Woods and Forests—sale of Land to Occupiers</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc409-10</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>183</WordCount>
+
+
+<speaker>MR. ARTHUR ARNOLD</speaker> asked the Secretary to the Treasury, Whether the attention of the Commissioners of Woods and Forests has been called to the circular issued by the Ecclesiastical Commissioners with reference to the sale of land to occupiers; and, whether the Commissioners intend to adopt a similar scheme with regard to the 70,000 acres of saleable agricultural lands in their charge; and, if not, whether he will state the reasons which have guided the Commissioners in arriving at that decision? THE SECRETARY The attention of the Commissioners of Woods and Forests has been called some time since to this circular. I am not aware that they intend to adopt a precisely similar scheme; but they are always ready and willing to sell their agricultural property upon terms fair to both sides, and have done so to a very large amount in the case of detached parcels and outlying properties. I am informed that the Commissioners have no estates consisting wholly or principally of small holdings which could with advantage be brought to sale in the particular manner proposed by the Ecclesiastical Commissioners.

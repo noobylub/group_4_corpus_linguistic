@@ -1,0 +1,11 @@
+<FileID>138482</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/egypt-the-alexandria-indemnity-awards</URL>
+<Title>Egypt—the Alexandria Indemnity Awards</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 c1269</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>171</WordCount>
+
+
+<speaker>MR. GOURLEY</speaker> asked the Under Secretary of State for Foreign Affairs, If he will be good enough to inform the House what steps he intends adopting for the immediate distribution of the Alexandria Indemnity Awards? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> The payment of the Indemnity Awards will be made in accordance with Article X. of the Convention of March 18 last, and Article IX. of the Khedivial Decree of the 27th ultimo. The Commissioners of the Debt, who are charged under the Convention and Decree with the payment of the Indemnities, have informed the Egyptian Government that they propose to proceed to Alexandria for the purpose of distributing the awards, and in order to be in direct communication with the Consuls of the different Powers, as soon as they are in possession of the necessary funds. It is proposed that the subjects of each Power be paid separately, an official of the Consulate being present. The Commissioners further propose to publish at Alexandria the date and place of payment.

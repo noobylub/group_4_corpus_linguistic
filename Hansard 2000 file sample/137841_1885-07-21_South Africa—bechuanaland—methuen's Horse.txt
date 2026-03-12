@@ -1,0 +1,10 @@
+<FileID>137841</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/south-africa-bechuanaland-methuens-horse</URL>
+<Title>South Africa—bechuanaland—methuen's Horse</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 c1398</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>125</WordCount>
+
+
+<speaker>VISCOUNT EBRINGTON</speaker> asked the Secretary of State for the Colonies, When "Methuen's Horse" may be expected to return to England from Bechuanaland? THE SECRETARY OF STATE FOR THE COLONIES (Colonel STANLEY), in reply, said, that steps would be taken very shortly to reduce the Force in South Africa; and Methuen's Horse, forming part of that Force, would probably return before long. He was not able to give the exact date; but he found they were enlisted for not less than six and not more than 12 months; and he was able to say that their return would be well within the term of their enlistment. He could not give further details on the subject at present, but communications were still proceeding with the High Commissioner.

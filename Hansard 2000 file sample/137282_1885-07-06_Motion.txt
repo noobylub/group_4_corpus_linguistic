@@ -1,0 +1,9 @@
+<FileID>137282</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/06/motion</URL>
+<Title>Motion</Title>
+<DebRef>HC Deb 06 July 1885 vol 298 cc1672-702</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>7</WordCount>
+
+cc1672-702 PARLIAMENTARY ELECTIONS (MR. BRADLAUGH).—RESOLUTION. 12,201 words

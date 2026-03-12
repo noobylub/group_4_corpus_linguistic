@@ -1,0 +1,9 @@
+<FileID>137690</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/customs-and-inland-revenue-no-2-bill</URL>
+<Title>Customs and Inland Revenue (No 2) Bill— [Bill 223]</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc928-63</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>18</WordCount>
+
+( Sir Arthur Otway, Mr. Chancellor of the Exchequer, Sir Henry Holland. ) cc928-63 SECOND READING. 14,115 words

@@ -1,0 +1,10 @@
+<FileID>137290</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/06/egypt-and-the-soudan-the-protocole-de</URL>
+<Title>Egypt and the Soudan—the Protocole De Desinteressement</Title>
+<DebRef>HC Deb 06 July 1885 vol 298 cc1706-7</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>296</WordCount>
+
+MR. LABOIICHERE asked Mr. Chancellor of the Exchequer, Whether Her Majesty's Ministers adhere to the protocole de désintéressement which was signed by Her Majesty's Ambassador and by the Representatives of the Great Continental Powers at Constantinople with regard to Egypt, and to the assurances given in this House by the Head of the late Government, that the occupation of Egypt would be but temporary; and, whether any change is contemplated with regard to the evacuation of Dongola, and to the cessation of active military operations against the Mahdi? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (SIR MICHAEL HICKS-BEACH)</speaker> I think the first part of the Question of the hon. Member opposite (Mr. Labouchere) is founded on a misapprehension of the objects and meaning of the Protocol to which the hon. Member refers. I understand that that document was signed in contemplation of the concerted action of the Powers, which had been proposed for the settlement of the affairs of Egypt, and it expressly referred to any arrangement that might be brought about as the result of such concerted action. The proposal was abandoned, and, consequently, the Protocol based upon it fell to the ground. With regard to the assurances given to this House by the Head of the late Government, they were very numerous, and we should have to compare and collate them with great care before deciding which of them, if any, we could adopt. The hon. Member is, perhaps, already aware that Dongola was evacuated yesterday; and I may add that my right hon. Friend the Secretary of State for War (Mr. W. H. Smith) will, as soon as possible, lay upon the Table of the House a despatch to Lord Wolseley which will explain the action of Her Majesty's Government with regard to military affairs.

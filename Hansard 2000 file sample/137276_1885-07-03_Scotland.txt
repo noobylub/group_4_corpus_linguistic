@@ -1,0 +1,9 @@
+<FileID>137276</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/03/scotland-1</URL>
+<Title>Scotland</Title>
+<DebRef>HL Deb 03 July 1885 vol 298 c1645</DebRef>
+<SittingDate>1885-07-03</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>13</WordCount>
+
+Lord Advocate John Hay Athol Macdonald, Q.C. Solicitor General. J. P. Bannerman-Robertson, Esq.

@@ -1,0 +1,11 @@
+<FileID>137324</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/egypt-the-military-expedition-vote-of</URL>
+<Title>Egypt—the Military Expedition—vote of Thanks to the Forces</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 c1830</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>146</WordCount>
+
+
+<speaker>SIR JOHN HAY</speaker> asked the Secretary of State for War, If it is intended to propose a vote of thanks to the Home, East Indian, and Colonial Forces of the Crown, of the Navy and Army who have been serving, under such trying circumstances, in the Soudan and on the Nile, and have fought with such courage and devotion at El Teb and Tamanieb, and at Abu Klea, Gubat, and Kerbekan? 
+<speaker>THE SECRETARY OF STATE FOR WAR (Mr. W. H. SMITH)</speaker> We do intend later in the Session to propose a Vote of Thanks to the officers and men who in the recent campaign so gallantly maintained the reputation of the British Forces. The precise form of the Vote will be more conveniently considered in connection with the rewards to be given for this campaign, the recommendations with regard to which we expect to receive shortly.

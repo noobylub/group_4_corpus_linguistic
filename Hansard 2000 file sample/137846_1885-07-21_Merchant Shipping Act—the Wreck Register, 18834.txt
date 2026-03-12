@@ -1,0 +1,11 @@
+<FileID>137846</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/merchant-shipping-act-the-wreck-register</URL>
+<Title>Merchant Shipping Act—the Wreck Register, 18834</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 c1402</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>137</WordCount>
+
+
+<speaker>MR. ATKINSON</speaker> asked the Parliamentary Secretary to the Board of Trade, When the Wreck Register for the year ending the 30th of June 1884 will be issued; and, why the issue of this number of the Register has been delayed so long? 
+<speaker>THE SECRETARY TO THE BOARD OF TRADE (Baron HENRY DE WORMS)</speaker> Dummies of this Return were laid on the Table on the 16th instant. It is hoped that the MSS. will be in the hands of the printers by the end of this month, and that the Return will be ready for distribution about the same time as last year—namely, the beginning of September. Every effort is being made to hasten the work; it has, of course, been much hindered by the preparation of Returns for the Royal Commission on Loss of Life at Sea.

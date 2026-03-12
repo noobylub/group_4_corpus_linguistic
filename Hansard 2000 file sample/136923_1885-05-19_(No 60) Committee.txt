@@ -1,0 +1,12 @@
+<FileID>136923</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/19/no-60-committee</URL>
+<Title>(No 60) Committee</Title>
+<DebRef>HL Deb 19 May 1885 vol 298 cc879-80</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>341</WordCount>
+
+Order of the Day for the House to be put into Committee read. 
+<speaker>THE LORD CHANCELLOR</speaker> said, he proposed to ask their Lordships now to go into Committee pro formá on this Bill, for the purpose of inserting 13 pages of Amendments, of which he had given Notice, after which the Bill would be reprinted. After the Whitsuntide Recess they might take the next stage of the Bill, when the Amendments proposed by various noble Lords could be properly considered and discussed. That, he thought, would be the most convenient course of proceeding, and one which would also save their Lordships a considerable amount of time. Moved, "That the House do now resolve itself into Committee on the said Bill."—( The Lord Chancellor. ) THE EARL OF MILLTOWN said, he cordially acceded to the course now proposed by the noble and learned Earl; indeed, he had wished to see the Bill referred to a Select Committee, in order that the whole question involved in it might be dealt with in a more thorough manner than it could be by a Committee of the Whole House. He thought provision should be made for a better system of visitation in respect to those houses in which lunatics were confined; and if the Bill were referred to a Select Committee the matter could be thoroughly considered. But as he knew that the noble and learned Earl had a sincere hope that the measure would become law this Session, and knowing the great anxiety that existed on the part of the public on the subject, he would not press for the reference of the Bill to a Select Committee. 
+<speaker>THE MARQUESS OF BRISTOL</speaker> I am quite willing to agree to the course proposed by the noble and learned Earl. I merely rise to ask him if it is his intention to move the re-committal of the Bill? 
+<speaker>THE LORD CHANCELLOR</speaker> replied in the negative. Motion agreed to; House in Committee; Amendments made; the Report thereof to be received on Monday the 8th of June next.

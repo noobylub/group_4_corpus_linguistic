@@ -1,0 +1,11 @@
+<FileID>137529</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/poor-law-ireland-election-of-guardians</URL>
+<Title>Poor Law (Ireland)—election of Guardians—north Portarling-Ton Division, Mountmellick Union</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c431</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>156</WordCount>
+
+
+<speaker>MR. ARTHUR O'CONNOR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether representations have been made to the Local Government Board that the return of one of the candidates at the last election of guardians for the North Portarlington Division of the Mountmellick Union was secured by the admission of a number of claims to vote which were in fact illegal, and the rejection of a number of claims to vote which were duly lodged; and, whether he will direct an inquiry to be held on the spot by a Local Government Board official? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> Representations have been made to the effect stated; but the Local Government Board, after very careful consideration, do not think that a prima facie case has been made out for an inquiry, or that the facts which have been brought to their notice afford reasonable grounds for doubting the validity of the return.

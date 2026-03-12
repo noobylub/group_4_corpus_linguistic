@@ -1,0 +1,9 @@
+<FileID>138251</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/30/pluralities-bill-no-213</URL>
+<Title>Pluralities Bill—(no 213)</Title>
+<DebRef>HL Deb 30 July 1885 vol 300 cc493-4</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>12</WordCount>
+
+( The Lord Bishop of London. ) cc493-4 SECOND READING. 253 words

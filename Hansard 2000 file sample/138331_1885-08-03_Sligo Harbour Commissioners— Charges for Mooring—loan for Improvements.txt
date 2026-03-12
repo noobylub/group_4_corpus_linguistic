@@ -1,0 +1,11 @@
+<FileID>138331</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/sligo-harbour-commissioners-charges-for</URL>
+<Title>Sligo Harbour Commissioners— Charges for Mooring—loan for Improvements</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c829</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>272</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Financial Secretary to the Treasury, Whether, having regard to the increase of the dues on merchandise agreed to and put in force by the Sligo Harbour Commissioners, in compliance with the desire of the Treasury, and the new bye-law adopted by the Board enabling them to increase the charge on vessels using the new moorings from 1½ d. to 3d. per ton, by which changes it is estimated the revenue of the port will be increased by £600 per annum, the Treasury will grant, on the security thus improved, the further loan applied for by the Commissioners in their memorial of the 25th ult., and so enable them to continue without intermission, and complete, in the course of a year, the improvement of the harbour, which will otherwise have to be suspended for a time, and then proceeded with only as accumulation of revenue may allow? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> Sir, the application for a further loan in this case came as a surprise upon the Government, having only been introduced by the Harbour Commissioners at the last stage of the correspondence. The Harbour Commissioners have not furnished the Board of Works with the usual statement as to the security they have to offer; but an opportunity will be afforded them to rectify this omission. On their present information, the Treasury are advised that the security is not sufficient to warrant a further loan to the desired amount. The repayment of the instalments upon the principal they have postponed for five years, and that concession should give the Board an immediate surplus of funds.

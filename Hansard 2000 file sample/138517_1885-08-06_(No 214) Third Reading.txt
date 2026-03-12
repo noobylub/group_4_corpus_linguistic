@@ -1,0 +1,10 @@
+<FileID>138517</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/06/no-214-third-reading</URL>
+<Title>(No 214) Third Reading</Title>
+<DebRef>HL Deb 06 August 1885 vol 300 c1260</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>139</WordCount>
+
+Bill read 3 a (according to Order). On Motion, "That the Bill do pass?" 
+<speaker>THE MARQUESS OF WATERFORD</speaker> said, the Bill had been introduced under the impression that it afforded distinct advantages to medical officers connected with Unions. It seemed, however, that the medical officers had taken alarm, and were afraid that some of their rights were going to be taken away. The Council of the Irish Medical Society had communicated with him, and pressed him to introduce an Amendment to remove that impression. He warned them that the effect might be to endanger the Bill; but as they thought the matter important, and were willing to run the risk, he now proposed the insertion of a clause for that purpose. Amendment agreed to. Bill passed, and sent to the Commons; and to be printed, as amended. (No. 237.)

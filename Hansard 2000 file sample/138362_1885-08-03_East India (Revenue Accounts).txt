@@ -1,0 +1,9 @@
+<FileID>138362</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/east-india-revenue-accounts</URL>
+<Title>East India (Revenue Accounts)</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc849-50</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>50</WordCount>
+
+Ordered, That the several Accounts and Papers which have been presented to the House in this Session of Parliament, relating to the Revenues of India, be referred to the consideration of a Committee of the whole House." Resolved, That this House will, upon Thursday, resolve itself into the said Committee.

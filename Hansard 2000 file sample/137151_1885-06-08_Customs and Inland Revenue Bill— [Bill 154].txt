@@ -1,0 +1,9 @@
+<FileID>137151</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/customs-and-inland-revenue-bill-bill-154</URL>
+<Title>Customs and Inland Revenue Bill— [Bill 154]</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 cc1417-515</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>19</WordCount>
+
+( Sir Arthur Otway, Mr. Chancellor of the Exchequer, Mr. Hilbert. ) cc1417-515 SECOND READING. 40,790 words, 1 division

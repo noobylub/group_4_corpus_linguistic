@@ -1,0 +1,9 @@
+<FileID>137560</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/criminal-law-amendment-cost-of</URL>
+<Title>Criminal Law Amendment [Cost of Prosecutions]</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc585-6</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>75</WordCount>
+
+Considered in Committee. (In the Committee.) Resolved, That it is expedient to authorise the payment of the Costs of Prosecutions incurred under the provisions of any Act of the present Session for making further provision for the protection of women and girls, in like manner as the expenses of prosecution in Ireland, of felony, and in Scotland, of a crime, are paid. Resolution to be reported Tomorrow. House adjourned at a quarter after Three o'clock.

@@ -1,0 +1,9 @@
+<FileID>137483</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/cholebr-hospitals-ireland-bill</URL>
+<Title>Cholebr Hospitals (Ireland) Bill</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 c383</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>47</WordCount>
+
+On Motion of Colonel NOLAN, Bill to enable the sanitary authorities in Ireland to take possession of land for the erection of temporary Cholera Hospitals, ordered to be brought in by Colonel NOLAN, Mr. SHEIL, and Mr. BIGGAR. Bill presented, and read the first time. [Bill 231.]

@@ -1,0 +1,12 @@
+<FileID>138632</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/law-and-police-ireland-detention-of</URL>
+<Title>Law and Police (Ireland)—detention of Intoxicated Persons</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1725-6</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>300</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, with regard to the recent death of a man whilst in custody in a police barrack, in Sligo, and the undertaking given on the part of the Government during the late Debate, What order has been issued, or will be issued, by the Inspector General of Constabulary, and the Commissioner of Dublin Metropolitan Police, with respect to the safe custody of intoxicated persons, the detention of females, the provision of some light for cells in which persons are kept at night, and the supervision of prisoners in police barracks by the orderly constable on duty; and, whether a copy of any such order or instruction will be communicated to the House? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> It has been decided that a Regulation shall be made by the Inspector General, declaring that, wherever practicable, two drunken prisoners shall not be confined together, and that even when only one drunken prisoner is in charge, he shall be visited constantly, not less than every quarter of an hour, so long as he remains not perfectly sober, and that for this purpose the head constable or sergeant in charge shall, if necessary, tell off an extra barrack orderly. As regards female prisoners, the order will be to the effect that, if drunk, the same rule of visiting as in the case of male prisoners must be observed, and that in all cases when a female is in custody the barrack orderly must not be left in sole charge. The precise terms of the Order have not yet been formulated; but I shall have no objection to communicating them to the hon. Member when they have been settled. 
+<speaker>MR. SEXTON</speaker> thanked the Chief Secretary for his action in this matter.

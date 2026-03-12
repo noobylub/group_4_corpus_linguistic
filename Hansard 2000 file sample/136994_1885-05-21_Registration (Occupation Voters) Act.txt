@@ -1,0 +1,15 @@
+<FileID>136994</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/registration-occupation-voters-act</URL>
+<Title>Registration (Occupation Voters) Act</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1036-8</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>457</WordCount>
+
+
+<speaker>SIR R. ASSHETON CROSS,</speaker> referring to the Registration Act which had just received the Royal Assent, asked, Whether the Attorney General could state what steps Clerks of the Peace and Town Clerks ought to take in the newly-created and merged boroughs, having regard to the fact that the Parliamentary Elections (Redistribution) Bill would probably not become law till the 20th of June? 
+<speaker>THE ATTORNEY GENERAL (Sir HENRY JAMES)</speaker> The right hon. Gentleman has given me private Notice of this Question, and I am obliged to him for taking an interest in the subject, for I am sure these local officers are entitled to every assistance we can afford them. It appears to me clear that Clerks of the Peace and Town Clerks must issue their precepts entirely in relation to the present state of the law, and regardless of the provisions of the Parliamentary Elections (Redistribution) Bill . It is impossible for them to anticipate the coming into operation of that Bill at a future date. But clauses will have to be inserted in it to provide for the various modifications which will be necessary, after that Bill passes, to meet the case of new boroughs, enlarged boundaries of old boroughs, merged boroughs, and divisions of counties. But with the assimilation of the franchise there will not be much difference in the lists; and if the Parliamentary Elections (Redistribution) Bill passes, as it may be hoped it will, by the third week in June, I trust the great inconvenience that no doubt has been created will be overcome. I wish to add that, departing from the usual custom as to the date of printing and distributing Acts of Parliament, the Homo Office is now distributing to all Clerks of the Peace and Town Clerks copies of the Registration Act , so that they may have no difficulty in obtaining information as to their duties. 
+<speaker>MR. SEXTON</speaker> Will similar steps be taken in regard to Ireland? 
+<speaker>THE ATTORNEY GENERAL (Sir HENRY JAMES)</speaker> Yes; copies have been already sent round. 
+<speaker>MR. GIBSON</speaker> In reference to this question, as it is an important one, may I ask the hon. and learned Gentleman whether he will take steps to communicate this fact to the officers in Ireland answerable for the posting of these notices, stating whether the existing provisions are workable? I may say that I was told that the new Bill will require some extra provisions, because, as it stands, the Registration Bill is imperfect. 
+<speaker>THE ATTORNEY GENERAL (Sir HENRY JAMES)</speaker> I do not understand the Question of the right hon. and learned Gentleman. Is it his contention that the Registration Bill is an imperfect Bill? [Mr. GIBSON: Yes.] Well, really that is a question which I cannot go into.

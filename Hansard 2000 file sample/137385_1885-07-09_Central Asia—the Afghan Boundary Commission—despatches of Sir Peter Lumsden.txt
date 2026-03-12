@@ -1,0 +1,11 @@
+<FileID>137385</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/central-asia-the-afghan-boundary</URL>
+<Title>Central Asia—the Afghan Boundary Commission—despatches of Sir Peter Lumsden</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c115</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>93</WordCount>
+
+
+<speaker>MR. ONSLOW</speaker> asked the Secretary of State for India, Whether there would be any objection to lay upon the Table of the House all the Despatches and Telegrams in full sent by Sir P. Lums-den to the late Government? 
+<speaker>MR. BOURKE (for Lord RANDOLPH CHURCHILL)</speaker> In reply to the hon. Member's Question, I have to state that in the opinion of Her Majesty's Government it would not be in the interest of the Public Service to lay Sir Peter Lumsden's Correspondence on the Table in the present stage of the negotiations with Russia.

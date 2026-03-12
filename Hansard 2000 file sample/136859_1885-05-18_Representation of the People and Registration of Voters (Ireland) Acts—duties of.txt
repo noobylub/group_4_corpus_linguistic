@@ -1,0 +1,11 @@
+<FileID>136859</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/representation-of-the-people-and</URL>
+<Title>Representation of the People and Registration of Voters (Ireland) Acts—duties of the Collector General of Rates, Dublin</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 c713</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>163</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked Mr. Solicitor General for Ireland, Whether any deputies or assistants appointed by the collector general of rates in Dublin or by any other official in Ireland charged with duties under the Franchise and Registration Acts to aid in the discharge of those duties will be liable to the penalties provided by law for disregard or neglect of duty, or will this liability in regard to acts omitted or done by any such deputy or assistant devolve upon the person for whom he acts and by whom he is appointed? 
+<speaker>THE SOLICITOR GENERAL FOR IRELAND (Mr. WALKER)</speaker> I think the collectors of the Collector General in Dublin, who have a status under the Act of 1849, are officials who would be liable for a neglect of duty under the Franchise Act , so, in my opinion, will all rate collectors. As regards other deputies and assistants, I should not like to give an opinion without knowing the circumstances of each case.

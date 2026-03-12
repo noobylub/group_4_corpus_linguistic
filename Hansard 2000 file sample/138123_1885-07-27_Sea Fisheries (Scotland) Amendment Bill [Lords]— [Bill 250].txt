@@ -1,0 +1,9 @@
+<FileID>138123</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/sea-fisheries-scotland-amendment-bill</URL>
+<Title>Sea Fisheries (Scotland) Amendment Bill [Lords]— [Bill 250]</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc208-10</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>5</WordCount>
+
+cc208-10 SECOND READING. 671 words

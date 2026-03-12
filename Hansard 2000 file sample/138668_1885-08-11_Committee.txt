@@ -1,0 +1,14 @@
+<FileID>138668</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/committee-1</URL>
+<Title>Committee</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1856-7</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>177</WordCount>
+
+
+<speaker>MR. ONSLOW</speaker> said, he did not know who had charge of this Bill, or if any instructions had been given in respect to it? 
+<speaker>MR. SPEAKER</speaker> To be deferred to tomorrow. 
+<speaker>MR. ONSLOW</speaker> said, that they had been told by the Leader of the House that only Government Bills would be taken on the Wednesday; and as the Bill contained matter for grave discussion he begged to move that it be taken on Friday. 
+<speaker>MR. SPEAKER</speaker> It is a most unusual course to take in the absence of the Member in charge of the Bill. 
+<speaker>MR. ONSLOW</speaker> said, he would beg leave to point out that a most unusual course was proposed in putting the Bill down for Wednesday after the Leader of the House had said the adjournment would be moved after Government Business was disposed of. This unusual course justified him in taking a course which, though unusual, was in accordance with the Rules of the House. Motion made, and Question proposed, "That the Committee be deferred till Friday."—( Mr. Onslow. ) Motion agreed to.

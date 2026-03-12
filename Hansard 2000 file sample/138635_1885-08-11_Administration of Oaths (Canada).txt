@@ -1,0 +1,11 @@
+<FileID>138635</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/administration-of-oaths-canada</URL>
+<Title>Administration of Oaths (Canada)</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1727-8</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>278</WordCount>
+
+
+<speaker>MR. BROADHURST</speaker> asked the Secretary of State for the Colonies, Whether he is aware of the introduction in the Quebec Legislature of a Bill respecting the Administration of Oaths, which requires that a Crucifix shall be placed in all Courts of Justice and Courthouses in the Province, and that all persons administering oaths to witnesses shall call upon them to lift their right hand in front of such Crucifix and to swear before the same; and, whether the Legislature is competent to pass such an Act without the approval of Her Majesty; and, if not, whether Her Majesty will be advised to withhold such approval? 
+<speaker>MR. HEALY</speaker> Before this very offensive Question is answered, I beg to ask whether it is not a fact that all through France this is the custom pursued in taking oaths; and that in Quebec, which is inhabited by a French Colony, they are simply carrying out the ancient French system? THE SECRETARY OF STATE (Colonel STANLEY), in reply, said, he had ascertained that it was a fact, as stated in the Question of the hon. Member for Stoke, that a Bill was introduced into the Quebec Legislature on the 20th of last April; but he was unable to trace it beyond its first reading. The Canadian Legislature was competent to pass such a Bill as this without the approval of the Home Government, and, therefore, he need not answer the last part of the Question. In answer to the hon. and learned Member's (Mr. Healy's) Question, he believed that throughout a great part of France—if not in the whole of France—the custom was that which the hon. and learned Member had stated.

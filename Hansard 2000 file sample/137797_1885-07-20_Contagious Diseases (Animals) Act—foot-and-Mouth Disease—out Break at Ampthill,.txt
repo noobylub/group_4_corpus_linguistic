@@ -1,0 +1,13 @@
+<FileID>137797</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/contagious-diseases-animals-act-foot-and</URL>
+<Title>Contagious Diseases (Animals) Act—foot-and-Mouth Disease—out Break at Ampthill, Bedford Shire</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1211-2</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>402</WordCount>
+
+
+<speaker>MR. HENEAGE</speaker> asked the Chancellor of the Duchy of Lancaster, Whether he can inform the House if it is true that there has been a severe outbreak of foot and mouth disease at Ampthill in Bedfordshire; and, whether the origin of the outbreak has been ascertained? 
+<speaker>THE CHANCELLOR OF THE DUCHY OF LANCASTER (Mr. CHAPLIN)</speaker> Yes, Sir; I regret to say that it is true that there has been an outbreak of foot-and-mouth disease at Ampthill in Bedfordshire. It was reported to the Privy Council upon the 10th of July last as having occurred in the park at Ampthill, in which there were both cattle and sheep, and the report stated that the first animal was found to be affected on the 6th of July. An Inspector from the Department visited the park as soon as possible after the news was received of the outbreak; and the latest intelligence from the travelling Inspectors, who have paid frequent visits to the infected place since then, is to the effect that 17 cattle and 15 sheep are now infected with the disease, and that these animals are completely separated from the rest of the herd. Every exertion has been made and is being made, both by the Privy Council and the Local Authority, who are acting most energetically in the matter, to secure the complete isolation of all the animals in the park, and to prevent the further spread of the disease. An inquiry is being actively prosecuted, but the origin of the disease has not been discovered. 
+<speaker>MR. JAMES HOWARD</speaker> asked the right hon. Gentleman whether he was aware of the fact that the furniture of Lady Ampthill arrived at Ampthill Park from Berlin a short time before this outbreak took place, and whether he was also aware that the animals had access to the hay and straw in which the furniture was packed; and whether he caused special investigation to be made in view of what had taken place? 
+<speaker>THE CHANCELLOR OF THE DUCHY OF LANCASTER (Mr. CHAPLIN),</speaker> in reply, said, special investigation was made into that matter. Although it was quite true that the furniture was packed in hay which was left about the premises and to which the animals had access, yet he was informed that the packages had been so long in London that, according to the professional authorities, the disease could not have been conveyed in that manner.

@@ -1,0 +1,10 @@
+<FileID>138403</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/inland-navigation-and-drainage-ireland</URL>
+<Title>Inland Navigation and Drainage (Ireland)—the Kilkee Drainage</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1043</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>127</WordCount>
+
+THE O'GORMAN MAHON asked the Financial Secretary to the Treasury, Whether the Irish Government are aware that great damage has been and is being caused by the overflow of swamps, and the consequent flooding of agricultural and pastoral lands in the district of Kilkee, County Clare; and, whether the Government will immediately cause the Board of Works to institute a competent inquiry, with a view to ascertain the nature and extent of the damage, and to decide whether the State can aid the occupiers of the district in executing drainage operations? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> said, he must ask that the Question should be postponed until Thursday. He had not yet received a communication in reference to it in answer to his inquiries.

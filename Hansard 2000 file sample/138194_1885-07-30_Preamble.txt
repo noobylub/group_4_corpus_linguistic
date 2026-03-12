@@ -1,0 +1,9 @@
+<FileID>138194</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/preamble</URL>
+<Title>Preamble</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c504</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>121</WordCount>
+
+MINUTES.]—Supply— considered in Committee Resolutions [July 29] reported. WAYS AND MEANS— considered in Committee — Resolution [July 20] reported. RESOLUTIONS IN COMMITTEE— Reported July 29 —Navy and Army Expenditure, 1883–4. PRIVATE BILL ( by Order )— Considered as amended — Belfast Central Railway (Sale). PUBLIC BILLS — Ordered — First Reading — Consolidated Fund (Appropriation). * Committee —Criminal Law Amendment [159] —R.P. Committee — Report — Telegraph Acts Amendment [121]; Expiring Laws Continuance * [247]. Committee — Report — Third Reading —Crown Lands ( re-comm. ) * [51], and passed. Considered as amended — Parliamentary Elections (Returning Officers) * [251]. Considered as amended — Third Reading — Revising Barristers * [237], and passed. Withdrawn — Licensing Laws Amendment * ! [226].

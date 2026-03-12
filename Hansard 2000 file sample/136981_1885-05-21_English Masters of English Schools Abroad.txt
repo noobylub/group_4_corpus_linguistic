@@ -1,0 +1,10 @@
+<FileID>136981</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/english-masters-of-english-schools-abroad</URL>
+<Title>English Masters of English Schools Abroad</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1028-9</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>105</WordCount>
+
+MR. ALDERMAN LAWRENCE asked the Under Secretary of State for Foreign Affairs, If the Foreign Office claims the right to protect English masters of English schools Abroad against the interference of the Government of the Country in cases of undue severity practised by masters or monitors, on the ground stated by the masters, that the Home Government permits the masters of English schools to punish boys in any manner they may think proper? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> I am afraid I cannot, undertake to answer hypothetical Questions. So far as I am aware, no such ease has been brought to the notice of the Foreign Office.

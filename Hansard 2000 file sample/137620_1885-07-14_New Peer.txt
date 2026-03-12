@@ -1,0 +1,9 @@
+<FileID>137620</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/14/new-peer</URL>
+<Title>New Peer</Title>
+<DebRef>HL Deb 14 July 1885 vol 299 c586</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>35</WordCount>
+
+Gavin, Lord Breadalbane (Earl of Breadalbane in that part of the United Kingdom called Scotland), having been, created Earl of Ormelie in the county of Caithness, and Marquess of Breadalbane—Was (in the usual manner) introduced.

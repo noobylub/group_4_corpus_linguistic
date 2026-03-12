@@ -1,0 +1,11 @@
+<FileID>137721</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/general-gordon</URL>
+<Title>General Gordon</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 c1055</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>155</WordCount>
+
+
+<speaker>SIR JOHN HAY</speaker> asked the Under Secretary of State for Foreign Affairs, To lay upon the Table Copies of the Telegrams and other communications sent to General Gordon at Khartoum, from England, Egypt, or elsewhere, from 12th March l884 to his death? He desired to add that it was in consequence of a note appended by the editor of the journals of the late General Gordon, who desired that those documents should be produced for the better elucidation of the journals, that he asked the Question. 
+<speaker>THE UNDER SECRETARY OF STATE FOR FOREIGN AFFAIRS (Mr. BOURKE)</speaker> I have seen the note to which my right hon. and gallant Friend alludes. Nearly all the communications on this subject which have reached the Foreign Office have already been presented to Parliament. They will, however, be examined again, with the view to ascertaining whether, with advantage to the Public Service, any which have been omitted can be produced.

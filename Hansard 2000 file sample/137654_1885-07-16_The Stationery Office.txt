@@ -1,0 +1,11 @@
+<FileID>137654</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/the-stationery-office</URL>
+<Title>The Stationery Office</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc906-7</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>150</WordCount>
+
+
+<speaker>LORD ELCHO</speaker> asked the Financial Secretary to the Treasury, Whether it is a fact that, while in other departments contracts are publicly advertised and schedules sent direct to the manufacturers, in the Stationery Office alone a different system prevails, and schedules are only sent to a few of the larger wholesale London stationers; and, whether, if this is so, he can see his way to remedying this anomaly and thereby benefiting the trade as well as the country? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> The schedules for tenders for general supplies of stationery are sent to over 80 different firms, 30 of whom received them at country addresses. New names are constantly being added. This system of competition commends itself for adoption in the case of stationery upon grounds of efficiency and economy, and I have no reason to suppose that it causes any inconvenience to the trade.

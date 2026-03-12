@@ -1,0 +1,15 @@
+<FileID>137787</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/harbours-dover-harbour</URL>
+<Title>Harbours—dover Harbour</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1203-4</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>398</WordCount>
+
+
+<speaker>SIR EDWARD WATKIN</speaker> asked Mr. Chancellor of the Exchequer, Whether he has read the report of a speech recently delivered by Sir Admiral Cooper Key, at Willis's rooms, in which the Admiral stated that "on the whole coast of England there was not a harbour in which our Fleets could take refuge;" whether, therefore, Her Majesty's Government intend to retain, or alter, the policy of the late Government in the case of the deep water harbour at Dover, which policy involves a delay in the completion of that harbour for about a quarter of a century; and, whether Her Majesty's Government intend, in the construction of harbours generally, to adopt the recommendation of the Select Committee on Harbours, viz. that, in place of annual votes spread over a long period of years, the cost of national harbours in the future should be provided by 99 years' terminable annuities, and the works be completed thereby in the shortest possible time? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> I have not seen the report of the speech to which the hon. Member alludes, and I am afraid I have not yet had sufficient time to consider so important a matter as the recommendation of the Select Committee on Harbours referred to in the third paragraph of the Question; but with regard to Dover Harbour, I venture to say that I do not think it would be possible to alter the policy that has been pursued. I am in-informed that the construction of a harbour at Dover by convict labour was determined upon in 1882, after a Committee on Employment of Convicts had reported in favour of that work or of one at Filey as a means of affording the required employment. This Report was presented to Parliament. A considerable sum of money has been laid out in land and buildings for prisoners at Dover, and the prison is now in part ready for occupation. 
+<speaker>SIR EDWARD WATKIN</speaker> Is the right hon. Gentleman aware that the deep-water harbours at Boulogne and Calais will be completed in two years? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> No, Sir, I am not. 
+<speaker>MR. T. P. O'CONNOR</speaker> Will the right hon. Gentleman consider the advisability of employing convict labour on a harbour at Galway? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I shall be prepared to consider any recommendation coming from the Irish Government on the subject.

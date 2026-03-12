@@ -1,0 +1,18 @@
+<FileID>137859</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/parliament-business-of-the-house</URL>
+<Title>Parliament—business of the House</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 cc1409-10</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>472</WordCount>
+
+THE MARQUESS OF HARTINGTON said, that perhaps it would be for the convenience of the House if the Chancellor of the Exchequer would state what Business was likely to be taken tomorrow and on Thursday; and also when it was proposed to take the Army Estimates? 
+<speaker>MR. PARNELL</speaker> asked whether the Government would fix a day for the discussion of the question with respect to the Queen's Colleges in Ireland? 
+<speaker>MR. BUCHANAN</speaker> asked the Chancellor of the Exchequer whether he could afford any facilities for the Motion which he had on the Paper for Thursday night with reference to Heriot's Hospital? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH),</speaker> in reply, said, that that must depend upon the condition of Business on Thursday evening. If they could, consistently with the convenience of the House, allow the Motion to come on about 12 o'clock, they would endeavour to do so. If the Motion could not come on then, he would try and find a later date for it. With regard to the Question of the noble Lord opposite, the intention of the Government was to take the remaining Estimates tomorrow, except those for the Queen's Colleges and the Army Estimates. The Army Estimates they hoped to take on Monday, and the Queen's College Estimates on Friday; but that must depend upon the time at which they were reached. He was aware of the importance of the Vote for the Queen's Colleges. 
+<speaker>MR. SHAW LEFEVRE</speaker> asked if the Telegraph Bill would be taken on Thursday? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> Yes, Sir. 
+<speaker>MR. BUCHANAN</speaker> said, last week the right hon. Gentleman had referred him to the hon. Member for Buteshire (Mr. Dalrymple) in connection with his Motion about Heriot's Hospital, and as the matter was still undecided, it was desirable to know when the Motion could be proceeded with? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> said, the Report or the third reading of the Medical Relief Disqualification Removal Bill would stand as the first Order on Thursday, and the Customs and Inland Revenue Bill as the second. They hoped also to make some progress with the Telegraph Bill . With those three measures, it would be extremely difficult to break off at 12 o'clock, so as to allow the Motion of the hon. Member to be proceeded with. If the hon. Member wanted a definite promise, he would much rather find an opportunity some time next week, which would be in plenty of time. 
+<speaker>MR. PARNELL</speaker> said, he would like some definite arrangement to be made with regard to the Queen's College Estimates, as several prominent ecclesiastics were coming over from Ireland to hear the discussion. 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I understand from my right hon. Friend the Chief Secretary for Ireland that he will be prepared to proceed with the Vote on Friday.

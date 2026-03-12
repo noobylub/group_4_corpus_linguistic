@@ -1,0 +1,12 @@
+<FileID>138535</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/poor-law-guardians-ireland-bill</URL>
+<Title>Poor Law Guardians (Ireland) Bill</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 c1454</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>162</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked Mr. Attorney General for Ireland, What course the Government mean to take on the Amendment of the Lords in the Poor Law Guardians (Ireland) Bill , maintaining the vote by proxy at Poor Law Elections in Ireland, and on the Amendment maintaining the strength of ex-officio members on each Board of Guardians at one-half the total number of the Board instead of one-third, the proportion adopted by this House? 
+<speaker>THE ATTORNEY GENERAL FOR IRELAND (Mr. HOLMES)</speaker> Having regard to the late period of the Session, and the protracted discussions these Amendments are likely to give rise to, there is no hope of giving an opportunity of dealing with them. Perhaps, under the circumstances, the hon. Member having charge of the Bill will move that the Order be discharged. 
+<speaker>MR. SEXTON</speaker> said, he would move to discharge the Order, and would give Notice that next Session he would introduce a Bill to make Boards of Guardians in Ireland entirely elective.

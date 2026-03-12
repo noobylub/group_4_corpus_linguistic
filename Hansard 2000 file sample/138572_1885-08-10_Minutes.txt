@@ -1,0 +1,9 @@
+<FileID>138572</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 c1557</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>19</WordCount>
+
+PUBLIC BILLS— Second Reading —Housing of the Working Classes (England) [248]; Moveable Dwellings; [239]. Committee—Report —Land Purchase (Ireland) [249].

@@ -1,0 +1,9 @@
+<FileID>138125</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/patent-law-amendment-bill</URL>
+<Title>Patent Law Amendment Bill</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c210</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>13</WordCount>
+
+( Sir Farrer Herschell, Mr. Holms. ) c210 [BILL 240.] COMMITTEE. 83 words

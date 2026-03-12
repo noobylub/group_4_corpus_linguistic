@@ -1,0 +1,10 @@
+<FileID>138587</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/public-meetings-ireland-the-meeting-at</URL>
+<Title>Public Meetings (Ireland)—the Meeting at Dromore, 1883— Death Of—giffen</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 cc1571-2</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>155</WordCount>
+
+MR. MACARTNEY asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the Government, having consented to an inquiry into the Maam-trasna trial, will also institute an inquiry into the circumstances of the death of the young man Giffen, who was stabbed to death in the back while running away from a body of pursuing Constabulary in the Autumn of 1883, at Dromore, in the county of Tyrone? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The Lord Lieutenant, in undertaking to consider any Memorials presented on behalf of persons undergoing punishment for the Maamtrasna murder, only followed the usual course with regard to such Memorial. The case of Giffen in no way resembled the Maamtrasna case, there being no person undergoing punishment. The present Government concur in the view of the late Government, that it was not necessary to have any public investigation into the death of Giffen beyond that held at the inquest.

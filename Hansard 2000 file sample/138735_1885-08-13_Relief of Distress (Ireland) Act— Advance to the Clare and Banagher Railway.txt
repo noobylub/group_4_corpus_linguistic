@@ -1,0 +1,11 @@
+<FileID>138735</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/relief-of-distress-ireland-act-advance</URL>
+<Title>Relief of Distress (Ireland) Act— Advance to the Clare and Banagher Railway</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c24</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>216</WordCount>
+
+
+<speaker>MR. MOLLOY</speaker> I wish to ask the Secretary to the Treasury, If he is aware that the sum of £30,000 was borrowed under the barony guarantee of Garrycastle by the Clare and Banagher Railway under the Relief of Distress (Ireland) Act , by which Act advances were to be made at 1 per cent; if, to meet a deficit in the profit returns of that railway, a rate has just been struck on the basis of 4 per cent interest on the said loan in lieu of 1 per cent, as mentioned in the said Act; by whose authority and what powers this loan was made at the increased rate; if he can state what steps can be taken to relieve the ratepayers, who believe that the loan was made under the reduced terms of 1 per cent, from this excessive interest? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> In reply to the hon. Member, I have to state that the sum of £30,000 was not granted under the Relief of Distress Act referred to in the Question; but the advance was made under the amended Relief of Distress Act, under which advances are made at 4 per cent. It is true that the advances are made under the former Act at 1 per cent.

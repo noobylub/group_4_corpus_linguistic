@@ -1,0 +1,11 @@
+<FileID>137986</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/north-sea-fisheries-coopering</URL>
+<Title>North Sea Fisheries—coopering</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 c1783</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>197</WordCount>
+
+
+<speaker>MR. BIRKBECK</speaker> asked the Under Secretary of State for Foreign Affairs, Whether, now that the case of the German vessel Diedrich has been disposed of by the conviction of the English fishermen, the invitations for the International Conference at the Hague, relative to the floating drink shops in the North Sea, have been issued by the Netherlands Government; and, if not, what is the cause of the further delay in the matter? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> After the result of the trials in the cases of the Diedrich and Anna were known, Her Majesty's Minister at the Hague inquired of the Netherlands Minister whether the Netherlands Government would take steps to bring about an early meeting of the Conference relative to the liquor traffic in the North Sea. His Excellency replied that he had already taken action in the matter, and that he hoped that he would be enabled to convoke the Conference at an early date. Mr. Stuart will be instructed to bring the matter to the notice of the Netherlands Government, and as soon as a definite reply is received I shall have much pleasure in communicating again with my hon. Friend.

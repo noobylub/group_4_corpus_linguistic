@@ -1,0 +1,21 @@
+<FileID>138448</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/bill-68-consideration</URL>
+<Title>[Bill 68] Consideration</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1192-4</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>635</WordCount>
+
+Bill, as amended, considered. Clause 12 (Provisional Order may be confirmed by the Privy Council). 
+<speaker>MR. SEXTON</speaker> said, he had an alteration to propose in the clause in order to make it correspond with the 2nd clause of the Bill, as amended in Committee. Amendment proposed, in page 5, line 22, to leave out the word "less," and insert the word "more."—( Mr. Sexton. ) Question proposed, "That the word 'less' stand part of the Clause." 
+<speaker>COLONEL KING-HARMAN</speaker> said, he could not assent to the alteration proposed by the hon. Member for Sligo. He considered that the word "lees" ought to stand part of the clause, because the change agreed to last night in Committee related to a different matter altogether. 
+<speaker>THE ATTORNEY GENERAL FOR IRELAND (Mr. HOLMES)</speaker> said, he had considered this Amendment, and found it to be exactly the same in character as that agreed to in Committee. Amendment agreed to. Clause, as amended, agreed to. Clause 17 (Miscellaneous amendments of Act of 1883). Amendment proposed, In page 10, lines 10 and 11, to leave out the words "peace of the county," and insert the word "Union."—( Mr. P. J. Power. ) Question proposed, "That the words proposed to be left out stand part of the Clause." 
+<speaker>COLONEL KING-HARMAN</speaker> said, he objected to the principle of this Amendment. The Amendment, besides, would not agree with the wording of the clause. There were many Unions in the various counties. 
+<speaker>MR. SEXTON</speaker> said, it was quite clear that the wording was right, because no scheme could extend beyond the Union. 
+<speaker>COLONEL KING-HARMAN</speaker> said, there was a Clerk of the Peace or Union; but there was no such thing as a Union of a county. 
+<speaker>MR. SEXTON</speaker> assured the hon. and gallant Member for Dublin County that if be examined the clause carefully he would see that the term was correct. Amendment agreed to. Motion made, and Question proposed, "That the Bill be recommitted in respect of two New Clauses."—( Mr. Attorney General for Ireland. ) 
+<speaker>COLONEL KING-HARMAN</speaker> proposed to amend the Motion by leaving out "two," and inserting "four." Amendment proposed, to leave out the word "two," and insert the word "four,"—( Colonel King-Harmon, )—instead thereof. Question, "That the word 'two' stand part of the Bill," put, and negatived. The word "four" inserted. Clause, as amended, agreed in. Bill recommitted in respect of four New Clauses: considered in Committee. New Clause (Closing of dwellings unfit for habitation,)— brought up, and read the first and second time, and added to the Bill. New Clause (Area of charge for rate levied by Sanitary Authority,)— brought up, and read the first time. Motion made, and Question proposed, "That the Clause be read a second time." 
+<speaker>MR. SEXTON</speaker> said, that this clause was discussed in Committee, and, he thought, generally recognized that the Local Authorities, who were responsible to the ratepayers, were the best judges of the charge. 
+<speaker>THE ATTORNEY GENERAL FOR IRELAND (Mr. HOLMES)</speaker> said, it would be within the recollection of the House that it had been suggested that the rating should be made upon the Union instead of upon the electoral division. After some discussion upon the point, the hon. Gentleman the Member for Sligo (Mr. Sexton) suggested that the matter should be left to the discretion of the Sanitary Authority. He (the Attorney General for Ireland) had made inquiries, and had been informed by the Local Government Board that at the present time the matter was to all intents and purposes within the control of the Sanitary Authorities. That being so, there could be no objection to this clause. Question put, and agreed to. Clause added to the Bill. 
+<speaker>THE CHAIRMAN</speaker> Where are the other clauses? 
+<speaker>COLONEL KING-HARMAN</speaker> I do not move them. Bill reported; as amended, considered. Bill read the third time, and passed.

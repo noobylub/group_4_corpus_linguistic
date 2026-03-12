@@ -1,0 +1,12 @@
+<FileID>137684</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/egypt-the-alexandria-massacres-charges</URL>
+<Title>Egypt—the Alexandria Massacres—charges Against the Khedive</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c924</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>130</WordCount>
+
+
+<speaker>MR. M'COAN</speaker> asked the Secretary of State for India, Whether he still adheres to the charges of complicity in the massacres of Alexandria made by him in this House against the Khedive Tewfik, and subsequently embodied in the Memorandum addressed by him to the late First Lord of the Treasury, and printed as a Parliamentary Paper, "Egypt, No. 4, 1884?" 
+<speaker>THE SECRETARY OF STATE FOR INDIA (Lord RANDOLPH CHURCHILL)</speaker> The hon. Gentleman put a Question to mo on the 21st of June to the same effect as the Question on the Paper, and which I then answered. I have nothing whatever to add to the statement I then made. 
+<speaker>MR. M'COAN</speaker> I wish to state that this Question is altogether distinct from the one to which the noble Lord alludes.

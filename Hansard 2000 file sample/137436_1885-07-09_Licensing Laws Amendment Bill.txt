@@ -1,0 +1,9 @@
+<FileID>137436</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/licensing-laws-amendment-bill</URL>
+<Title>Licensing Laws Amendment Bill</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c244</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>63</WordCount>
+
+Considered in Committee. (In the Committee.) Resolved, That the Chairman be directed to move the House, That leave be given to bring in a Bill to amend the Licensing Laws. Resolution reported: — Bill ordered to be brought in by Mr. STAFFORD HOWARD and Mr. HOULDSWORTH. Bill presented, and read the first time. [Bill 226.] House adjourned at a quarter before Three o'clock.

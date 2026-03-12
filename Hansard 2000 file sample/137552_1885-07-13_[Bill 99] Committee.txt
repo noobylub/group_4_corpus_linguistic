@@ -1,0 +1,13 @@
+<FileID>137552</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/bill-99-committee</URL>
+<Title>[Bill 99] Committee</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc573-4</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>321</WordCount>
+
+Order for Committee read. 
+<speaker>MR. WARTON</speaker> said, that before Mr. Speaker left the Chair he desired to move the Instruction to the Committee standing in his name on the Paper— namely— That it be an Instruction to the Committee that it have power to amend the Corrupt and Illegal Practices Prevention Act, 1883 , in respect of the provisions of the First Sechdule thereto, as to the charges of Returning Officers. Before he went into this subject, he wished to say that the right hon. Gentleman the Home Secretary (Sir P. Assheton Cross)— 
+<speaker>MR. SPEAKER</speaker> The Instruction the hon. and learned Member would move is not necessary. The Committee will be competent to deal with that question without such Motion. 
+<speaker>SIR FARRER HERSCHELL</speaker> said, that in the absence of his right hon. and learned Friend (Mr. J. B. Balfour), who had a Notice relating to this Bill on the Paper, he would move his right hon. and learned Friend's Motion. It was as follows: — That it be an Instruction to the Committee that they' have power to extend the Bill to the expenses of Returning Officers at Parliamentary Elections in Scotland. It was obvious that the Bill should extend to Scotland. Motion made, and Question, That it be an Instruction to the Committee that they have power to extend the Bill to the expenses of Returning Officers at Parliamentary Elections in Scotland,"—( Sir Farrer Herschell, ) —put, and agreed to. Bill considered in Committee. (In the Committee.) 
+<speaker>MR. HEALY</speaker> said, that he and his Friend the Member for the City of Cork (Mr. Parnell) had several Amendments they desired to propose, but which they were not now in a position to bring on. He begged to move that the Chairman do report Progress. Motion made, and Question, "That the Chairman do report Progress, and ask leave to sit again,"—( Mr. Healy, )—put, and agreed to. Committee to sit again Tomorrow

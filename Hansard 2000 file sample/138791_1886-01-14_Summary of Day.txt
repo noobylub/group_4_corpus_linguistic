@@ -1,0 +1,9 @@
+<FileID>138791</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/14/summary-of-day</URL>
+<Title>Summary of Day</Title>
+<DebRef>HC Deb 14 January 1886 vol 302 c30</DebRef>
+<SittingDate>1886-01-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>132</WordCount>
+
+Several other Members took and subscribed the Oath, and one other Member made and subscribed the Affirmation according to Law. Notice being taken that the Honourable Robert Torrens O'Neill, returned is Member for Mid-Antrim, was by a clerical error described in the Return as the Honourable Edward O'Neill, and Lord Arthur Hill, Member for West Down, having stated on his own knowledge that the names of the Member for Mid-Antrim were Robert Torrens O'Neill; Ordered , That the Clerk of the Crown do attend the House forthwith with the Return for Mid-Antrim, and amend the same by striking out the word "Edward," and inserting the words "Robert Torens". And the Clerk of the Crown attended and amended the said Return accordingly. House adjourned at half after Three o'clock till Two o'clock Tomorrow.

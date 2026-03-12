@@ -1,0 +1,11 @@
+<FileID>138492</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/egypt-the-soudan-supplies-for-the-troops</URL>
+<Title>Egypt (The Soudan)—supplies for the Troops at Suaktn</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 cc1275-6</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>94</WordCount>
+
+
+<speaker>COLONEL KING-HARMAN</speaker> asked the Secretary of State for War, Whether any steps can be taken to ensure a better supply of milk and vegetables to the regimental bazaars of the Sikh and Bengal Regiments now serving at Suakin? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> No Report has been received to the effect that the Indian regimental bazaar arrangements are unsatisfactory; but the question is necessarily a local one, and the General Officer commanding at Suakin, who is an experienced Indian officer, has full authority to make any arrangements he may consider requisite.

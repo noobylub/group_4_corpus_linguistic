@@ -1,0 +1,11 @@
+<FileID>138505</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/the-royal-commission-on-the-depression</URL>
+<Title>The Royal Commission on the Depression of Trade and Industry</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 c1285</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>98</WordCount>
+
+
+<speaker>MR. BROADHURST</speaker> asked Mr. Chancellor of the Exchequer, Whether he could give the House the names of the labour Representatives on the Royal Commission on the Depression in Trade, or, at least, the proportion they would bear to the Representatives of capital? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> No, Sir; I am not able to answer that Question. Perhaps, however, it may be convenient to the House that I should state that my noble Friend (the Earl of Iddesleigh), who has charge of the matter, will make a statement on Monday or Tuesday in "another place" on the subject.

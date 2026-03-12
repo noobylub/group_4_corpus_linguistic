@@ -1,0 +1,9 @@
+<FileID>137088</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/04/local-government-provisional-order</URL>
+<Title>Local Government Provisional Order (Municipal Corporation) Bill</Title>
+<DebRef>HC Deb 04 June 1885 vol 298 c1328</DebRef>
+<SittingDate>1885-06-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>64</WordCount>
+
+On Motion of Mr. GEORGE RUSSELL, Bill to confirm an Order of the Local Government Board, under the provisions of "The Municipal Corporations Act, 1883 ," relating to the Town and Port of Seaford, ordered to be brought in by Mr. GEORGE RUSSELL and Sir CHARLES W. DILKE. Bill presented, and read the first time. [Bill 199.] House adjourned at half after One o'clock.

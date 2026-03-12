@@ -1,0 +1,9 @@
+<FileID>137965</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/23/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 23 July 1885 vol 299 c1595</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>85</WordCount>
+
+PUBLIC BILLS— First Heading— Parliamentary Elections (Corrupt Practices) * (199); School Boards * (200); Exchequer and Treasury Bills * ; Greenwich Hospital * (201); Summary Jurisdiction (Term of Imprisonment) * (202). Second Heading —River Thames (No. 2) (171); Turnpike Acts Continuance * (174); Public Health (Ships, &c.) * (186); Artillery and Rifle Ranges * (193). Committee —Submarine Telegraph Cables (104–203). Report —Shannon Navigation * (172); Land Purchase (Ireland) (184–204–205). Third Reading —Sea Fisheries (Scotland) Amendment * (192); Metropolis Management Acts Amendment * (162), and passed.

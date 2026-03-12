@@ -1,0 +1,9 @@
+<FileID>138798</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/20/preamble</URL>
+<Title>Preamble</Title>
+<DebRef>HC Deb 20 January 1886 vol 302 c31</DebRef>
+<SittingDate>1886-01-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>26</WordCount>
+
+The House met at Two of the clock. Several other Members took and subscribed the Oath. House adjourned at a quarter before Four o'clock till Tomorrow.

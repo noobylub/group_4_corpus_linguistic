@@ -1,0 +1,12 @@
+<FileID>136907</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/ways-and-means-the-financial-statement</URL>
+<Title>Ways and Means—the Financial Statement—the Wine Duties</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 c944</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>136</WordCount>
+
+
+<speaker>SIR STAFFORD NORTHCOTE</speaker> asked Mr. Chancellor of the Exchequer, Whether, in consequence of the failure of the commercial negotiations with Spain, Her Majesty's Government propose to abandon the arrangement with respect to the Wine Duties announced in the Financial Statement? 
+<speaker>MR. HIBBERT</speaker> (who replied), said, on or before the second reading of the that Budget Bill the Chancellor of the Exchequer would explain to the House what course he proposed to take with reference to the 3rd section of that Bill in consequence of the termination of the commercial negotiations with Spain. 
+<speaker>SIR MICHAEL HICKS-BEACH</speaker> I beg to give Notice that I shall ask the Question on Thursday. I think it will be extremely inconvenient to the House not to have any statement upon the subject until the day of the second reading of the Bill.

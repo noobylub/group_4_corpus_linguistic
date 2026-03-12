@@ -1,0 +1,11 @@
+<FileID>138418</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/navy-accountant-general-of-the-navy</URL>
+<Title>Navy—accountant General of the Navy</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1052-3</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>187</WordCount>
+
+
+<speaker>SIR JOHN HAY (for Lord HENRY LENNOX)</speaker> asked the First Lord of the Admiralty, On what facts he based his statement to the effect that the Accountant General of the Navy is at the present time the only permanent official charged with the duty of checking and controlling the expenditure; and, whether it is intended to ask the Accountant General of the Navy (who has but recently returned from taking an important part in the Financial Control of Egypt) to undertake the absolute and entire Financial Control of the whole expenditure of the Navy? 
+<speaker>THE FIRST LORD (Lord GEORGE HAMILTON)</speaker> I made the statement in question because I believed it to be correct, and nothing has since occurred to contradict the opinion I then expressed. The Report of the Committee appointed to inquire into the recent excess of expenditure has not yet been circulated; and until I have had an opportunity of reading and considering it I cannot state the nature or scope of the alterations we may make, though one of them will be the strengthening of the authority and controlling power of the Accountant General.

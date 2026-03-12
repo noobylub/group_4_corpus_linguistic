@@ -1,0 +1,11 @@
+<FileID>138067</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/poor-law-ireland-mr-graham-clerk-to-the</URL>
+<Title>Poor Law (Ireland)—mr Graham, Clerk to the Board of Guardians, Cootehill Union</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c47</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>110</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, What decision the President of the Local Government Board has arrived at regarding the clerk of the Cootehill guardians? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> The hon. Member for Queen's County (Mr. Arthur O'Connor) has furnished me, in connection with this Question, with a very full statement of the charges alleged against Mr. Graham. That statement has been carefully examined, and is found to contain no matter which has not been already fully investigated. That being so, there are no grounds on which either I or the Local Government Board could properly reopen the case.

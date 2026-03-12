@@ -1,0 +1,11 @@
+<FileID>137983</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/landlord-and-tenant-ireland-mr-sandford</URL>
+<Title>Landlord and Tenant (Ireland)— Mr Sandford Wills</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 c1782</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>108</WordCount>
+
+
+<speaker>MR. O'KELLY</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether his attention has been called to the attempt of Mr. Sandford Wills to deprive his tenant, Mr. Patrick Walder, of a reclaimed bog which had been in his possession for twenty years; and, whether he will be prepared to introduce an Amendment to the Land Act to secure to tenants the possession of lands which they have reclaimed and made valuable? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The matter referred to in this Question has not come under the notice of Government. The Government can give no promise of legislation in the direction suggested.

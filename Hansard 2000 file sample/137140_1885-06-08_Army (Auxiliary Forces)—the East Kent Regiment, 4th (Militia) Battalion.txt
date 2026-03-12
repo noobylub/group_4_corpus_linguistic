@@ -1,0 +1,10 @@
+<FileID>137140</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/army-auxiliary-forces-the-east-kent</URL>
+<Title>Army (Auxiliary Forces)—the East Kent Regiment, 4th (Militia) Battalion</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 c1408</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>94</WordCount>
+
+
+<speaker>SIR WILLIAM HART DYKE</speaker> asked the Secretary of State for War, What is the strength of the 4th Battalion of the East Kent Regiment, now out for its annual training at Chatham? THE MARQUESS OF HARTINGTON The 4th (Militia) Battalion of the East Kent Regiment was dismissed from its annual training on the 30th of May. The Inspection Return has not yet been received. The enrolled strength of the battalion on the 1st of June was 192 noncommissioned officers and men; but it gave 260 transfers to the 3rd Battalion on its recent embodiment.

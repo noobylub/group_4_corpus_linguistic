@@ -1,0 +1,9 @@
+<FileID>137610</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/parliamentary-elections-returning</URL>
+<Title>Parliamentary Elections (Returning Officers) Bill — [Bill 99]</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 cc775-84</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>20</WordCount>
+
+( Mr. Attorney General, Sir Charles W. Dilke. ) cc775-84 COMMITTEE. 1,481 words cc779-84 Part II. — Scotland. 1,724 words

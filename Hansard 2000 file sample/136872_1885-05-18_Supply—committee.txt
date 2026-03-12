@@ -1,0 +1,9 @@
+<FileID>136872</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/supply-committee</URL>
+<Title>Supply—committee</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 c719</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>20</WordCount>
+
+Motion made, and Question proposed, "That this House will immediately resolve itself into the Committee of Supply."—( Mr. Gladstone. )

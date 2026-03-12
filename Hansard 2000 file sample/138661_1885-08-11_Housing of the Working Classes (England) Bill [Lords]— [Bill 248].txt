@@ -1,0 +1,9 @@
+<FileID>138661</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/housing-of-the-working-classes-england</URL>
+<Title>Housing of the Working Classes (England) Bill [Lords]— [Bill 248]</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1745-840</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>10</WordCount>
+
+( Sir R. Assheton Cross. ) cc1745-840 COMMITTEE. 35,894 words

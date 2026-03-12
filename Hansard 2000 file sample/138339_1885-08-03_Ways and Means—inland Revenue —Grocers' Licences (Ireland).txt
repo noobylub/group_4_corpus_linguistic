@@ -1,0 +1,11 @@
+<FileID>138339</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/ways-and-means-inland-revenue-grocers</URL>
+<Title>Ways and Means—inland Revenue —Grocers' Licences (Ireland)</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc836-7</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>241</WordCount>
+
+
+<speaker>COLONEL NOLAN</speaker> asked Mr. Chancellor of the Exchequer, If his attention has been drawn to the fact that in Ireland a large number of those who deal in spirits and beer deal also in groceries and soft goods, and that often but a fraction of the space of the shop is used for the sale of liquor; if, in such cases, the licensed victuallers, instead of being rated for Licence Duty in proportion only to that part of the premises devoted to the sale of liquor, Duty is often assessed as if the whole shop were devoted to the sale of liquor; and, if he would give directions that the licences should, in mixed shops, be proportioned to the value of that part only which is used for the sale of liquor? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER,</speaker> in reply, said, he believed that, as a fact, it was not uncommon for grocers' shops in Ireland to be used in the manner described in the Question of the hon. and gallant Gentleman; but he thought it was very doubtful whether it was desirable to do anything that would tend to increase that practice. He might state it was the rule, not only in Ireland, but throughout the United Kingdom, that the Licence Duty was fixed with reference to the annual value of the whole of the premises, and there would be a practical difficulty in adopting the change suggested in the Question.

@@ -1,0 +1,11 @@
+<FileID>138153</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/parliament-house-of-commons-officers-of</URL>
+<Title>Parliament—house of Commons— Officers of This House—the Serjeant and Deputy Serjeant</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 cc245-6</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>97</WordCount>
+
+
+<speaker>SIR ROBERT FOWLER (LORD MAYOR)</speaker> asked Mr. Chancellor of the Exchequer, Whether Her Majesty's Government would consider the propriety, in view of the great increase of the business of the House, of arranging that, in case of the Serjeant or Deputy Serjeant at Arms being absent from illness, the Assistant Serjeant should be available to relieve them in the Chair? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> On consultation with the proper authorities, I find that the necessary arrangements will be made on the illness of the Serjeant-at-Arms or Deputy Serjeant to prevent any inconvenience arising.

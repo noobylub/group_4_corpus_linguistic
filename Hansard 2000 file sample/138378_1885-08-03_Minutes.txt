@@ -1,0 +1,9 @@
+<FileID>138378</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/03/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 03 August 1885 vol 300 c812</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>100</WordCount>
+
+PUBLIC BILLS— First Reading —Registration Appeals (Ireland) * (226); Expiring Laws Continuance * (229); Telegraph Acts Amendment * (230); Parliamentary Elections (Returning Officers) * (231). Committee —Burgh Police and Health (Scotland) * (190); Evidence by Commission * (212–228). Committee—Report —Pluralities * (213); Customs and Inland Revenue (No. 2) * (220); Lunacy Acts Amendment * (221). Committee—Report—Third Reading — Patent Law Amendment * (223), and passed. Report — River Thames (No. 2) (218). Third Reading — Public Health (Scotland) Provisional Order (No. 2) * (188); Metropolitan Board of Works (Money) * (209), and passed. Withdrawn — Scottish and Irish Peerages (10).

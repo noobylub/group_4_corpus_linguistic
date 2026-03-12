@@ -1,0 +1,11 @@
+<FileID>138533</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/the-royal-commission-on-depression-of</URL>
+<Title>The Royal Commission on Depression of Trade and Industry— Ministerial Statement</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 c1453</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>152</WordCount>
+
+
+<speaker>MR. ARTHUR ARNOLD</speaker> , who had the following Question on the Paper:— To ask Mr. Chancellor of the Exchequer, whether he can now state the names of the Commissioners in the Royal Commission on Trade Depression; and, whether the Memorandum will be communicated to the House before the end of the Session? said, he would postpone the Question till Monday, when he would ask whether the Chancellor of the Exchequer would not make a statement simultaneously with that of Lord Iddesleigh to the House of Lords? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> , in reply, said, he thought it would be much more convenient that hon. Members should see what Lord Iddesleigh's statement was, that noble Lord having been throughout in charge of this matter; and then, of course, after that statement was made, he (the Chancellor of the Exchequer) should be prepared to answer any Question that might arise out of it.

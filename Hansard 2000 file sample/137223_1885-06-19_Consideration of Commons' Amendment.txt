@@ -1,0 +1,12 @@
+<FileID>137223</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/19/consideration-of-commons-amendment</URL>
+<Title>Consideration of Commons' Amendment</Title>
+<DebRef>HL Deb 19 June 1885 vol 298 c1594</DebRef>
+<SittingDate>1885-06-19</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>150</WordCount>
+
+Commons Amendment considered (according to order). 
+<speaker>THE MARQUESS OF RIPON</speaker> moved that the Commons' Amendment to this Bill, by which Corporations were allowed to grant the freedom of their boroughs by a bare majority, be agreed to. Moved, "To agree to the said Amendment."—( The Marquess of Ripon. ) 
+<speaker>EARL BEAUCHAMP</speaker> objected to the Amendment. The Bill originally required a two-thirds majority, and he moved that the Amendment be not agreed to. 
+<speaker>THE MARQUESS OF RIPON</speaker> said, he regarded the point as a small one. He would not give the House the trouble of dividing. On Question? Resolved in the negative. A Committee appointed to prepare a reason to be offered to the Commons for the Lords disagreeing to the said amendment: The Committee to meet forthwith: Report from the Committee of the reason prepared by them; read, and agreed to; and Bill returned to the Commons with a reason.

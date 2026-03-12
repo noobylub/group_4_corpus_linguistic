@@ -1,0 +1,10 @@
+<FileID>138196</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/national-education-ireland-the</URL>
+<Title>National Education (Ireland)— The Schoolmaster of Stranagomis National School, Co Tyrone</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c504</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>158</WordCount>
+
+MR. MACARTNEY asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether it is the case that the salary due to the late schoolmaster of Stranagomis National School, District 13, county Tyrone, has been withheld from him; what cause has been assigned for withholding it; has the late manager opposed the payment, and given any reason founded upon the rules of the Board for such opposition; is the teacher's salary for the quarter ending September 30th 1883 legally due to him; if so, will it be paid; and, if it be not paid, what remedy has the teacher? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The salary is withheld in this ease because the teacher, after his resignation, locked up the schoolroom, which is parochial property, and has refused to give up possession of it. He has been repeatedly warned by the Commissioners that his salary cannot be paid until he gives up possession of the room.

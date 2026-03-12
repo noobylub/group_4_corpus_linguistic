@@ -1,0 +1,11 @@
+<FileID>137927</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/tramways-ireland</URL>
+<Title>Tramways (Ireland)</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1623-4</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>179</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the Government, in view of the experience obtained from attempts to work the Tramways and Public Companies (Ireland) Act, 1883 , will consider the suggestion made by the Grand Jury of Sligo, in their Petition presented to the House on the 17th instant, that certain provisions of the Relief of Distress Act, 1880 , should be applied to Tramways and similar undertakings in the West of Ireland; and, whether the Government will endeavour to pass, this Session, a short Bill to deal with the subject, or will introduce Clauses for the purpose into some Bill before Parliament? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The Grand Jury of Sligo have communicated with me on this subject, but I am unable to hold out any hope of legislation in the direction suggested in their Petition. It is impossible to institute any comparison between the circumstances of the present time and those of 1880, when public money was advanced at very exceptional rates to meet the prevailing distress.

@@ -1,0 +1,9 @@
+<FileID>137425</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/factory-acts-extension-to-shops-bill</URL>
+<Title>Factory Acts (Extension to Shops) Bill— [Bill 23]</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c235</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>12</WordCount>
+
+( Sir John Luhbock, Mr. Hurt, Lord Randolph Churchill, Mr. Pell. )

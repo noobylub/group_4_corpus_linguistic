@@ -1,0 +1,10 @@
+<FileID>138254</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/30/second-heading</URL>
+<Title>Second Heading</Title>
+<DebRef>HL Deb 30 July 1885 vol 300 c494</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>203</WordCount>
+
+Order of the Day for the Second Reading read. 
+<speaker>THE MARQUESS OF WATERFORD,</speaker> in moving that the Bill be now read a second time, said, that its object was to enable Boards of Guardians in Ireland to give pensions to officers on the abolition of their offices. As the law now stood these Boards could give pensions to their officers on the ground of ill-health or resignation through old age; but they were not able to give pensions in cases where the offices had been abolished. These cases would mainly occur where Unions had to be amalgamated. Where two Unions had to be amalgamated—and there was a prospect of such amalgamation—it would be very hard upon the officers of a Union amalgamated to another Union if they were turned out into the world without pensions. The Bill provided that the Union which was abolished should provide the funds. He thought it only fair that such a Bill I should be passed, and he, therefore, I moved the second reading. Moved, "That the Bill be now read 2 a ." —( The Marquess of Waterford. ) Motion agreed to; Bill read 2 a accordingly, and committed to a Committee of the Whole House Tomorrow.

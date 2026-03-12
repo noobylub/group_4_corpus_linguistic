@@ -1,0 +1,11 @@
+<FileID>137722</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/navy-rank-of-chief-engineers</URL>
+<Title>Navy—rank of Chief Engineers</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 cc1055-6</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>98</WordCount>
+
+
+<speaker>MR. STEWART MACLIVER</speaker> asked the Secretary to the Admiralty, If the promised concession to Chief Engineers of the Navy, enabling them to rank with Lieutenants, has been sufficiently considered to be announced? 
+<speaker>THE SECRETARY TO THE ADMIRALTY (Mr. RITCHIE),</speaker> in reply, said, he thought the hon. Member was mistaken in speaking of promised concessions. He certainly made no promise of any concessions, nor did he find any record of such a promise by the late Government. All that was promised was an investigation. That investigation was taking place, and the result ho would communicate as early as possible.

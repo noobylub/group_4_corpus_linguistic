@@ -1,0 +1,9 @@
+<FileID>138041</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/26/army-glencorse-military-prison</URL>
+<Title>Army—glencorse Military Prison</Title>
+<DebRef>HL Deb 26 July 1885 vol 300 cc212-3</DebRef>
+<SittingDate>1885-07-26</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc212-3 QUESTION. OBSERVATIONS. 360 words

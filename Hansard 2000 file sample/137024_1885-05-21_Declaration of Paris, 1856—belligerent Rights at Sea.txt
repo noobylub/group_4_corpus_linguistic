@@ -1,0 +1,9 @@
+<FileID>137024</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/21/declaration-of-paris-1856-belligerent</URL>
+<Title>Declaration of Paris, 1856—belligerent Rights at Sea</Title>
+<DebRef>HL Deb 21 May 1885 vol 298 cc1000-8</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>4</WordCount>
+
+cc1000-8 RESOLUTION. 3,491 words

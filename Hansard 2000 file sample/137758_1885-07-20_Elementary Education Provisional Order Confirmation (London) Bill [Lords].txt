@@ -1,0 +1,9 @@
+<FileID>137758</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/elementary-education-provisional-order</URL>
+<Title>Elementary Education Provisional Order Confirmation (London) Bill [Lords]</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1184-5</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>5</WordCount>
+
+cc1184-5 SECOND READING. 211 words

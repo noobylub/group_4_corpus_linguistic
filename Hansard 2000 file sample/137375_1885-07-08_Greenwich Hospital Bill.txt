@@ -1,0 +1,9 @@
+<FileID>137375</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/08/greenwich-hospital-bill</URL>
+<Title>Greenwich Hospital Bill</Title>
+<DebRef>HC Deb 08 July 1885 vol 299 c85</DebRef>
+<SittingDate>1885-07-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>73</WordCount>
+
+On Motion of Mr. ASHMEAD-BARTLETT, Bill to provide for defraying the Expenditure on account of Greenwich Hospital directly out of the Revenues of Greenwich Hospital; to amend in other respects the Greenwich Hospital Acts, 1860 to 1883; and for other purposes relating thereto, ordered to be brought in by Mr. ASHMEAD-BARTLETT and Sir HENRY HOLLAND. B ill presented, and read the first time. [Bill 222.] House adjourned at five minutes before Six o'clock.

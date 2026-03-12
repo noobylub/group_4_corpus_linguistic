@@ -1,0 +1,10 @@
+<FileID>138523</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/06/no-229-third-reading</URL>
+<Title>(No 229) Third Reading</Title>
+<DebRef>HL Deb 06 August 1885 vol 300 c1266</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>153</WordCount>
+
+Bill read 3 a (according to Order). On Motion, "That the Bill do pass?" LORD DENMAN moved to introduce a clause for the purpose of conferring the franchise upon women. Amendment moved, After Clause 2, add the following Clause:— "Provided that the Act 35 & 36 Vict. c. 33, continued as aforesaid, shall be hereby extended so as to admit all women not legally disqualified who have the same qualification as the present electors for counties and boroughs to vote for the election of Members of Parliament for counties and boroughs."—( The Lord Denman. ) 
+<speaker>THE LORD CHANCELLOR (Lord HALSBURY)</speaker> said, that they were engaged at present on an Expiring Laws Continuance Bill; and how could they, in connection with such a measure, enter upon new legislation? What the noble Lord proposed was new legislation. Amendment negatived. Bill passed. House adjourned at half past Six o'clock, till Tomorrow, a quarter past Four o'clock.

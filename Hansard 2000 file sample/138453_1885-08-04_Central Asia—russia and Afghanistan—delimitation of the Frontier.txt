@@ -1,0 +1,9 @@
+<FileID>138453</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/04/central-asia-russia-and-afghanistan</URL>
+<Title>Central Asia—russia and Afghanistan—delimitation of the Frontier</Title>
+<DebRef>HL Deb 04 August 1885 vol 300 cc1028-31</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc1028-31 QUESTION. OBSERVATIONS. 1,443 words

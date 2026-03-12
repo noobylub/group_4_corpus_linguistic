@@ -1,0 +1,12 @@
+<FileID>138336</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/egypt-the-soudan-the-suakin-berber</URL>
+<Title>Egypt (The Soudan)—the Suakin-Berber Railway</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c833</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>177</WordCount>
+
+
+<speaker>SIR HENRY TYLER</speaker> asked the Secretary of State for War, Whether Her Majesty's Government have yet considered the question of completing the Suakin-Berber Railway, and the communication by steamers between Berber and Khartoum, with a view to opening out the commerce of and conferring the blessings of civilization upon Central Africa; and, whether they will be prepared at proper times and seasons to proceed with and carry out that policy? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> There is no immediate intention of proceeding with the railway towards Berber; indeed, I may remind the hon. Member that a considerable part of both plant and material have been brought back to this country at great expense. The remainder of the Question has reference to a subject of far greater magnitude than could be dealt with in any ordinary answer to a Question. 
+<speaker>MR. T. P. O'CONNOR</speaker> I wish to ask whether the right hon. Gentleman will advise the Auditor General to charge the Members of the late Administration with the expenses of this foolish fiasco? [No reply.]

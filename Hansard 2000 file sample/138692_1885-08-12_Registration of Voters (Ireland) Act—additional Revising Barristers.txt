@@ -1,0 +1,11 @@
+<FileID>138692</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/12/registration-of-voters-ireland-act</URL>
+<Title>Registration of Voters (Ireland) Act—additional Revising Barristers</Title>
+<DebRef>HC Deb 12 August 1885 vol 300 c1872</DebRef>
+<SittingDate>1885-08-12</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>96</WordCount>
+
+
+<speaker>MR. HEALY</speaker> asked Mr. Attorney General for Ireland, If he can now give the names of the Assistant Revising Barristers, and state to what counties they will be appointed? 
+<speaker>THE ATTORNEY GENERAL FOR IRELAND (Mr. HOLMES)</speaker> I was under the impression that the names of these gentlemen would be published today in The Dublin Gazette. I have inquired by telegram, but have not yet received an answer. I myself am not acquainted with the names; but if I receive the information in the course of the Sitting I shall communicate with the hon. and learned Member.

@@ -1,0 +1,13 @@
+<FileID>138357</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/egypt-the-international-guaranteed-loan</URL>
+<Title>Egypt—the International Guaranteed Loan — The Correspondence</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc846-7</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>193</WordCount>
+
+
+<speaker>MR. ARTHUR ARNOLD</speaker> asked, with reference to the statement that the negotiations with regard to the Egyptian Loan were suspended when the change of Government took place, When the Correspondence would be distributed? 
+<speaker>THE UNDER SECRETARY OF STATE FOR FOREIGN AFFAIRS (Mr. BOURKE),</speaker> in reply, said, the intervention of Saturday—a short day with printers—Sunday, and the Bank Holiday, might cause delay; but he hoped the Papers would be in the hands of Members by Wednesday morning. 
+<speaker>MR. VILLIERS STUART</speaker> asked the Under Secretary of State for Foreign Affairs, Whether he was to understand from a previous answer that Her Majesty's present Government did not see their way to press forward the reforms in Egypt, which they were led to expect would follow when the finances of Egypt were restored to a proper condition? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> said, he did not say anything about that. He was asked about the kourbash, and other Questions of that kind, and he did not mean to lead the House to understand that the reforms which the late Government thought necessary would not be pressed on the Egyptian Government by Her Majesty's present Government.

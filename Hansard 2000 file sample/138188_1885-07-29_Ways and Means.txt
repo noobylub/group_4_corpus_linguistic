@@ -1,0 +1,9 @@
+<FileID>138188</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/29/ways-and-means</URL>
+<Title>Ways and Means</Title>
+<DebRef>HC Deb 29 July 1885 vol 300 c473</DebRef>
+<SittingDate>1885-07-29</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>51</WordCount>
+
+Considered in Committee. (In the Committee.) Resolved, That, towards making good the Supply granted to Her Majesty for the service of the year ending on the 31st day of March 1886, the sum of £45,361,227, be granted out of the Consolidated Fund of the United Kingdom. Resolution to be reported Tomorrow.

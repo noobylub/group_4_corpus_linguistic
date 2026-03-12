@@ -1,0 +1,10 @@
+<FileID>138086</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/parliamentary-elections-registration-of</URL>
+<Title>Parliamentary Elections—registration of Voters Bill— Printing of the Voting Lists, Co Armagh</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c59</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>259</WordCount>
+
+MR. O'BRIEN asked the Chief Secretary to the Lord Lieutenant of Ireland, Is it a fact that the printing of the supplemental lists of voters for the county of Armagh was entrusted by the Clerk of the Crown and Peace to two Orange printers, and that the information disclosed by these lists was in the hands of the Conservative agents before the date of their regular publication; is it true that, at the recent sitting of the Armagh Grand Jury, no contract was entered into for the printing of the county register, and supplemental and other lists; if so, by what authority the Clerk of the Crown and Peace entrusted the work to the two persons referred to; and, if the contract was illegal, will payment be disallowed when settling the amount of the contribution to be made out of the Imperial Exchequer to the Grand Jury in respect of the expenses of registration? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> I am informed, with regard to the first paragraph of the Question, that it is not the fact as stated therein. In North and Mid Armagh the work was given to the ordinary printers for the Grand Jury, and in South Armagh to the office of a strictly nonpolitical paper. The Statutes which rendered the printing necessary had not become law in time to enable the contracts to be brought before the last Presentment Sessions and Grand Jury; but the expenses incurred will still come under review, and any cesspayer will have an opportunity of objecting.

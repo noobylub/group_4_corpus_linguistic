@@ -1,0 +1,9 @@
+<FileID>137819</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/20/poor-law-guardians-ireland-bill-no-176</URL>
+<Title>Poor Law Guardians (Ireland) Bill—(no 176)</Title>
+<DebRef>HL Deb 20 July 1885 vol 299 c1160</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+( The Lord Carlingford. )

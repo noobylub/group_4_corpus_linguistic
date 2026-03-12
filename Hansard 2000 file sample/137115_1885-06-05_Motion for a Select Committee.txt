@@ -1,0 +1,10 @@
+<FileID>137115</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/05/motion-for-a-select-committee</URL>
+<Title>Motion for a Select Committee</Title>
+<DebRef>HL Deb 05 June 1885 vol 298 c1329</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>262</WordCount>
+
+Moved, "That a Select Committee he appointed to consider the working of the Friendly Societies Act, 1875 , with regard to the admission of new societies to registry."—( The Lord Greville. ) LORD THURLOW said, he had no objection, on the part of the Government to grant the appointment of this Committee, if their Lordships should be of opinion that it was expedient. The subject of friendly societies was one of very great importance; and if there was any allegation that the working of the Act was not quite satisfactory, or that it tended to insolvency among these societies, then it was quite right that this Committee should be appointed by their Lordships. At the same time, it must be remembered that in the other House of Parliament there was sitting a Committee which had under its consideration the somewhat kindred subject of national provident assurance, which, he was informed, would incidentally have the Friendly Societies Act, 1875 , under its purview. In these circumstances, it was a matter for consideration whether it would not be more convenient to wait for the result of the Committee now sitting in the other House before appointing the one which was now moved for. 
+<speaker>THE EARL OF REDESDALE (CHAIRMAN of COMMITTEES)</speaker> said, after what had been stated by the noble Lord opposite (Lord Thurlow), he did not think it would be desirable to appoint this Committee. It would be a mistake to have these two Committees going on at once. On Question? Their Lordships divided: —Contents 9; Not-Contents 50: Majority 41. Resolved in the negative.

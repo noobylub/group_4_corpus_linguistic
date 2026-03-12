@@ -1,0 +1,9 @@
+<FileID>137813</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/20/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 20 July 1885 vol 299 c1152</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>152</WordCount>
+
+PUBLIC BILLS—( First Reading— Bankruptcy (Office Accommodation) * (191). Second Heading —Shannon Navigation * (172); Land Purchase (Ireland) (184); Cholera Hospitals (Ireland) (182.) Second Reading — Committee negatived —Marriages (Saint John, Cowley) * (187). Select Committee — Report —Burgh Police and Health (Scotland) [No. 189]. Committee —Sea Fisheries (Scotland) Amendment (10–92); Housing of the Working Classes (England) (177). Committee — Report —Local Grovernment Provisional Order (Municipal Corporations) * (166); Local Government Provisional Orders (No. 3) * (167); Local Government Provisional Orders (No. 7) * (168); Local Government Provisional Orders (Poor Law) (No. 9) * (169); Local Government (Ireland) Provisional Order (Labourers Act) (No. 5) * (173); Local Loans (Sinking Funds) * (175). Report —Burgh Police and Health (Scotland) * (5–90); Local Government Provisional Orders (No. 6) * (153); Poor Law Guardians (Ireland) * (176). Third Reading —Archdeaconries, note Ecclesiastical Commissioners (No. 2) * (180); Tithe Rent Charge Redemption * (165), and passed.

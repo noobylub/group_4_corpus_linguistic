@@ -1,0 +1,11 @@
+<FileID>137448</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/post-office-ireland-the-baltimore-and</URL>
+<Title>Post Office (Ireland)—the Baltimore and Skibbereen Mail Service</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 c277</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>75</WordCount>
+
+
+<speaker>MR. BIGGAR (for Mr. DEASY)</speaker> asked the Postmaster General, Whether, on account of the large number of men engaged in fishing at Baltimore, county Cork, the present Mail Service between there and Skibbercen will be continued until 1st September? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS),</speaker> in reply, said, that there were no grounds for continuing the present special service beyond the 14th instant. It was considered that the ordinary service would suffice after that date.

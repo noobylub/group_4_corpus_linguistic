@@ -1,0 +1,12 @@
+<FileID>137135</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/egypt-suppression-of-the-bosphore</URL>
+<Title>Egypt—suppression of the Bosphore Egyptien—the Incriminatory Articles</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 cc1405-6</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>253</WordCount>
+
+
+<speaker>MR. JERNINGHAM</speaker> asked the Under Secretary of State for Foreign Affairs, Whether he has any objection to lay upon the Table of the House those articles from The Bosphore Egyptien which led to the suppression of that paper, and which, from the correspondence lately presented to Parliament, it would seem Sir Evelyn Baring was instructed to forward to Lord Granville on April 13th 1885? 
+<speaker>SIR FREDRICK MILNER</speaker> asked the Under Secretary of State for Foreign Affairs, If his attention has been called to the following statement by the Cairo correspondent of The Times on the 30th of May, with regard to The Bosphore Egyptien: — The Bosphore Egyptian continues to make attacks of the most insolent and disgusting kind upon Englishmen in the service of the Egyptian Government; whether he has any reason to suppose this statement to be untrue; and, whether it is the intention of Her Majesty's Government to submit to such conduct without protest? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> In reply to my hon. Friend, I think he will agree with me that, as the correspondence on the subject is now closed, it would not be desirable to reopen the matter in the manner he suggests. With reference to a subsequent Question on this subject by the hon. Baronet the Member for York, I may state that the files of the paper which have been received from the date of its reappearance up to the 27th ultimo, do not appear to bear out the allegations made in the statement which he quotes.

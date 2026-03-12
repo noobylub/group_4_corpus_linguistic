@@ -1,0 +1,16 @@
+<FileID>136853</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/national-debt-bill-suspension-of-the</URL>
+<Title>National Debt Bill—suspension of the Sinking Fund</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 cc708-9</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>398</WordCount>
+
+
+<speaker>LORD GROEGE HAMILTON</speaker> asked Mr. Chancellor of the Exchequer, If the National Debt Bill accurately states his proposals to meet the excess of expenditure over income of the financial year 1885–6, by applying towards its discharge the Sinking Fund of the National Debt for the forthcoming year 1886–7; and, whether there is any modern precedent of a Chancellor of the Exchequer proposing in his Budget Statement to meet a deficiency on the current year by the appropriation through an Act of Parliament of the funds of the proximate financial year? 
+<speaker>MR. HIBBERT</speaker> (who replied) said: The proposals of the National Debt Bill as introduced by my right hon. Friend the Chancellor of the Exchequer are accurately stated in the Question of the noble Lord. In reply to the second part of the Question, if the noble Lord will refer to the Budget of the right hon. Gentleman the Member for North Devon, proposed to Parliament in the first Session of 1880, he will find a very notable instance of a large deficiency being met by the appropriation through an Act of Parliament of funds belonging not only to one but to several future years. This, I believe, is the most modern precedent. 
+<speaker>LORD GEORGE HAMILTON</speaker> The hon. Gentleman has not answered my Question. My Question is, Whether there is any precedent for a Chancellor of the Exchequer proposing in his Budget Statement to meet a deficiency on the current year by the appropriation through an Act of Parliament of the funds of the proximate financial year? If the hon. Gentleman will look at the Financial Statement of 1880–1 he will find that there was no deficiency in the current year, and that it was not proposed to appropriate any funds of a proximate year. It was merely in reference to deficiencies in the past year that these alterations were made. 
+<speaker>MR. HIBBERT</speaker> I am informed, and I believe it is the case, that the precedent to which I have referred is one of a similar character to the proposals of the Chancellor of the Exchequer. 
+<speaker>MR. W. H. SMITH</speaker> Is not my hon. Friend aware of the fact that on that occasion legislation provided also Ways and Moans to meet the accruing deficiency? 
+<speaker>MR. HIBBERT</speaker> On that matter I have made no inquiries. 
+<speaker>LORD GEORGE HAMILTON</speaker> Then I will repeat the Question to the Chancellor of the Exchequer.

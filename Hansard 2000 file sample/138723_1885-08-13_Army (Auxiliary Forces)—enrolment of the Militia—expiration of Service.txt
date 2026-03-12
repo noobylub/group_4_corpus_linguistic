@@ -1,0 +1,11 @@
+<FileID>138723</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/army-auxiliary-forces-enrolment-of-the</URL>
+<Title>Army (Auxiliary Forces)—enrolment of the Militia—expiration of Service</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c15</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>83</WordCount>
+
+
+<speaker>MR. M'COAN</speaker> asked the Secretary of State for War, Whether he could state the time at which the Militia battalions now embodied would be released from their services? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> said, he had replied to a similar Question the previous day. It was not in his power to indicate the date at which the Militia would be disembodied. The Government had every desire to do so as early as possible; but they could not name a date.

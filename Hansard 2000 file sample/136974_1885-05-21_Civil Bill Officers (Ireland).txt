@@ -1,0 +1,11 @@
+<FileID>136974</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/civil-bill-officers-ireland</URL>
+<Title>Civil Bill Officers (Ireland)</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1022</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>80</WordCount>
+
+
+<speaker>MR. BIGGAR (for Mr. SMALL)</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether he can state what has been the result of the Memorial presented in last December to the Treasury, through the Irish Government, by the Irish Civil Bill officers? 
+<speaker>MR. CAMPBELL-BANNERMAN</speaker> As I stated on the 8th instant, this matter was under the consideration of the late Lord Chancellor at the time of his death. It will probably come before his successor in due course.

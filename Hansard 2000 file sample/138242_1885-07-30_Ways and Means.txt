@@ -1,0 +1,9 @@
+<FileID>138242</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/ways-and-means</URL>
+<Title>Ways and Means</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c631</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>7</WordCount>
+
+c631 CONSOLIDATED FUND (APPROPRIATION) BILL. 83 words

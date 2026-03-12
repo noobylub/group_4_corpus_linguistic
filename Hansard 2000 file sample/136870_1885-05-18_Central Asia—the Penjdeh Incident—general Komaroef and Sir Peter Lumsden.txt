@@ -1,0 +1,11 @@
+<FileID>136870</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/central-asia-the-penjdeh-incident</URL>
+<Title>Central Asia—the Penjdeh Incident—general Komaroef and Sir Peter Lumsden</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 c719</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>88</WordCount>
+
+
+<speaker>MR. RICHARD POWER</speaker> I beg to give Notice that, having regard to the distinction which appears to have been conferred on General Komaroff, I shall tomorrow ask the Prime Minister whether it is the intention of the Government to confer any mark of honour or distinction upon Sir Peter Lumsden? MR. GLADSTONE In answer to the hon. Member, I have to state that it will not be in my power to be in the House tomorrow. 
+<speaker>MR. RICHARD POWER</speaker> Then I will put the Question down for Thursday.

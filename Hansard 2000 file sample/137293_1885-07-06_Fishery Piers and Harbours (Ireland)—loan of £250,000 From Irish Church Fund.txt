@@ -1,0 +1,11 @@
+<FileID>137293</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/06/fishery-piers-and-harbours-ireland-loan</URL>
+<Title>Fishery Piers and Harbours (Ireland)—loan of £250,000 From Irish Church Fund</Title>
+<DebRef>HC Deb 06 July 1885 vol 298 c1708</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>113</WordCount>
+
+
+<speaker>COLONEL NOLAN</speaker> asked Mr. Chancellor of the Exchequer, If he would allow the Fund set aside for Piers and Harbours in Ireland, out of the Irish Church Fund, to be credited with the interest accruing on the unexpended portion? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> Perhaps the hon. and gallant Member will allow me to answer. If the Commission will bring this subject formally under the notice of Her Majesty's Government, it shall receive careful consideration. I would wish to point out to the hon. and gallant Member that, as was stated in answer to a Question last year, legislation would be necessary to give effect to the suggestion if adopted.

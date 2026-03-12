@@ -1,0 +1,13 @@
+<FileID>137871</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/motion-for-leave-first-reading</URL>
+<Title>Motion for Leave First Reading</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 cc1512-3</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>251</WordCount>
+
+Motion made, and Question proposed, That leave be given to bring in a Bill to provide for the registration and regulation of Travelling Vans, and other vehicles used as temporary abodes."—( Mr. Digby. ) 
+<speaker>MR. HEALY</speaker> said, that this was a tinkering attempt at legislation. The hon. Gentleman (Mr. Digby) would really do well, at that period of the Session, to drop it. If he did not, he (Mr. Healy) would be under the necessity of persuading his hon. Friend the Member for Cavan (Mr. Biggar) to block it. 
+<speaker>SIR JOSEPH M'KENNA</speaker> also hoped the hon. Gentleman (Mr. Digby) would not persevere with the Bill this Session. 
+<speaker>MR. E. H. PAGET</speaker> said, he thought it was not unreasonable of the hon. Gentleman (Mr. Digby) to ask leave to introduce the Bill. Question put, and agreed to. Bill ordered to be brought in by Mr. DIGBY, Mr. ELTON, Mr. BURT, Mr. WARTON, and Mr. BROADHURST. Bill presented, and read the first time. [Bill 239.] Motion made, and Question proposed, "That the Bill be read a second time upon Thursday."—( Mr. Digby. ) 
+<speaker>MR. HEALY</speaker> said, he objected to the second reading being taken on Thursday. He could not help thinking that this was an attempt to smuggle the measure through the House. If the present suggestion were adopted, there would be no opportunity of blocking the Bill, or even of seeing it, for it could not be printed. Motion, by leave, withdrawn. Bill to be read a second time upon Monday next.

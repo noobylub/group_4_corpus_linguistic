@@ -1,0 +1,9 @@
+<FileID>137410</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/criminal-law-amendment-bill-bill-159</URL>
+<Title>Criminal Law Amendment Bill [Bill 159]</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c197</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>6</WordCount>
+
+( Mr. H. H. Fowler. )

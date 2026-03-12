@@ -1,0 +1,11 @@
+<FileID>136855</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/spain-the-barque-mary-mark</URL>
+<Title>Spain—the Barque Mary Mark</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 cc710-1</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>118</WordCount>
+
+
+<speaker>MR. HENDERSON</speaker> asked the Under Secretary of State for Foreign Affairs, Whether any progress has been made in obtaining a settlement with the Spanish Government of the claim of the owners of the barque Mary Mark, which was run into whilst at anchor by the Spanish ram Don Gorge Juan near Belize in July 1883? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> This case has repeatedly been brought to the notice of the Spanish Government, but as yet no answer has been received, and on the 7th instant Her Majesty's Minister was instructed to address to them a strong representation, pointing out the necessity for definite action and requesting that if necessary the authorities in Cuba should be communicated with by telegraph.

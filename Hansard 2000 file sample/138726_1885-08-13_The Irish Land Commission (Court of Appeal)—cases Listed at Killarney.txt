@@ -1,0 +1,11 @@
+<FileID>138726</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/the-irish-land-commission-court-of</URL>
+<Title>The Irish Land Commission (Court of Appeal)—cases Listed at Killarney</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c17</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>134</WordCount>
+
+
+<speaker>MR. MOLLOY (for Mr. O'BRIEN)</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Why twelve appeals, listed for hearing before the Land Commission at Killarney on 10th August, were omitted from the amended list; and, whether the tenants in these cases can be reimbursed the expenses they have been put to in preparing evidence and employing valuers for the August hearing on the faith of the list originally circulated by the Secretary of the Land Commission? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The Land Commissioners inform me that cases were omitted from their amended list, which was sent out nearly a month before the date fined for the hearing of the appeals, in order to reduce it to the number which would probably be heard in the time at their disposal.

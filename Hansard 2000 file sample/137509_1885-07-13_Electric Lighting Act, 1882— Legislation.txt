@@ -1,0 +1,11 @@
+<FileID>137509</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/electric-lighting-act-1882-legislation</URL>
+<Title>Electric Lighting Act, 1882— Legislation</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c417</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>51</WordCount>
+
+
+<speaker>MR. WARTON</speaker> asked the Secretary to the Board of Trade, Whether the Government intend to take into consideration the question of amending "The Electric Lighting Act, 1882 ?" 
+<speaker>THE SECRETARY (Baron HENRY DE WORMS)</speaker> Her Majesty's Government do not propose to undertake the consideration of this question during the present Session.

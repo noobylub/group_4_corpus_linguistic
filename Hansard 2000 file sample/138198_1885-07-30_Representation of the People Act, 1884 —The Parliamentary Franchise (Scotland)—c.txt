@@ -1,0 +1,11 @@
+<FileID>138198</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/representation-of-the-people-act-1884</URL>
+<Title>Representation of the People Act, 1884 —The Parliamentary Franchise (Scotland)—crofters Under £10 Rental</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c505</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>177</WordCount>
+
+
+<speaker>MR. D. J. JENKINS (for Mr. FRASER-MACKINTOSH)</speaker> asked the Secretary of State for tie Home Department, Whether his attention has been called to a report that certain assessors in Scotland are acting under the belief that Crofters paying under £10 of yearly rent are occupiers of land merely, and not householders within the meaning of the Act, and consequently do not intend to enter such persons on the roll of voters; and, whether an interpretation of the statute, such as that referred to, is not erroneous? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS),</speaker> in reply, said, this was a matter to be disposed of by the Sheriff in the Registration Court. If anyone was erroneously omitted from the assessor's list of voters, he could claim to be entered or retained upon the roll, and the Sheriff had power to put the mistake of the assessor right. In regard to the latter part of the Question, he was advised by the Lord Advocate that it was simply hypothetical, and he was, therefore, not obliged to answer it.

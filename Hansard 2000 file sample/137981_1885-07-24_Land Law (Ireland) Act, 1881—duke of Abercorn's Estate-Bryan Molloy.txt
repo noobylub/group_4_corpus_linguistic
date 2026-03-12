@@ -1,0 +1,11 @@
+<FileID>137981</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/land-law-ireland-act-1881-duke-of</URL>
+<Title>Land Law (Ireland) Act, 1881—duke of Abercorn's Estate-Bryan Molloy</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 cc1780-1</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>336</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the Irish Government are aware that a notice to quit having been served some time ago on Bryan Molloy, a tenant of the Duke of Abercorn, Molloy served an originating notice under the Land Act to have a fair rent fixed, whereupon Mr. Dixon, one of the Duke's employés, read to the farm labourers on the estate on the 27th of May last, being payday, a paper, which he described as an order from the Duke's agent, Mr. M'Farland, J.P. directing them not to deal in Molloy's shop, on pain of discharge from their employment and eviction from their homes in case of disobedience; whether, on the following morning, a sheet of paper, bearing a drawing of a coffin, was found outside Molloy's door, and the fact was immediately reported to District Inspector Dower, of Newtownstewart; whether the facts were reported to the Government, and, if so, why no action has been taken; whether Molloy has since been obliged to close his shop; and, what course the Lord Chancellor and the Irish Executive will adopt in view of the facts recited? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> I understand that Bryan Molloy, although residing in a house on the Duke of Abercorn's property, has never been accepted as tenant of it, and steps are being taken to evict him. It is not a fact that the statement referred to as read by Mr. Dixon con- tained any threat of eviction. Mr. M'Farland, on reconsideration, withdrew the paper altogether. Molloy's shop is not closed, and the Duke's workmen continue to deal with him. Molloy brought to the District Inspector a paper with a coffin drawn on it, which, he stated, he had found outside his door; but this officer satisfied himself on inquiry that it was not necessary to report the matter as an outrage. The case does not appear to mo to call for any interference on the part of the Government.

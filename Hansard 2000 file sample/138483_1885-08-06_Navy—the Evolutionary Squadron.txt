@@ -1,0 +1,11 @@
+<FileID>138483</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/navy-the-evolutionary-squadron</URL>
+<Title>Navy—the Evolutionary Squadron</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 c1270</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>151</WordCount>
+
+
+<speaker>MR. GOURLEY</speaker> asked the First Lord of the Admiralty, If it be correct that, as a result of the recent manœuvres of the Evolutionary Squadron, three of the largest coastguard reserve ships have been condemned as unfit for further sea service; if so, for what employment he intends adapting them? 
+<speaker>THE FIRST LORD (Lord GEORGE HAMILTON)</speaker> It is not correct that as a result of the recent manœuvres of the Evolutionary Squadron three of the largest Coastguard reserve ships have been condemned as unfit for further sea service. It has. however, been arranged to pay off four of the ships which have hitherto performed the duties of Coastguard reserve ships—namely, the Lord Warden, Valiant, Repulse, and Defence, and their officers and crews will be turned over to more powerful ironclads. The above-mentioned four ships will probably be employed to replace harbour ships, and will not be considered as efficient seagoing ironclads.

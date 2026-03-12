@@ -1,0 +1,11 @@
+<FileID>136962</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/royal-irish-constabulary-inflammatory</URL>
+<Title>Royal Irish Constabulary—inflammatory Language—district Inspector Hurst, Strabane</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1014-5</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>131</WordCount>
+
+
+<speaker>MR. O'KELLY</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether a Letter, dated £5th April, has been received by Colonel Bruce, complaining of the conduct of District Inspector Hurst, of the Royal Irish Constabulary, in making insulting observations on the Irish people, and drinking "The glorious, pious, and immortal memory of William III.," &c. in. the public smoking-room of Sims' Hotel, in Strabane, Inspector Hurst at the time being in uniform and Catholics present in the room; and, whether any action has been taken in the matter by Colonel Bruce? 
+<speaker>MR. CAMPBELL-BANNERMAN</speaker> Colonel Bruce received a letter to the purport referred to; but the writer of it, a Mr. Gallagher, disclaims having made any complaint. Colonel Bruce will take such action as he thinks necessary in the matter.

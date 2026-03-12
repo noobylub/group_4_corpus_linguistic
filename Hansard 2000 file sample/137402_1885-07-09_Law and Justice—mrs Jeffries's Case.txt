@@ -1,0 +1,10 @@
+<FileID>137402</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/law-and-justice-mrs-jeffriess-case</URL>
+<Title>Law and Justice—mrs Jeffries's Case</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c125</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>193</WordCount>
+
+
+<speaker>MR. W. FOWLER</speaker> asked the Secretary of State for the Home Department, Whether his attention has been called to the statements which have appeared in the public press, and particularly in The Sentinel for June 1885, with reference to the recent trial of Mrs. Jeffries at the Middlesex Sessions; whether it is true, as stated in that newspaper, that the judge, together with the counsel for the prosecution and defence, had a private interview before the prisoner was called upon to plead; whether, at the conclusion of that interview, the prisoner, by the direction of her counsel, pleaded guilty, and thereupon was sentenced to a nominal punishment of a fine of £200; and, whether the prisoner's counsel was informed at this private interview that, in the event of his client pleading guilty, the sentence would be one of a fine and not of imprisonment? THE SECRETARY I can only state that the facts as given in paragraphs 1 and 2 of the Question are correct; but the Judge who tried the case is at the present moment abroad on a holiday. I cannot, therefore, give any information having regard to paragraph No. 3.

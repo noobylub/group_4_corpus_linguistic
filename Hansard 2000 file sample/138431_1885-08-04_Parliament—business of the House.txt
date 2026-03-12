@@ -1,0 +1,12 @@
+<FileID>138431</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/parliament-business-of-the-house</URL>
+<Title>Parliament—business of the House</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1062-3</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>180</WordCount>
+
+THE MARQUESS OF HARTINGTON asked Mr. Chancellor of the Exchequer, What Business the Government proposed to take on Wednesday and Thursday? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER,</speaker> in reply, said, that the first Order for tomorrow was the third reading of the Appropriation Bill , and he hoped after that they would be able to proceed with the Report on the Criminal Law Amendment Bill . On Thursday the Indian Budget would be taken. THE MARQUESS OF HARTINGTON asked whether any Business was fixed to come on after the Indian Budget? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> said, that that must depend upon the progress they made that night and tomorrow. He could hardly answer the Question then. MR. A. R. D. ELLIOTT asked the Secretary of State for the Home Department, whether it was intended to go on with the (Secretary for Scotland Bill that night; and, if so, after what hour it would not be taken? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> It is intended to take the Bill tonight; but it is impossible to name an hour.

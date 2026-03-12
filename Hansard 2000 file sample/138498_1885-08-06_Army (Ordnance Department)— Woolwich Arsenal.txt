@@ -1,0 +1,11 @@
+<FileID>138498</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/army-ordnance-department-woolwich-arsenal</URL>
+<Title>Army (Ordnance Department)— Woolwich Arsenal</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 c1279</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>180</WordCount>
+
+
+<speaker>MR. BOORD</speaker> asked the Surveyor General of Ordnance, Whether he will state the number of hands employed at the Royal Arsenal, Woolwich, and the number of Medical Officers appointed to the charge of them; whether it is true that patients frequently have to wait many hours at the Dispensary before they can be seen by the doctor; and, if he can say how many cases on an average each Medical Officer has to attend to daily? 
+<speaker>THE SURVEYOR GENERAL (Mr. GUY DAWNAY)</speaker> The number of hands employed in the Royal Arsenal, Woolwich, is at present 11,200. Three medical officers have charge of them, the third having been recently added. It is not the case that patients have to wait many hours before they can be seen. Now cases are attended to immediately; but chronic cases on the sick list have to take their turn. Their time of waiting rarely exceeds an hour. The daily cases to be attended to average 380, of which about 50 are seen by private practitioners, leaving 110 for each Army medical officer at the Arsenal.

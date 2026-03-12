@@ -1,0 +1,9 @@
+<FileID>138814</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1886/jan/21/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 21 January 1886 vol 302 c32</DebRef>
+<SittingDate>1886-01-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>7</WordCount>
+
+PUBLIC BILL— First Reading— Parish Churches* (5).

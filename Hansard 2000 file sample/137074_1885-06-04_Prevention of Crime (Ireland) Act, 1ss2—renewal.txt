@@ -1,0 +1,10 @@
+<FileID>137074</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/04/prevention-of-crime-ireland-act-1ss2</URL>
+<Title>Prevention of Crime (Ireland) Act, 1ss2—renewal</Title>
+<DebRef>HC Deb 04 June 1885 vol 298 c1193</DebRef>
+<SittingDate>1885-06-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>94</WordCount>
+
+
+<speaker>MR. HENEAGE</speaker> gave Notice that in the event of the Government bringing in a special Crimes Bill for Ireland, he would take the earliest opportunity of moving that, while the House was willing to consider such an amendment of the criminal laws for the preservation of life and property as would deal with special emergencies fostered by secret or external agencies, nevertheless such power should only be intrusted to a responsible Minister of the Crown, and that the present moment was favourable to the abolition of the present anomalous system of government in Ireland.

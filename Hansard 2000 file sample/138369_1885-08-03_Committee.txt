@@ -1,0 +1,10 @@
+<FileID>138369</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/committee-1</URL>
+<Title>Committee</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc980-1</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>88</WordCount>
+
+Order for Committee read. Motion made, and Question proposed, "That Mr. Speaker do now leave the Chair."—( Sir Henry Holland, Secretary to the Treasury. ) 
+<speaker>MR. SEXTON</speaker> said, he did not rise to offer any opposition to the Motion of the hon. Baronet, but merely to state that he should reserve for the third reading of the Bill the special subject on which he had some remarks to make. Motion agreed to. Bill considered in Committee, and reported, without Amendment; to be read the third time upon Wednesday.

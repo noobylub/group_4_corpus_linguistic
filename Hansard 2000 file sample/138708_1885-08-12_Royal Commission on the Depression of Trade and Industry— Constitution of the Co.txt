@@ -1,0 +1,9 @@
+<FileID>138708</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/12/royal-commission-on-the-depression-of</URL>
+<Title>Royal Commission on the Depression of Trade and Industry— Constitution of the Commission</Title>
+<DebRef>HL Deb 12 August 1885 vol 300 cc1868-9</DebRef>
+<SittingDate>1885-08-12</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc1868-9 PERSONAL EXPLANATION. 362 words

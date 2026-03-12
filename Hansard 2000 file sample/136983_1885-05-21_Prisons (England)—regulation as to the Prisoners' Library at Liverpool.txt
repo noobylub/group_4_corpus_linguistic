@@ -1,0 +1,10 @@
+<FileID>136983</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/prisons-england-regulation-as-to-the</URL>
+<Title>Prisons (England)—regulation as to the Prisoners' Library at Liverpool</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1029</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>123</WordCount>
+
+MR. JUSTIN M'CARTHY asked the Secretary of State for the Home Department, Whether it is a fact that, in obedience to the orders of the Prison Commissioners, the works of Gerald Griffin, and, more recently, Chambers' Journal, have been withdrawn from the prisoners' library in Liverpool; and, whether, if this be a fact, he can tell the House why prisoners in Liverpool are not to be allowed to read Gerald Griffin's novels and Chambers' Journal? 
+<speaker>SIR WILLIAM HARCOURT</speaker> I really cannot undertake a censorship of the Press in regard to prisoners, nor interfere with the Commissioners as to what books they do or do not allow prisoners to read, for the hon. Member will see that that would involve my reading the books.

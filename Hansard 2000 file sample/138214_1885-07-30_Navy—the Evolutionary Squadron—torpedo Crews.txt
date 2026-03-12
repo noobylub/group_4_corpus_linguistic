@@ -1,0 +1,11 @@
+<FileID>138214</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/navy-the-evolutionary-squadron-torpedo</URL>
+<Title>Navy—the Evolutionary Squadron—torpedo Crews</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c515</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>120</WordCount>
+
+
+<speaker>MR. PULESTON</speaker> asked the Civil Lord of the Admiralty, Whether extra pay will be granted to the men who have been serving on board the torpedo boats engaged in the Evolutionary Squadron? 
+<speaker>THE CIVIL LORD (Mr. ASHMEAD-BARTLETT)</speaker> The duties performed by the officers and men employed on board the torpedo boats during the recent cruise of the Evolutionary Squadron were undoubtedly of an arduous and trying nature, and in the opinion of the Board of Admiralty confer a strong claim to extra pay. It is, therefore, proposed to grant the same extra pay to the officers and men in question as was granted last year on the recommendation of the Duke of Edinburgh for the exercises carried out at Portland.

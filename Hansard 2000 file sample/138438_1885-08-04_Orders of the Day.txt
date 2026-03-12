@@ -1,0 +1,9 @@
+<FileID>138438</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/orders-of-the-day</URL>
+<Title>Orders of the Day</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1065-195</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>84</WordCount>
+
+cc1065-119 LAND PURCHASE (IRELAND) BILL. [Lords.]— [BILL 249.] 5 words cc1065-119 SECOND READING. 22,199 words cc1119-25 FEDERAL COUNCIL OF AUSTRALASIA BILL [Lords]. 3 words cc1119-25 [BILL 165.] COMMITTEE. 2,200 words cc1125-73 SECRETARY FOR SCOTLAND BILL [Lords]— [BILL, 242.] 5 words cc1125-73 COMMITTEE. [Progress 3rd August.] 17,839 words cc1173-92 SEA FISHERIES (SCOTLAND) AMENDMENT BILL [Lords.] 10 words cc1173-92 COMMITTEE. [Progress 29th July.] 6,539 words cc1192-4 LABOURERS (IRELAND) (No. 2) BILL. 7 words cc1192-4 [BILL 68.] CONSIDERATION. 593 words cc1194-5 LAND PURCHASE (IRELAND) [SALARIES]. 82 words

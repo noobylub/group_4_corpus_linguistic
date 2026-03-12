@@ -1,0 +1,13 @@
+<FileID>138670</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/committee-adjourned-debate</URL>
+<Title>Committee [Adjourned Debate]</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1857-8</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>377</WordCount>
+
+Order read, for resuming Adjourned Debate on Question [27th July], "That Mr. Speaker do now leave the Chair "(for Committee on the Prevention of Crimes Amendment Bill ) [ Lords ]. Question again proposed. Debate resumed. Question put, and agreed to. Bill considered in Committee. (In the Committee.) Clause 1 (Construction and short title). MR. HEALY moved that Progress be reported. Motion made, and Question proposed, "That the Chairman do report Progress, and ask leave to sit again."—( Mr. Healy. ) 
+<speaker>THE UNDER SECERTARY OF STATE FOR THE HOME DEPARTMENT (Mr. STUART-WORTLEY)</speaker> said, there was no opposition to the Bill, and he appealed to the hon. and learned Member to allow it to go through. It merely dealt with summary jurisdiction over minor offences, and the obstruction of the police in the execution of their duty. 
+<speaker>MR. SEXTON</speaker> said, there ought to be some little more explanation. Police officers in Ireland executed their duty in such a way that it was rather meritorious than otherwise to obstruct them. Did the Bill include Ireland? If it were limited to England he had no objection. 
+<speaker>MR. TOMLINSON</speaker> said, as an Amendment to the Act, the Bill did, to some extent, apply to Ireland; but he had no objection to exempt Ireland. 
+<speaker>MR. HEALY</speaker> said, then he had no objection to the Bill, and would withdraw his Motion. Motion, by leave, withdrawn. Clause agreed to. Clause 2 (Extension of 34 and 35 Vict, o. 112, s. 12). Amendment proposed, in page 1, line 13, to leave out after "duty," to end of Clause.— ( Mr. Tomlinson. ) Amendment agreed to. Amendment proposed, In page 1, line 14, at end, to add:—" Provided, That in eases to which the said recited Act is extended by this Act, the person convicted shall not be liable to a greater penalty than five pounds, or, in default of payment, to be imprisoned with or without hard labour for a longer term than two months."—[ Mr. Tomlinson. ) Amendment agreed to. Clause, as amended, agreed to. Remaining Clauses agreed to. New Clause (This Act shall not apply to Ireland,)—( Mr. Tomlinson, )—read the first and second time, and added to the Bill. Bill reported; as amended, considered; read the third time, and passed, with Amendments.

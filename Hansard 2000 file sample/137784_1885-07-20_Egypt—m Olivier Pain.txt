@@ -1,0 +1,11 @@
+<FileID>137784</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/egypt-m-olivier-pain</URL>
+<Title>Egypt—m Olivier Pain</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1201-2</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>206</WordCount>
+
+
+<speaker>MR. O'KELLY</speaker> asked the Secretary of State for War, Whether he can state on what authority General Wolseley announced the death of Monsieur Olivier Pain; at what place Mons. Pain's death was stated to have taken place, and at what date; and, whether General Wolseley has any knowledge whether any papers belonging to Mons. Pain have come into the possession of either the English or Egyptian Government, or any of their agents or officials; and, if so, whether they will be surrendered to Mons. Pain's family? 
+<speaker>THE SECRETARY OF STATE FOR WAR (Mr. W. H. SMITH)</speaker> On the 9th instant, in reply to a Question, I stated that Lord Wolseley had telegraphed on the 27th of June to the effect that Luigi Bonomi, a priest who escaped from Kordofan, received in November last from Lupton Bey a letter stating that Olivier Pain was dead; but that, on the other hand, one Ghalli, a merchant from Khartoum, alleged that when he recently left that town Pain was there. Beyond this information Lord Wolseley informs me thathehas no knowledge on the subject of M. Pain's death, and that he is not aware of any of his papers having come into the possession of any English or Egyptian official.

@@ -1,0 +1,10 @@
+<FileID>138154</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/parliamentary-elections-registration-of</URL>
+<Title>Parliamentary Elections—registration of Voters—alleged Misconduct of Overseers</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 c246</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>234</WordCount>
+
+MR. THOROLD ROGERS (For Mr. EARP) asked the President of the Local Government Board, Whether his attention has been called to the fact that a solicitor named Metcalf, residing at Southwell, Notts, who is acting as the Conservative Registration Agent for the Newark Division, has issued books to the overseers with a request to be furnished with copies of the registers marked to indicate the politics of the persons entered upon such registers, under the initials C. for Conservative, L. for Liberal, and D. for doubtful; and whether the said solicitor has received from overseers books so marked; and, what steps he proposes to take in reference to such conduct on the part of overseers paid for their services by the Government? 
+<speaker>THE PRESIDENT OF THE LOCAL GOVERNMENT BOARD (Mr. A. J. BALFOUR)</speaker> The Conservative registration agent has asked the chairman of the Conservative registration committees and others to mark copies of the registers, as stated; but Mr. Metcalf positively denies that any such application has been made to an overseer with the knowledge that he held the office of overseer, and the Report I have received from the Local Government Board Inspector, whom I requested to look into the matter, entirely confirms this denial. The hon. Member is under a misapprehension in supposing that overseers are paid for their services by the Government. The office of overseer is an unpaid and compulsory one.

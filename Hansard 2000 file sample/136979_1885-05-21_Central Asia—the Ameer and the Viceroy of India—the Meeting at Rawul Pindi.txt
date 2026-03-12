@@ -1,0 +1,11 @@
+<FileID>136979</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/central-asia-the-ameer-and-the-viceroy</URL>
+<Title>Central Asia—the Ameer and the Viceroy of India—the Meeting at Rawul Pindi</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1027-8</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>122</WordCount>
+
+
+<speaker>MR. E. STANHOPE</speaker> asked the Under Secretary of State for India, Whether the Papers entitled Central Asia (No. 4), will contain an account of the meeting between the Ameer and the Viceroy of India; or if he intends to include it in any other Blue Book to be laid upon the Table before the Whitsuntide holidays? 
+<speaker>MR. J. K. CROSS</speaker> The Papers giving an account of the meeting between the Ameer and the Viceroy are not yet ready for publication, nor will they be presented before the Whitsuntide Holidays. I think the hon. Member for Mid Lincolnshire will agree with me that their publication before the arrangements now pending between England and Russia are concluded would not be for the public interest.

@@ -1,0 +1,9 @@
+<FileID>138035</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/24/submarine-telegraph-cables-bill-no-203</URL>
+<Title>Submarine Telegraph Cables Bill—(no 203)</Title>
+<DebRef>HL Deb 24 July 1885 vol 299 c1774</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>11</WordCount>
+
+( The Lord Sudeley. ) c1774 REPORT OF AMENDMENTS. 291 words

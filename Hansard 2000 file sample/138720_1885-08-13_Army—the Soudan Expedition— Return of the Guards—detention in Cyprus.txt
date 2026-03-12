@@ -1,0 +1,11 @@
+<FileID>138720</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/army-the-soudan-expedition-return-of-the</URL>
+<Title>Army—the Soudan Expedition— Return of the Guards—detention in Cyprus</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c14</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>100</WordCount>
+
+
+<speaker>MR. BRODRICK</speaker> asked the Secretary of State for War, Whether it is now possible for the Government to fix a term for the detention of the Brigade of Guards in Cyprus; and, whether the state of public affairs would justify their immediate return to England? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> I am sorry that I am not in a position to tell my hon. Friend the date at which the Guards will return home; but I can assure him that they will not be detained in Cyprus a day longer than is necessary for the public interest.

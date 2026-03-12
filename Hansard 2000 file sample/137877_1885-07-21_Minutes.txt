@@ -1,0 +1,9 @@
+<FileID>137877</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/21/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 21 July 1885 vol 299 c1338</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>122</WordCount>
+
+PUBLIC BILLS— First Reading— National Debt*; Artillery and Rifle Ranges*(193); Public Health (Members and Officers)*(194). Committee — Land Purchase (Ireland) (184–197). Committee — Report — Metropolis Management Acts Amendment* (162). Report —Sea Fisheries (Scotland) Amendment*(192); Housing of the Working Classes (England) (177–196). Third Reading —Local Government Provisional Order (Municipal Corporations)* (166); Local Government Provisional Orders (No. 3)* (167); Local Government Provisional Orders (No. 7)* (16S); Local Government Provisional Orders (Poor Law) (No. 9)*(169); Local Government (Ireland) Provisional Order (Labourers Act) (No. 6)*(173); Local Government Provisional Orders (No. 6)* (153); Poor Law Guardians (Ireland)*(176–195); Marriages (Saint John, Cowley) (187); Local Loans (Sinking Funds)* (175); Tramways (Ireland) Provisional Order (No. 2), now Tramways Order in Council (Ireland) (65); Secretary for Scotland (178), and passed.

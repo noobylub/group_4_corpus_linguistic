@@ -1,0 +1,13 @@
+<FileID>137524</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/prevention-of-crime-ireland-act-1882</URL>
+<Title>Prevention of Crime (Ireland) Act, 1882—resident Magistrates</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc427-8</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>198</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether steps are being taken, in view of the expiration of the Irish Coercion Act at the close of the present Session, to discharge the resident magistrates and other officials appointed for the purposes of that statute, and to withdraw extra police from any localities upon which they are now quartered? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> There are no Resident Magistrates or other officials appointed specially for the purposes of the Prevention of Crimes Act , although some of them have necessarily discharged duties in connection with it. One district may be said to be nominally still proclaimed for extra police under that Act; but the proclamation is practically suspended and will shortly be revoked. There is no other district so proclaimed. 
+<speaker>MR. SEXTON</speaker> Is it not a fact that a number of Resident Magistrates were specially appointed to carry out the provisions of the Crimes Act ; and will they not be discontinued, now that the Act is to be allowed to lapse? 
+<speaker>THE CHIEF SECRETARY</speaker> I was not aware of that. It would be better to put the Question on the Paper.

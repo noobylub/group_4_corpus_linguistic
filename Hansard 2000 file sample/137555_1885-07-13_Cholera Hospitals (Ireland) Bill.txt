@@ -1,0 +1,9 @@
+<FileID>137555</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/cholera-hospitals-ireland-bill</URL>
+<Title>Cholera Hospitals (Ireland) Bill</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c575</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>15</WordCount>
+
+[ Colonel Nolan, Mr. Sheil, Mr. Biggar. ) c575 [BILL 231.] SECOND READING. 55 words

@@ -1,0 +1,11 @@
+<FileID>138090</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/law-and-justice-ireland-the-court-of</URL>
+<Title>Law and Justice (Ireland)—the Court of Bankruptcy, Dublin</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc61-2</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>292</WordCount>
+
+
+<speaker>MR. FINDLATER</speaker> asked the Financial Secretary to the Treasury. If he has seen the observations of the Honourable Judge Miller, reported in the Dublin newspapers, in reference to the answer given by him to the question asked on the 17th instant with regard to the refusal of the Treasury to fill up the vacancy in the office staff; can he explain the alleged inaccuracies contained in his answer, viz. that the work of the office had decreased about forty per cent. since the staff was last fixed by the Treasury, and that the Treasury had only insisted on the very moderate reduction of two clerks in a staff of fourteen, when, in point of fact, there are only one chief clerk, two clerks, and a deputy assistant registrar discharging the duties of the general office of the Court; and, will the Financial Secretary state his authority for the statements in his answer, and if the information on which such statements were founded was derived from any source sufficiently reliable to justify the Treasury in refusing the clerical assistance solemnly declared by the Judge to be required for the efficient transaction of the business of the Court? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> I have seen a report of Judge Miller's remarks in reference to the answer I formerly gave. My statement about the reduction in business was taken from the "Judicial Statistics," and the further statement with regard to the staff referred to the total establishment of the Court, including permanent copyists. My information on other points is derived from two experienced officers, who visited the Department last year, investigated the amount and nature of the work done there, and ascertained the personal opinions of the staff upon the subject.

@@ -1,0 +1,10 @@
+<FileID>137233</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/23/parliament-adjournment-the-new-ministry</URL>
+<Title>Parliament—adjournment—the New Ministry—statement of the Earl Granville</Title>
+<DebRef>HL Deb 23 June 1885 vol 298 c1607</DebRef>
+<SittingDate>1885-06-23</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>45</WordCount>
+
+
+<speaker>EARL GRANVILLE</speaker> My Lords, I am authorized to state that Lord Salisbury has gone down to Windsor, and has accepted Office; and at his desire I propose, when the proceedings of the day close, to move the adjournment of the House, as usual, till Thursday.

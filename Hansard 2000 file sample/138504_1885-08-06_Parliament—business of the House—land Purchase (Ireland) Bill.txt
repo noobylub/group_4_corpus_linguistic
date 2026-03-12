@@ -1,0 +1,15 @@
+<FileID>138504</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/parliament-business-of-the-house-land</URL>
+<Title>Parliament—business of the House—land Purchase (Ireland) Bill</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 cc1284-5</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>198</WordCount>
+
+
+<speaker>MR. BRODRICK</speaker> asked, Whether the Land Purchase (Ireland) Bill would be proceeded with tomorrow; and if the Chancellor of the Exchequer would aid him in obtaining the sense of the House on the Motion for going into Committee on the Police Enfranchisement Bill ? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> , in reply, said, he should be very glad if the sense of the House could be expressed upon the Police Enfranchisement Bill . The Government would endeavour to afford facilities in that direction if possible. The Committee on the Land Purchase (Ireland) Bill would follow the Housing of the Working Classes (England) Bill , which stood for second reading after the Criminal Law Amendment Bill , Report. If those were disposed of, then the Committee on the Land Bill would stand first for tomorrow. 
+<speaker>MR. SERJEANT SIMON</speaker> If the Criminal Law Amendment Bill is not taken tonight, will it be the first Order tomorrow? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> Of course, what I said was under the impression that the Criminal Law Amendment Bill would be finished tonight. 
+<speaker>MR. SERJEANT SIMON</speaker> Suppose it is not finished? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I hope there will be no difficulty.

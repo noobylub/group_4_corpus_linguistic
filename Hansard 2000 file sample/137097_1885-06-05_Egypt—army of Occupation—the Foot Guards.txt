@@ -1,0 +1,10 @@
+<FileID>137097</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/05/egypt-army-of-occupation-the-foot-guards</URL>
+<Title>Egypt—army of Occupation—the Foot Guards</Title>
+<DebRef>HC Deb 05 June 1885 vol 298 c1336</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>73</WordCount>
+
+
+<speaker>COLONEL DIGBY</speaker> asked the Secretary of State for War, If it is the intention of the Government to keep the three battalions of Foot Guards much longer at Alexandria? THE MARQUESS OF HARTINGTON I have every reason to hope that it will be unnecessary to prolong the detention of the Guards at Alexandria much longer; but I am not now in a position to state when orders will be issued for their return.

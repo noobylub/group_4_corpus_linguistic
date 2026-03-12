@@ -1,0 +1,11 @@
+<FileID>138406</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/post-office-contracts-the-american-mail</URL>
+<Title>Post Office (Contracts)—the American Mail Service</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1045-6</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>156</WordCount>
+
+
+<speaker>MR. GILES</speaker> asked the Postmaster General, In what direction the extension of the American Mail Service will take place, seeing that an increase of £25,775 has been made in the Estimates; and, whether any provision has been made for despatching a Thursday's mail to America by the express steamers of the North German Lloyd from Southampton? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS)</speaker> The increase referred to by my hon. Friend is due mainly to the normal growth annually of the correspondence sent from this country to the United States. An increase of the correspondence does not necessarily call for an extension of the American mail service; and I may state that, until the whole question has been fully considered, it is not intended to make any provision, beyond that which now exists in the shape of ship letter mails, for sending the Thursday's mails to America by the steamers of the North German Lloyd from Southampton.

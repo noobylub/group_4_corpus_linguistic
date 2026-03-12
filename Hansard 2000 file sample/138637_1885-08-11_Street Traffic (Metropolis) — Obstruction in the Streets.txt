@@ -1,0 +1,11 @@
+<FileID>138637</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/street-traffic-metropolis-obstruction-in</URL>
+<Title>Street Traffic (Metropolis) — Obstruction in the Streets</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1728-9</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>142</WordCount>
+
+
+<speaker>MR. PULESTON</speaker> asked the Secretary of State for the Home Department, Whether his attention has been called to the case before the Thames Police Court of obstruction in the public streets by a Parliamentary candidate, on which. Mr. Saunders, the magistrate, remarked that he— Thought the defendant was preaching a very mischievous doctrine, and he was endeavouring to set class against class. He (Mr. Saunders) had no doubt that, if the Government liked to take notice of what was stated on the bills the defendant was distributing, he would be amenable to a public prosecution; and, whether the Government will inquire into the matter? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS),</speaker> in reply, said, that after the letter he had received from Mr. Saunders he did not see that there was any reason for taking any further notice of the matter.

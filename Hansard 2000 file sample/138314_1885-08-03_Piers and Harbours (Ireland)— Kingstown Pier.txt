@@ -1,0 +1,11 @@
+<FileID>138314</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/piers-and-harbours-ireland-kingstown-pier</URL>
+<Title>Piers and Harbours (Ireland)— Kingstown Pier</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c816</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>263</WordCount>
+
+
+<speaker>MR. MAURICE BROOKS</speaker> asked the Financial Secretary to the Treasury, Whether he is aware that, in certain conditions of the wind, considerable avoidable inconvenience is caused to the Irish travelling public, including numerous Members of Parliament, by the lack of protection and shelter from rain and storm when shipping and landing as passengers between Kingstown and Holyhead; whether he is aware that the contractors for the carriage of Her Majesty's Mails between Holyhead and Kingstown have repeatedly applied for works to be carried out at the Carlisle Pier, Kingstown, and the Royal Mail Packet Jetty, Holyhead, which they state to be necessary for the protection of the Mail Packets, and for the shelter and convenient landing and shipping of Mails and passengers; and, whether he can state what steps he proposes to take to meet the wants complained of? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> Sir, no complaints have been made, except by the Packet Company, of the lack of protection to passengers at this harbour; and, so far as I am aware, there is no obligation upon the Government, either by their contracts or otherwise, to provide improved accommodation for passengers there. As regards the second part of the Question, I answered a similar one a week ago relating to Holyhead. In the case of Kingstown, the Packet Company, if they think there is any risk, should apply to the Board of Works in Dublin, in whom the harbour is vested, and who would, no doubt, ascertain whether the present state of things affords reasonable security to the mail packets.

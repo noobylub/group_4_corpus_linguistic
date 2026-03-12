@@ -1,0 +1,11 @@
+<FileID>138400</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/army-small-arm-ammunition-the-boxer</URL>
+<Title>Army—small Arm Ammunition— The Boxer Cartridge</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1041</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>195</WordCount>
+
+
+<speaker>MR. LABOUCHERE</speaker> asked the Secretary of State for War, Whether it is a fact that the ammunition for the Martini-Henry rifle was not adopted until upwards of a year after General Boxer had retired from the Service, and that he is in no way responsible or to blame for any defects in the construction of the cartridge which may have been the cause of failure with respect to strength-resistance to wet and damp, and easy extraction under severe service conditions; and, whether it is a fact that the cartridge for the Snider rifle, for the construction of which General Boxer is wholly responsible, has successfully stood the unerring test of nearly twenty years' experience, in peace and in war, and that, too, under conditions as unfavourable to its proper action as those under which failures are reported to have occurred with the Martini-Henry ammunition? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> The facts as to the introduction of the Martini-Henry rifle cartridge are, substantially, as stated by the hon. Member. As regards comparison between the Martini-Henry and the Snider cartridge, I must decline to be led into any discussion as to their respective merits.

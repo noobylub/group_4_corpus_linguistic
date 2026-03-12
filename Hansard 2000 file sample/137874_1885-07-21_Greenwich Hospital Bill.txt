@@ -1,0 +1,9 @@
+<FileID>137874</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/greenwich-hospital-bill</URL>
+<Title>Greenwich Hospital Bill</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 c1514</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>47</WordCount>
+
+Ordered, That it be an Instruction to the Committee, that they have power to make provisions in the Bill for extending the eligibility of persons for appointments as Naval Knights of Windsor.—( Mr. Ashmead-Bartlett. ) Bill considered in Committee, and reported; as amended, to be considered Tomorrow.

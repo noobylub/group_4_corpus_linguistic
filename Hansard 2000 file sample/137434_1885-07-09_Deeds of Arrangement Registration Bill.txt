@@ -1,0 +1,9 @@
+<FileID>137434</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/deeds-of-arrangement-registration-bill</URL>
+<Title>Deeds of Arrangement Registration Bill</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c243</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>60</WordCount>
+
+On Motion of Sir JOSEPH M'KENNA, Bill to provide for the Registration, as in cases of Bills of Sale, of all Deeds of Arrangement with Debtors who compound and settle for their debts without process in Bankruptcy, ordered to be brought in by Sir JOSEPH M'KENNA and Mr. W. NEWZAM NICHOLSON. Bill presented, and read the first time. [Bill 225.]

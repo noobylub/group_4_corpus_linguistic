@@ -1,0 +1,12 @@
+<FileID>138600</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/the-registration-supplementary-lists</URL>
+<Title>The Registration (Supplementary) Lists</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 c1581</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>190</WordCount>
+
+
+<speaker>MR. JESSE COLLINGS</speaker> asked the Secretary of State for the Home Department, Whether he would issue instructions to Clerks of the Peace and to Town Clerks of boroughs with respect to their new duties in connection with making out the supplementary lists of voters which should contain the names of voters who would otherwise be removed as disqualified? THE SECRETARY OF STATE (Sir R. ASSHETON GROSS) , in reply, said, he had been informed that the Home Office had already sent out Circulars about registration. 
+<speaker>MR. CLARE READ</speaker> asked the President of the Local Government Board, Whether he would issue a Circular to Boards of Guardians directing them to afford the overseers such assistance as would enable them to prepare the supplementary lists of voters consequent on the passing of the Medical Relief Disqualification Removal Act ? 
+<speaker>THE PRESIDENT (Mr. A. J. BALFOUR)</speaker> , in reply, said, that relieving officers were bound by law to furnish all the information in their power. He had no power to give any directions in the matter; but no complaint had reached him of any information having been withheld by any Board of Guardians.

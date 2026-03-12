@@ -1,0 +1,11 @@
+<FileID>137719</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/royal-irish-constabulary-promotion</URL>
+<Title>Royal Irish Constabulary—promotion</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 cc1054-5</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>274</WordCount>
+
+
+<speaker>MR. HEALY</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether it is true that there were three cadets appointed in the Royal Irish Constabulary, in June last, to fill vacancies which occurred since the promise of the late Chief Secretary, made in April last, to the effect that, as soon as vacancies occurred, there would be three head constables promoted district inspectors; whether these appointments bring the number of cadets up to 42 since any head constable received promotion; and, whether the head constables may consider the position of district inspector closed against them; and, if not, will this serious inequality be removed by promoting a sufficient number to fill the first vacancies which will occur; and, if so, will they be qualified men from the seniority list, as was always the case, except the last time in 1882, when several juniors were promoted over their seniors? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> The three cadets referred to are the officers' sons who wore stated in my Predecessor's answer to the hon. Member's Question of the 20th of April last to have then passed the examination, and they make the total '59, not 42, since any head constable was promoted. The Inspector General informs me that, although, if the due proportions were strictly adhered to, those three cadets would have first claim to vacancies, yet for the general good of the service it is his intention to recommend a head constable for the next vacancy. The head constable to be promoted will be the man who is found to be best qualified, seniority being given its due weight.

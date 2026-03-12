@@ -1,0 +1,10 @@
+<FileID>137592</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/customs-and-inland-revenue-bill-storing</URL>
+<Title>Customs and Inland Revenue Bill-Storing of Grain and Rice</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 cc658-9</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>90</WordCount>
+
+
+<speaker>MR. HICKS</speaker> asked Mr. Chancellor of the Exchequer, Whether he will consider of the propriety of extending the provisions of Section 6 of the Customs and Inland Revenue Bill , with its subsections, to the storing and removing of raw grain and rice? THE CHANCELLOR OF THE EXCHE-QUEE The provisions in Section 6 are intended for a particular object—namely, to check frauds committed by dissolving sugar and syrup without entry or charge. To extend these provisions to the storing of raw grain and rice would be a very different matter.

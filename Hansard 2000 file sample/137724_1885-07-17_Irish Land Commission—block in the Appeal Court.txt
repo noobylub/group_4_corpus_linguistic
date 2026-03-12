@@ -1,0 +1,10 @@
+<FileID>137724</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/irish-land-commission-block-in-the</URL>
+<Title>Irish Land Commission—block in the Appeal Court</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 cc1056-7</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>160</WordCount>
+
+MR. JUSTIN M'CARTHY asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether, in order to clear away the block of appeals to be heard before the Irish Land Commissioners, it is the intention of the Commissioners to send cases back to be reheard by Sub-Commissioners, as they have power to do, according to the opinion expressed by the Chief Baron in the cases of "Kieran v. Caruth," and "Lewis and others v. Lord Darnley," reported in Irish Law Times Reports of 10th January 1885? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> I am advised that the Chief Baron, although he stated that the Land Commissioners had power to send cases back to be reheard by Sub-Commissioners, did not convey that such a course should be adopted save in very exceptional circumstances. The matter is one in which the Land Commission must exercise judicial discretion according to the facts of the particular cases that come before them.

@@ -1,0 +1,14 @@
+<FileID>137513</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/the-depression-of-trade-the-royal</URL>
+<Title>The Depression of Trade—the Royal Commission</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc419-20</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>255</WordCount>
+
+
+<speaker>MR. ARTHUR ARNOLD</speaker> asked Mr. Chancellor of the Exchequer, If he can state when the Royal Commission for inquiry into the Depression of Trade will be issued; and, whether he will give an assurance that, before the end of the present Session, the terms of the Commission, including the names of the Commissioners, will be communicated to the House? 
+<speaker>MR. HENEAGE</speaker> asked whether the right hon. Gentleman would cause inquiry to be made at the same time into the inconveniences attending a limited gold currency and the advantages of a legal silver currency? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I am afraid that I cannot state the exact date upon which the Royal Commission will be issued; but I think I can undertake that the terms of the Commission and the names of the Commissioners shall be communicated to the House before the close of the Session. In reply to the hon. Member for Great Grimsby (Mr. Heneage), I may say that there is no doubt as to the great im- portance of the subject to which he refers, and we shall consider how far we can include matters connected with it in the scope of the Commissioners' inquiry. 
+<speaker>MR. ARTHUR ARNOLD</speaker> The right hon. Gentleman said, on Friday last, he would make a statement on the subject referred to in my Question. 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I shall not have any statement to make until I am able to communicate to the House the terms of the Commission and the names of its Members.

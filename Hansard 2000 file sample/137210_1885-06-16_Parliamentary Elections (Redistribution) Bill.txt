@@ -1,0 +1,9 @@
+<FileID>137210</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/16/parliamentary-elections-redistribution</URL>
+<Title>Parliamentary Elections (Redistribution) Bill</Title>
+<DebRef>HL Deb 16 June 1885 vol 298 c1591</DebRef>
+<SittingDate>1885-06-16</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>47</WordCount>
+
+Returned from the Commons with several of the amendments agreed to, and some disagreed to, with Reasons for such disagreement: The said Reasons to be printed; and to be considered on Friday next. (No. 135.) House adjourned at a quarter past Three o'clock, till Tomorrow, Eleven o'clock.

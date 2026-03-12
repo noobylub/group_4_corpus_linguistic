@@ -1,0 +1,13 @@
+<FileID>138221</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/factory-acts-extension-to-shops-bill</URL>
+<Title>Factory Acts (Extension to Shops) Bill</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c521</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>229</WordCount>
+
+
+<speaker>SIR JOHN LUBBOCK</speaker> asked the honourable Member for Stockport, Whether be will remove the block which he has placed against the Factory Acts (Extension to Shops) Bill , and allow the House to consider in Committee a Bill to which thousands of young persons are looking with intense interest? 
+<speaker>MR. HOPWOOD,</speaker> in reply, said, though the question was put to him in a sensational manner, calculated to put pressure upon him, he could not waive any means in his power to secure full publicity and discussion before the passing of such a measure. 
+<speaker>SIR JOHN LUBBOCK</speaker> In consequence of the answer of the hon. and learned Member, may I ask the right hon. Gentleman the Chancellor of the Exchequer whether he will give me any facility for bringing on this Bill? There are only one or two Amendments of a purely verbal character; and though it relates to young persons who have no vote, that very fact will, I am sure, be admitted in itself to constitute a claim on the kind consideration of the House. 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> Whatever may be the merits of the Bill, I can express no opinion upon it; but if I gave the hon. Member the promise he asks for I should be subjected to similar requests from many other hon. Members. I am afraid, therefore, I cannot make any promise.

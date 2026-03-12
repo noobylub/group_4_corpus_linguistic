@@ -1,0 +1,9 @@
+<FileID>137963</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/crown-lands-bill</URL>
+<Title>Crown Lands Bill</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1757</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>101</WordCount>
+
+Order for Committee Tomorrow, read and discharged. Ordered, That the Bill be referred to a Select Committee of Five Members, Three to he nominated by the House and Two by the Committee of Selection. Ordered, That all Petitions against the Bill presented two clear days before the meeting of the Committee be referred to the Committee; that the Petitioners praying to be heard by themselves, their Counsel, or Agents, be heard against the Bill, and Counsel heard in support of the Bill, Ordered, That the Committee have power to send for persons, papers, and records. Ordered, That Three be the quorum.

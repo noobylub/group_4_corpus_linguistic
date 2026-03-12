@@ -1,0 +1,13 @@
+<FileID>138341</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/general-gordon-design-for-a-statue</URL>
+<Title>General Gordon—design for a Statue</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c837</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>162</WordCount>
+
+
+<speaker>MR. MITCHELL HENRY</speaker> asked the First Commissioner of Works, Whether there is to be a public competition for the design of the contemplated statue to the late General Gordon, or a restricted competition amongst a carefully selected list of sculptors; or, on the other hand, whether the work is to be given by the Government to some one sculptor on its own responsibility? 
+<speaker>THE FIRST COMMISSIONER (Mr. PLUNKET)</speaker> The question of the best way of obtaining designs is still under consideration, and if the hon. Member will favour me with his views on the subject, I shall be very glad to confer with him. Whatever plan is ultimately adopted must, of course, be so entirely on the responsibility of the Government. 
+<speaker>MR. MITCHELL HENRY</speaker> asked whether the right hon. Gentleman would undertake that no definitive steps should be taken for the erection of the statue until the next Parliament had met? 
+<speaker>THE FIRST COMMISSIONER</speaker> I certainly will not give any such pledge.

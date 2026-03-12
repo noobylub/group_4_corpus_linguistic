@@ -1,0 +1,11 @@
+<FileID>137652</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/post-office-the-committee-on-postage</URL>
+<Title>Post Office—the Committee on Postage Stamps</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc905-6</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>194</WordCount>
+
+
+<speaker>MR. ARTHUR O'CONNOR</speaker> asked the Postmaster General, If he has any ob- jection to state what is the outcome of the labours of the Committee on Postage Stamps appointed by the late Postmaster General, Mr. Fawcett; and, whether the Controller of Stamps has made any Report upon his inspection of the various Continental Stamp Factories that were lately visited by him; and, if so, whether he has any objection to lay the same upon the Table of the House? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS)</speaker> The Committee on Postage Stamps laid their Report before my Predecessor shortly after the hon. Member asked a Question on the subject in April last; and the new designs which were decided upon are now being carried out by the Board of Inland Revenue. The Report of the Controller of Stamps was made to that Board. At the request of the Ministers of the different States with whom that officer was placed in communication by Her Majesty's Ambassadors, the Controller undertook, on behalf of the Board, that all ho saw and learnt should be treated as confidential; and it is, therefore, not intended to lay the Report before Parliament.

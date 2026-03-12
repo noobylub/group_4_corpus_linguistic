@@ -1,0 +1,9 @@
+<FileID>137228</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/23/question</URL>
+<Title>Question</Title>
+<DebRef>HC Deb 23 June 1885 vol 298 cc1617-8</DebRef>
+<SittingDate>1885-06-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>10</WordCount>
+
+cc1617-8 THE EXECUTIVE GOVERNMENT (IRELAND)—SPEECH OF MR. CHAMBERLAIN. 152 words

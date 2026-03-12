@@ -1,0 +1,9 @@
+<FileID>138010</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/poor-law-unions-officers-ireland-bill</URL>
+<Title>Poor Law Unions' Officers (Ireland) Bill— [Bill 214]</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 cc1857-60</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>18</WordCount>
+
+[ Sir William Hart Dyke, Mr. Attorney General for Ireland. ] cc1857-60 COMMITTEE. [Progress 20th July.] 969 words

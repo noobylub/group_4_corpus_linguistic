@@ -1,0 +1,11 @@
+<FileID>138641</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/post-office-postal-delays</URL>
+<Title>Post Office—postal Delays</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 c1730</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>89</WordCount>
+
+
+<speaker>COLONEL NOLAN</speaker> asked the Postmaster General, If his attention has been drawn to the fact that it takes two days to forward a letter from Whitegate to Woodford, about eight miles distant; and if he would take some step to facilitate postal communication between Whitegate and the remainder of the county? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS)</speaker> I am much obliged to the hon. and gallant Member for calling attention to this matter. I have directed inquiries to be made, with a view of remedying the inconvenience complained of.

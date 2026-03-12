@@ -1,0 +1,10 @@
+<FileID>138683</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/11/notice-of-motion</URL>
+<Title>Notice of Motion</Title>
+<DebRef>HL Deb 11 August 1885 vol 300 c1720</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>72</WordCount>
+
+
+<speaker>THE MARQUESS OF SALISBURY</speaker> I beg to give Notice that tomorrow, at 2 o'clock, I shall move that the Thanks of this House be given to General Lord Wolseley, General Graham, Lord John Hay, and other officers and men of the Army and Navy, for the skill, courage, and ability with which they conducted the late operations in the Soudan. House adjourned at a quarter before Six o'clock, till Tomorrow, Two o'clock.

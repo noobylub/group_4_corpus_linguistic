@@ -1,0 +1,13 @@
+<FileID>137850</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/central-asia-russia-and-afghanistan-the</URL>
+<Title>Central Asia—russia and Afghanistan—the Russo-Afghan Frontier</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 c1404</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>210</WordCount>
+
+
+<speaker>MR. MORGAN LLOYD</speaker> asked the Under Secretary of State for Foreign Affairs, If he has seen the following paragraph in The Standard newspaper of the 20th instant, namely— There is some reason for believing that although Russia is so persistent in her demand with regard to Sulficar, the real object coveted is Memchak. A proposition is not unlikely to be made for a concession to the Russian claims in the latter quarter, in return for the recognition of the Ameer's rights at the former place; and, if it is the intention of the Government to make or entertain such a proposition? 
+<speaker>THE SECRETARY OF STATE FOR INDIA (Lord RANDOLPH CHURCHILL)</speaker> Perhaps I may be allowed to answer this Question. No proposition of the kind indicated in the Question has been made to Her Majesty's present Government, and Her Majesty's present Government have no intention to make any proposition of the kind. 
+<speaker>MR. MORGAN LLOYD</speaker> May I ask whether the noble Lord will answer the other portion of the Question—namely, if such a proposition is made by Russia Her Majesty's Government will entertain it? 
+<speaker>THE SECRETARY OF STATE (Lord RANDOLPH CHURCHILL)</speaker> The hon. Gentleman will, I am sure, see that that is a very hypothetical Question, and I cannot answer it.

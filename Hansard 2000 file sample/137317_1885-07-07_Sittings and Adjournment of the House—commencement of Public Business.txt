@@ -1,0 +1,10 @@
+<FileID>137317</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/sittings-and-adjournment-of-the-house</URL>
+<Title>Sittings and Adjournment of the House—commencement of Public Business</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 c1824</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>44</WordCount>
+
+
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> said, perhaps it might be the pleasure of the House that after today the Public Business of the House should commence at a quarter-past 4. He understood that Private Business was sufficiently advanced to admit of that being done.

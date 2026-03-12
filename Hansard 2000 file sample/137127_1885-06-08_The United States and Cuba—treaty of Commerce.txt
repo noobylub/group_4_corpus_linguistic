@@ -1,0 +1,11 @@
+<FileID>137127</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/the-united-states-and-cuba-treaty-of</URL>
+<Title>The United States and Cuba—treaty of Commerce</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 cc1400-1</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>175</WordCount>
+
+
+<speaker>MR. TENNANT</speaker> asked the Under Secretary of State for Foreign Affairs, Whether any further information can be given to the House regarding the negotiations with the United States for a Trade Treaty with the West India Colonies; and, whether Her Majesty's Government have received any information as to the negotiations now proceeding between the United States and Spain for a Trade Treaty between the United States and Cuba? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> Mr. West, Her Majesty's Minister at Washington, has communicated to Mr. Bayard, the American Secretary of State, Lord Granville's despatch of the 12th February, stating the reasons for which Her Majesty's Government are unable to accept the draft of the proposed Convention to regulate trade between the United States and the British West India Colonies; and he has reported that this statement of the views of Her Majesty's Government is under the consideration of the Government of the United States. I have reason to believe that the commercial negotiations are proceeding between the United States and Spain, but I am unable to give particulars.

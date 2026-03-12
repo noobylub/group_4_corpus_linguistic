@@ -1,0 +1,9 @@
+<FileID>138015</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/bill-240-second-heading</URL>
+<Title>[Bill 240] Second Heading</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 c1864</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>99</WordCount>
+
+Order for Second Reading read. THE CHANCELLOR OF THE EXCHEQUER My hon. and learned Friend the Attorney General is unfortunately not present. I believe he has some objections to the Bill which he would like to place before the House, and I hope it will be understood that if we assent to the second reading now, we do not at all pledge ourselves to anything with regard to the further progress of the measure. It may be necessary for us to move Amendments of an important character to the Bill. Bill read a second time, and committed for Monday.

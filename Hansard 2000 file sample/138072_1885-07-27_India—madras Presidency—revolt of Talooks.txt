@@ -1,0 +1,11 @@
+<FileID>138072</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/india-madras-presidency-revolt-of-talooks</URL>
+<Title>India—madras Presidency—revolt of Talooks</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c51</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>153</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Secretary of State for India, Whether four talooks have recently been disarmed in the Madras Presidency; whether, since December last, there have been two encounters with the troops; whether dynamite has been freely used by the troops; whether one European soldier has been killed, and one officer and several soldiers wounded; and, whether twenty-four insurgents have been killed and none wounded. 
+<speaker>THE SECRETARY OF STATE FOR INDIA (Lord RANDOLPH CHURCHILL)</speaker> in reply, said, three talooks had been disarmed since last December. Two encounters had taken place with the troops, in the course of which one officer had been killed and four European soldiers wounded. Dynamite had been used by the troops in order to effect an entrance into a building held by the insurgents. This subject could not be dealt with in the space of an answer, and if the hon. Member moved for Papers they would be presented.

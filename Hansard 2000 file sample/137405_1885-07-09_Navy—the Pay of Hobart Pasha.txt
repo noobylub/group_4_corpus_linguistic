@@ -1,0 +1,10 @@
+<FileID>137405</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/navy-the-pay-of-hobart-pasha</URL>
+<Title>Navy—the Pay of Hobart Pasha</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c126</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>53</WordCount>
+
+In reply to Sir GEORGE CAMPBELL, 
+<speaker>THE FIRST LORD OP THE ADMI RALTY (Lord GEORGE HAMILTON)</speaker> said, that there was no probability of the introduction of a Supplementary Estimate to provide for the pay of Admiral Hobart-Hampden. He thought that such a small sum could be obtained out of the Supplies already granted.

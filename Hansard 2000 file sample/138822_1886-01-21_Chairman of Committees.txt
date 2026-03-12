@@ -1,0 +1,9 @@
+<FileID>138822</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1886/jan/21/chairman-of-committees</URL>
+<Title>Chairman of Committees</Title>
+<DebRef>HL Deb 21 January 1886 vol 302 c84</DebRef>
+<SittingDate>1886-01-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>38</WordCount>
+
+The Earl of REDESDALE appointed, nemine dissentiente, to take the Chair in all Committees of this House for this Session. COMMITTEE FOR PRIVILEGES — Appointed. SUBCOMMITTEE FOR THE JOURNALS— Appointed. APPEAL COMMITTEE—Appointed. RECEIVERS AND TRYERS OF PETITIONS —Appointed.

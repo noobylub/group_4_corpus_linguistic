@@ -1,0 +1,11 @@
+<FileID>137532</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/business-of-the-house-the-criminal-law</URL>
+<Title>Business of the House — The Criminal Law Amendment Bill</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c433</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>77</WordCount>
+
+
+<speaker>SIR WILLIAM HARCOURT</speaker> asked when it was proposed to take the next stage of the Criminal Law Amendment Bill ? He understood that it had been fixed for tomorrow. 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> said, the Government had not anticipated that the Bill would be taken tomorrow, when it was proposed to put down the Education Estimates as the first Order. They proposed, however, to proceed with the Bill on the earliest possible day.

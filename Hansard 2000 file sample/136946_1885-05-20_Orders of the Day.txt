@@ -1,0 +1,9 @@
+<FileID>136946</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/20/orders-of-the-day</URL>
+<Title>Orders of the Day</Title>
+<DebRef>HC Deb 20 May 1885 vol 298 cc972-85</DebRef>
+<SittingDate>1885-05-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>29</WordCount>
+
+c972 PLURALITIES BILL.— [BILL 22.] 11 words cc972-9 SECOND READING. 2,816 words c979 SITES FOR PLACES OF RELIGIOUS WORSHIP BILL.— [BILL 58.] 11 words cc979-85 SECOND READING. 2,111 words

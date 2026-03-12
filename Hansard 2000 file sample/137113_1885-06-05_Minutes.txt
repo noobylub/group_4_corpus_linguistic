@@ -1,0 +1,9 @@
+<FileID>137113</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/05/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 05 June 1885 vol 298 c1329</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>48</WordCount>
+
+Sat First in Parliament— The Earl Cairns, after the death of his father. PUBLIC BILLS— First Reading — Waterworks Clauses Act (1847) Amendment ٭ (127); Friendly Societies Act (1875) Amendment ٭ (128). Second Reading —East India Unclaimed Stocks ٭ (113). Committee—Report —Local Authorities (Expenses of Conferences) ٭ (118).

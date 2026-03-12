@@ -1,0 +1,9 @@
+<FileID>138522</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/06/expiring-laws-continuance-bill</URL>
+<Title>Expiring Laws Continuance Bill</Title>
+<DebRef>HL Deb 06 August 1885 vol 300 c1266</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>13</WordCount>
+
+( The Earl of Iddesleigh. ) c1266 (NO. 229.) THIRD READING. 145 words

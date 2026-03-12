@@ -1,0 +1,11 @@
+<FileID>138625</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/poor-law-ireland-lurgan-union-dr-john</URL>
+<Title>Poor Law (Ireland)—lurgan Union—dr John Scott, Medical Officer</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1720-1</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>115</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Has Dr. John Scott been acting as dispensary doctor of Montagh's Dispensary of Lurgan Union, and has he received his salary by cheque, and does he at same time act as guardian of said union; and, if these facts are correct, will he draw the attention of the auditor to the irregularity? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> I should, perhaps, hare added to my previous answer that Dr. John Scott has occasionally acted temporarily for a medical officer, and has been paid for so doing, and that no provision of the Poor Relief or Medical Charities Acts has been thereby infringed.

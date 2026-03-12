@@ -1,0 +1,11 @@
+<FileID>137984</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/law-and-police-ireland-killing-of-thomas</URL>
+<Title>Law and Police (Ireland)—killing of Thomas M'grath's Geese at Cahir, Co Roscommon</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 c1782</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>141</WordCount>
+
+
+<speaker>MR. O'KELLY</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the attention of Captain Gage, E.M., has been called to the killing of a number of geese belonging to a poor farmer named Thomas M'Grath, on the lands of a local landlord named Bernard Sweeny, of Cahir, near Thomas-town, county Roscommon; and, whether the police have made any investigation under the Crimes Act into the killing of M'Grath's geese; and, if not, why have they failed to carry out the Law? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> Captain Gage's attention has been called to this case. No investigation has been held under the Prevention of Crime Act ; but the police have made, and will continue to make, all necessary inquiry respecting it. I am informed that Bernard Sweeny is not a landlord, but a tenant farmer.

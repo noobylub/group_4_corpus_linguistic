@@ -1,0 +1,9 @@
+<FileID>137020</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/21/sea-fisheries-scotland-amendment-bill-no</URL>
+<Title>Sea Fisheries (Scotland) Amendment Bill—(no 102)</Title>
+<DebRef>HL Deb 21 May 1885 vol 298 cc987-99</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>11</WordCount>
+
+( The Earl of Dalhousie. ) cc987-99 SECOND READING. 4,800 words

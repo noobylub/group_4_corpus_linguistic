@@ -1,0 +1,11 @@
+<FileID>138273</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/army-gunnery-experiments-with-dynamite</URL>
+<Title>Army—gunnery Experiments With Dynamite</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 c672</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>85</WordCount>
+
+
+<speaker>MR. GOURLEY</speaker> asked the Secretary of State for War, If his attention has been called to the gunnery experiments now being conducted by the United States Government with dynamite cartridges; if so, whether he intends ascertaining, by practical experiments, how far the system is a success? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> The attention of the War Office has been called to recent experiments with dynamite projectiles in the United States, and the subject is now under the consideration of the Ordnance Committee.

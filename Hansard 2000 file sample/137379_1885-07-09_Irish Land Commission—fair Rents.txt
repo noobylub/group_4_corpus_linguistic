@@ -1,0 +1,9 @@
+<FileID>137379</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/irish-land-commission-fair-rents</URL>
+<Title>Irish Land Commission—fair Rents</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c112</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>131</WordCount>
+
+MR. JUSTIN M'CARTHY asked the Chief Secretary to the Lord Lieutenant of Ireland, What number of applications to fix fair rents is now undisposed of by the Land Commission; what is the average number per month of originating notices issued for the past twelve months; and, whether such provision will be made for the hearing of applications by tenants as will ensure a speedy adjudication? THE CHIEF SECRETARY The number of applications to have fair rents fixed which were undisposed of on the 30th ultimo was 3,434. In the 12 months to that date originating notices came in at the average rate of 593 per month, and cases were heard at the average rate of 943 per month. There is, therefore, a reasonable prospect of the arrears being soon wiped out.

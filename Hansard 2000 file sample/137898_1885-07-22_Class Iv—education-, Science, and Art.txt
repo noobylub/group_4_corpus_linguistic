@@ -1,0 +1,9 @@
+<FileID>137898</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/22/class-iv-education-science-and-art</URL>
+<Title>Class Iv—education-, Science, and Art</Title>
+<DebRef>HC Deb 22 July 1885 vol 299 c1593</DebRef>
+<SittingDate>1885-07-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>23</WordCount>
+
+(3.) £60, to complete the sum for the Transit of Venus. Resolutions to be reported upon Friday. Committee to sit again upon Friday.

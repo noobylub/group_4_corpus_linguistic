@@ -1,0 +1,9 @@
+<FileID>138127</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/prevention-of-crimes-amendment-bill</URL>
+<Title>Prevention of Crimes Amendment Bill [Lords]— [Bill 93]</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc210-1</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>8</WordCount>
+
+( Mr. Tomlinson. ) cc210-1 COMMITTEE. 195 words

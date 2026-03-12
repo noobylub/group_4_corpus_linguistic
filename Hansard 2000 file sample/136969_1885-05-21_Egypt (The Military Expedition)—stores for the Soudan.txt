@@ -1,0 +1,10 @@
+<FileID>136969</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/egypt-the-military-expedition-stores-for</URL>
+<Title>Egypt (The Military Expedition)—stores for the Soudan</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1019</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>108</WordCount>
+
+DR. CAMERON asked the Surveyor General of Ordnance, Whether it is true, as stated by the Woolwich correspondent of the Press Association, that the shipment of stores for the Soudan, which had been entirely stopped, was on Friday last resumed at the Royal Arsenal, and that among the stores being shipped were 1,000 tons of iron water-pipes; and, if so, the construction of a railway for strategic purposes having been abandoned, for what purpose are the water-pipes intended? 
+<speaker>MR. BRAND</speaker> No, Sir. The statement referred to is entirely incorrect. No shipments have been made since the orders to cease the despatch of stores to the Soudan were given.

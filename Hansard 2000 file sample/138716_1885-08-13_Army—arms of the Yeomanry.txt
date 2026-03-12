@@ -1,0 +1,11 @@
+<FileID>138716</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/army-arms-of-the-yeomanry</URL>
+<Title>Army—arms of the Yeomanry</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 cc10-1</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>109</WordCount>
+
+
+<speaker>MR. WINGFIELD DIGBY</speaker> asked the Secretary of State for War, Whether he will take note of the fact that the Yeomanry Cavalry is still armed with the Snider carbine; and, whether, when the exigencies of the State allows of it, he will take into consideration the advisability of supplying the Martini-Henry carbine to the Yeomanry, which Force has, in the last few years, made great efforts to improve the shooting of its members? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> I hope that arrangements will be sufficiently advanced to allow of the issue of Martini-Henry carbines to the Yeomanry Cavalry before the close of the present financial year.

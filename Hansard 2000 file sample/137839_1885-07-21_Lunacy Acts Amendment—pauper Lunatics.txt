@@ -1,0 +1,11 @@
+<FileID>137839</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/lunacy-acts-amendment-pauper-lunatics</URL>
+<Title>Lunacy Acts Amendment—pauper Lunatics</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 cc1397-8</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>169</WordCount>
+
+
+<speaker>LORD ALGERNON PERCY</speaker> asked the President of the Local Government Board, Whether his attention has been called to the existing state of the Law as to the detention in Workhouses of persons supposed to be insane, pending the consideration of their mental condition and their removal to certified Lunatic Asylums; and, whether, in the event of the Lunacy Bill , at present in the House of Lords, not being proceeded with, he will introduce a Bill authorising such detention? 
+<speaker>THE PRESIDENT OF THE LOCAL GOVERNMENT BOARD (Mr. A. J. BALFOUR)</speaker> The Lunacy Act Amendment Bill , which was introduced in the House of Lords, will not, I believe, be proceeded with this Session; and as I realize the importance of express statutory authority for the temporary detention of lunatics in workhouses pending the obtaining orders of justices, I propose today to move for leave to bring in a Bill on the subject, which I trust I shall have the assistance of the House in passing during the present Session.

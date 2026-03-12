@@ -1,0 +1,11 @@
+<FileID>137066</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/04/manufacture-of-beer-return-of-brewers</URL>
+<Title>Manufacture of Beer—return of Brewers and Brewers' Licences</Title>
+<DebRef>HC Deb 04 June 1885 vol 298 cc1185-6</DebRef>
+<SittingDate>1885-06-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>187</WordCount>
+
+
+<speaker>MR. HICKS</speaker> asked the Financial Secretary to the Treasury, Whether in the next annual Return of the number of Brewers for Sale, and of the ingredients used by them in the manufacture of beer, he would subdivide the column now headed "Malt and Grain" into three columns, headed respectively "Malt," "Grain," "Rice," and the column headed "Sugar and Equivalent in Syrnp," into two columns headed respectively "Sugar," "Equivalent in Syrup?" 
+<speaker>MR. HIBBERT</speaker> This is not a Government Return, but has been generally moved for by the hon. Member for East Surrey (Mr. Watney). I may say, however, that it can only contain the particulars entered by the brewer in his brewing-book, and the law only requires him to enter the quantities of malt, corn, and sugar. The Return is defective. It is, however, believed that the trade would object to give further particulars, and the Revenue Authorities have no other means of obtaining them. If the hon. Member will apply to the hon. Member for East Surrey to enlarge his Motion by asking for the additional information mentioned in the Question, the Treasury will have no objection.

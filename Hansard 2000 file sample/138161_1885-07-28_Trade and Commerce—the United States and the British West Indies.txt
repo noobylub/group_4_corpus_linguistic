@@ -1,0 +1,10 @@
+<FileID>138161</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/trade-and-commerce-the-united-states-and</URL>
+<Title>Trade and Commerce—the United States and the British West Indies</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 c250</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>161</WordCount>
+
+
+<speaker>SIR CHARLES TENNANT</speaker> asked the Secretary of State for the Colonies, Whether any Despatch has been received from the Governor of Barbadoes enclosing a Copy of a Petition to the House of Assembly, or any other Papers, showing the anxiety of the inhabitants for the speedy completion of the trade arrangements between the British West Indies and the United States; and, whether Her Majesty's Government are taking any steps to conclude the draft Convention embodying those trade arrangements? THE SECRETARY OF STATE FOR THE COLONIES (Colonel STANLEY) , in reply, said, that such a despatch had been received, enclosing a copy of the Petition and other papers. He was afraid he would not be able to give any definite answer to the hon. Gentleman upon the subject at the present time. The hon. Gentleman was aware that an influential deputation lately came to the Colonial Office, and their representations would be laid before the Government, and would receive all due consideration.

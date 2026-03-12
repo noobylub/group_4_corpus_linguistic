@@ -1,0 +1,9 @@
+<FileID>137565</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/13/poor-law-guardians-ireland-bill-no-6</URL>
+<Title>Poor Law Guardians (Ireland) Bill—(no 6)</Title>
+<DebRef>HL Deb 13 July 1885 vol 299 cc391-3</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>9</WordCount>
+
+( The Lord Carlingford. ) cc391-3 COMMITTEE. 736 words

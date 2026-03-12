@@ -1,0 +1,9 @@
+<FileID>137435</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/metropolitan-board-of-works-money-bill</URL>
+<Title>Metropolitan Board of Works (Money) Bill</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c244</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>49</WordCount>
+
+On Motion of Sir HENRY HOLLAND, Bill to further amend the Acts relating to the raising of Money by the Metropolitan Board of Works; and for other purposes, ordered to be brought in by Sir HENRY HOLLAND and Colonel WAL-ROND. Bill presented, and read the first time. [Bill 224.]

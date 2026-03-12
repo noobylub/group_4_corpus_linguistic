@@ -1,0 +1,9 @@
+<FileID>137575</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/13/prince-henry-of-battenbergs</URL>
+<Title>Prince Henry of Battenberg's Naturalization Bill [hl]</Title>
+<DebRef>HL Deb 13 July 1885 vol 299 c407</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>42</WordCount>
+
+A Bill to naturalize His Serene Highness Prince Henry Maurice of Battenberg, and to grant and confer on him all the rights, privileges, and capacities of a natural-born subject of Her Majesty the Queen—Was presented (on petition), and read 1 a .

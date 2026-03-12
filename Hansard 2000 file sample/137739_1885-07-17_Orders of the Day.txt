@@ -1,0 +1,9 @@
+<FileID>137739</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/orders-of-the-day</URL>
+<Title>Orders of the Day</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 cc1064-152</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>28</WordCount>
+
+c1064 SUPPLY. — COMMITTEE. 17 words MAAMTRASNA, &c. MURDERS. cc1064-150 RESOLUTION. 34,360 words cc1150-2 SUMMARY JURISDICTION (TERM OF IMPRISONMENT) BILL.— [BILL 180.] 8 words cc1150-2 COMMITTEE. 613 words

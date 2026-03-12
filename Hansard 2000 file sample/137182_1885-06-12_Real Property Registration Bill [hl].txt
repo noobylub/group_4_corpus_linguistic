@@ -1,0 +1,9 @@
+<FileID>137182</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/12/real-property-registration-bill-hl</URL>
+<Title>Real Property Registration Bill [hl]</Title>
+<DebRef>HL Deb 12 June 1885 vol 298 c1527</DebRef>
+<SittingDate>1885-06-12</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>32</WordCount>
+
+A Bill to facilitate the transfer of real property" in England by establishing a general system of registration of title—Was presented by The Duke of MAKLBOROUGII; read 1 a . (No. 132.)

@@ -1,0 +1,9 @@
+<FileID>138806</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/21/notice-of-resolutions</URL>
+<Title>Notice of Resolutions</Title>
+<DebRef>HC Deb 21 January 1886 vol 302 c86</DebRef>
+<SittingDate>1886-01-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>14</WordCount>
+
+c86 PARLIAMENT — BUSINESS OF THE HOUSE — NEW RULES OF PROCEDURE. 107 words

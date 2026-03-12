@@ -1,0 +1,11 @@
+<FileID>137205</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/15/third-beading</URL>
+<Title>Third Beading</Title>
+<DebRef>HL Deb 15 June 1885 vol 298 cc1533-4</DebRef>
+<SittingDate>1885-06-15</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>345</WordCount>
+
+Order of the Day for the Third Beading read. Moved, "That the Bill be now read 3 a ." 
+<speaker>THE EARL OF REDESDALE (CHAIRMAN of COMMITTEES)</speaker> in moving the postponement of the Order, said, his ground for doing so was, that the Post Office authorities had written complaining that certain clauses which they wished inserted had not been put before the Committee. Moved, "That the Order be postponed."—( The Earl of Redesdale. ) THE DUKE OF RICHMOND AND GORDON said, he objected to the third reading of the Bill being postponed on that account. He was Chairman of the Committee before whom the Bill came; and as the Post Office officials, who had had ample time for the purpose, had not replied to the promoters regarding the clauses to which they objected, the Committee, after carefully considering the matter, in the absence of any communication from them, took it for granted that the Post Office was satisfied, and were not going to take any further steps. The Committee, therefore, proceeded with the Bill, and inserted several clauses which they knew the Post Office desired; but they rejected others which they did not think ought to be introduced. After the Committee had disposed of the Bill, a note was received by the promoters' solicitors from the Post Office, objecting that certain clauses had not been inserted; but the Committee refused to reopen the case, as the Post Office officials had had sufficient time to make their wants known before the Bill left the Committee. If the matter was of sufficient importance, the Bill could still be amended in the House of Commons, and the clauses desired by the Post Office considered. On those grounds he hoped his noble Friend would not insist upon postponing the third reading. 
+<speaker>THE EARL OF REDESDALE (CHAIRMAN of COMMITTEES),</speaker> in withdrawing the Motion, said, that he hoped that what had occurred would be a lesson to Government Offices. Motion (by leave of the House) withdrawn. Original Motion agreed to. Bill read 3 a accordingly, and passed, and sent to the Commons.

@@ -1,0 +1,9 @@
+<FileID>138699</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/12/labourers-ireland-no-2-bill</URL>
+<Title>Labourers (Ireland) (No 2) Bill</Title>
+<DebRef>HC Deb 12 August 1885 vol 300 cc1889-94</DebRef>
+<SittingDate>1885-08-12</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>16</WordCount>
+
+( Mr. Attorney General for Ireland. ) cc1889-94 [BILL 265.] CONSIDERATION OF LORDS' AMENDMENTS. 1,633 words

@@ -1,0 +1,9 @@
+<FileID>137825</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/20/housing-of-the-working-classes-england</URL>
+<Title>Housing of the Working Classes (England) Bill—(no 177)</Title>
+<DebRef>HL Deb 20 July 1885 vol 299 c1169</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>6</WordCount>
+
+( The Marquess of Salisbury. )

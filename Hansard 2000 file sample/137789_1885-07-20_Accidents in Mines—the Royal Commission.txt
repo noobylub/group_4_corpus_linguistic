@@ -1,0 +1,11 @@
+<FileID>137789</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/accidents-in-mines-the-royal-commission</URL>
+<Title>Accidents in Mines—the Royal Commission</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1205-6</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>304</WordCount>
+
+
+<speaker>MR. COLERIDGE KENNARD (for Mr. GEORGE ELLIOT)</speaker> asked the Secretary of State for the Home Department, Whether the Royal Commission on Accidents in Mines has submitted any Report, and whether such Report will be laid upon the Table during the present Session; whether he can state when the final Report of the Commission is likely to be presented; and, whether, having regard to the frequency of accidents in coal mines involving great loss of life, Her Majesty's Government will consider the expediency of taking measures for the more effective inspection of coal mines, and for imposing further restrictions in the use of explosives in such mines? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS)</speaker> This is no ordinary Commission. Many years ago the Royal Society were good enough to meet me when I was Secretary of State, and to allow some of their best men to be placed upon the Commission. The Commissioners have been very busily employed, among their other engagements, in making these inquiries, and I am happy to say they are drawing very near to the end. They say that in the course of the autumn their final Report will be published, and I believe a great deal of it is in print at the present moment. My Predecessor arranged for the appointment of seven additional Inspectors, six of whom have been already appointed, and I will take care that no time is lost in appointing the seventh. The question as to the use of explosives deserves the most serious consideration. Personally I have always been in favour of preventing the use of explosives entirely in mines; but I think it would be wise to await the Report of the Commissioners, because I know that is a subject which they have had most fully brought before them.

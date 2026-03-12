@@ -1,0 +1,11 @@
+<FileID>137102</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/05/mines-c-inundation-of-the-philadelphia</URL>
+<Title>Mines, &C— Inundation of the Philadelphia Colliery, Lambton, County of Durham</Title>
+<DebRef>HC Deb 05 June 1885 vol 298 cc1342-3</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>203</WordCount>
+
+
+<speaker>MR. BURT</speaker> I beg to ask the Home Secretary, If he has any information with regard to the deplorable inundation at the Philadelphia Colliery? 
+<speaker>SIR WILLIAM HARCOURT</speaker> I have received a Report from the Inspector dated last night, and he says 13 men are still entombed in the mine in spite of most strenuous efforts which have been made for their rescue, and I regret to say there are but little hopes of their being found alive. The inrush of water has abated to a considerable extent; but it is still flowing at the rate of about 500,000 gallons per minute. This flow of water renders the work of the explorers so difficult and slow that it has been determined to cut away through the solid coal to the place where it is expected the men will be found. That place is at a distance of about 30 yards, and at present they are cutting away the coal at the rate of one yard an hour. So far as can be ascertained at present, the accident was caused by cutting into some ancient workings, which were abandoned 80 or 90 years ago, and the plans of which appear to have been very inaccurate.

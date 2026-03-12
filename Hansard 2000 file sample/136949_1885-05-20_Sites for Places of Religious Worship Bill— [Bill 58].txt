@@ -1,0 +1,9 @@
+<FileID>136949</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/20/sites-for-places-of-religious-worship</URL>
+<Title>Sites for Places of Religious Worship Bill— [Bill 58]</Title>
+<DebRef>HC Deb 20 May 1885 vol 298 c979</DebRef>
+<SittingDate>1885-05-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>13</WordCount>
+
+( Mr. Broadhurst, Mr. Borlase, Mr. Burt, Mr. Alexander M'Arthur, Mr. Webster. )

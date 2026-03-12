@@ -1,0 +1,11 @@
+<FileID>138274</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/church-of-england-the-vicar-of-st-marks</URL>
+<Title>Church of England—the Vicar of St Mark's, South Shields</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 c672</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>173</WordCount>
+
+
+<speaker>MR. BROADHURST</speaker> asked the Vice President of the Committee of Council, Whether, since answering the Question on the 23rd instant relating to the bankruptcy case of the Vicar of St. Mark's, South Shields, he has seen a Report in The South Shields Daily Gazette, of 10th July, of the proceedings in question; and, whether, having regard to the seriousness of the statements there contained, assuming them to be true, he has any reason to modify the statement he formerly made on this subject? 
+<speaker>THE VICE PRESIDENT OF THE COUNCIL (Mr. E. STANHOPE)</speaker> Owing to the courtesy of the hon. Member I have now seen the report in The South Shields Daily Gazette; but I find nothing in it at all inconsistent with the statement I made the other day. Indeed, it appears to confirm substantially the account given by the Vicar himself. Further inquiries, are, however, being made, with the view to determine whether the position of the school account has been, or is likely to be, affected by the Vicar's pecuniary difficulties.

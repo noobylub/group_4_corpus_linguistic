@@ -1,0 +1,11 @@
+<FileID>137912</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/fisheries-ireland-mussel-fisheries</URL>
+<Title>Fisheries (Ireland)—mussel Fisheries</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1616</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>158</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secresary to the Lord Lieutenant of Ireland, Whether, so long ago as April last, the Rev. James O'Laverty, P.P. of Holy-wood, county Down, wrote to the Conservators of Irish Fisheries, complaining of the great destruction of Mussel Fisheries in Belfast Lough; and, if so, why no action has been taken thereon, and why no reply has, up to the present, been sent to the Rev. gentleman; and, if the inspectors will now take any action thereon or make inquiries into the matter? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> It appears that through some oversight in the Office of the Fishery Inspectors no action was taken on Mr. O'Laverty's letter. The officer responsible has been admonished to be more careful in future, and the Inspectors will proceed to hold an inquiry into the matter complained of. They fear, however, that under the present law they will have no power to apply a remedy.

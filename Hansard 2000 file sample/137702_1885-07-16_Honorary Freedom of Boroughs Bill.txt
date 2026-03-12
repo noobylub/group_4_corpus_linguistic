@@ -1,0 +1,9 @@
+<FileID>137702</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/honorary-freedom-of-boroughs-bill</URL>
+<Title>Honorary Freedom of Boroughs Bill</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc1015-6</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>7</WordCount>
+
+cc1015-6 CONSIDERATION OF LOEDS' REAS0N. 275 words

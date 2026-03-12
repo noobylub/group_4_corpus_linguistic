@@ -1,0 +1,11 @@
+<FileID>138646</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/army-military-expedition-to-the-soudan</URL>
+<Title>Army—military Expedition to the Soudan—widows of Soldiers</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 c1733</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>99</WordCount>
+
+
+<speaker>MR. GILES</speaker> asked the Secretary of State for War, Whether the Government has made or intends to make any provision for the widows and children of soldiers who have been killed or who have died in the Soudan? 
+<speaker>THE FINANCIAL SECRETARY, WAR DEPARTMENT (Mr. H. S. NORTHCOTE)</speaker> (who replied) said: Under the Royal Warrant of the 12th of June, 1884, the Commissioners of the Royal Patriotic Fund are empowered to grant pensions in the case of the widows and children of soldiers who lose their lives in war. Considerable sums were handed over to the Commissioners for that purpose.

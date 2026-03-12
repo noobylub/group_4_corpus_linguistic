@@ -1,0 +1,9 @@
+<FileID>137273</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/03/the-ministry-of-the-most-noble-the</URL>
+<Title>The Ministry of the Most Noble the Marquess of Salisbury, kg, as Formed Ox Acceptance of Office June-July, 1885</Title>
+<DebRef>HL Deb 03 July 1885 vol 298 cc1645-6</DebRef>
+<SittingDate>1885-07-03</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>25</WordCount>
+
+c1645 THE CABINET. 203 words c1645 NOT IN THE CABINET. 267 words c1645 SCOTLAND. 20 words c1645 IRELAND. 51 words cc1645-6 QUEEN'S HOUSEHOLD. 127 words

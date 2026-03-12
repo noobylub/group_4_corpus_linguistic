@@ -1,0 +1,10 @@
+<FileID>137430</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/consideration</URL>
+<Title>Consideration</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c238</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>75</WordCount>
+
+Order for Consideration, as amended, read. 
+<speaker>SIR CHARLES W. DILKE</speaker> said, that those who were present yesterday would remember that objection was taken by the hon. Baronet the Member for West Essex (Sir Henry Selwin-Ibbetson) to proceeding with the Bill. He had seen the hon. Baronet since, and he had waived his objection. Ho supposed, therefore, there would be no objection to the Bill proceeding. Bill, as amended, considered; read the third time, and. passed.

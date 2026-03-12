@@ -1,0 +1,9 @@
+<FileID>137694</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/medical-relief-disqualification-removal</URL>
+<Title>Medical Relief Disqualification Removal Bill— [Bill 232]</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc964-1011</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>21</WordCount>
+
+( Mr. Arthur Balfour, Mr. Attorney General, Mr. ( Attorney General for Ireland, Mr. Dalrymple. ) cc964-1011 SECOND READING. 18,721 words

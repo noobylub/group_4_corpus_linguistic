@@ -1,0 +1,15 @@
+<FileID>136966</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/customs-and-inland-revenue-bill-the</URL>
+<Title>Customs and Inland Revenue Bill—the Spirit and Beer Duties—income Tax Exemptions</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1016-8</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>425</WordCount>
+
+
+<speaker>MR. SALT</speaker> asked Mr. Chancellor of the Exchequer, What arrangements will be made with respect to those persons who have paid Duties coming into force under the Customs and Inland Revenue Bill, in the event of that Bill being modified, so as to remove the Duties in question; and, whether any precedent exists for the delay of some weeks in pressing forward a Customs and Inland Revenue Bill, involving a large amount of additional taxation, with the result that Duties are enforced merely upon a Resolution of the House that may or may not be supported by the necessary authority of an Act of Parliament? 
+<speaker>MR. HIBBERT (who replied)</speaker> said: Should the proposals of the Government for increasing the Spirit and Beer Duties be simply rejected by Parliament, the sums paid in excess of the amounts authorized by statute would, where possible, be refunded, unless Parliament thinks fit to authorize by statute the retention of the additional Duties collected. There are abundant precedents for the collection of additional Duties under a Resolution of this House some time before the passing of the Act raising them. The most striking is that of 1860, when two Resolutions were passed increasing the Spirit Duty—one on February 29, and the other on July 17; whereas the Act confirming them did not receive the Royal Assent until August 28. 
+<speaker>MR. ARTHUR O'CONNOR</speaker> asked, what would be done with the sums now paid in excess if the Government simply dropped their proposal to increase the duties, and there was no adverse vote of the House of Commons? 
+<speaker>MR. HIBBERT</speaker> was understood to reply that they could still be refunded, if the Government thought proper to make the order. 
+<speaker>MR. ARTHUR ARNOLD</speaker> asked whether the exemptions from the proposed Duty on property of bodies corporate and unincorporate, contained in the seven subsections to Clause 19 of the Customs and Inland Revenue Bill , provided any enlargement of the exemptions under the Income Tax Acts? 
+<speaker>MR. HIBBERT</speaker> Speaking generally, the exemptions from the proposed Duty are the same as those under the Income Tax Acts. But there are some cases in which property which pays Income Tax cannot fairly be charged with the new Duty, because it is already subject to Probate and Legacy Duties when it changes hands owing to a death. The simplest instance I can give is that of the profits of a Trading Corporation, composed of a number of shareholders, where the profits pay Income Tax, while Probate and Legacy Duties are charged upon the value of the shares.

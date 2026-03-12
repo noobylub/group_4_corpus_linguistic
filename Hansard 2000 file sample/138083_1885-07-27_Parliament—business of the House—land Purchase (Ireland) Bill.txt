@@ -1,0 +1,11 @@
+<FileID>138083</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/parliament-business-of-the-house-land</URL>
+<Title>Parliament—business of the House—land Purchase (Ireland) Bill</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc57-8</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>120</WordCount>
+
+
+<speaker>MR. FINDLATER</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Upon what day he proposes to take the Second Reading of the Land Purchase (Ireland) Bill ; and, whether on the Second Reading the Government will be prepared to communicate to the House the names of the two Commissioners proposed to be appointed? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> The Bill is down for second reading on Friday next. I cannot give any such undertaking as that suggested in the second paragraph of this Question. On the contrary, I do not think an announcement of the kind should be made until a much later stage of the Bill has been reached than the second reading.

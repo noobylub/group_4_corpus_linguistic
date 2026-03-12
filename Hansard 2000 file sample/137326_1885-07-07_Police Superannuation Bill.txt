@@ -1,0 +1,11 @@
+<FileID>137326</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/police-superannuation-bill</URL>
+<Title>Police Superannuation Bill</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 cc1831-2</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>129</WordCount>
+
+
+<speaker>SIR HENRY SELWIN-IBBETSON</speaker> asked the Secretary of State for the Home Department, If he will consider the Police Superannuation Bill of the late Government, with the view either of reintroducing it in the next Parliament or of bringing forward a measure which, whilst not increasing local burdens, will satisfy the just demands of the Police forces throughout the Country? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS)</speaker> It is quite impossible for us to go on with this Bill this Session, and, therefore, when the Order is called, I shall move that it be discharged. If, however, at any other time, I can see my way to meet the just demands of the police without in- creasing local burdens, I shall be only too glad.

@@ -1,0 +1,9 @@
+<FileID>138046</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/26/third-reading</URL>
+<Title>Third Reading</Title>
+<DebRef>HL Deb 26 July 1885 vol 300 cc213-4</DebRef>
+<SittingDate>1885-07-26</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>81</WordCount>
+
+Adjourned debate on the motion for the Third Reading resumed (according to order). Motion agreed to; Bill read 3ª accordingly, with the amendments. Then it was moved, That so much of Standing Order No. 116. as requires the insertion in the Bill of provisions forfeiting in certain contingencies to the Crown money deposited under the Standing Orders, he dispensed with."—( The Lord Ventry. ) Motion agreed to. A further amendment made to the Bill. Bill passed, and sent to the Commons.

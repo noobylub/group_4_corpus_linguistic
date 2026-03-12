@@ -1,0 +1,9 @@
+<FileID>137756</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 c1184</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>151</WordCount>
+
+NEW MEMBER SWORN—Ferdinand James de Rothschild, commonly called Baron Ferdinand James de Rothschild, for Aylesbury. SUPPLY— considered in Committee — CIVIL SERVICE ESTIMATES—CLASS I. — PUBLIC WORKS AND BUILDINGS; Vote 22; CLASS II. — SALARIES AND EXPENSES OF CIVIL DEPARTMENTS; Votes 38, 39; CLASS III. — LAW AND JUSTICE; Votes 22, 23; CLASS IV. — EDUCATION, SCIENCE, AND ART; Votes 15 to 17 and 19. PUBLIC BILLS— Second Reading —School Boards * [235]; Greenwich Hospital * [222]. Committee —Poor Law Unions' Officers (Ireland) [214]—R.P. Committee — Report — Metropolitan Board of Works (Money) * [224]; Exchequer and Treasury Bills * [229]; Parliamentary Elections (Corrupt Practices) [148]. Considered as amended — Third Reading — Artillery and Rifle Ranges * [217]; Public Health (Members and Officers) * [114], and passed. Third Reading —National Debt * [172], and passed. Withdrawn —Ulster Canal and Tyrone Navigation * [53]; Valuation of Lands (Scotland) (Appeals) * [191].

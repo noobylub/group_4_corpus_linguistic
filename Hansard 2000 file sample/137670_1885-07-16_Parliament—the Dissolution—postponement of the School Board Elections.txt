@@ -1,0 +1,10 @@
+<FileID>137670</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/parliament-the-dissolution-postponement</URL>
+<Title>Parliament—the Dissolution—postponement of the School Board Elections</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc915-6</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>68</WordCount>
+
+
+<speaker>MR. HEALY</speaker> asked the President of the Local Government Board, Whether he will consider the advisability of applying to municipal elections the proposed Bill to defer the School Board Elections until after the Dissolution in November? THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir E. ASSHETON CROSS), who replied, said, he did not contemplate introducing a Bill deferring municipal elections this year until after the Parliamentary Elections.

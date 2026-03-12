@@ -1,0 +1,12 @@
+<FileID>138497</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/army-auxiliary-forces-the-northampton</URL>
+<Title>Army (Auxiliary Forces)—the Northampton Volunteers</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 cc1278-9</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>247</WordCount>
+
+
+<speaker>LORD BURGHLEY</speaker> asked the Secretary of State for War, Whether he would permit the formation of a company of Volunteers at Oundle, in Northamptonshire, considering that eighty-eight men came forward and put down their names, £380 was collected, officers nominated, and the other requirements of the War Office complied with as far back as the winter of 1884? 
+<speaker>SIR ARTHUR HAYTER</speaker> said, as this Question reflected upon him as the adviser of the late Secretary of State, he wished to ask the right hon. Gentleman whether he was aware that the establishment of the Northamptonshire Rifles was 1,308; that they were 214 short of their establishment; and that only 894 were present at inspection; and whether, under these circumstances, he would sanction the regiment having 13 companies, a most inconvenient number, the present number being 12? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> , in reply, said, he had not been favoured by the hon. Baronet with the information in his Question, and he was not able to reply in detail; but probably the answer he was about to give would be sufficient. The 1st Northamptonshire Rifle Volunteers, to which the proposed company at Oundle would belong, was already an unusually large corps; and strong reason would have to be shown for adding to it. The establishments for 1885–6 were fixed; but if it was still desired to raise this company for 1886–7, application should be made in September through the military authorities of the district.

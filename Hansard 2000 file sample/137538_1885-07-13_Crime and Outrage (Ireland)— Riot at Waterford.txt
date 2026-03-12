@@ -1,0 +1,11 @@
+<FileID>137538</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/crime-and-outrage-ireland-riot-at</URL>
+<Title>Crime and Outrage (Ireland)— Riot at Waterford</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c436</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>125</WordCount>
+
+
+<speaker>MR. P. J. POWER</speaker> asked the Secretary of State for War, Whether he has received any information from Waterford respecting a very serious riot which took place there yesterday between the police and the military? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> It is the case, I am sorry to say, that a disturbance took place at Waterford yesterday. I have received the following telegram from the General Officer commanding in Ireland:— Telegram just received from General Officer commanding Cork, reporting disturbance at Waterford last night between troops and civilians. One civilian stabbed by picket sentry and died. Troops confined to barracks and Court of Inquiry ordered. I can give no further information than is contained in the newspapers until the Report is received.

@@ -1,0 +1,9 @@
+<FileID>138473</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/05/expiring-laws-continuance-bill</URL>
+<Title>Expiring Laws Continuance Bill</Title>
+<DebRef>HL Deb 05 August 1885 vol 300 cc1195-6</DebRef>
+<SittingDate>1885-08-05</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>12</WordCount>
+
+( The Earl of Iddesleigh. ) cc1195-6 (NO. 229.) COMMITTEE. 457 words

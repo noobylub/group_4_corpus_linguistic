@@ -1,0 +1,11 @@
+<FileID>137001</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/lord-randolph-churchill-and-mr-gladstone</URL>
+<Title>Lord Randolph Churchill and Mr Gladstone—statement of March 13</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1040-1</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>190</WordCount>
+
+
+<speaker>LORD RANDOLPH CHURCHILL</speaker> It will be in the recollection of the House that the Prime Minister, in the debate of Monday night, said, in reference to a statement which I made about the announcement to the House of the 13th of March, that he would wish to have time to examine into that matter; that he would reserve the point, and that he would take a further opportunity of explaining it to the House. May I ask the right hon. Gentleman whether he is now in a position to make that statement in regard to a matter of great moment and seriousness? MR. GLADSTONE I am sorry the noble Lord puts in these things—"a matter of great moment and seriousness." I should have looked into the matter had I been able; but I have been totally unable to do it, my time having been incessantly occupied. 
+<speaker>LORD RANDOLPH CHURCHILL</speaker> May I ask the Prime Minister whether he does not agree that a point which is so important that he is unable to give an answer to it at the time is a matter "of great moment and seriousness?" [No reply.]

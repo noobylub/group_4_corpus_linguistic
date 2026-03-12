@@ -1,0 +1,9 @@
+<FileID>137305</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/06/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 06 July 1885 vol 298 c1647</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>116</WordCount>
+
+PUBLIC BILLS— Second Reading — Referred to Select Committee —Waterworks Clauses Act (1847) Amendment (127). Committee —Gas and Water Provisional Orders (No. 2) * (136); Water Provisional Orders * (137); Tramways Provisional Orders (No. 1) * (149); Elementary Education Provisional Orders Confirmation (Birmingham, &c.) * (80). Committee — Report —Commons Regulation (Ash-down Forest) Provisional Order * (141); Commons Regulation (Drum burgh) Provisional Order * (142); Commons In closure (Llanybyther) Provisional Order * (143); Local Government (Gas) Provisional Orders * (144); Local Government (Ireland) Provisional Orders (Labourers Act) (No. 4) * (145); Local Government (Ireland) Provisional Orders (No. 2) * (146); Local Government Provisional Orders (No. 5) * (152). Third Reading —Yorkshire Registries * (133), and passed.

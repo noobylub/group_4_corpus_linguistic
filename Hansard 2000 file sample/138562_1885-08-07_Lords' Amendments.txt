@@ -1,0 +1,10 @@
+<FileID>138562</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/lords-amendments</URL>
+<Title>Lords' Amendments</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 c1524</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>157</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> rose to move that the consideration of the Lords' Amendments be deferred till the 21st of August. He wished to point out that when the Bill left that House last year a compromise had been arrived at, and Irish Members informed the House that it was the smallest measure they could accept. The Lords had excluded some points of the scheme which he thought they must object to. If the Government were resolved to maintain the Amendments of the Lords, he thought that any further time spent on the Bill would be wasted, because in the next Session of Parliament it would be necessary for Irish Members to insist on a fuller and more adequate measure of reform. Motion made, and Question proposed, "That the Consideration of the Lords' Amendments be deferred till Friday the 21st of August."—( Mr. Sexton. ) Motion agreed to. House adjourned at a quarter before Two o'clock till Monday next.

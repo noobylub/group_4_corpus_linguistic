@@ -1,0 +1,11 @@
+<FileID>137531</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/business-of-the-house-scotch-business</URL>
+<Title>Business of the House — Scotch Business</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c433</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>179</WordCount>
+
+
+<speaker>MR. RAMSAY</speaker> asked the Junior Lord of the Treasury the specific subject for the consideration of the meeting of Scottish Members which had been convened for 3 o'clock tomorrow? It would be satisfactory to the Scottish Members if the hon. Member for Bute could state the object of the meeting. 
+<speaker>THE LORD OF THE TREASURY (Mr. DALRYMPLE)</speaker> said, although the meeting was of a private character, he was very happy to answer the Question. The object of the meeting was simply for the purpose of ascertaining the opinion of the Scottish Members with reference to the Universities Bill . Before be sent out the notice, he put himself in communication with the late Lord Advocate, so as to be informed of his opinion on the subject. He did not place any agenda on the paper convening the meeting, as he did not wish to limit the subjects which might be brought up, especially as it would be most important to have the opinion of the Scottish Members on any Business which might be before Parliament at the present time.

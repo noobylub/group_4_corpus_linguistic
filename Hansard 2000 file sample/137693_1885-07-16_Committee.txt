@@ -1,0 +1,9 @@
+<FileID>137693</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/committee</URL>
+<Title>Committee</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c964</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>140</WordCount>
+
+Bill considered in Committee. (In the Committee.) Clauses 1 and 2 agreed to. Clause 3 (Temporary reduction of permanent annual charge for National Debt in 1886–7). On the Motion of Mr. CHANCELLOR of the EXCHEQUER, Clause struck out, and the following new Clause inserted in lieu thereof:— (Further temporary reduction of permanent annual charge for National Debt in 1885–6 by suspension of new Sinking Fund.) In the financial year ending the 31st day of March, one thousand eight hundred and eighty-six, the permanent annual charge for the National Debt shall be reduced below the amount at which it would otherwise be fixed by law by such sum as but for this section would, under section three of the Sinking Fund Act, 1875 , form the new Sinking Fund. Remaining Clauses agreed to. Bill reported; as amended, to be considered Tomorrow.

@@ -1,0 +1,11 @@
+<FileID>138586</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/law-and-police-ireland-fines-for</URL>
+<Title>Law and Police (Ireland)—fines for Dangerous Use of Fireworks at Ballinrobe</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 c1571</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>260</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether, at a recent sitting of the Bal-linrobe Petty Sessions, some small boys, on the prosecution of the district inspector of Constabulary, were fined for having let off rockets on the occasion of a public welcome in the town to the Catholic Archbishop of the see; whether anyone was fined or prosecuted for a similar cause in any other part of the diocese; whether the district inspector, the head constable, and all the sergeants in Ballinrobe are Protestants; and, whether, the population being almost wholly Catholic, the condition of the local force in the respect specified will be amended? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> I am informed that the ages of the small boys referred to varied from 20 to 40 years. They were engaged in throwing lighted balls of tow, saturated with paraffin oil, in the vicinity of thatched houses. Complaints were made to the police of the danger of this practice, and the men were cautioned; but, as they would not desist, they were summoned and fined. There is no report of any similar prosecution in that diocese. I understand the religious composition of the force at Ballinrobe at the present moment is as stated in the Question; but there is nothing in the facts I have detailed to show that the action of the police in the present case was influenced by motives of religion. However, the Inspector General will endeavour, when an opportunity offers, to modify the present religious proportion.

@@ -1,0 +1,11 @@
+<FileID>137404</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/street-traffic-metropolis-thepall-mall</URL>
+<Title>Street Traffic (Metropolis)—thepall Mall Gazette—objectionable Articles — Revelations of Gross Immoralities</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c126</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>169</WordCount>
+
+
+<speaker>MR. ALBERT GREY</speaker> I wish to ask the Home Secretary, Whether he has been informed that the street and footpaths leading to the offices of The Pall Mall Gazette are blocked in such a way as to prevent free and safe access to those offices; and, whether he will make arrangements to secure the dispersion of the crowd, so that safe and adequate access thereto may be obtained? THE SECRETARY I have had no information until I came to the House a few minutes ago that any such thing has taken place. The police, however, have the ordinary instructions to keep the streets clear, and they are bound to protect life and property and secure order and a free passage through the streets in this as in every other case. 
+<speaker>MR. ALBERT GREY</speaker> Will the right hon. Gentleman order a sufficient number of police to go to Northumberland Street to insure that there should be a free passage, and to prevent any danger to life and property? [No reply.]

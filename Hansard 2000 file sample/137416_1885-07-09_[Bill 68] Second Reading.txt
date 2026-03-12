@@ -1,0 +1,11 @@
+<FileID>137416</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/bill-68-second-reading</URL>
+<Title>[Bill 68] Second Reading</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c223</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>101</WordCount>
+
+Order for Second Reading read. 
+<speaker>MR. HEALY</speaker> said, that opposite to the title of this Bill he found a block by their distinguished Friend the hon. and learned Member for Bridport (Mr. Warton). The Government having made great progress tonight, he thought the time had arrived when some pressure should be brought to bear on the hon. and learned Member for Bridport and the hon. Member for Preston (Mr. Tomlin-son) to induce them not to block Bills on the Order Book. 
+<speaker>MR. WARTON</speaker> said, as the Government had adopted the Bill, he should withdraw his opposition. Second Reading deferred till Tomorrow.

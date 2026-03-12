@@ -1,0 +1,12 @@
+<FileID>138593</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/africa-west-coast-german-annexations</URL>
+<Title>Africa (West Coast)—german Annexations</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 c1576</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>168</WordCount>
+
+
+<speaker>MR. ARTHUR ARNOLD</speaker> asked the Under Secretary of State for Foreign Affairs, Whether he has any official information with reference to the reputed annexations by the German Government in the region of Zanzibar? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> The information received by Her Majesty's Government from Zanzibar does not confirm the truth of the statement of The Times' Berlin telegram of August 7 respecting the cession of the district of Kilima-Njaro, Chaga, Aruscha, &c. to the German East African Society. On the contrary, we have every reason to believe that the Chiefs of those districts are loyal to the Sultan of Zanzibar, and continue to acknowledge his suzerainty. 
+<speaker>MR. ARTHUR ARNOLD</speaker> asked if the right hon. Gentleman had any information as to the alleged intimidation of the Sultan of Zanzibar by the presence of a German Fleet? THE UNDER SECRETAEY OF STATE We have heard that the ships of the German Fleet have arrived near Zanzibar; but we have not heard whether the Sultan is intimidated.

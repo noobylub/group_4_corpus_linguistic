@@ -1,0 +1,11 @@
+<FileID>137852</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/law-and-justice-ireland-the-maamtrasna</URL>
+<Title>Law and Justice (Ireland)—the Maamtrasna Murders</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 c1405</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>159</WordCount>
+
+
+<speaker>MR. HEALY</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If he will have instructions served to the Maamtrasna police to prevent Casey (Big) of Bunnacine and his son from leaving the district, pending the decision of the Executive, will he obtain a report from the authorities as to whether these parties had not all their preparations for absconding made last October, until they learnt of the determination to refuse inquiry, and have the English police any information as to the whereabouts of Lyden the third alleged murderer? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> I am advised that the Maamtrasna police would not be legally justified, in present circumstances, in preventing Casey or his son from leaving the district. Nor do I see what object can be served by obtaining a report such as that referred to. I am not aware whether the English police have any information as to the whereabouts of Lyden.

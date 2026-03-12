@@ -1,0 +1,13 @@
+<FileID>137940</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/egypt-sir-h-drummond-wolffs-mission</URL>
+<Title>Egypt—sir H Drummond Wolff's Mission</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1632</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>132</WordCount>
+
+
+<speaker>MR. M'LAREN</speaker> asked Mr. Chancellor of the Exchequer, If he can give the House any further information as to the mission of the Right honourable Member for Portsmouth; and, whether he will lay the terms of his instructions upon the Table? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I am afraid that I have nothing to state to the House on this subject. The matter is not yet settled. 
+<speaker>MR. M'LAREN</speaker> Will the right hon. Gentleman undertake to lay the terms of the Instructions to the right hon. Gentleman upon the Table? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I could not make any promise on this subject without first communicating with my noble Friend the Prime Minister. I have not had the opportunity of doing so, as the Question only appeared on the Paper today.

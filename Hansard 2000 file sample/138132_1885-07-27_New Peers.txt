@@ -1,0 +1,9 @@
+<FileID>138132</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/27/new-peers</URL>
+<Title>New Peers</Title>
+<DebRef>HL Deb 27 July 1885 vol 300 c2</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>60</WordCount>
+
+Alexander William George Earl Fife in that part of the United Kingdom of Great Britain and Ireland called Ireland, K.T., having been created Earl of Fife—Was (in the usual manner) introduced. The Right Honourable Sir William Baliol Brett, Knight, Master of the Rolls, having been created Baron Esher of Esher in the county of Surrey—Was (in the usual manner) introduced.

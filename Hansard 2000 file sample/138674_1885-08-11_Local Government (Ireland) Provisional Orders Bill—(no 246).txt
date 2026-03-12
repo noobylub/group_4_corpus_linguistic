@@ -1,0 +1,9 @@
+<FileID>138674</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/11/local-government-ireland-provisional</URL>
+<Title>Local Government (Ireland) Provisional Orders Bill—(no 246)</Title>
+<DebRef>HL Deb 11 August 1885 vol 300 cc1706-15</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>13</WordCount>
+
+( The Marquess of Waterford. ) cc1706-15 CONSIDERATION OF COMMONS' REASONS. 3,390 words

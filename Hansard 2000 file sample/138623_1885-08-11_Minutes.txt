@@ -1,0 +1,9 @@
+<FileID>138623</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 c1720</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>37</WordCount>
+
+PUBLIC BILLS— Second Reading —Educational Endowments (Ireland) [176]. Committee—Report —Housing of the Working Classes (England) [248]. Committee—Report—Considered as amended—Third Reading —Prevention of Crimes Amendment [93], and passed. Considered as amended—Third Reading —Land Purchase (Ireland) [249], and passed.

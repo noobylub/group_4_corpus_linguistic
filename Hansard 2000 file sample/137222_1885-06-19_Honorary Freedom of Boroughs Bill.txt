@@ -1,0 +1,9 @@
+<FileID>137222</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/19/honorary-freedom-of-boroughs-bill</URL>
+<Title>Honorary Freedom of Boroughs Bill</Title>
+<DebRef>HL Deb 19 June 1885 vol 298 cc1594-600</DebRef>
+<SittingDate>1885-06-19</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>22</WordCount>
+
+c1594 CONSIDERATION OF COMMONS' AMENDMENT. 138 words cc1594-600 PARLIAMENTARY ELECTIONS (REDISTRIBUTION) BILL. 2,095 words, 1 division c1600 ARCHDEACONRIES BILL [H.L.] 41 words

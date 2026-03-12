@@ -1,0 +1,9 @@
+<FileID>138385</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1033</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>80</WordCount>
+
+PUBLIC BILLS— First Reading —Registration Appeals (Ireland) * [259]. Second Reading —Land Purchase (Ireland) [249]. Committee—Report —Federal Council of Australasia [165]; Secretary for Scotland [212]; Sea Fisheries (Scotland) Amendment [250–258]. Considered as amended —Elementary Education Provisional Order Confirmation (London) * [233]; East India (Army Pensions Deficiency) * [225]. Considered an amended—Re-eomm. — Committee—Report—Considered as amended. — Third Reading —Labourers (Ireland) (No. 2) [68], and passed. Third Reading —Earldom of Mar Restitution * [256]; Public Works Loans * [251], and passed.

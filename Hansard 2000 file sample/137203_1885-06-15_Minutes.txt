@@ -1,0 +1,9 @@
+<FileID>137203</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/15/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 15 June 1885 vol 298 c1533</DebRef>
+<SittingDate>1885-06-15</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>45</WordCount>
+
+PUBLIC BILLS— First Beading —Yorkshire Registries * (133). Second Reading —Pier and Harbour Provisional Orders * (114); Burial Boards (Contested Elections) * (105). Report— Gas Provisional Orders (No. 1) * (108). Third Reading —Local Government Provisional Orders (Poor Law) (No. 4) * (123), and passed.

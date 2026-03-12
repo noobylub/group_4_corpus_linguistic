@@ -1,0 +1,9 @@
+<FileID>137245</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/24/new-writs</URL>
+<Title>New Writs</Title>
+<DebRef>HC Deb 24 June 1885 vol 298 cc1629-30</DebRef>
+<SittingDate>1885-06-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>228</WordCount>
+
+For Devon County (Northern Division), v Right honble. Sir Stafford Henry North cote, First Lord of the Treasury. For Gloucester County (Eastern Division), v. Right honble. Sir Michael Hicks-Beach, baronet, Chancellor of the Exchequer. For Lancaster County (South-Western Division), v. Sir Richard Assheton Cross, baronet, Secretary of State. For Woodstock Borough, v Right honble. Randolph Henry Spencer Churchill, commonly called Lord Randolph Churchill, Secretary of State. For Westminster City, v Right honble. William Henry Smith, Secretary of State. For Lancaster County (Northern Division), v. Right honble. Frederick Arthur Stanley, Secretary of State. For Launceston Borough, v Sir Hardinge Stanley Giffard, knight, Lord Chancellor of Great Britain. For Dublin University, v. Right honble. Edward Gibson, Lord Chancellor of Ireland. For Middlesex County, v. Right honble. George Francis Hamilton, commonly called Lord George Hamilton, First Lord of the Admiralty. For Leicester County (Northern Division), v. Right honble. John James Robert Manners, Postmaster General. For Lincoln County (Mid Division), v Honble. Edward Stanhope, Vice President of the Council. For Lincoln County (Mid Division), v Henry Chaplin, esquire, Chancellor of the Duchy of Lancaster. For Hertford Borough, v Arthur James Balfour, esquire, President of the Local Government Board. For Dublin University, v. Right honble. David Robert Plunket, First Commissioner of Works. For Kent County (Mid Division), v Right honble. Sir William Hart Dyke, baronet, Chief Secretary to the Lord Lieutenant of Ireland.

@@ -1,0 +1,9 @@
+<FileID>138144</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/southwark-and-vauxhall-water-bill-lords</URL>
+<Title>Southwark and Vauxhall Water Bill [Lords] (By Order)</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 cc238-41</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>5</WordCount>
+
+cc238-41 SECOND READING. 1,142 words

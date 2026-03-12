@@ -1,0 +1,9 @@
+<FileID>137073</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/04/notice-of-motion</URL>
+<Title>Notice of Motion</Title>
+<DebRef>HC Deb 04 June 1885 vol 298 c1193</DebRef>
+<SittingDate>1885-06-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>9</WordCount>
+
+c1193 PREVENTION OF CRIME (IRELAND) ACT, 1SS2—RENEWAL. 92 words

@@ -1,0 +1,11 @@
+<FileID>136963</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/supply-the-vote-of-credit</URL>
+<Title>Supply—the Vote of Credit</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1015</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>95</WordCount>
+
+
+<speaker>MR. SALT</speaker> asked Mr. Chancellor of the Exchequer, inasmuch as it appears that £7,250,000 were spent previous to the passing of the Vote of Credit, From what sources and on what authority-such large sums of money were drawn? 
+<speaker>MR. HIBBERT</speaker> (who replied) said: My right hon. Friend did not say that £7,250,000 had been spent. He said that it had either been spent, or was due for liabilities incurred. The actual expenditure of the Army and Navy up to date is quite within the sums already granted by Parliament, exclusive of the Vote of Credit.

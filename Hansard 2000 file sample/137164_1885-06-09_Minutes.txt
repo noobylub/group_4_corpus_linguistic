@@ -1,0 +1,9 @@
+<FileID>137164</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/09/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 09 June 1885 vol 298 c1517</DebRef>
+<SittingDate>1885-06-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>42</WordCount>
+
+PUBLIC BILLS— Second Reading —Drainage and Improvement of Lands (Ireland) Provisional Order (No. 2) ٭ [192]; Local Government Provisional Orders (No. 5) ٭ [196]; Local Government Provisional Orders (No. 6) ٭ [197]; Local Government Provisional Orders (Poor Law) (No. 9) ٭ [198].

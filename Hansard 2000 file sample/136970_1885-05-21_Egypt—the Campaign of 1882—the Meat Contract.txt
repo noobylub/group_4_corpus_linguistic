@@ -1,0 +1,10 @@
+<FileID>136970</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/egypt-the-campaign-of-1882-the-meat</URL>
+<Title>Egypt—the Campaign of 1882—the Meat Contract</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1019-20</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>89</WordCount>
+
+DR. CAMERON asked the Surveyor General of Ordnance, Whether the claim against the Government for compensation in connection with the meat contract for the British Army in the Egyptian Campaign of 1882 has yet been settled; and, if so, how? 
+<speaker>MR. BRAND</speaker> The claim in question was submitted to the arbitration of Mr. Holl, Q.C., who gave a decision in February last. The War Office offered £9,000 without costs, and the contractors claimed over £24,000. The award, including contractors' costs, which were borne by the Government, amounted to £15,730.

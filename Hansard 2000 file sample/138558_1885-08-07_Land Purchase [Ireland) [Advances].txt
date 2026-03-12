@@ -1,0 +1,13 @@
+<FileID>138558</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/land-purchase-ireland-advances</URL>
+<Title>Land Purchase [Ireland) [Advances]</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 cc1522-3</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>129</WordCount>
+
+Resolution [6th August] reported. That it is expedient to authorise Advances out of the Consolidated Fund of the United Kingdom, of any sum or sums of money not exceeding £5,000,000 in the whole, to enable the Land Commission in Ireland to make Advances for the purchase of estates, in pursuance of the provisions of any Act of the present Ses- sion, for providing greater facilities for the sale of laud to occupying tenants in Ireland. 
+<speaker>MR. LEA</speaker> wished to ask what time on Monday this Resolution would come on? 
+<speaker>THE SECRETARY TO THE TREASURY (Mr. AKERS-DOUGLAS)</speaker> said, it would be the second Order. 
+<speaker>MR. LEA</speaker> asked whether it would come on before 12 o'clock? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> I hope so. Resolution agreed to.

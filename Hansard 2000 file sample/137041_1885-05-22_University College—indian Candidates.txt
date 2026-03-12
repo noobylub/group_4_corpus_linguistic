@@ -1,0 +1,11 @@
+<FileID>137041</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/22/university-college-indian-candidates</URL>
+<Title>University College—indian Candidates</Title>
+<DebRef>HC Deb 22 May 1885 vol 298 c1146</DebRef>
+<SittingDate>1885-05-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>166</WordCount>
+
+
+<speaker>BARON HENRY DE WORMS (for Mr. R. N. FOWLER, Lord Mayor)</speaker> asked the Under Secretary of State for India, Whether the Secretary of State has received a communication from the Council of University College, applying for his sanction to their announcement, in the Circular which is on the point of being issued by the Civil Service Commissioners to candidates selected for the Civil Service of India, that residence at the College is permitted in the houses of persons approved by the Council, on the same terms as have been sanctioned at other places of education; and, whether it is the intention to refuse such sanction? 
+<speaker>MR. J. K. CROSS</speaker> The Secretary of State has received a communication from the Council of University College asking that selected Indian candidates passing their two years' probation at that College may be allowed to reside either in the University Hall, or with one of the Professors, or with a person approved by the Council. That application is now under consideration.

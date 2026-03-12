@@ -1,0 +1,10 @@
+<FileID>137328</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/high-court-of-justice-the-chancery</URL>
+<Title>High Court of Justice—the Chancery Division</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 c1832</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>146</WordCount>
+
+
+<speaker>MR. INCE</speaker> asked Mr. Attorney General, Whether, considering the fact that the suitors of the Chancery Division cannot select the Court in which to try their causes, and that there is a great variation in the rate of speed with which causes are tried in different Courts, there is any likelihood of such a change of practice being established by authority, either by way of a rota of judges, or otherwise, as will give to each suitor an equal chance of having his case heard within a given time? THE ATTORNEY GENERAL (Mr. WEBSTER) said, the hon. Member was no doubt aware that a Committee, presided over by the Master of the Rolls, had been investigating the question; and as their Report would shortly be laid before the Lord Chancellor, it would be unwise to express an opinion on the point until that Report was presented.

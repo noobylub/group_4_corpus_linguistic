@@ -1,0 +1,10 @@
+<FileID>137138</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/egypt-the-port-of-suakin</URL>
+<Title>Egypt—the Port of Suakin</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 c1407</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>78</WordCount>
+
+
+<speaker>MR. H. S. NORTHCOTE (for Mr. MACIVER)</speaker> asked the First Lord, of the Treasury, If his attention has been called to the commercial value of the Port of Suakin, and to its possible usefulness as a coaling station on the road to India; and, whether it is the intention of Her Majesty's Government to abandon voluntarily the position? MR. GLADSTONE Her Majesty's Government have not yet been able to decide what course it will be proper to pursue.

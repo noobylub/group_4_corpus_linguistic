@@ -1,0 +1,11 @@
+<FileID>138084</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/intermediate-education-ireland</URL>
+<Title>Intermediate Education (Ireland) —Examinations</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c58</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>83</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Why the examination papers for the Irish Intermediate Examinations, which in every previous year had been printed in Dublin, were printed this year in London; and, whether the former practice will be resumed? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> I am informed that the Board of Intermediate Education consider it a matter of extreme importance that the place where their examination papers are printed should not be disclosed.

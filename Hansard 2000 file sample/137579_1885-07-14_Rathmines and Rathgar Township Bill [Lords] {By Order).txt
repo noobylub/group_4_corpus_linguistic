@@ -1,0 +1,9 @@
+<FileID>137579</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/rathmines-and-rathgar-township-bill</URL>
+<Title>Rathmines and Rathgar Township Bill [Lords] {By Order)</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 cc635-53</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>4</WordCount>
+
+cc635-53 CONSIDERATION. 6,808 words

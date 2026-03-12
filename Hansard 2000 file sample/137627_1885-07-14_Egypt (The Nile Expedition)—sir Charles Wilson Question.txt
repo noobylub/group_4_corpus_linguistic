@@ -1,0 +1,10 @@
+<FileID>137627</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/14/egypt-the-nile-expedition-sir-charles</URL>
+<Title>Egypt (The Nile Expedition)—sir Charles Wilson Question</Title>
+<DebRef>HL Deb 14 July 1885 vol 299 c609</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>123</WordCount>
+
+VISCOUNT ENFIELD asked the Under Secretary of State for War, Whether there would be any objection to give official publicity to the following telegram which was sent by the Marquess of Hartington on or about 11th February 1885, to General Lord Wolseley, but which does not appear in the Papers recently presented to Parliament —viz.: Express warm recognition of Government of brilliant services of Sir Charles Wilson, and satisfaction at gallant rescue of his party. 
+<speaker>THE UNDER SECRETARY OF STATE (Viscount BURY)</speaker> I believe that the omission of the telegram was an accident. The Papers in question were published by the Foreign Office, and furnished by the War Office, and by some means the telegram was omitted; but it will now be published.

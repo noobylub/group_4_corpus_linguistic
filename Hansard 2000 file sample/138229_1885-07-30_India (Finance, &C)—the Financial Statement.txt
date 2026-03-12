@@ -1,0 +1,12 @@
+<FileID>138229</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/india-finance-c-the-financial-statement</URL>
+<Title>India (Finance, &C)—the Financial Statement</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c526</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>90</WordCount>
+
+
+<speaker>SIR ROBERT FOWLER (LORD MAYOR)</speaker> I should like to ask the noble Lord the Secretary of State for India, When he proposes to bring in the Indian Budget? If the noble Lord cannot answer me I will put the Question to the Chancellor of the Exchequer. 
+<speaker>THE SECRETARY OF STATE (Lord RANDOLPH CHURCHILL)</speaker> I should be greatly obliged to the right hon. Baronet if he will obtain that information for me from the Chancellor of the Exchequer. 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I am afraid I cannot answer the appeal.

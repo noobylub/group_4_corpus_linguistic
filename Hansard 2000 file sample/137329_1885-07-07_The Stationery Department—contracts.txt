@@ -1,0 +1,13 @@
+<FileID>137329</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/the-stationery-department-contracts</URL>
+<Title>The Stationery Department—contracts</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 cc1832-3</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>201</WordCount>
+
+
+<speaker>MR. BROADHURST</speaker> asked the Secretary to the Treasury, Whether complaints had reached the Treasury as to the mode of issuing contracts by the Stationery Department, whereby competition had been practically reduced to a few firms; and whether some system would be adopted enabling firms paying the full trade wages to compete for Government work in the future? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND),</speaker> in reply, said, he was happy to inform the hon. Member for Stoke that new draft forms of contract had been prepared and would be submitted to the Treasury in a few days. Very large alterations had been made in the schedules and prices, and the prices were now so arranged that anyone could understand them. The intention was, he believed, to publish these prices about September, and ample time would be given to anyone tendering to make the necessary arrangements. 
+<speaker>MR. BROADHURST</speaker> asked whether the terms of contract and the form could be issued before the rising of the House, to allow of any suggestions being made as to the alterations? 
+<speaker>THE SECRETARY TO THE TREASURY</speaker> said, he should certainly hope so, though he should not like to give any distinct pledge on the subject.

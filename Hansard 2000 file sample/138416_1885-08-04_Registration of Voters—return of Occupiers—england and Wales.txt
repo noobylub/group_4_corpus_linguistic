@@ -1,0 +1,11 @@
+<FileID>138416</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/registration-of-voters-return-of</URL>
+<Title>Registration of Voters—return of Occupiers—england and Wales</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1051</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>97</WordCount>
+
+
+<speaker>MR. WOODALL</speaker> asked the Under Secretary of State for the Home Department, When the Return of Male and Female Occupiers in England and Wales, presented on the 15th of June, and ordered to be printed on the 9th of July, will be distributed among Members of the House? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. STUART-WORTLEY)</speaker> The Return has been with the printer since the order for printing was made. The proofs have been received in the Home Office this morning, and the Return will no doubt be ready for distribution in the course of a few days.

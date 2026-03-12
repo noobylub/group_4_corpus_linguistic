@@ -1,0 +1,9 @@
+<FileID>137429</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/river-thames-no-2-bill-bill-90</URL>
+<Title>River Thames (No 2) Bill— [Bill 90]</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c238</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>18</WordCount>
+
+( Mr. Story-Maskelyne, Sir Michael Hicks-Beach, Mr. Elton, Mr. Walter James, Mr. Sellar, Colonel Makins, Mr. Molloy. )

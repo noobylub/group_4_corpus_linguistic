@@ -1,0 +1,13 @@
+<FileID>137134</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/central-asia-the-afghan-boundary</URL>
+<Title>Central Asia—the Afghan Boundary Commission—sir Peter Lumsden</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 cc1404-5</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>356</WordCount>
+
+
+<speaker>MR. ARTHUR ARNOLD</speaker> asked the Under Secretary of State for India, Whether the attention of Lord Kimberley has been given to statements reported to have been made by Sir Peter Lumsden to a correspondent of The Times in Austria; whether Sir Peter Lumsden still holds a Commission for the delimitation of the Afghan frontier; whether he has offered any explanation of the words he is reported to have used— That the evacuation of Candahar was a mistake on the part of the Gladstone Cabinet, and that it has been the origin of all the subsequent trouble. and, whether records of the India Office confirm the communication addressed by Sir Lepel Griffin to The Times, in the following words:— While the Conservative Government were in power I was directed by the Viceroy to declare at Cabul and repeatedly did so declare that the British Government had no intention of occupying permanently or annexing Candahar? 
+<speaker>MR. J. K. CROSS</speaker> I will take the opportunity, while answering the Question of the hon. Member for Salford, of answering' also the Question of the hon. Member for Mid Lincolnshire. 
+<speaker>MR. CHAPLIN</speaker> After the answer given by the Prime Minister the other day, I do not mean to put it. 
+<speaker>MR. J. K. CROSS</speaker> Then I shall answer the Question of the hon. Member for Salford (Mr. Arthur) Arnold.) The attention of the Prime Minister and of the Secretary of State for India has been directed to the statements attributed to Sir Peter Lumsden, and described in this Question. Sir Peter Lumsden's position as Commissioner has not been annulled. Sir Peter Lumsden has always held and asserted, regardless of Party questions, the opinion that the evacuation of Candahar was an error. In regard to the other Question, he does not consider himself in any way responsible for alleged utterances incorrectly reported by newspaper correspondents, and he disavows any intention of making any attack upon the Government under which he has been serving. In reply to the paragraph in my hon. Friend's Question respecting Sir Lepel Griffin's letter, I may say that it is quite true that Sir Lepel Griffin wrote this letter.

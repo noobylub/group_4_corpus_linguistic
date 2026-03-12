@@ -1,0 +1,11 @@
+<FileID>138531</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/education-ireland-industrial-school-at</URL>
+<Title>Education (Ireland)—industrial School at Ballaghadarreen, Co Mayo</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 cc1451-2</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>142</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If he will now issue a certificate for the Industrial School for girls which the Catholic Bishop of Achonry desires to establish at Ballaghaderreen, county Mayo? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> No, Sir; the utmost I could do would be to promise that this case should be considered with others when next year's Estimates are being framed; but I feel that I would not be justified now in saying anything which would encourage the promoters of this or other schools to incur expense in anticipation of the possibility of receiv- ing a certificate. It must be borne in mind that numerous applications of this kind are made to the Government by benevolent persons in different parts of the country, the majority of which must, of necessity, be refused.

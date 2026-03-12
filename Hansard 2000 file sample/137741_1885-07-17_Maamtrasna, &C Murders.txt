@@ -1,0 +1,9 @@
+<FileID>137741</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/maamtrasna-c-murders</URL>
+<Title>Maamtrasna, &C Murders</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 cc1064-150</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>4</WordCount>
+
+cc1064-150 RESOLUTION. 34,360 words

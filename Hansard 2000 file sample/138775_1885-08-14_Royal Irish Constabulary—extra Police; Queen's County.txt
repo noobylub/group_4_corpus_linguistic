@@ -1,0 +1,11 @@
+<FileID>138775</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/14/royal-irish-constabulary-extra-police</URL>
+<Title>Royal Irish Constabulary—extra Police; Queen's County</Title>
+<DebRef>HC Deb 14 August 1885 vol 301 c37</DebRef>
+<SittingDate>1885-08-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>98</WordCount>
+
+
+<speaker>MR. ARTHUR O'CONNOR</speaker> asked Mr. Chancellor of the Exchequer, Whether, if the authorities in Dublin do not object, the Treasury will accede to the recommendations of the Justices of Queen's County, that the extra police shall be withdrawn, and that in the future the county force shall consist of 215 men? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> , in reply, said, that he did not think the number of police in any county could be altered separately. It would, however, of course, be his duty to consider any representation that might be made to the Treasury on the subject.

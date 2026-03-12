@@ -1,0 +1,9 @@
+<FileID>138045</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/26/giants-causeway-portrush-and-bush-valley</URL>
+<Title>Giant's Causeway, Portrush, and Bush Valley Railway and Tramways Dill</Title>
+<DebRef>HL Deb 26 July 1885 vol 300 cc213-4</DebRef>
+<SittingDate>1885-07-26</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc213-4 THIRD READING. 79 words

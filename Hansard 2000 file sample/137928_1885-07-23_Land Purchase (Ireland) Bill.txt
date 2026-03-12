@@ -1,0 +1,11 @@
+<FileID>137928</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/land-purchase-ireland-bill</URL>
+<Title>Land Purchase (Ireland) Bill</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1624</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>115</WordCount>
+
+
+<speaker>MR. SMALL</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the Government intend to introduce into the Irish Land Purchase Bill any provision for the relief of the purchasers of church and glebe lands, or any provision to enable such purchasers to obtain a loan of the balance of the purchase-money due to the Irish Land Commissioners at a less rate than that which they have to pay said Commissioners, namely, five and a-half per cent.? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> This matter is at present under consideration; but the time at the disposal of the Government renders it difficult for them to incur fresh legislative obligations without great circumspection.

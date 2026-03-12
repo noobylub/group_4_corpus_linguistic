@@ -1,0 +1,10 @@
+<FileID>138534</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/lotteries-act-foreign-lotteries</URL>
+<Title>Lotteries Act—foreign Lotteries</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 cc1453-4</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>197</WordCount>
+
+
+<speaker>MR. CLARE READ</speaker> asked Mr. Attorney General, If his attention has been called to an advertisement of a Foreign lottery in The English Labourer's Chronicle, headed "A Fortune," in which the labourers are invited to speculate on the chance of winning prizes; whether such a publication is contrary to the Lotteries Act ; and, whether, upon a reappearance of this or similar advertisements, proceedings will be taken against the publishers and proprietors of the newspaper? THE SOLICITOR GENERAL (Sir JOHN GORST) (who replied) said: In reply to my hon. Friend, I have to say that the lottery in question is contrary to the Lottery Acts, and renders the printer and publisher liable to a penalty of £50. An action to recover the penalty can only be brought with the sanction of the Attorney General or the Solicitor General. In reply to the second part of the Question, my answer is that upon the reappearance of such advertisements, if the hon. Member or any of his friends desires to sue for these penalties, if they put themselves in communication with me I shall be happy to allow them to use my name in the action on certain conditions.

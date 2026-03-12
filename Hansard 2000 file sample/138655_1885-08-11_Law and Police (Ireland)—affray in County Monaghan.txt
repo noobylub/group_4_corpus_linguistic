@@ -1,0 +1,13 @@
+<FileID>138655</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/law-and-police-ireland-affray-in-county</URL>
+<Title>Law and Police (Ireland)—affray in County Monaghan</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1740-1</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>369</WordCount>
+
+
+<speaker>MR. HEALY</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, What are the facts with regard to the attack made by an armed Orange Expedition on some Catholics in county Monaghan on Thursday last; what is the condition of the wounded man whom they fired on; is it usual for bail to be I taken, as in this case, for persons ac- cused of attempted murder against the expressed wish of the police authorities; will the Government give instructions that armed bands cannot be allowed to proceed through the country in the way these Orangemen have done, letting off shots and using insulting expressions amongst a Catholic population; is it true, as stated in The Freeman's Journal of August 10th, that the leaders of the rioters were Dr. Hall, Medical Officer to the Monaghan Workhouse; Mr. John Johnson, Deputy Clerk of the Peace for Monaghan; and Mr. Jackson, J.P., Manager of the Bank of Ireland, Castleblayney; if so, will persons holding official positions be retained in the public service; and, will the Government consider the advisability of indicting the organisers of the movement on a charge of conspiracy to murder? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> As proceedings are at present pending against three men in connection with this affair, I am advised that it would not be right for me to make any statement in reference thereto, or to the conduct of any person connected with it. The legal questions involved will be dealt with by the Attorney General in due course when the depositions shall have been sent to him by the Crown Solicitor. I understand the wounded boy is progressing favourably. 
+<speaker>MR. HEALY</speaker> Would the right hon. Baronet have any objection to state whether these three men who are referred to—Dr. Hall, Medical Officer of the Monaghan Workhouse; Mr. John Johnson, Deputy Clerk of the Peace for Monaghan; and Mr. Jackson, J.P., Manager of the Bank of Ireland, Castleblayney—were the leaders of this armed band; and, whether persons occupying official positions would be allowed to parade through the country at the head of an organization of this kind with arms? 
+<speaker>THE CHIEF SECRETARY</speaker> said, he could add nothing to what he had said.

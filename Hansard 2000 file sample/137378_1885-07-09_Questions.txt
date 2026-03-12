@@ -1,0 +1,9 @@
+<FileID>137378</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/questions</URL>
+<Title>Questions</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c112</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>7</WordCount>
+
+c112 IRISH LAND COMMISSION—FAIR RENTS. 126 words

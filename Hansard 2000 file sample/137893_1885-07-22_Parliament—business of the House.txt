@@ -1,0 +1,13 @@
+<FileID>137893</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/22/parliament-business-of-the-house</URL>
+<Title>Parliament—business of the House</Title>
+<DebRef>HC Deb 22 July 1885 vol 299 c1517</DebRef>
+<SittingDate>1885-07-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>113</WordCount>
+
+
+<speaker>MR. JAMES STUART</speaker> asked, Whether it was the intention of the Government to bring on the Criminal Law Amendment Bill on Monday? 
+<speaker>THE SECRETARY OF STATE FOB THE HOME DEPARTMENT (Sir R. ASSHETON CROSS)</speaker> said, he could say nothing about proceeding with the Bill, anxious as he was to press it on, until the House had disposed of the Medical Relief Bill , and probably also the Army Estimates. 
+<speaker>MR. MONK</speaker> asked whether the Report on the Medical Relief Bill would be taken tomorrow? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETOX CROSS)</speaker> said, it was better to say nothing about Business until they saw what progress was made today with the Irish Estimates.

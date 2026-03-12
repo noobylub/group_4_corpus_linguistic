@@ -1,0 +1,9 @@
+<FileID>136928</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/19/registration-occupation-voters-bill-no</URL>
+<Title>Registration (Occupation Voters) Bill—(no 111)</Title>
+<DebRef>HL Deb 19 May 1885 vol 298 c889</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+( The Lord Chancellor. )

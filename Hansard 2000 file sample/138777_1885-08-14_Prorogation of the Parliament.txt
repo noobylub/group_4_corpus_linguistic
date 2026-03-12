@@ -1,0 +1,9 @@
+<FileID>138777</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/14/prorogation-of-the-parliament</URL>
+<Title>Prorogation of the Parliament</Title>
+<DebRef>HC Deb 14 August 1885 vol 301 c38</DebRef>
+<SittingDate>1885-08-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>134</WordCount>
+
+Message to attend The LORDS COMMISSIONERS— The House went; — and a Royal Commission to that purpose having been read, the Royal Assent was given to several Bills. And afterwards Her Majesty's Most Gracious Speech was delivered to both Houses of Parliament by the Lord High Chancellor (in pursuance of Her Majesty's Command). Then a Commission for proroguing the Parliament was read. After which, THE LORD CHANCELLOR said— My Lords, and Gentlemen , By virtue of Her Majesty's Commission, under the Great Seal, to us and other Lords directed, and now read, we do, in Her Majesty's Name and in obedience to Her Commands, prorogue this Parliament to Saturday the 31st day of October next, to be then here holden; and this Parliament is accordingly prorogued to Saturday the 31st day of October next.

@@ -1,0 +1,11 @@
+<FileID>138642</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/army-the-army-reserve</URL>
+<Title>Army—the Army Reserve</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1730-1</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>148</WordCount>
+
+
+<speaker>MR. HARRIS</speaker> asked the Secretary of State for War, If he will inform the House as to the date at which he thinks the Reserve Forces may reasonably expect to be relieved from their duties; and, if steps could be taken, under any circumstances, for the married men to be allowed to return to their families? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> I hope it will very shortly be in my power to relieve the men of the Reserve from their duties with the Colours for the present, taking such other steps as may be necessary to maintain the defensive Forces of this country in a condition of preparation and efficiency. Furlough has already been granted to men who have had situations kept open for them; and arrangements will be made at once to relieve the married men who may desire to return to their families.

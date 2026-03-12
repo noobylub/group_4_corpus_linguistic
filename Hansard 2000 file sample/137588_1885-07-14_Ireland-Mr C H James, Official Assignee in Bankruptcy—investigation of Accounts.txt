@@ -1,0 +1,11 @@
+<FileID>137588</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/ireland-mr-c-h-james-official-assignee</URL>
+<Title>Ireland-Mr C H James, Official Assignee in Bankruptcy—investigation of Accounts</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 cc656-7</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>177</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If it is true that the inquiry into the accounts of Mr. Charles Henry James, of Dublin, official assignee in bankruptcy, has been abandoned or suspended, upon the plea that there is no fund out of which the cost of the inquiry could be provided; and, whether the Government will undertake that the funds set apart for the purposes of public justice shall, if needful, be applied to the prosecution and completion of this inquiry? 
+<speaker>THE CHIEF SECRETAEY (Sir WILLIAM HART DYKE)</speaker> It is quite true that an inquiry into the accounts of Mr. James, which had been ordered by the Judges, had to be suspended in consequence of there being no fund to meet the cost of it, which is expected to be very heavy; but the matter having been brought to the notice of the Government, we think that the inquiry must go on and be completed without delay, and we are now considering how effect can best be given to this decision.

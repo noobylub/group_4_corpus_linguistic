@@ -1,0 +1,9 @@
+<FileID>137625</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/14/the-wellington-statue-re-erection-at</URL>
+<Title>The Wellington Statue—re-Erection at Aldershot</Title>
+<DebRef>HL Deb 14 July 1885 vol 299 cc608-9</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>15</WordCount>
+
+cc608-9 QUESTIONS. OBSERVATIONS. 391 words c609 EGYPT (THE NILE EXPEDITION)—SIR CHARLES WILSON. QUESTION. 115 words

@@ -1,0 +1,12 @@
+<FileID>137725</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/industrial-schools-ireland</URL>
+<Title>Industrial Schools (Ireland)</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 c1057</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>211</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether, in view of the substantial increase this year in the amount of the Vote for Reformatory and Industrial Schools (Ireland), the Government will now accede to the application made some time age by the Most Rev. Dr. M'Cormack, Catholic Bishop of Achony, to obtain a certificate for an Industrial School for girls at Ballaghaderreen, county Mayo, to be conducted under his superintendence; and, whether the Government, in considering this matter, will have regard to the circumstance that there is only one school of the hind in the province of Connaught? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> The increase in the Estimates for the current year is intended to meet cases in which increased certificates have already been granted, and no provision has been made for the school to which the hon. Member refers. I should point out that the hon. Member is under a mistake as to the number of industrial schools in the Province of Connaught, there being 10 for girls, and one for boys. 
+<speaker>MR. SEXTON</speaker> In considering this matter will the right hon. Baronet bear in mind that the number of children in the other schools is in excess of their certificates?

@@ -1,0 +1,9 @@
+<FileID>138463</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/05/consolidated-fund-appropriation-bill</URL>
+<Title>Consolidated Fund (Appropriation) Bill</Title>
+<DebRef>HC Deb 05 August 1885 vol 300 cc1200-28</DebRef>
+<SittingDate>1885-08-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>28</WordCount>
+
+( Sir Arthur Otway, Mr. Chancellor of the Exchequer, Sir Henry Holland. ) c1200 THIRD READING. 19 words cc1200-28 EGYPT (FINANCE, &c.)—POLICY OF HER MAJESTY'S GOVEEXMEXT. 11,216 words

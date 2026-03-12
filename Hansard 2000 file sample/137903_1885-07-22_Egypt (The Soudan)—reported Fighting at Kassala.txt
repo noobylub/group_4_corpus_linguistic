@@ -1,0 +1,11 @@
+<FileID>137903</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/22/egypt-the-soudan-reported-fighting-at-1</URL>
+<Title>Egypt (The Soudan)—reported Fighting at Kassala</Title>
+<DebRef>HC Deb 22 July 1885 vol 299 c1594</DebRef>
+<SittingDate>1885-07-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>79</WordCount>
+
+
+<speaker>SIR WILFRID LAWSON</speaker> asked Mr. Chancellor of the Exchequer, Whether there was any truth in the report which had appeared in the newspapers of a great slaughter of Arabs having taken place at Kassala; and whether he had received any information on the subject? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> There appears to have been an attack made upon Kassala, and the attacking party appears to have been defeated. As to the amount of slaughter the Government have no information.

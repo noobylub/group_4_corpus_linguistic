@@ -1,0 +1,9 @@
+<FileID>137153</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/08/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 08 June 1885 vol 298 c1360</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>66</WordCount>
+
+PUBLIC BILLS— Second Reading —Gas Provisional Orders (No. 1) * (108). Committee —Parliamentary Elections (Redistribution) (109–129). Committee—Report —Local Government (Ireland) Provisional Orders ( Public Health Act ) (No. 2) * (83); Metropolis (Hughes Fields, Deptford) Provisional Order Confirmation * (82); Metropolis (Tabard Street, Newington) Provisional Order Confirmation * (81); East India Unclaimed Stocks * (113). Third Reading —Local Authorities (Expenses of Conferences) * (118), and passed.

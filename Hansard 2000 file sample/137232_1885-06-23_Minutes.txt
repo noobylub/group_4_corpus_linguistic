@@ -1,0 +1,9 @@
+<FileID>137232</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/23/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 23 June 1885 vol 298 c1607</DebRef>
+<SittingDate>1885-06-23</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>50</WordCount>
+
+PUBLIC BILLS— First Reading —Local Government Provisional Orders (No. 5)* (152); Local Government Provisional Orders (No. 6)* (153). Second Reading —Gas and Water Provisional Orders (No. 2)* (136); Water Provisional Orders* (137); Yorkshire Registries * (133); Women's Suffrage (27), negatived. Third Reading —Burial Boards (Contested Elections) * (105), and passed.

@@ -1,0 +1,9 @@
+<FileID>137895</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/22/orders-of-the-day</URL>
+<Title>Orders of the Day</Title>
+<DebRef>HC Deb 22 July 1885 vol 299 cc1518-93</DebRef>
+<SittingDate>1885-07-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>25</WordCount>
+
+c1518 SUPPLY—CIVIL SERVICE ESTIMATES. 6 words cc1518-93 CLASS III. — LAW AND JUSTICE. 29,828 words c1593 CLASS IV. — EDUCATION-, SCIENCE, AND ART. 23 words

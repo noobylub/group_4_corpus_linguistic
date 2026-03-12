@@ -1,0 +1,11 @@
+<FileID>136850</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/the-magistracy-ireland-cappawhite</URL>
+<Title>The Magistracy (Ireland)—cappawhite Presentment Sessions</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 cc706-7</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>232</WordCount>
+
+
+<speaker>MR. JOHN O'CONNOR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether it is a fact that the presentment sessions advertised to be held on the 30th April at Cappa white for the barony of Upper Kilnemanagh, county Tipperary, fell through in consequence of the nonattendance of magistrates, although the required number of associated cess payers were present; whether, if no sessions be held in the barony before the next assizes, DO presentment for that barony can be fiated, although there are upwards of 200 road contractors and others who, having completed their contracts, await payment at next assizes, but who will not receive their moneys on account of the noncompliance with the provisions of 6 and 7 Will. 4, c. 116; and, whether it is intended to apply any remedj^ to this state of things by enabling the cess payers to proceed with the business without magistrates if the latter do not choose to attend, especially in view of the fact that some of the magistrates are frequently not payers of cess? 
+<speaker>MR. CAMPBELL-BANNERMAN</speaker> I am informed that the facts are correctly stated in the first paragraph of the Question. There is no power in the Government to direct the holding of a special Sessions. I shall ask to be advised as to what steps, if any, can be taken to remedy any public in conveinence that may occur.

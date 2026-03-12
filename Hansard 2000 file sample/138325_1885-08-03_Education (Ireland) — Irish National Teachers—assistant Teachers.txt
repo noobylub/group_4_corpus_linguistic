@@ -1,0 +1,11 @@
+<FileID>138325</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/education-ireland-irish-national</URL>
+<Title>Education (Ireland) — Irish National Teachers—assistant Teachers</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c824</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>163</WordCount>
+
+
+<speaker>MR. KENNY</speaker> asked Mr. Chancellor of the Exchequer, Whether, in the event of his Government being in office next Session, he will consider the necessity of removing, with as little delay as possible, the anomaly in the system of payment of Irish National Teachers, by which assistant teachers are deprived of a considerable part of the salaries to which their classes entitle them, and of maintaining a system under which no assistant in an ordinary National School can receive more than a third-class salary though he may have actually attained to the grade of first-class? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER,</speaker> in reply, said, that no doubt this Question referred to a matter of importance. It was, however, a matter of detail in the arrangements of the Board of National Education in Ireland, with which it was not his province to interfere. If, however, any proposal on the subject was brought under his notice by the Board, he should be glad to consider it.

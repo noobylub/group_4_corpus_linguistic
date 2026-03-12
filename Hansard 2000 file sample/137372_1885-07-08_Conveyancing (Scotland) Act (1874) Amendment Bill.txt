@@ -1,0 +1,9 @@
+<FileID>137372</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/08/conveyancing-scotland-act-1874-amendment</URL>
+<Title>Conveyancing (Scotland) Act (1874) Amendment Bill</Title>
+<DebRef>HC Deb 08 July 1885 vol 299 c84</DebRef>
+<SittingDate>1885-07-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>39</WordCount>
+
+On Motion of Dr. CAMERON', Bill to amend "The Conveyancing (Scotland) Act, 1874 ," ordered to he brought in by Dr. CAMERON, Sir LYON PLAYFAIR, Mr. BAXTER, and Mr. COCHRAN-PATRICK. BILL presented, and read the first time. [Bill 220.]

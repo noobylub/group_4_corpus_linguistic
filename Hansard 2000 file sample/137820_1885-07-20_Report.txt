@@ -1,0 +1,10 @@
+<FileID>137820</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/20/report</URL>
+<Title>Report</Title>
+<DebRef>HL Deb 20 July 1885 vol 299 cc1160-1</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>221</WordCount>
+
+Amendments reported (according to order). THE EARL OF MILLTOWN said, he wished to call attention to an Amendment which, had been accepted by the noble Lord in charge of the Bill (Lord Carlingford) on a Motion of a Peer sitting on the opposite side of the House. The Bill originally proposed that no person should be allowed to vote at an election of Poor Law Guardians who had not paid his rates within two months of the election. This period the Amendment had altered to one month. He (the Earl of Milltown) took exception to the change, as against the opinion of the Select Committee of their Lordships' House to whom the measure had been referred, and who had given it the closest investigation. He pointed out that the noble Lord who had brought forward the Amendment had not been a Member of that Committee, and complained that a private opinion of that kind had been preferred to that of a Select Committee. He moved to leave out the words "one month," in order to insert "two months." Amendment moved, In page 4, line 12, to leave out ("one month,") and insert ("two months.")—( The Earl of Milltoun. ) 
+<speaker>LORD CARLINGFORD</speaker> said, he would assent to the Amendment. Amendment agreed to; words substituted accordingly. Bill to be read 3 a Tomorrow.

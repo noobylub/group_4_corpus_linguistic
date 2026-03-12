@@ -1,0 +1,9 @@
+<FileID>137951</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/lands-held-in-mortmain</URL>
+<Title>Lands Held in Mortmain</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1679-730</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>11</WordCount>
+
+cc1679-729 RESOLUTION. 18,840 words cc1729-30 PARLIAMENT—BUSINESS OF THE HOUSE. 170 words

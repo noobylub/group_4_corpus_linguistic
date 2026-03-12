@@ -1,0 +1,10 @@
+<FileID>137463</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/parliament-the-dissolution-postponement</URL>
+<Title>Parliament—the Dissolution-Postponement of School Board Elections</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 c286</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>132</WordCount>
+
+
+<speaker>SIR CHARLES W. DILKE</speaker> said, he would like to give Notice of a Question on this subject after the right hon. Gentleman the Chancellor of the Exchequer had had an opportunity of consulting with his Colleagues. It was, Whether the Government would take steps to carry out what had been the intention of the late Government—to give power to the Education Department to put off those School Board Elections, which would fall at the exact time of the General Election? Many School Boards did not attach importance to the postponement of their election, and the late Government had a strong impression of the inconvenience which would be caused to Parliamentary candidates and others, especially in London, where the School Board Elections would fall at exactly the same time as the General Election.

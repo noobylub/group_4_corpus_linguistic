@@ -1,0 +1,12 @@
+<FileID>138092</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/royal-commission-on-the-depression-of</URL>
+<Title>Royal Commission on the Depression of Trade and Industries</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c62</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>139</WordCount>
+
+
+<speaker>MR. ATKINSON</speaker> asked Mr. Chancellor of the Exchequer, Whether it is true, as stated in yesterday's Times, that Sir T. H. Farrer has been invited to accept nomination as a member of the Royal Commission on Depression of Trade, he having published a pamphlet on that subject, and his opinions therefore being already well known? 
+<speaker>MR. ARTHUR ARNOLD</speaker> I wish to ask whether it is true, as reported, that two right hon. Gentlemen and two hon. Members of this House have declined to serve on this Commission? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> It is not true that Sir Thomas Farrer has been invited to accept nomination as a Member of this Commission. As regards the Question of the hon. Member for Salford, I scarcely think it would be well to make a statement on the subject.

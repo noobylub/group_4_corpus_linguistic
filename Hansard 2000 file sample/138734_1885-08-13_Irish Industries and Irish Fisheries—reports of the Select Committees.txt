@@ -1,0 +1,13 @@
+<FileID>138734</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/irish-industries-and-irish-fisheries</URL>
+<Title>Irish Industries and Irish Fisheries—reports of the Select Committees</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 cc23-4</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>135</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Government, What was the cause of the great delay in the Reports of the Select Committees upon Irish Industries and Irish Fisheries? He would like to be informed when they would be circulated. He had also obtained a Return showing the favourable records granted to the Royal Irish Constabulary, and would move that the Return be printed with a view to its being circulated. 
+<speaker>MR. SPEAKER</speaker> I would remind the hon. Member that every Report of a Select Committee is printed in the ordinary course. 
+<speaker>MR. SEXTON</speaker> It is the printing of the Return, not the Reports, which I have moved for. 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> was understood to give the hon. Member an undertaking that the Return as to the Constabulary records would be printed and circulated.

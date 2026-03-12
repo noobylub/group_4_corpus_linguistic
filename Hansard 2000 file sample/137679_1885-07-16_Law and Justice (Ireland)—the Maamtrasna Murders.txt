@@ -1,0 +1,11 @@
+<FileID>137679</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/law-and-justice-ireland-the-maamtrasna</URL>
+<Title>Law and Justice (Ireland)—the Maamtrasna Murders</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c921</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>237</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the Government are aware that Michael Casey, now suffering penal servitude, has intimated his wish to make a statement respecting the Maamtrasna murders; whether any opportunity to make this statement has been afforded, or will be afforded, to him; and, whether the Government will lay upon the Table, before the Motion of the honourable Member for the city of Cork, which stands for Friday the 17th instant, is discussed, a Copy of the statements made, with reference to the Maamtrasna murders, by Patrick Casey and Patrick Joyce, before their execution at Galway on the 15th of December 1882? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> Since Notice of this Question was given, it has been intimated to the General Prisons Board by the Governor of Maryborough Prison, that the convict Michael Casey desires to make a statement respecting the murders referred to. The convict will be informed that any statement he wishes to advance may be embodied in a Memorial to which the Lord Lieutenant will give careful consideration. The rule as to such statements as those referred to in the last portion of this Question has been frequently stated in the House, and I am advised that it is one which, in the interests of justice, should be invariably adhered to, and that they should not be laid upon the Table.

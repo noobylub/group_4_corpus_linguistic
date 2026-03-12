@@ -1,0 +1,9 @@
+<FileID>137492</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/10/criminal-law-amendment-bill</URL>
+<Title>Criminal Law Amendment Bill</Title>
+<DebRef>HL Deb 10 July 1885 vol 299 c275</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>4</WordCount>
+
+c275 QUESTION. 255 words

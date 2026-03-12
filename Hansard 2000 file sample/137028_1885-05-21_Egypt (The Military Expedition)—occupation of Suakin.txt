@@ -1,0 +1,9 @@
+<FileID>137028</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/21/egypt-the-military-expedition-occupation</URL>
+<Title>Egypt (The Military Expedition)—occupation of Suakin</Title>
+<DebRef>HL Deb 21 May 1885 vol 298 cc1011-3</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>14</WordCount>
+
+cc1011-3 QUESTION. OBSERVATIONS. 782 words c1013 PRIVATE AND PROVISIONAL ORDER CONFIRMATION BILLS. 75 words

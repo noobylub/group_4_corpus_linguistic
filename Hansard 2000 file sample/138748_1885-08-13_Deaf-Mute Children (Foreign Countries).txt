@@ -1,0 +1,9 @@
+<FileID>138748</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/deaf-mute-children-foreign-countries</URL>
+<Title>Deaf-Mute Children (Foreign Countries)</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c28</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>50</WordCount>
+
+Address for "Return showing the number of Deaf-Mute Children in France, Germany, Italy, Austro-Hungary, Belgium, Switzerland, Holland, and the United States, and the nature and amount of public aid given towards their education, distinguishing between the sums contributed in each case by the State, Province, and Commune."—( Mr. Ackers. )

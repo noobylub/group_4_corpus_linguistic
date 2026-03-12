@@ -1,0 +1,10 @@
+<FileID>137347</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/second-reading-1</URL>
+<Title>Second Reading</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 cc1940-1</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>144</WordCount>
+
+Order for Second Reading read. 
+<speaker>MR. SAMPSON LLOYD</speaker> said, he hoped the House would allow the Bill to be read a second time. By existing Act a of Parliament permissive power was given to the owners of certain lands to redeem tithes. The object of this Bill was to extend the permissive power to redeem tithes to all those lands which were excluded from the operation of the existing Acts. The thing was purely permissive in its character; and if it was right to give the privilege of redeeming tithes to one person, there was no reason, he submitted, why it should not be given to another person. He begged to move that the Bill be read a second time. Motion made, and Question, "That the Bill be now road a second time,"—( Mr. Sampson Lloyd, )—put, and agreed to. Bill committed for Tomorrow.

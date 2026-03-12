@@ -1,0 +1,9 @@
+<FileID>136955</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/20/postal-service-great-britain-and-north</URL>
+<Title>Postal Service (Great Britain and North America)</Title>
+<DebRef>HC Deb 20 May 1885 vol 298 cc985-6</DebRef>
+<SittingDate>1885-05-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>81</WordCount>
+
+Ordered, That the Select Committee on Postal Service (Great Britain and North America) do consist of Seventeen Members:— Committee nominated of, — Mr. HENRY LEE, Mr. NORTHCOTE, Mr. SHAW LEFEVRE, Mr. WILLIAM LOWTHER, Mr. SEXTON, Mr. BRODRICK, Mr. DEASY, Mr. WILLIAMSON, Sir HENRY SELWIN-IBBETSON, Mr. R. B. MARTIN, Mr. STAVELEY HILL, Mr. THOMAS LEA, Viscount EMLYN, Mr. WILLIAM FOWLER, Mr. SLAGG, Mr. GILES, and Mr. BAXTER; with power to send for persons, papers, and records: Ordered, That Five be the quorum.

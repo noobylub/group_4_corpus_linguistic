@@ -1,0 +1,11 @@
+<FileID>137449</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/post-office-savings-bank-limitation-of</URL>
+<Title>Post Office Savings Bank—limitation of Deposits</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 cc277-8</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>218</WordCount>
+
+
+<speaker>MR. STANLEY LEIGHTON</speaker> asked the Postmaster General, Whether his attention has been called to the practical inconvenience and hindrance to thrift caused by the regulations which limit deposits in Post Office Savings Banks to £30 in any one year; prevent a redeposit after withdrawal of the original deposit in the same year; restrict the maximum sum which may be invested in public securities at one time through the Post Office to £100; and the maximum sum which may be deposited to £200; to the fact that in many thousands of parishes there is no bank excepting the Post Office Savings Bank; and, whether, under these circumstances, he will favourably consider the expediency of raising the limit in the first case to £50, and in the second and third cases to £300? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS),</speaker> in reply, said, that, since 1880, there had been two efforts made in Parliament in the direction suggested by the Question of the hon. Member; but both these efforts were defeated by the opposition raised in that House. Therefore, although he entirely concurred in the desirability of raising the limit of savings bank deposits, he feared that, in view of the circumstances, it would be quite hopeless to make any attempt in that direction during what remained of the present Session.

@@ -1,0 +1,9 @@
+<FileID>137100</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/05/ways-and-means-the-resolutions-the</URL>
+<Title>Ways and Means—the Resolutions—the Spirit and Beer Duty</Title>
+<DebRef>HC Deb 05 June 1885 vol 298 cc1337-44</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>37</WordCount>
+
+cc1337-42 MINISTERIAL STATEMENT. 1,973 words cc1342-3 MINES, &c.— INUNDATION OF THE PHILADELPHIA COLLIERY, LAMBTON, COUNTY OF DURHAM. 203 words c1343 SUPPLY—GRANT TO H.R.H. PRINCESS BEATRICE. 90 words cc1343-4 CENTRAL ASIA—THE AFGHAN BOUNDARY COMMISSION—SIR PETER LUMSDEN. 390 words

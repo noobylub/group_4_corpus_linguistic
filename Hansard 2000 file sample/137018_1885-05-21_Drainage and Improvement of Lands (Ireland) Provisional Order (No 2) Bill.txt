@@ -1,0 +1,9 @@
+<FileID>137018</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/drainage-and-improvement-of-lands</URL>
+<Title>Drainage and Improvement of Lands (Ireland) Provisional Order (No 2) Bill</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1140</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>62</WordCount>
+
+On Motion of Mr. HIBBERT, Bill to confirm a Provisional Order, under "The Drainage and Improvement of Lands (Ireland) Act, 1863 ," relating to the Ballyteigne and Kilmore Drainage District, in the county Wexford, ordered to be brought in by Mr. HIBBERT and Mr. CAMPBELL-BANNERMAN. Bill presented, and read the first time. [Bill 192.] House adjourned at a quarter after Two o'clock.

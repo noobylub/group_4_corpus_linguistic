@@ -1,0 +1,10 @@
+<FileID>138557</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/committee-1</URL>
+<Title>Committee</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 c1522</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>95</WordCount>
+
+
+<speaker>THE ATTORNEY GENERAL FOR IRELAND (Mr. HOLMES)</speaker> said, the object of this Bill was simply to allow the Court of Appeal to sit at an earlier time than it could now sit for the hearing of Registration Appeals. Under the present law they could not sit until late in November, and it would be impossible for them to deal with all the business which the Government expected would come before them this year if they did not meet earlier than that. Bill considered in Committee, and reported, without Amendment; read the third time, and passed.

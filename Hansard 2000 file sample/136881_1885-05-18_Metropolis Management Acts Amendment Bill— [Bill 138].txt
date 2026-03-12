@@ -1,0 +1,9 @@
+<FileID>136881</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/metropolis-management-acts-amendment</URL>
+<Title>Metropolis Management Acts Amendment Bill— [Bill 138]</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 cc876-9</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>21</WordCount>
+
+( Viscount Lewisham, Sir Charles Mills, Sir Trevor Latvrence, Mr. James Stuart, Mr. Grantham, Mr. Boord. ) cc876-9 COMMITTEE. 1,107 words

@@ -1,0 +1,11 @@
+<FileID>137523</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/egypt-the-nile-expedition-steamers-on</URL>
+<Title>Egypt—the Nile Expedition-Steamers on the Nile</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c427</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>137</WordCount>
+
+
+<speaker>MR. GOURLEY</speaker> asked the Secretary of State for War, How many shallow water, portable, and other steel-clad steamers have been sent to the Nile; if he will be good enough to inform the House, their tonnage, draft of water, and description of guns with which they have been fitted; and, whether, during high Nile, it is intended to utilise them in relieving the garrison of Kassala? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> Eighteen shallow-water portable steel steamers have been sent to the Nile. One is of 175 tons and the other 17 are of about 100 tons. Their draught of water is limited to 30 inches. Five of the steamers carry each a 9-pounder central pivot gun, and two Nordenfelts. It is not proposed to employ these vessels in operations for the relief of Kassala.

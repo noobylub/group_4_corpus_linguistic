@@ -1,0 +1,9 @@
+<FileID>137058</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/22/local-government-provisional-orders-no-5</URL>
+<Title>Local Government Provisional Orders (No 5) Bill</Title>
+<DebRef>HC Deb 22 May 1885 vol 298 c1183</DebRef>
+<SittingDate>1885-05-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>73</WordCount>
+
+On Motion of Mr. GEORGE RUSSELL, Bill to confirm certain Provisional Orders of the Local Government Board relating to the Special Drainage District of Brackley, the District of Bromsgrove, the Boroughs of Darlington and Stafford, the Local Government Districts of Ulverston, Warminster, and West Ham, and the Borough of Wigan, ordered to be brought in by Mr. GEORGE RUSSELL and Sir CHARLES W. DILKE. Bill presented, and read the first time. [Bill 196.]

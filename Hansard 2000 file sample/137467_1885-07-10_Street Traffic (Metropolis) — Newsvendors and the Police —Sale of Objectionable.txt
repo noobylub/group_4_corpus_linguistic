@@ -1,0 +1,10 @@
+<FileID>137467</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/street-traffic-metropolis-newsvendors</URL>
+<Title>Street Traffic (Metropolis) — Newsvendors and the Police —Sale of Objectionable Publications</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 c289</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>196</WordCount>
+
+
+<speaker>MR. CAVENDISH BENTINCK</speaker> I wish to put a Question to the Secretary of State for the Home Department of which I have not given him Notice, but which, if he desires, I will repeat on Monday. My Question is, Whether he is aware that the authorities of the City of London have taken proceedings against men, women, and boys who have been selling very undesirable publications, and have stopped altogether the sale of these publications in the City; and, if so, I wish to know why the Metropolitan Police have not taken similar proceedings against the same class of persons within their jurisdiction, so as to remove from before the public eye most offensive and obscene placards in the neighbourhood of Charing Cross and at other places, where newspapers of the stamp of The Pall Mall Gazette and Town Talk are being sold, not only by men, but by women and children? THE SECRETARY OF STATE (Sir E. ASSHETON CROSS), in reply, said, he demurred to the statement made by the right hon. and learned Gentleman the Member for Whitehaven as a statement of fact, and would prefer that Notice should be given of the Question.

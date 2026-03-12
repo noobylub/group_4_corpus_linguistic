@@ -1,0 +1,9 @@
+<FileID>138143</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/private-business</URL>
+<Title>Private Business</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 cc238-41</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>13</WordCount>
+
+SOUTHWARK AND VAUXHALL WATER BILL [Lords] (by Order). cc238-41 SECOND READING. 1,142 words

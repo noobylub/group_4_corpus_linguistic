@@ -1,0 +1,9 @@
+<FileID>137171</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/12/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 12 June 1885 vol 298 c1528</DebRef>
+<SittingDate>1885-06-12</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>55</WordCount>
+
+-PUBLIC BILLS —First Reading— Metropolis (Tabard Street, Newington) Provisional Order Confirmation * [204]; Metropolis (Hughes Fields, Deptford) Provisional Order Confirmation * [205]. Report of Select Committee —River Thames (No. 2) * [No. 218]. Report —Tramways Provisional Orders (No. 1) * [143]; Water Provisional Orders * [142]; Gas and Water Provisional Orders (No. 2) * [149],

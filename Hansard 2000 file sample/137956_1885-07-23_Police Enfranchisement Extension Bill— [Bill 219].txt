@@ -1,0 +1,9 @@
+<FileID>137956</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/police-enfranchisement-extension-bill</URL>
+<Title>Police Enfranchisement Extension Bill— [Bill 219]</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1731-4</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>31</WordCount>
+
+( Mr. Coleridge Kennard, Sir Henry Selwin-Ibbet-son, Sir Henry Drummond Wolff, Mr. Cowen, Lord Gland John Hamilton, Mr. Robert Fowler, Mr. Houldsworth, Mr. George Elliot. ) cc1731-4 SECOND READING. 1,063 words

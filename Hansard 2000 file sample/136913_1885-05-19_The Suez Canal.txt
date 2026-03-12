@@ -1,0 +1,13 @@
+<FileID>136913</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/the-suez-canal</URL>
+<Title>The Suez Canal</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 c946</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>138</WordCount>
+
+
+<speaker>MR. ASHMEAD-BARTLETT</speaker> asked the Under Secretary of State for Foreign Affairs, Whether Her Majesty's Government have yielded to the proposed establishment of an International Control over the Suez Canal; and, whether he can inform the House as to the progress of negotiations? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> Pending the negotiations, I am unable to make any statement with regard to the proceedings of the Conference; but I hope that my refusal to give information will not be taken as implying assent to any inferences which might be drawn from the terms in which the Question of the hon. Member is expressed. 
+<speaker>MR. ASHMEAD-BARTLETT</speaker> Am I to understand that the Government have no intention of yielding the control of the road to India to Foreign Powers? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> That is an argumentative inference drawn from the hon. Member's own Question.

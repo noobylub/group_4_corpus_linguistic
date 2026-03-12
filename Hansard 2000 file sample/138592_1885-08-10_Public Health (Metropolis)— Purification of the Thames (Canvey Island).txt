@@ -1,0 +1,11 @@
+<FileID>138592</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/public-health-metropolis-purification-of-1</URL>
+<Title>Public Health (Metropolis)— Purification of the Thames (Canvey Island)</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 c1576</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>149</WordCount>
+
+
+<speaker>MR. CLARE READ</speaker> asked the Secretary of State for the Home Department, in view of the approach of cholera, and the desirability of appeasing the public mind as to the increasing pollution of the Thames, If he would state whether he had laid before the Metropolitan Board the memorial of Colonel Jones, V.C., and Mr. Bailey-Denton, proposing the cleansing of the Metropolitan sewage on Canvey Island, in consonance with the views of the Royal Commission on Metropolitan Sewage Discharge—viz. That it is neither necessary nor justifiable to discharge the Sewage of the Metropolis in its crude state into any part of the estuary of the Thames from the Nore upwards; and that "the sewage liquid, after separation from the solids," should be carried down to a point of the Thames lower than Hole Haven? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> Yes, Sir; I have some time ago.

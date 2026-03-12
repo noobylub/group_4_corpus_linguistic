@@ -1,0 +1,11 @@
+<FileID>138644</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/navy-the-evolutionary-squadron</URL>
+<Title>Navy—the Evolutionary Squadron</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1731-2</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>244</WordCount>
+
+
+<speaker>SIR JOHN HAY</speaker> asked the First Lord of the Admiralty, To state what Report he has received of the late Evolutionary Fleet under the command of Sir Geoffrey Hornby; how many armour-clads, in addition to the Polyphemus, he has under his orders; their names, their state and condition at the end of the cruise; how many have been removed from the list of efficient ships; how many require repairs; how many require new boilers; and, how many armour-clad ships, complete for sea and fully armed, there are now at home ready to be commissioned? 
+<speaker>THE FIRST LORD (Lord GEORGE HAMILTON)</speaker> The squadron of Sir Geoffrey Hornby consisted of the Minotaur, Sultan, Agincourt, Iron Duke, Devastation, Ajax, Rupert, Hotspur, Hercules, Shannon, Lord Warden, Repulse, and Penelope, and his Report does not deal in the way suggested by my right hon. and gallant Friend with the repairs or condition of these ironclads. Two of them have been removed from the list of efficient ships, and two others, making in all four—namely, the Lord Warden, Repulse, Valiant, and Defence, have been replaced by the Ajax, Devastation, Rupert, and Hotspur. The squadron generally was reported to be none the worse for the cruise, and no special repairs or new boilers have been necessitated by the cruise. In addition to the ironclads already in commission, the Inflexible, Northumberland, Colossus, Bellerophon, and Conqueror, besides the four turret ships, could be commissioned and ready for service in a very short time.

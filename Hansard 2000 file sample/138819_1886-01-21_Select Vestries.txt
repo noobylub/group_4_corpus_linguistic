@@ -1,0 +1,9 @@
+<FileID>138819</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1886/jan/21/select-vestries</URL>
+<Title>Select Vestries</Title>
+<DebRef>HL Deb 21 January 1886 vol 302 c36</DebRef>
+<SittingDate>1886-01-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>7</WordCount>
+
+Bill, pro formâ , read 1 a

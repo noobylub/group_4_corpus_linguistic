@@ -1,0 +1,9 @@
+<FileID>138289</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/motions</URL>
+<Title>Motions</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 cc681-6</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>32</WordCount>
+
+cc681-3 PRINCE HENRY OF BATTENBERG'S NATURALIZATION BILL [Lords.] 787 words cc683-5 EARLDOM OF MAR RESTITUTION BILL [Lords.] 656 words cc685-6 THE PAPAL SEE—DIPLOMATIC COMMUNICATION WITH THE VATICAN— SIR GEORGE ERRINGTON. 304 words

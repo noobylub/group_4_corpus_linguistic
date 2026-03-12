@@ -1,0 +1,11 @@
+<FileID>138427</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/loss-of-life-at-sea-the-royal-commission</URL>
+<Title>Loss of Life at Sea—the Royal Commission—the Evidence,</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1060-1</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>274</WordCount>
+
+
+<speaker>MR. ATKINSON</speaker> asked the Parliamentary Secretary to the Board of Trade, If he will lay upon the Table Copy of any Communications which may have been received at the Board of Trade, from Shipping or other Associations, protesting against the proposed issue of evidence given on behalf of the Board of Trade before the Royal Commission on Loss of Life at Sea, until the evidence on the other side of the question be also fully taken? 
+<speaker>THE SECRETARY TO THE BOARD (Baron HENRY DE WORMS)</speaker> In answer to the Question of the hon. Member, I have to say that communications have been received from the General Shipowners' Society and the Hull Incorporated Chamber of Commerce and Shipping, protesting Against the publication of the ad interim Report of Evidence taken before the Royal Commission on Shipping on the ground of its ex parte character—the Board of Trade case having been presented, and but a small portion of the shipowners' reply having been as yet heard. The Central Executive of Shipowners of the United Kingdom have forwarded to the Board of Trade copies of two letters which they have addressed to the Chairman of the Royal Commission on the subject. Without expressing an opinion as to the expediency of such partial publication, I would point out to the hon. Member that the matter rests entirely with the Commission, and that the Board of Trade have no power whatever to prevent or postpone the publication of the Report, or of any portion of it. I have no objection to lay on the Table copies of the two letters referred to in the first part of my answer.

@@ -1,0 +1,11 @@
+<FileID>138353</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/irish-land-commission-the-new</URL>
+<Title>Irish Land Commission—the New Commissioners</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c843</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>37</WordCount>
+
+
+<speaker>COLONEL KING-HARMAN</speaker> asked, If the Government intended to give the names of the two new Commissioners to be appointed? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER,</speaker> in reply, said, he could not give any undertaking on the subject yet.

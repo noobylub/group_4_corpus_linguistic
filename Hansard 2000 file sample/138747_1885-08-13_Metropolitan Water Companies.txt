@@ -1,0 +1,9 @@
+<FileID>138747</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/metropolitan-water-companies</URL>
+<Title>Metropolitan Water Companies</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c28</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>77</WordCount>
+
+Address for "Return showing the financial result, as affecting the Metropolis, of the abandonment of the provisional agreements of the late Mr. Edmund James Smith with the Metropolitan Water Companies, as embodied in the Metropolitan Waterworks Purchase Bill , 1880, with a comparative Statement showing the Capital (Share Loan and Debentures) for the years 1879 to 1884, inclusive, and the amount expended by the Companies respectively on new Works during the same period."—( Sir George Balfour. )

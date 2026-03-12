@@ -1,0 +1,9 @@
+<FileID>138058</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/private-business</URL>
+<Title>Private Business</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc37-45</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>29</WordCount>
+
+EDINBURGH EXTENSION AND SEWERAGE BILL [Lords] (by Order). cc37-40 CONSIDERATION. 1,009 words cc40-4 EXTENSION AND SEWERAGE. 1,652 words SOUTHWARK AND VAUXHALL WATER BILL [Lords]. cc44-5 SECOND READING. 68 words

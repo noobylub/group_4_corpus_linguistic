@@ -1,0 +1,9 @@
+<FileID>137495</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/10/amendment-bill</URL>
+<Title>Amendment Bill</Title>
+<DebRef>HL Deb 10 July 1885 vol 299 c275</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>39</WordCount>
+
+Select Committee on: The Lords following were named of the Committee: E. Milltown. E. Brownlow. L. Monson. L. Carrington. L. Hartismere. L. Sudley. House adjourned at a quarter before Seven o'clock, to Monday next, a quarter before Eleven o'clock.

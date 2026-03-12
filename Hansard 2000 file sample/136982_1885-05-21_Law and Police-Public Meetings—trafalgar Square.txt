@@ -1,0 +1,11 @@
+<FileID>136982</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/law-and-police-public-meetings-trafalgar</URL>
+<Title>Law and Police-Public Meetings—trafalgar Square</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1029</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>123</WordCount>
+
+
+<speaker>BARON HENRY DE WORMS</speaker> asked the Secretary of State for the Home Department, Whether, on the occasion of the recent meeting held in Trafalgar Square, to protest against the increase of the Beer and Spirit Duties, special instructions were given to the Metropolitan Police to prevent the basement of the Nelson Column from being used as a platform by the speakers and representatives of the press, although at previous demonstrations it was so used, without interference of the police? 
+<speaker>SIR WILLIAM HARCOURT,</speaker> in reply, said, that orders had been given on all occasions that the Monument should not be used as a platform for meetings, and special instructions were issued to keep it clear. It had not been so employed on any occasion.

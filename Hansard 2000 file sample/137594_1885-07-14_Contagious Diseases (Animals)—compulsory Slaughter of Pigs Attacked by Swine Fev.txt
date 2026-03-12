@@ -1,0 +1,11 @@
+<FileID>137594</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/contagious-diseases-animals-compulsory</URL>
+<Title>Contagious Diseases (Animals)—compulsory Slaughter of Pigs Attacked by Swine Fever</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 c659</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>129</WordCount>
+
+
+<speaker>COLONEL NOLAN</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If he would introduce a short Bill, or make an Order, to provide compensation to the owners of pigs dying of contagious diseases or destroyed by the authorities; and, if he would place the owners of Irish pigs on the same footing in this respect as those of Great Britain? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> I am advised that there is no legal objection to passing an Order in Council for Ireland similar to that in force in England, authorizing the Local Authorities to slaughter swine and to compensate the owners. A Bill is not necessary. I shall communicate with the Veterinary Department with the view of having the suggestion brought before the Privy Council.

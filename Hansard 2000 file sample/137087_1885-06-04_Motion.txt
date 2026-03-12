@@ -1,0 +1,9 @@
+<FileID>137087</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/04/motion</URL>
+<Title>Motion</Title>
+<DebRef>HC Deb 04 June 1885 vol 298 c1328</DebRef>
+<SittingDate>1885-06-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>10</WordCount>
+
+c1328 LOCAL GOVERNMENT PROVISIONAL ORDER (MUNICIPAL CORPORATION) BILL. 63 words

@@ -1,0 +1,11 @@
+<FileID>137849</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/law-and-police-england-and-wales-alleged</URL>
+<Title>Law and Police (England and Wales)—alleged Case of Abduction</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 cc1403-4</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>153</WordCount>
+
+
+<speaker>MR. PICTON</speaker> asked the Secretary of State for the Home Department, Whether his attention has been called to a case brought before the Bow Street Police Court, on Saturday the 18th July, in which a complaint was made of the abduction and seduction of a girl alleged to have been, at the time of the offence, under twelve years of age; whether the complainant is the stepmother, and the father dead; and, whether, having regard to the peculiar circumstances of the case, the Public Prosecutor will take the matter up? 
+<speaker>THE SECRETARY or STATE FOB THE HOME DEPARTMENT (Sir R. ASSHETON CROSS),</speaker> in reply, said, the Treasury Solicitor would watch the case. He had received a letter shortly after the meeting of the House purporting to be from the brother-in-law of the girl alleged to have been abducted, in which a denial was given to most of the statements made in the paragraph.

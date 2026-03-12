@@ -1,0 +1,11 @@
+<FileID>136848</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/ireland-sale-of-oysters</URL>
+<Title>Ireland—sale of Oysters</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 cc704-5</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>105</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked Mr. Solicitor General for Ireland, Whether it is contrary to Law to sell oysters in Ireland during the close fishing season, provided the oysters are imported into Ireland from England or abroad; and, whether the close fishing season is different in England and Ireland? 
+<speaker>THE SOLICITOR GENERAL FOR IRELAND (Mr. WALKER)</speaker> There is a difference in the close season for oysters in England and Ireland. It would, I think, be very inconvenient to give a legal opinion on an abstract question which may hereafter affect before a legal tribunal some particular case in which it may be sought to enforce a penalty.

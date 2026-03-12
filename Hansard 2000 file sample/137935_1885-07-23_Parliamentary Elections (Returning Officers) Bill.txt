@@ -1,0 +1,10 @@
+<FileID>137935</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/parliamentary-elections-returning</URL>
+<Title>Parliamentary Elections (Returning Officers) Bill</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1628</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>150</WordCount>
+
+MR. ERESHFIELD asked the Secretary of State for the Home Department, If it is his intention to move the insertion of a Clause in the Parliamentary Elections (Returning Officers) Bill , to increase the scale of allowance prescribed by "The Returning Officers Act, 1875 ," in respect of the presiding officers and clerks employed in elections, in consequence of the enlargement of the constituency, the increased number of the polling places and the clerks necessary, and the extension of the hours of polling? 
+<speaker>THE ATTORNEY GENERAL (Sir RICHARD WEBSTER)</speaker> , who replied, said, that he must remind the hon. Member for Dover that this question was practically answered on Monday. He might, however, state that several Amendments having been put down by independent Members, which would enable the House to express an opinion on this matter, it was not the intention of the Home Secretary to propose any clause himself.

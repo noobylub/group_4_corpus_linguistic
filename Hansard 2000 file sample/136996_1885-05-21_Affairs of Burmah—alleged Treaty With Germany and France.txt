@@ -1,0 +1,11 @@
+<FileID>136996</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/affairs-of-burmah-alleged-treaty-with</URL>
+<Title>Affairs of Burmah—alleged Treaty With Germany and France</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1038</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>115</WordCount>
+
+
+<speaker>MR. SLAGG</speaker> asked, Whether the Government could give any information as to the Treaty alleged to have been concluded between Burmah and the countries of Germany and Prance, under which those countries were placed in a more favourable position than this country? 
+<speaker>MR. J. K. CROSS</speaker> I am afraid I cannot answer this Question; for it does not necessarily come within the purview of the India Office. By the courtesy of the Foreign Office, however, a copy of the Treaty between Burmah and France was forwarded to the India Office; and, as far as my recollection serves me, the terms were said to be identical with those of the Treaty existing between England and Burmah.

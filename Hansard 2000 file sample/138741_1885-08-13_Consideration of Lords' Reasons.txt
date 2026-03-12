@@ -1,0 +1,11 @@
+<FileID>138741</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/consideration-of-lords-reasons</URL>
+<Title>Consideration of Lords' Reasons</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c26</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>146</WordCount>
+
+Lords Reasons considered. 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS)</speaker> said, he should not propose to ask the House to insist upon the Amendment, although he was sorry that the Lords had disagreed with it. Another Bill would have to be introduced next year, and it must necessarily include a clause providing that no house should be let in an unfit state. Motion made, and Question proposed, "That this House doth not insist on the Amendment disagreed to by the Lords."—( Sir R. Assheton Cross. ) 
+<speaker>SIR HENRY JAMES</speaker> said, he agreed with the right hon. Gentleman opposite (Sir R. Assheton Cross) that it would not be worth while to imperil the Bill for the sake of this Amendment; but he thought that by striking out the Amendment the Lords had rendered the whole provision nugatory. Question put, and agreed to.

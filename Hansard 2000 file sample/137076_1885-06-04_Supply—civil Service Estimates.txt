@@ -1,0 +1,9 @@
+<FileID>137076</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/04/supply-civil-service-estimates</URL>
+<Title>Supply—civil Service Estimates</Title>
+<DebRef>HC Deb 04 June 1885 vol 298 c1193</DebRef>
+<SittingDate>1885-06-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>7</WordCount>
+
+SUPPLY— considered in Committee. (In the Committee.)

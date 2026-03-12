@@ -1,0 +1,9 @@
+<FileID>137577</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 c635</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>183</WordCount>
+
+NEW MEMBER SWORN — Lord Arthur Hill, for County of Down. SUPPLY— considered in Committee —CIVIL SERVICE ESTIMATES — CLASS IV. —EDUCATION, SCIENCE, AND ART; Votes 1, 2, 11; CLASS III. —LAW AND JUSTICE; Votes 5 to 16, 18 to 20; CLASS VI. — NONEFFECTIVE AND CHARITABLE SERVICES; Vote 1 Resolutions [July 13] reported. PRIVATE BILL ( by Order )— Considered as amended —Rathmines and Rathgar Township. PUBLIC BILLS— Ordered — First Reading —Marriages (Saint John Cowley)*[234]. Second Reading —Local Government (Ireland) Provisional Orders ( Public Health Act ) (No. 2)* [2121; Ecclesiastical Commissioners* [227]. Committee —Summary Jurisdiction (Term of Imprisonment)*[180]—R.P.; Parliamentary Elections (Returning Officers) [99]—R.p. Committee — Report —Public Health (Members and Officers) [114]. Committee — Report — Third Reading —Pole-hampton Estates*[216]; Cholera Hospitals (Ireland)* [231], and passed. Report —Public Health (Scotland) Provisional Order (No. 2)*[207]; Local Government (Ireland) Provisional Orders ( Public Health Act ) (No. 1)*[162]; Metropolis (Hughes Fields, Deptford) Provisional Order Confirmation*[205]; Metropolis (Tabard Street, Newington) Provisional Order Confirmation*[204]. Considered as amended —Copyhold Enfranchisement [26]. Third Reading— Post Office Sites*[193], and passed. Withdrawn — Law of Evidence (Criminal Cases)*[65].

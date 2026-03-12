@@ -1,0 +1,9 @@
+<FileID>137814</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/20/alexandra-newport-and-south-wales-docks</URL>
+<Title>Alexandra (Newport and South Wales) Docks and Railway Bill</Title>
+<DebRef>HL Deb 20 July 1885 vol 299 cc1152-3</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc1152-3 THIRD READING. 114 words

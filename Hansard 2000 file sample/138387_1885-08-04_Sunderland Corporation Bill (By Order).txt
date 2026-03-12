@@ -1,0 +1,9 @@
+<FileID>138387</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/sunderland-corporation-bill-by-order</URL>
+<Title>Sunderland Corporation Bill (By Order)</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1033-4</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>7</WordCount>
+
+cc1033-4 CONSIDERATION OF LORDS' AMENDMENTS. 204 words

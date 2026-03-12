@@ -1,0 +1,9 @@
+<FileID>137494</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/10/waterworks-clauses-act-1847</URL>
+<Title>Waterworks Clauses Act (1847)</Title>
+<DebRef>HL Deb 10 July 1885 vol 299 c275</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+c275 AMENDMENT BILL. 40 words

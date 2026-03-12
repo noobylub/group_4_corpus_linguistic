@@ -1,0 +1,9 @@
+<FileID>137899</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/22/tramways-order-in-council-ireland-bill</URL>
+<Title>Tramways Order in Council (Ireland) Bill (Changed From Tramways (Ireland) Provisional Order (No 2) Bill)</Title>
+<DebRef>HC Deb 22 July 1885 vol 299 c1593</DebRef>
+<SittingDate>1885-07-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>5</WordCount>
+
+c1593 FIRST READING. 80 words

@@ -1,0 +1,9 @@
+<FileID>138379</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/03/scottish-and-irish-peerages-bill-no-10</URL>
+<Title>Scottish and Irish Peerages Bill—(no 10)</Title>
+<DebRef>HL Deb 03 August 1885 vol 300 cc812-3</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>10</WordCount>
+
+( The Lord Waveney. ) cc812-3 BILL WITHDRAWN. 459 words

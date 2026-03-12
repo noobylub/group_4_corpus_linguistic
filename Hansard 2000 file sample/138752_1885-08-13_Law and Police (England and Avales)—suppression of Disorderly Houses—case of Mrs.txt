@@ -1,0 +1,12 @@
+<FileID>138752</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/law-and-police-england-and-avales</URL>
+<Title>Law and Police (England and Avales)—suppression of Disorderly Houses—case of Mrs Jeffries</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c29</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>302</WordCount>
+
+
+<speaker>MR. CALLAN</speaker> said, that he had two Motions on the Paper, which he had been prevented from moving. The first was for the production of the Report of Mr. Batchelor, of the Solicitor's Department of the Treasury, who, by direction of the Secretary of State for the Home Department, watched the case of Mrs. Jeffries at the Westminster Police Court on the l6th day of April, 1885; and of the Report or Reports made by any official of the Home Office previous to the institution of the prosecution in the case, with reference to the character of the houses kept by Mrs. Jeffries. He would not go to a division on his first Motion, as it had been stated that the document referred to was a confidential Report to the Secretary of State, and could not, therefore, be produced. He had also a Motion on the Paper for a Copy of the Report made by ex-Inspector Minahan in the divorce case of "Macintosh v. Macintosh." He held in his hand the corroboration of Inspector Minahan's statement by no fewer than four policemen. The hon. Member proceeded to read a Report made by the police at Chelsea on the 9th of April, 1883, When— 
+<speaker>MR. SPEAKER</speaker> , interposing, said: The hon. Member is anticipating a Motion which stands in his own name on the Paper. The Question is the Adjournment of the House. 
+<speaker>MR. CALLAN</speaker> said, that in that case he would discuss the Motion for Adjournment, and he would say with regard to it that it was most inconvenient and unfair. It was made in order to evade discussion on the Minahan case, to which his Motion referred. Notice taken, that 40 Members were not present; House counted, and 40 Members not being present, House adjourned at a quarter after Four o'clock.

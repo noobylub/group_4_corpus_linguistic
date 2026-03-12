@@ -1,0 +1,11 @@
+<FileID>138319</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/post-office-clerks</URL>
+<Title>Post Office Clerks</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc819-20</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>266</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Postmaster General, Whether clerks who have been obliged to serve from ten to fifteen years in provincial offices, and are transferred to the larger offices through the reduction of the clerical staff of the office to which they were attached, or from any other cause, are placed at great disadvantages in may respects in the offices to which they have been transferred, by being made to rank as junior to other clerks with several years less service, but who have been attached to those offices from the date of their appointment; will he state what steps he is prepared to take to assure, as in other branches of the Civil Service, to clerks or others who are transferred from one office to another at the instance of the Post Office Department, or at their own request, a due recognition of their service by granting to them all those rights to which by seniority they are entitled; and, whether it is part of the system to subject members of the lower grades of the Service to loss of revenue on transfer from one office to another without granting them compensation? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS)</speaker> As a general rule, I may say that clerks transferred from one office to another enter their new office below those who are already there; but, even so, a transfer is, as a rule, to their advantage, because in the larger offices there are prospects which the smaller ones do not afford. In no case does an officer, by reason of his transfer, sustain loss of income.

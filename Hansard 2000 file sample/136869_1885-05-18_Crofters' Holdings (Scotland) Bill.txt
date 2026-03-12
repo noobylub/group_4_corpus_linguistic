@@ -1,0 +1,10 @@
+<FileID>136869</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/crofters-holdings-scotland-bill</URL>
+<Title>Crofters' Holdings (Scotland) Bill</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 c719</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>194</WordCount>
+
+In reply to Sir HERBERT MAXWELL, THE LORD ADVOCATE (Mr. J. B. BALFOUR) said, he did not like to fix definitely any hour after which he would not make his statement in introducing the Crofters' Bill , because it was very essential that the Bill should go on. 
+<speaker>MR. MACFARLANE</speaker> said, the Prime Minister stated the other night that the Government would break off Supply about 11 o'clock for the purpose of enabling the Lord Advocate to introduce this Bill and make a statement. Did the Prime Minister adhere to that statement? MR. GLADSTONE said, it was necessary to get the Vote on Account. It was a Vote for six weeks, and three weeks out of the six would have lapsed before the House met again. It was a matter of absolute necessity to get that Vote, and, subject only to that contingency, they proposed to break off Supply as he had previously stated. DR. CAMERON asked whether, having regard to the fact that the Bill was on the Orders of the House and liable to be blocked, the Lord Advocate would not introduce it and have it printed without a statement? [No reply.]

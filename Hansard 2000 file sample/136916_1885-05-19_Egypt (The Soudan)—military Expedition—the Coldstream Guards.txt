@@ -1,0 +1,11 @@
+<FileID>136916</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/egypt-the-soudan-military-expedition-the</URL>
+<Title>Egypt (The Soudan)—military Expedition—the Coldstream Guards</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 c947</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>48</WordCount>
+
+
+<speaker>VISCOUNT LEWISHAM</speaker> asked the Secretary of State for War, If the Cold-stream Guards have sailed from Suakin; if so, whether they are on board the Deccan or the Jumna? 
+<speaker>SIR ARTHUR HAYTER</speaker> (who replied) said: The Cold stream Guards left Suakin on the 17th instant in the Deccan.

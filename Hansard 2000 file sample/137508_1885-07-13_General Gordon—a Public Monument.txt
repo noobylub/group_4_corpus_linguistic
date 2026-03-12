@@ -1,0 +1,11 @@
+<FileID>137508</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/general-gordon-a-public-monument</URL>
+<Title>General Gordon—a Public Monument</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c417</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>150</WordCount>
+
+MR. E. N. FOWLER (LORD MAYOR) asked Mr. Chancellor of the Exchequer, Whether it is the intention of Her Majesty's Government to propose to the House a Vote for the purpose of erecting a monument to General Gordon in Trafalgar Square or elsewhere? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> We think that it would be in accordance with a very general feeling both in this House and in the country that there should be a memorial to General Gordon of the kind indicated in the Question of my right hon. Friend, and when we have fully considered the question of the position and the precise character of the memorial, we shall be prepared to propose a Vote to the House on the subject. 
+<speaker>SIR WILFRID LAWSON</speaker> said, that he should like to know whether the Government were in possession of authentic information showing that General Gordon had been killed? [No reply.]

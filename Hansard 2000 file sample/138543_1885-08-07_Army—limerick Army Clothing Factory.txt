@@ -1,0 +1,12 @@
+<FileID>138543</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/army-limerick-army-clothing-factory</URL>
+<Title>Army—limerick Army Clothing Factory</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 c1458</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>291</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> (for Mr. PARNELL) asked the Surveyor General of Ordnance, Whether the work executed on contract for the Army at the Limerick Army Clothing Factory costs less than similar work done at the Government Clothing Factory in Pimlico; whether the existing contracts now being executed by the Limerick Factory will be completed about the end of September, and whether, as a consequence of this and of the absence of fresh Government contracts, about a thousand hands are likely to be thrown out of employment in the city of Limerick, while the hands of the Pimlico Factory will be maintained in full work; and, whether, under these circumstances, the Department will give the Limerick Factory sufficient work to keep their hands employed during the winter months on the same terms as in the Government Factory at Pimlico? 
+<speaker>THE SURVEYOR GENERAL OF ORDNANCE (Mr. GUY DAWNAY)</speaker> Work executed at the Limerick factory usually, but not invariably, costs less than work executed at Pimlico. In their latest contract for kersey frocks and tweed trousers, the Limerick prices exceeded in a marked manner those of Pimlico; at the rate of production which has obtained since April, it will be the end of October before the Limerick factory will have sent in all the clothing for which they have contracts. By that time it will be practicable to see to what extent further contracts can be given to Limerick; but, as regards reduction of workpeople, a large reduction will have to be made at Pimlico, and Limerick can scarcely hope to escape one also. 
+<speaker>MR. SEXTON</speaker> Are we to understand that, if the work can be done cheaper than at Pimlico, Limerick will not suffer? THE SURVEYOR GENERAL Yes; Limerick will not suffer at all.

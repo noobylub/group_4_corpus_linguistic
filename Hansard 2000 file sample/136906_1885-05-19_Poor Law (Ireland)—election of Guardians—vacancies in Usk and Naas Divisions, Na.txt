@@ -1,0 +1,11 @@
+<FileID>136906</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/poor-law-ireland-election-of-guardians</URL>
+<Title>Poor Law (Ireland)—election of Guardians—vacancies in Usk and Naas Divisions, Naas Union</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 cc943-4</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>130</WordCount>
+
+
+<speaker>MR. BIGGAR (for Mr. LEAHY)</speaker> asked I the Chief Secretary to the Lord Lieutenant of Ireland, Whether the Division of Usk, in the Naas Union, is un represented at the Board of Guardians since the first of April, in consequence of the resignation of Mr. Hulan, he being elected for Naas Division, for which he chose to sit; whether there is also a vacancy in the Naas Electoral Division, owing to the resignation of Mr. Eaglinton, now over five weeks since his resignation was accepted; and, why the Local Government Board have not yet directed a new election to fill those vacancies, notwithstanding the Guardians having called their attention thereto? 
+<speaker>MR. CAMPBELL-BANNERMAN</speaker> This case is included in the General Order for Supplemental Elections, which was signed on the 16th instant.

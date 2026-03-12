@@ -1,0 +1,11 @@
+<FileID>138542</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/army-the-clothing-department-military</URL>
+<Title>Army—the Clothing Department —Military Temporary Clerks</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 c1457</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>130</WordCount>
+
+
+<speaker>MR. SERJEANT SIMON</speaker> asked the Secretary of State for War, If, while the ordinary established Civil Service clerks in the Clothing Department receive about 10 s. a-day, it is the fact that the Military temporary clerks receive only 4 s. a-day; and, if he would favourably consider the case of these latter with a view to ameliorating the position of these old soldiers? 
+<speaker>THE FINANCIAL SECRETARY, WAR DEPARTMENT (Mr. H. S. NORTHCOTE)</speaker> Military temporary clerks receive the rates of pay laid down by the Royal Warrant. Instead of 10 s. a-day, the temporary clerks of the lower division employed at the clothing factory receive, on the average, less than 7 s. a-day; but the conditions of service are altogether different, and comparison cannot be made justly between the respective classes.

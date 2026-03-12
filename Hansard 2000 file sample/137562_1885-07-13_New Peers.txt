@@ -1,0 +1,9 @@
+<FileID>137562</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/13/new-peers</URL>
+<Title>New Peers</Title>
+<DebRef>HL Deb 13 July 1885 vol 299 c384</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>97</WordCount>
+
+Mervyn Edward, Viscount Powers-court in that part of the United Kingdom of Great Britain and Ireland called Ireland, K.P., having been created Baron Powerscourt, of Powerscourt in the county of Wicklow— Anthony Henley, Baron Henley in that part of the United Kingdom of Great Britain and Ireland called Ireland, having been created Baron Northington, of Watford in the county of Northampton— The Right Honourable Sir Arthur Hobhouse, K.C.S.I., C.L.E., a Member of the Judicial Committee of the Privy Council, having been created Baron Hobhouse, of Hadspen in the county of Somerset— Were (in the usual manner) introduced.

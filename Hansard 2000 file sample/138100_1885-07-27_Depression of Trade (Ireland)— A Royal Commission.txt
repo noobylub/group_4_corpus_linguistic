@@ -1,0 +1,12 @@
+<FileID>138100</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/depression-of-trade-ireland-a-royal</URL>
+<Title>Depression of Trade (Ireland)— A Royal Commission</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc66-7</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>208</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> I wish to ask the Chancellor of the Exchequer a Question, of which I have given Notice on Friday last, but, if convenient, I will put it down for tomorrow. It is, Whether the Government will recommend the ap- pointment of a Royal Commission to pursue in Ireland the inquiry conducted this Session by a Select Committee of this House into the subject of Irish industries? I would also ask the right hon. Gentleman whether there is any intention to proceed tonight with either the Labourers (Ireland) Bill , or with the consideration of the Lords' Amendments to the Poor Law Guardians Bill ? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> I believe, Sir, it is the intention of my right hon. Friend the Chief Secretary to proceed with the Labourers Bill , if possible, tonight. With regard to the other matter, of course the subject of Irish industries will be included in the inquiry of the Royal Commission on the Depression of Trade; but it is not proposed to appoint a special Commission. 
+<speaker>MR. SEXTON</speaker> said, that as there were special circumstances in Irish depression quite distinct from those of England and Scotland, he and his Friends would endeavour to obtain a separate Inquiry.

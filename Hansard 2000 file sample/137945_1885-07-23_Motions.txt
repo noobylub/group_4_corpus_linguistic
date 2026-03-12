@@ -1,0 +1,9 @@
+<FileID>137945</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/motions</URL>
+<Title>Motions</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1635-7</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>10</WordCount>
+
+cc1635-7 PARLIAMENT—HOUSE OF COMMONS—E. A. GOSSET, ESQ., SERJEANT-AT-ARMS. 1,012 words

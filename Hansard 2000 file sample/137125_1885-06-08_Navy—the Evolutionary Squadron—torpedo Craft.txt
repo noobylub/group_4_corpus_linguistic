@@ -1,0 +1,13 @@
+<FileID>137125</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/navy-the-evolutionary-squadron-torpedo</URL>
+<Title>Navy—the Evolutionary Squadron—torpedo Craft</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 c1399</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>251</WordCount>
+
+
+<speaker>MR. GOURLEY</speaker> asked the Secretary to the Admiralty, How many and what design of Torpedo craft are to accompany the Evolutionary Squadron about to be assembled in the Channel under the command of Admiral Hornby; whether any portion of the Fleet is to be manned by officers and men of the First and Second Class Mercantile Reserves; and, further to inquire if the cruise is to be a game of war, combining manœuvring with land forces, or to be limited to the usual summer routine? 
+<speaker>SIR THOMAS BRASSEY</speaker> The torpedo flotilla which will accompany the Evolutionary Squadron under the command of Admiral Hornby includes the Hecla and Polyphemus, and eight first-class and eight second-class torpedo boats. Of the 13 ironclads in the Squadron, all except the Lord Warden and Penelope are fitted with two or four torpedo tubes. Three most important unarmoured vessels in the Squadron—the Conquest, Mercury, and Leander —-are similarly fitted. A few officers of the Royal Naval Reserves are being selected for service with the Squadron. The men of the Reserves have not been called out. During the cruise many experiments will be carried out with especial reference to the torpedoes. 
+<speaker>MR. GOURLEY</speaker> asked whether the fleets were engaged in what might be designated a game of war? 
+<speaker>SIR THOMAS BRASSEY</speaker> replied, that the trials and exercise would be carried out under the direction of one of the ablest officers in the Service, and he had been invited to give his attention to the use of the torpedo.

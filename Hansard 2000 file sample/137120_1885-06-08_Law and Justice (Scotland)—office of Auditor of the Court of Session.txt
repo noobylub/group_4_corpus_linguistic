@@ -1,0 +1,9 @@
+<FileID>137120</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/law-and-justice-scotland-office-of</URL>
+<Title>Law and Justice (Scotland)—office of Auditor of the Court of Session</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 cc1396-7</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>174</WordCount>
+
+DR. CAMERON asked the Lord Advocate, Whether his attention has been called to any complaints as to the business of the Office of the Auditor of the Court of Session being in arrear, and the inconvenience thereby occasioned to litigants; whether he has had previous complaints on the subject; and, whether the fact of the arrears is attributable to extra duties which, have been imposed by Statute on the Auditor; and, if so, whether it is in the power of Government to increase the staff of the office by an additional Auditor? THE LORD ADVOCATE (Mr. J. B. BALFOUR) I have not received any complaints to the effect that the judicial business of the office of the Auditor of the Court of Session is in arrear, whereby inconvenience is caused to litigants; and, upon inquiry, I do not find that there is any necessity for the appointment of a Judicial Auditor. I understand that the Auditor properly gives a preference to judicial or official work, with the view of preventing it getting into arrear.

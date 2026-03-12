@@ -1,0 +1,11 @@
+<FileID>137511</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/navy-torpedo-experiments</URL>
+<Title>Navy—torpedo Experiments</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc418-9</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>179</WordCount>
+
+
+<speaker>MR. GOURLEY</speaker> asked the First Lord of the Admiralty, Whether the experiments which have for some time been conducted at Sheerness by Mr. Brennan, in controlling torpedoes, have been brought to a conclusion; if so, with what result; whether experiments with torpedo controlling apparatus are being conducted by Admiral Hornby with the Evolutionary Squadrons; and, if it be correct that Mr. Robert Scott, of Newcastle, recently offered the Admiralty a torpedo guiding apparatus capable of controlling submarine torpedoes a distance of three miles; if so, what arrangements the Admiralty have made for eon-ducting the necessary experiments? 
+<speaker>THE FIRST LORD (Lord GEORGE HAMILTON)</speaker> The Brennan torpedo has been taken up and is being worked out by the War Office, and the Admiralty has nothing to do with it. No experiments with torpedo controlling apparatus are being conducted by Admiral Hornby. Mr. Scott offered this apparatus, which, he stated, would enable the torpedo to be controlled at a distance of three or four miles. No arrangements were made, as, after a careful examination, it was found unsuitable for the Naval Service.

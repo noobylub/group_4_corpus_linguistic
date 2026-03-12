@@ -1,0 +1,11 @@
+<FileID>138429</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/returns-of-ground-rent-holders-and</URL>
+<Title>Returns of Ground Rent— Holders and Owners of Mining Royalties</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1061-2</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>171</WordCount>
+
+
+<speaker>MR. BROADHURST</speaker> asked Mr. Chancellor of the Exchequer, Whether his attention has been directed to the two Returns, given Notice of for Thursday next, relating to Ground Rents and Royalties on Mines; and, whether he will, on behalf of the Government, undertake that these Returns shall be furnished to the extent which it may be found possible to give them by the respective departments? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER,</speaker> in reply, said, that he had made inquiries of the Departments concerned; but he found that it was quite impossible for them to furnish the information desired by the hon. Member, even if the House saw fit to order the Returns which he proposed to move for. The Return of 1874 was based on the valuation list and the rate books, and on information supplied by the Clerks of Boards of Guardians and other local officers; but he was informed that the valuation list did not usually give the amount of ground rents, nor were the royalties on mining property ever stated.

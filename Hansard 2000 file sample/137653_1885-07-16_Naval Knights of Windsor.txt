@@ -1,0 +1,11 @@
+<FileID>137653</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/naval-knights-of-windsor</URL>
+<Title>Naval Knights of Windsor</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c906</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>115</WordCount>
+
+
+<speaker>SIR JOHN HAY</speaker> asked the First Lord of the Admiralty, If he is aware that there are three vacancies for Naval Knights of Windsor; and, whether he is about to submit to the Home Office the names of those deserving Officers whom the Board may think entitled to that honour? 
+<speaker>THE FIRST LORD OF THE ADMIRALTY (Lord GEORGE HAMILTON)</speaker> There are three vacancies to be filled up; but my Predecessor (Lord North-brook) ordered the postponement of action as regards filling up those vacancies until the effect of the proposed legislation by which captains and commanders will be eligible for appointment is ascertained. There is a clause in the Greenwich Hospital Bill carrying out this change.

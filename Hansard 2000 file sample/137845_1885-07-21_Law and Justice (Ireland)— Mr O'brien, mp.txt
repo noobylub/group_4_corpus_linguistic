@@ -1,0 +1,14 @@
+<FileID>137845</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/law-and-justice-ireland-mr-obrien-mp</URL>
+<Title>Law and Justice (Ireland)— Mr O'brien, mp</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 cc1401-2</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>397</WordCount>
+
+
+<speaker>MR. M'COAN</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether, on the 18th of June 1884, the Queen's Bench Division of the High Court of Justice in Ireland made an order imposing a fine of £500 on Mr. W. O'Brien, M.P. for Mallow, for contempt of court; whether, on the 1st of July 1884, a warrant was duly issued in pursuance of that order, and was lodged for execution in the hands of the Dublin Metropolitan Police; whether such police are subject to the Irish Executive; whether the said warrant ordered the levy of the fine off Mr. O'Brien's property, or, that failing, his arrest and committal to prison for twelve months; and, whether it has been executed; and, if not, by whose authority or direction its execution has been stayed? 
+<speaker>MR. SEXTON</speaker> I rise to a point of Order; and upon this Question, Mr. Speaker, I beg to submit to you that the hon. Member for Wicklow has already this Session asked a Question which was substantially the same as this, and he was informed that the matter was not one in which the Government could interfere, inasmuch as it lies with the Court of Justice to deal with the matter. As this is the second time upon which the hon. Member for Wicklow has put this Question, I would ask you, Sir, if he is in Order in pressing further a matter upon which he has already received a reply? 
+<speaker>MR. SPEAKER</speaker> The Minister who is to answer the Question will, no doubt, be prepared to say whether the Question has been already answered or not. 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> This is not the first Question put to me since I became concerned in Irish affairs, and it is difficult for me to say whether this Question has been put before or not; but, in answer to it, I may say there are no records in my Office connected with this matter, and I am, therefore, not able to say whether the facts are as stated or not. 
+<speaker>MR. M'COAN</speaker> I should like to ask the right hon. Gentleman to tell the House whether the Dublin Metropolitan Police are under the control of the Irish Executive; and if he has not already means of ascertaining whether the warrant was placed in their hands or not? [No reply.]

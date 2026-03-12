@@ -1,0 +1,9 @@
+<FileID>136926</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/19/earldom-of-mar-restitution-bill-no-107</URL>
+<Title>Earldom of Mar Restitution Bill—(no 107)</Title>
+<DebRef>HL Deb 19 May 1885 vol 298 cc880-9</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>11</WordCount>
+
+( The Lord Privy Seal. ) cc880-9 SECOND READING. 3,346 words

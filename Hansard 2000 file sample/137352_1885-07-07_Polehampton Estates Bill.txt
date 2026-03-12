@@ -1,0 +1,9 @@
+<FileID>137352</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/polehampton-estates-bill</URL>
+<Title>Polehampton Estates Bill</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 c1943</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>58</WordCount>
+
+On Motion of Sir HENRY HOLLAND, Bill to provide for the application to charitable purposes of such portion of the property subject to the will of Edward Polehampton as is now vested in the Crown, and for the management and application of the said property, ordered to be brought in by Sir HENRY HOLLAND and Mr. ATTORNEY GENERAL.

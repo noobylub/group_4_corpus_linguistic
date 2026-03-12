@@ -1,0 +1,9 @@
+<FileID>138563</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/07/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 07 August 1885 vol 300 c1429</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>68</WordCount>
+
+PUBLIC BILLS— First Reading —Public Health (Metropolis) * (240). Second Reading — Committee negatived —Metropolitan Police Staff Superannuation * (222); Consolidated Fund (Appropriation) * ; Past India Army Pensions Deficiency * (239). Committee —Labourers (Ireland) (No. 2) (235–241). Committee—Report —Public Works Loans * (234). Report—Third Reading —Local Government (Ireland) Provisional Orders (170); Crown Lands * (224), and passed. Third Reading —Parliamentary Elections (Returning Officers) * (231), and passed.

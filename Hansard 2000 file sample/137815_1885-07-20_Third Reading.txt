@@ -1,0 +1,9 @@
+<FileID>137815</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/20/third-reading</URL>
+<Title>Third Reading</Title>
+<DebRef>HL Deb 20 July 1885 vol 299 cc1152-3</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>124</WordCount>
+
+Moved, "That the Bill be now read 3 a ." THE EARL OF BESSBOROUGH, in moving— That the Bill be not read a third time unless the clauses relating to running powers be previously expunged, said, the clauses in question would operate injuriously to the Great Western Railway. Company, on whose behalf he asked their Lordships to amend the Bill. THE EARL OF DONOUGHMORE said, he felt bound to defend the action of the Committee, who had inserted these clauses in the public interest. The case of the Great Western Railway Company had been fully heard and considered. On Question, "That the Bill be road 3 a ?" Resolved in the affirmative; Bill read 3 a accordingly; and passed, and sent to the Commons.

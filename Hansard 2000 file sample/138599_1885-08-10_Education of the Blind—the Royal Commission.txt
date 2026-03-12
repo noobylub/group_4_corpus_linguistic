@@ -1,0 +1,11 @@
+<FileID>138599</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/education-of-the-blind-the-royal</URL>
+<Title>Education of the Blind—the Royal Commission</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 cc1580-1</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>172</WordCount>
+
+
+<speaker>SIR GABRIEL GOLDNEY</speaker> asked the Secretary of State for the Home Department, Whether numerous remonstrances had not been received upon the composition of the Commission lately issued with regard to the education of the blind, on the ground that a prepon- derant number of the Commission were the representatives and advocates of one particular system, while other systems were wholly unrepresented; and, whether he would consider the expediency of increasing the number of the Commission by the addition of representatives of other methods of teaching, in order that the Commission might be so constituted as that its Report when issued might command the confidence of the public? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> , in reply, said, that the Royal Commission on the Education of the Blind had been appointed by the late Government, and it was an accident that the arrangements were not completed when they left Office. He had added two additional Members to the Commission; and he would consider the advisability of appointing a Member from Ireland.

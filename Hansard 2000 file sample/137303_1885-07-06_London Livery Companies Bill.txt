@@ -1,0 +1,9 @@
+<FileID>137303</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/06/london-livery-companies-bill</URL>
+<Title>London Livery Companies Bill</Title>
+<DebRef>HC Deb 06 July 1885 vol 298 cc1791-3</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>6</WordCount>
+
+cc1791-3 MOTION FOR LEAVE. 729 words

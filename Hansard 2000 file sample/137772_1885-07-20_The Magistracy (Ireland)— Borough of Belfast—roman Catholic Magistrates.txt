@@ -1,0 +1,11 @@
+<FileID>137772</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/the-magistracy-ireland-borough-of</URL>
+<Title>The Magistracy (Ireland)— Borough of Belfast—roman Catholic Magistrates</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 c1193</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>150</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, The reason why the Roman Catholic magistrates for the borough of Belfast do not attend at the Courts of Petty Sessions in their district; and, is it a fact that only three Catholic magistrates (and even these very seldom) occasionally attend the Petty Sessions? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> I am informed that there are nine Roman Catholic magistrates for the borough of Belfast, and that, of these, three attend Petty Sessions with comparative regularity, and some of the others occasionally. I am not aware of the reason why some of these gentlemen do not attend. I should observe that attendance at Petty Sessions is not the sole function of a borough magistrate, and that in Belfast there are two stipendiary magistrates whose principal duty it is to attend at the daily police courts.

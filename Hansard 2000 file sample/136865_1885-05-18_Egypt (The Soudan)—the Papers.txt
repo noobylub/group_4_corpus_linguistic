@@ -1,0 +1,10 @@
+<FileID>136865</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/egypt-the-soudan-the-papers</URL>
+<Title>Egypt (The Soudan)—the Papers</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 c717</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>45</WordCount>
+
+
+<speaker>LORD RANDOLPH CHURCHILL</speaker> asked, When they were likely to have any Papers concerning the evacuation of the Soudan? THE MARQUESS OF HARTINGTON stated that the Papers were in course of preparation, and he hoped that they would be laid upon the Table before the Holidays.

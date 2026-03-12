@@ -1,0 +1,9 @@
+<FileID>137269</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/03/not-in-the-cabinet</URL>
+<Title>Not in the Cabinet</Title>
+<DebRef>HL Deb 03 July 1885 vol 298 c1643</DebRef>
+<SittingDate>1885-07-03</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>195</WordCount>
+
+Field Marshal Commanding in Chief H.R.H. the Duke of Cambridge, K.G. Vice President of the Committee of Council for Education Right Hon. A. J. Mundella. Lords of the Treasury C. C. Cotes, Esq. Herbert Gladstone, Esq. R. W. Duff, Esq. Lords of the Admiralty. Admiral Sir ASTLEY Cooper Key, Admiral Lord Alcester, Rear Admiral THOMAS BRANDRETH, Vice Admiral Sir WILLIAM HEWTT, WILLIAM SPROSTON CAINE, Esq., & GEORGE W. RENDEL, Esq. Joint Secretaries to the Treasury (Right Hon. Lord RICHARD GROSVENOR. John Tomlinson Hibbert, Esq. Secretary to the Admiralty Sir Thomas Brassey. Secretary to the Board of Trade John Holms, Esq. Secretary to the Local Government Board George William Erskine Russell, Esq. Under Secretary, Home Department Henry Hartley Fowler, Esq. Under Secretary, Foreign Department Lord Edmond Fitzmaurice. Under Secretary for Colonies Hon. A. Evelyn Ashley. Under Secretary for War Earl of Morley. Under Secretary for India J. Kynaston Cross, Esq. Paymaster General Right Hon. Lord Wolverton. Surveyor General of Ordnance Hon. Henry Robert Brand. Financial Secretary to the War Department Colonel Sir Arthur Divett Hayter, Bart. Judge Advocate General Right Hon. George Osborne Morgan. Attorney General Right Hon. Sir Henry James. Solicitor General Sir Farrer Herschell.

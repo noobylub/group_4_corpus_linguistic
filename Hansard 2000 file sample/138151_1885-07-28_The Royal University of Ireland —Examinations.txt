@@ -1,0 +1,10 @@
+<FileID>138151</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/the-royal-university-of-ireland</URL>
+<Title>The Royal University of Ireland —Examinations</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 cc244-5</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>156</WordCount>
+
+MR. JUSTIN M'CARTHY asked the Chief Secretary to the Lord Lieutenant of Ireland, In what subjects the Senate of the Royal University, Ireland, propose to examine candidates orally at the second examination in arts, and to what extent such oral examination will be carried? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> I am informed that candidates for honours will be examined orally in the subjects in which they seek honours, and that pass candidates will be examined orally in experimental physics, chemistry, biology, and geology. The extent to which this examination will be carried must be left to the discretion of the Examiners within the limits of the course defined. I have given the hon. Member the information he seeks, so far as I am able to do so; but I rather doubt the utility of putting Questions upon matters which are within the competence of the Governing Body of the University to determine.

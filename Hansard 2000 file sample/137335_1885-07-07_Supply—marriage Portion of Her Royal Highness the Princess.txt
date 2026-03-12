@@ -1,0 +1,9 @@
+<FileID>137335</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/supply-marriage-portion-of-her-royal</URL>
+<Title>Supply—marriage Portion of Her Royal Highness the Princess</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 cc1902-13</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>4</WordCount>
+
+cc1902-13 BEATRICE. 4,416 words

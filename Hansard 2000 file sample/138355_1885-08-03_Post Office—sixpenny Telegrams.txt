@@ -1,0 +1,10 @@
+<FileID>138355</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/post-office-sixpenny-telegrams</URL>
+<Title>Post Office—sixpenny Telegrams</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c845</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>33</WordCount>
+
+In reply to Mr. Alderman LAWRENCE, 
+<speaker>THE POSTMASTER GENEEAL (Lord JOHN MANNERS)</speaker> said, it was hoped that the Act reducing the price of telegrams would come into operation on the 1st of October.

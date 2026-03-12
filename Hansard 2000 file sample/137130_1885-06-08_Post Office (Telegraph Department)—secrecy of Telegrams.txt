@@ -1,0 +1,13 @@
+<FileID>137130</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/post-office-telegraph-department-secrecy</URL>
+<Title>Post Office (Telegraph Department)—secrecy of Telegrams</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 cc1402-3</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>316</WordCount>
+
+DR. CAMERON (for Mr. J. W. BARCLAY) asked the Postmaster Genera), Whether his attention has been called to a letter in The North British Daily Mail of 29th May, signed by two well known persons in Portree, which states particulars of an attempt to elicit from post office officials in Portree information respecting the senders and contents of telegrams; and, whether he has inquired of the Postmaster at Portree as to the truth of the allegations in the letter; and, if he will communicate the result of the inquiry to the House? 
+<speaker>MR. SHAW LEFEVRE</speaker> I have seen the letter referred to, and I have also had a statement from the Postmaster to the same effect. I have communicated with the Lord Advocate on the subject, and I learn from him that the Sheriff had made a statement to him of a totally different character, informing him that the statement by the Postmaster is incorrect. As far as I am concerned, the matter is at rest there. DR. CAMERON Has a similar occurrence taken place at the post office at Uig? 
+<speaker>MR. SHAW LEFEVRE</speaker> I have not heard anything of that. DR. CAMERON May I ask the right hon. Gentleman to inquire? 
+<speaker>MR. SHAW LEFEVRE</speaker> Yes, Sir. 
+<speaker>MR. MACFARLANE</speaker> asked the Lord Advocate, If his attention has been called to a letter, signed by two residents in Portree, published in several Scotch newspapers, describing an attempt by Sheriff Ivory to obtain information from the Post Office officials by threats, with reference to the contents and authorship of telegrams alleged to have been despatched from the Portree telegraph office; and, if the facts are as stated, is it his intention to order a prosecution? THE LORD ADVOCATE (Mr. J. B. BALFOUR) My attention was called to this letter, and I communicated with the Sheriff, and received from him a totally different account of what actually took place.

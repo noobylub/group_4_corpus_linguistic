@@ -1,0 +1,11 @@
+<FileID>138320</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/alkali-c-works-regulation-acts-gas-works</URL>
+<Title>Alkali, &C Works Regulation Acts—gas Works</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc820-1</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>190</WordCount>
+
+
+<speaker>GENERAL SIR GEORGE BALFOUR</speaker> asked the President of the Local Government Board, Whether the provisions of the Alkali Act can be extended to gasworks, so that the preventible nuisances arising from gas manufacture may be stopped; and, whether his attention has been directed to the gasworks at Tunbridge Wells, in which the annual production of 600 tons of foul lime and oxide of iron has been abolished? 
+<speaker>THE PRESIDENT OF THE BOARD (Mr. A. J. BALFOUR)</speaker> When the manufacture of sulphate of ammonia is carried on in connection with gas works, that process is under inspection under the Alkali, &c. Works Regulation Act . As regards gas works generally, of which there are about 2,000, the nuisance which occasionally occurs is one that can be dealt with by the local Inspector of Nuisances, and it is not at present considered necessary to extend to them the provisions of the Act referred to. We are aware that at the gas works at Tunbridge Wells the process which is known as the "Cooper Lime Process" has been adopted, this process, like certain others, being intended to assist in the purification of gas.

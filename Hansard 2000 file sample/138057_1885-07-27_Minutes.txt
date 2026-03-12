@@ -1,0 +1,9 @@
+<FileID>138057</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c37</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>180</WordCount>
+
+Supply— considered in Committee Army Estimates, Votes 10 to 25; Civil Service Estimates—Class III. — Law and Justice, Vote 17; Class TV. — Education, Science, and Art, Votes 3, 12, 13; Class VIL—Miscellaneous, Votes 1, 2; £250,000, Grant in Aid, Afghan War—Revenue Departments: Class I. — Public Works and Buildings, Votes 2, 18, 20, 26; Class III. — Law and Justice, Votes 8, 20; Class V. — Foreign and Colonial Services, Vote 6; Class VII. — Miscellaneous. Resolutions [July 24] reported. PRIVATE BILL ( by Order )— Considered as amended Edinburgh Extension and Sewerage. PUBLIC BILLS— Second Reading —Lunacy Acts Amendment [244]; Metropolitan Police Stall' Superannuation * [246]; Sea Fisheries (Scotland) Amendment [250]. Committee —Patent Law Amendment [240]—R.P.; Prevention of Crimes Amendment [93], debate adjourned. Committee—Report —Parliamentary Elections (Returning Officers) [90–251]. Committee—Report—Third Reading —Evidence by Commission [233], and passed. Considered as amended —Customs and Inland Revenue (So. 2) [223]. Considered as amended—Third Reading —Pluralities * [22–241], and passed. Third Reading —Poor Law Unions' Officers (Ireland) * [214], and passed. Withdrawn —Deeds of Arrangement Registration * [225]; Trustees Relief * [83].

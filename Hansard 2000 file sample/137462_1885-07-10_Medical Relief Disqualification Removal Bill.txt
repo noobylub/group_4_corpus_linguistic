@@ -1,0 +1,15 @@
+<FileID>137462</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/medical-relief-disqualification-removal</URL>
+<Title>Medical Relief Disqualification Removal Bill</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 cc285-6</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>288</WordCount>
+
+
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS - BEACH)</speaker> Having consulted my right hon. Friend the President of the Local Government Board, which I had not the opportunity of doing before, I may, perhaps, be allowed to supplement what I stated just now on the subject referred to by the hon. Gentleman opposite (Mr. Jesse Collings). Her Majesty's Government have very carefully considered the question of medical relief, and having so considered it we think it would be better to propose legislation on the subject ourselves. This evening my right hon. Friend the President of the Local Government Board will give Notice that on Monday he will move for leave to bring in a Bill, which will be pressed forward as speedily as possible. 
+<speaker>MR. JESSE COLLINGS</speaker> asked whether the right hon. Gentleman would give the terms of the Bill? 
+<speaker>SIR CHARLES W. DILKE</speaker> asked whether the Bill would be confined to the question of medical relief, or whether it would deal with other matters? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I think the right hon. Gentleman had better wait until my right hon. Friend states the provisions of the Bill when he moves for leave. DR. CAMERON asked if the Bill alluded to would refer to Scotland? 
+<speaker>MR. CARBUTT</speaker> asked Mr. Chancellor of the Exchequer, If he will be prepared to state on Monday the terms of the Bill dealing with the question of medical relief, and at what date it would be in the hands of Members? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER,</speaker> in reply, said, he had already stated that, on Monday, the President of the Local Government Board would move for leave to bring in the Bill. The Bill would be a very short one.

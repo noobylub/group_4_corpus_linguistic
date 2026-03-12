@@ -1,0 +1,9 @@
+<FileID>137253</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/25/new-writs</URL>
+<Title>New Writs</Title>
+<DebRef>HC Deb 25 June 1885 vol 298 c1639</DebRef>
+<SittingDate>1885-06-25</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>118</WordCount>
+
+For Lincoln County (Northern Division), v. Rowland Winn, esquire, Chiltern Hundreds. For Kent (Western Division), v. Eight honble. William Heneage Legge, commonly called Viscount Lewisham, Vice Chamberlain of Her Majesty's Household. For Down County, v. Right honble. Arthur William Hill, commonly called Lord Arthur Hill, Controller of Her Majesty's Household. For Wilts County (Southern Division), v. Eight honble. William Pleydell Bouverie, commonly called Viscount Folkestone, Treasurer of Her Majesty's Household. For Devon County (Eastern Division), v. William Hood Walrond, esquire, Commissioner of the Treasury. For Wilton Borough, v. the honble. Sidney Herbert, Commissioner of the Treasury. For Bute County, v. Charles Dalrymple, esquire, Commissioner of the Treasury. For Eye Borough, v. Ellis Ashmead-Bartlett, esquire, Commissioner of the Admiralty.

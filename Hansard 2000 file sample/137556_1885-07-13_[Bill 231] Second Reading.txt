@@ -1,0 +1,10 @@
+<FileID>137556</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/bill-231-second-reading</URL>
+<Title>[Bill 231] Second Reading</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c575</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>57</WordCount>
+
+Order for Second Beading read. 
+<speaker>COLONEL NOLAN</speaker> said, this was exactly the same Bill as the Act of last year. Its object was to continue the Act up to May next, and it was proposed on account of the danger of cholera reaching their shores from the Continent. Bill read a second time, and committed for Tomorrow.

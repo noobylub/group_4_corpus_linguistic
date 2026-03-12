@@ -1,0 +1,11 @@
+<FileID>138335</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/army-royal-military-academy-woolwich</URL>
+<Title>Army—royal Military Academy, Woolwich—meal Hours of Cadets</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc832-3</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>207</WordCount>
+
+
+<speaker>SIR HENRY TYLER</speaker> asked the Secretary of State for War, Whether he will kindly inquire whether any steps have been taken to alter the times for meals of the gentlemen cadets of the Royal Military Academy at Woolwich, especially in regard to the interval of six hours and twenty minutes between breakfast and luncheon, from 7.55 a.m. to 2.15 p.m.? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> In reply to this Question I will make a quotation from the Report of the Board of Visitors, which I have this day presented to the House— The Board were much gratified to notice that they (the cadets) did not display to any extent the pale and jaded appearance they showed last year. On the contrary, they looked smart, and presented generally a bright and healthy look. The improvement may, to some extent, have been caused by the entire change which has taken place in their dietary. A complete alteration has been made in this respect; and in place of breakfast at 7 A.M., early lunch at 11.30, and dinner at 2.15, a cold meat luncheon at 1.15, and a very good late dinner at 7.15, are provided for the cadets, the breakfast hour being now at 7.30 A.M.

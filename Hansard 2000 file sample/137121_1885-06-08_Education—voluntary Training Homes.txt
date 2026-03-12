@@ -1,0 +1,11 @@
+<FileID>137121</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/education-voluntary-training-homes</URL>
+<Title>Education—voluntary Training Homes</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 c1397</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>138</WordCount>
+
+
+<speaker>MR. RANKIN</speaker> asked the Secretary of State for the Home Department, Whether there are any statistics in the possession of the Home Department, or any other Department of State, which would afford approximate information as to the number of children in the United Kingdom at present being brought up in voluntary training homos whether under Government inspection or not, other than certified industrial schools or reformatories; and, if so, whether the Government would allow such information, to be given in the form of a Return, giving the numbers of such children and the names and localities of the homes, and the number and sexes of the children in each home? 
+<speaker>SIR WILLIAM HARCOURT</speaker> I have inquired of the various Departments, and I am afraid it is impossible to get from them the figures relating to these voluntary schools.

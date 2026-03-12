@@ -1,0 +1,9 @@
+<FileID>137558</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/medical-relief-disqualification-removal</URL>
+<Title>Medical Relief Disqualification Removal Bill</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc576-86</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>15</WordCount>
+
+cc576-85 MOTION FOR LEAVE. 3,740 words cc585-6 CRIMINAL LAW AMENDMENT [COST OF PROSECUTIONS]. 75 words

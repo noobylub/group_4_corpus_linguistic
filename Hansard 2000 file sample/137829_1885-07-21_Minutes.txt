@@ -1,0 +1,9 @@
+<FileID>137829</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 c1381</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>56</WordCount>
+
+PUBLIC BILLS — Ordered— First Heading —Revising Barristers* [237]; Evidence by Commission*[238]; Moveable Dwellings [239]; Patent Law Amendment [240]. Second Reading —Elementary Education Provisional Order Confirmation (London)*[233]; County Officers and Courts (Ireland) (Pensions) [112]. Select Committee —Pluralities [22], Mr. Caine and Mr. Atkinson added. Committee — Report —Medical Belief Disqualification Removal [232]; School Boards*[235]; Greenwich Hospital*[222].

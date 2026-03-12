@@ -1,0 +1,11 @@
+<FileID>138488</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/post-office-contracts-the-irish-mails</URL>
+<Title>Post Office—contracts—the Irish Mails</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 cc1272-3</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>152</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Postmaster General, Whether he has arranged with the Midland Railway Company of Ireland for the service of mails at forty miles an hours between Dublin and the West of Ireland, as desired by the Memorial of Members of the House of Commons, presented to his Predecessor on the 15th of December last? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS)</speaker> In answer to a former Question of the hon. Member I stated that the payment of 1 s. 6 d. per mile asked by the Midland and Great Western Railway Company was too high for the Post Office to grant. I am now happy to say the Company have made a sensible abatement in their demand; and their new proposal for an improved service at the speed mentioned in the Question between Dublin and the West of Ireland, including Westport and Ballina, is now under the consideration of the Government.

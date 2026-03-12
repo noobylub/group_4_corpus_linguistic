@@ -1,0 +1,11 @@
+<FileID>137070</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/04/the-papal-see-diplomatic-communication</URL>
+<Title>The Papal See—diplomatic Communication With the Vatican</Title>
+<DebRef>HC Deb 04 June 1885 vol 298 cc1188-9</DebRef>
+<SittingDate>1885-06-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>117</WordCount>
+
+
+<speaker>MR. M'COAN</speaker> asked the First Lord of the Treasury, If he would consider whether the present methods of communication between our Foreign Office and the Papal See might be superseded by the establishment of some more regular Diplomatic relations? MR. GLADSTONE In answer to this Question I have to say that Her Majesty's Government have not formed any intention of establishing any regular diplomatic relations with the Vatican. 
+<speaker>MR. CALLAN</speaker> May I ask whether Her Majesty's Government will continue their "irregular" communications with the Papal See? MR. GLADSTONE It appears to me that that is a Question which ought rather to be put to my hon. Friend who asked the first. The word is his, not mine.

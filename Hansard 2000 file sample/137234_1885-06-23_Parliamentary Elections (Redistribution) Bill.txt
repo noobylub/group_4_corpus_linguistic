@@ -1,0 +1,9 @@
+<FileID>137234</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/23/parliamentary-elections-redistribution</URL>
+<Title>Parliamentary Elections (Redistribution) Bill</Title>
+<DebRef>HL Deb 23 June 1885 vol 298 cc1608-11</DebRef>
+<SittingDate>1885-06-23</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>7</WordCount>
+
+cc1608-11 CONSIDERATION OF COMMONS REASONS. 1,040 words

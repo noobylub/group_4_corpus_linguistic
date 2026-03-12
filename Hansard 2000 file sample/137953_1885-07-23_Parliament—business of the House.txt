@@ -1,0 +1,10 @@
+<FileID>137953</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/parliament-business-of-the-house-1</URL>
+<Title>Parliament—business of the House</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1729-30</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>181</WordCount>
+
+
+<speaker>MR. H. H. FOWLER</speaker> said, he should like to ask the right hon. Gentleman the Chancellor of the Exchequer in what position the Criminal Law Amendment Bill stood? There was, he believed, a general understanding that the Bill was to be the first Order of the Day on Tuesday next. THE CHANCELLOR OF THE EXCHEQUER said, they had to take Supply tomorrow if they were able to do so, and again on Monday. Much depended on whether they could finish Supply on Monday or not, because, if not, they would have to go on with it on Tuesday, and then the Telegraph Acts Amend- ment Bill would follow on the same evening. When they reached the Criminal Law Amendment Bill , it would be desirable that they should go on with it as rapidly as possible. His wish was to finish Supply, then to proceed with the Telegraph Acts Amendment Bill , and then to go forward with the Criminal Law Amendment Bill ; but he should have to communicate with his right hon. Friend the Home Secretary on the subject.

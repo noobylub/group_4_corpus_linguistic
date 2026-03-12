@@ -1,0 +1,10 @@
+<FileID>137301</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/06/copyhold-enfranchisement-bill-bill-26</URL>
+<Title>Copyhold Enfranchisement Bill— [Bill 26]</Title>
+<DebRef>HC Deb 06 July 1885 vol 298 c1790</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>136</WordCount>
+
+( Mr. Waugh, Mr. George Howard, Mr. Stafford Howard, Mr. Ainsworth, Mr. Ferguson. ) COMMITTEE. [ Progress 15th June. Bill considered in Committee. (In the Committee.) 
+<speaker>MR. PULESTON</speaker> said, he was not opposed to all the clauses of the Bill, although as they involved several very important questions, he was of opinion that they could not be adequately discussed at that hour. He should, therefore, move that Progress be reported; and he trusted that his hon. Friend (Mr. Waugh) would take this in all sincerity, because, as a matter of fact, he was really with him on most parts of the Bill. Motion made, and Question proposed. "That the Chairman do report Progress, and ask leave to sit again."— ( Mr. Puleston. ) Question put, and agreed to. Committee report Progress; to sit again upon Thursday.

@@ -1,0 +1,11 @@
+<FileID>138715</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/relief-of-distress-ireland-act-non</URL>
+<Title>Relief of Distress (Ireland) Act —Non-Payment of Seed Rates</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c10</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>147</WordCount>
+
+
+<speaker>MR. SEXTON (for Mr. O'KELLY)</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether ratepayers who paid on or before the 1st of July all Poor Rates then due will have a right to vote, whether or not they have paid the last instalment of the Seed Rate then due; and, whether ratepayers who tendered all Poor Rates clue at the proper time will have their right to vote disallowed by the refusal of the Poor Rate collectors to receive the Poor Rate without the Seed Rate instalment? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> I am advised that nonpayment of seed rate has the same effect as nonpayment of poor rate. The Act of Parliament requires the seed rate to be added to the poor rate and collected therewith, and the collector is justified in refusing to accept the one without the other.

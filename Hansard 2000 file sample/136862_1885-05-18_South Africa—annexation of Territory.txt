@@ -1,0 +1,11 @@
+<FileID>136862</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/south-africa-annexation-of-territory</URL>
+<Title>South Africa—annexation of Territory</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 cc714-5</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>333</WordCount>
+
+
+<speaker>SIR GEORGE CAMPBELL</speaker> asked the First Lord of the Treasury, Whether there will be any opportunity of discussing the recent annexation to the British dominions of a great territory in the far interior of South Africa, extending up to the 22nd degree of south latitude, and as large as the present Cape Colony or as the United Kingdom, and of eliciting the intentions of Her Majesty's Government in regard to South African affairs? He also wished to know whether there was any truth in the statement ill The Times of that morning to the following effect:— Sechele's reception of Sir Charles Warren's announcement of an Imperial Protectorate was somewhat equivocal. He said,—' When we see what benefits Mankoroane and Montsioa get, we will consider the question; till then go and do what you came to do.' He distinguished the Queen's Government from Mr. Upington's. Sir Charles Warren intended to return, but hearing that Metahele was on the warpath against Khama he decided to proceed against that Chief? MR. GLADSTONE I will not attempt to make any answer to the addition to the Question. We have heard nothing on the subject. But with regard to the Question on the Paper, there is an error in describing what took place as a "recent annexation to the British dominions." There has been no such annexation to the British Dominions; but I believe that protection has been given to a large distressed district. As regards the ultimate condition of that district, it is not possible at present to give any precise information, because it is necessary, in the first place, that Sir Charles Warren should definitely give his opinion upon the subject, and, in the second place, that those views should be considered by the High Commissioner. When we are in possession of all the information, it will be our duty to consider the question. In reply to a further Question from Sir GEORGE CAMPBELL, 
+<speaker>MR. EVELYN ASHLEY</speaker> said, the Protectorate referred to was a conditional one.

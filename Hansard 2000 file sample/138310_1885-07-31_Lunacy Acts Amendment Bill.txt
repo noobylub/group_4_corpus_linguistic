@@ -1,0 +1,9 @@
+<FileID>138310</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/31/lunacy-acts-amendment-bill</URL>
+<Title>Lunacy Acts Amendment Bill</Title>
+<DebRef>HL Deb 31 July 1885 vol 300 cc659-60</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>12</WordCount>
+
+( The Earl Brownlow. ) cc659-60 (NO. 221.) SECOND READING. 109 words

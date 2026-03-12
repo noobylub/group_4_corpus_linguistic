@@ -1,0 +1,11 @@
+<FileID>138301</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/second-reading</URL>
+<Title>Second Reading</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 c811</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>218</WordCount>
+
+Order for Second Reading read. Motion made, and Question proposed, "That the Bill be now read a second time."—( Sir Henry Holland. ) 
+<speaker>MR. ONSLOW</speaker> said, this was a very important Bill, affecting, if he mistook not, the Revenue of India. It was only delivered that day, and as hon. Members had not had an opportunity of examining it, perhaps the hon. Baronet would explain its provisions. 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> said, a certain number of pensions, which fell due before the new arrangement with regard to pensions was made in 1884, had to be paid by this country. The pensions which had fallen due since that arrangement were annually paid by India. For the pensions which fell due before 1884, there was no more money coming from India; but there was about £1,600,000 in hand to meet them. When that sum was exhausted, the pensions would form a charge upon the Army Vote. That would raise the Army Vote very unfairly, and therefore it had been thought right to borrow from the Consolidated Fund a sum of money to lighten the Estimates. The charge would cease when the pensions came to an end. Annual accounts would be presented to Parliament. Motion agreed to. Bill read a second time, and committed for Monday next.

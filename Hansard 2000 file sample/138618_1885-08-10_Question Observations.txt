@@ -1,0 +1,9 @@
+<FileID>138618</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/10/question-observations-2</URL>
+<Title>Question Observations</Title>
+<DebRef>HL Deb 10 August 1885 vol 300 cc1545-6</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>274</WordCount>
+
+THE MARQUESS OF LOTHIAN asked the Under Secretary of State for War, For what length of time it is proposed to keep the Reserve men with the Colours? After the statements which had been made in Parliament as to their relations with Foreign Powers, it did not seem at all probable that the Reserve men would be called upon for active service; and it was, therefore, very undesirable to keep them with the Colours for no definite purpose. Considerable expense was thereby caused to the country, much hardship to the families of the men, and great inconvenience, in many cases, to their Civil employers—and this especially would have the bad effect of making employers of labour hesitate in future before taking Reserve men into their service. He hoped, therefore, that the noble Earl would be able to give some assurance that these men would shortly be dismissed to their HOLMES. THE UNDER SECRETARY OF STATE FOR THE COLONIES (The Earl of DUNRAVEN) , who replied, said, he was afraid he could not give a very satisfactory answer to the Question in the absence of his noble Friend the Under Secretary of State for War. Circumstances had changed very much for the better since the Reserve men were called out; but the time when they could be dismissed depended upon all kinds of political considerations, and it was impossible to say exactly what that date would be. Her Majesty's Government fully understood the inconvenience of these men being kept from their ordinary occupations, and they would not be detained a moment longer than the neccessities of the country and the requirements of the Service demanded.

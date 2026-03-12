@@ -1,0 +1,9 @@
+<FileID>138049</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/26/womens-suffrage-bill-no-27</URL>
+<Title>Women's Suffrage Bill—(no 27)</Title>
+<DebRef>HL Deb 26 July 1885 vol 300 cc216-7</DebRef>
+<SittingDate>1885-07-26</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>10</WordCount>
+
+( The Lord Denman. ) cc216-7 SECOND READING. 479 words

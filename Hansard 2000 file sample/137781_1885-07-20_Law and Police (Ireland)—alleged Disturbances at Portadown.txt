@@ -1,0 +1,11 @@
+<FileID>137781</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/law-and-police-ireland-alleged</URL>
+<Title>Law and Police (Ireland)—alleged Disturbances at Portadown</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1199-200</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>310</WordCount>
+
+MR. O'BRIEN asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether it is true that, on the occasion of the recent Orange celebration at Portadown, a policeman in coloured clothes got drunk, and cursed the Pope in presence of an excited crowd, and shouted that he was the last Orangeman in Portadown; what steps have been taken to punish his misconduct; and, is it a fact that on 15th July an Orange drumming party was permitted to parade through the Catholic quarter of Portadown, breaking windows and assaulting the inhabitants, notwithstanding that nearly a hundred policemen were stationed in the town, nominally for the purpose of preserving the peace; if so, who is responsible for the inactivity of the police, and what steps will be taken to protect the lives of the Catholic inhabitants? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> It is true that a complaint was made to the effect stated in the first paragraph of this Question on the 13th instant, and the three officers who were on duty at the time immediately proceeded to investigate it. They found the policeman to be perfectly sober, and two witnesses who were named by the complainant as having been present when the alleged expressions were used, emphatically denied that the constable made use of those expressions or anything of a party nature whatever. It appears that on the 15th instant, after the extra police had left the town, an Orange band turned out and marched through a Roman Catholic quarter. No windows, however, were broken, and no person was injured. I understand that some proceedings are pending in connection with this affair. MR. O'BRIEN Is the right hon. Gentleman aware that pressure was brought to bear by the police on the person to withdraw the charge? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND</speaker> I am not aware.

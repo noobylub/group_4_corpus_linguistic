@@ -1,0 +1,10 @@
+<FileID>137844</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/south-africa-bechuanaland</URL>
+<Title>South Africa—bechuanaland</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 cc1400-1</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>125</WordCount>
+
+
+<speaker>SIR JOHN LUBBOCK</speaker> asked the Secretary of State for the Colonies, What steps were being taken with reference to the future position of Bechuanaland, in order to bring to a close the largo expenditure of British funds in that country? THE SECRETARY OF STATE FOR THE COLONIES (Colonel STANLEY), in reply, said, steps were being taken to reduce the force in South Africa. That reduction would be gradually carried out, and a force of police substituted for the military force now there. He I was afraid that he was not in a position to give full details as to the question at the present time; but, consistent with the security of Bechuanaland, no effort Would be spared to effect a reduction as speedily as possible.

@@ -1,0 +1,12 @@
+<FileID>136985</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/customs-department-examination-of</URL>
+<Title>Customs Department—examination of Baggage at English Ports</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1030</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>173</WordCount>
+
+
+<speaker>SIR EDWAED WATKIN</speaker> asked the Secretary of State for the Home Department, Whether he is aware that, since the beginning of the year, the handbags and small baggage of ladies and gentlemen arriving from France have been, examined, in search of explosives, at English ports; whether, at Folkestone alone, about 35,000 small pieces of baggage have been thus examined, without the discovery of any objectionable article whatever; whether this new examination does not cause great delay to the passengers and detention, and produces irregularity of the trains of important International services; and, whether he will order the discontinuance of this useless examination, at all events during the summer months? 
+<speaker>SIR WILLIAM HARCOURT</speaker> I am afraid that, under existing circumstances, I cannot undertake to relax the order. MR. JOSEPH COWEN asked if in any single case any person had been detected endeavouring to smuggle explosives into the country? 
+<speaker>SIR WILLIAM HARCOURT</speaker> I cannot give the figures. But even if there was not one case, that would not prove that we should not take precautions.

@@ -1,0 +1,11 @@
+<FileID>138322</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/post-office-insurance-of-parcels</URL>
+<Title>Post Office—insurance of Parcels</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc821-2</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>244</WordCount>
+
+
+<speaker>SIR ROBERT FOWLER (LORD MAYOR)</speaker> asked the Postmaster General, Whether it is the intention of Her Majesty's Government to undertake the insurance of parcels and packages when in transit through the Post Office, even if these packages include articles of commercial importance, such as bonds, securities, and diamonds; and, if so, on what conditions, and on payment of what premiums, these insurances will be effected; and, whether the same ad valorem Stamp Duty, as is paid in respect of insurances of such packages at the present time when forwarded to the Continent, Channel Islands, or Ireland, will be paid by the Postmaster General to Her Majesty's Treasury? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS)</speaker> In answer to my right hon. Friend I have to state that, although the principle of the in- surance of parcels has been settled, the details are still under consideration. Some articles will probably be excepted from the proposed arrangement, the general conditions of which will be that the Postmaster General, who is now legally exempt from liability for loss or damage, will accept such liability without specific payment up to 20 s. a parcel, for the payment of 1 d. up to £5, and for 2 d. up to £10 a parcel. It is not proposed to pay an ad valorem Stamp Duty to the Treasury; but all fees collected for insurance will be paid in as revenue to the Exchequer, and come under Treasury control in the usual way.

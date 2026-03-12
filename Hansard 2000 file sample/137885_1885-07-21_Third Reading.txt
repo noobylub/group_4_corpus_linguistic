@@ -1,0 +1,11 @@
+<FileID>137885</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/21/third-reading-1</URL>
+<Title>Third Reading</Title>
+<DebRef>HL Deb 21 July 1885 vol 299 cc1370-1</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>237</WordCount>
+
+Order of the Day for the Third Reading read. Moved, "That the Bill be now read 3ª."—( The Earl Spencer. ) 
+<speaker>THE CHAIRMAN OF COMMITTEES (The Earl of REDESDALE),</speaker> in moving, as an Amendment, "That the Bill be read the third time that day three months," said, it had first been introduced as a Provisional Order, and had gone as such properly before a Select Committee of the House; but, having been rejected by that Committee, now it was changed into an Order in Council, and the decision of the Committee declared to have no effect, because, if the Bill had been so called when introduced, it would not have been sent to it. The promoters of the Bill were alone responsible for the mistake; and the House, after the inquiry to which it had become properly subject, was now asked to pass a measure which had been, according to their orders, declared to be objectionable. Amendment moved, to leave out ("now") and add at the end of the Motion ("this day three months.")—' ( The Earl of Redesdale.' ) 
+<speaker>THE EARL OF SELBORNE</speaker> explained that the measure had been proceeded with as a Provisional Order in the first instance. On Question, That ("now") stand part of the Motion? Their Lordships divided: — Contents 29; Not-Contents 17: Majority 12. Resolved in the affirmative. Bill read 3ª accordingly: An Amendment made: Bill passed, and sent to the Commons.

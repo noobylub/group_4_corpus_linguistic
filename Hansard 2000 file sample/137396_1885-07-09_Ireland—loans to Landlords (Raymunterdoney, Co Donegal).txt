@@ -1,0 +1,9 @@
+<FileID>137396</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/ireland-loans-to-landlords</URL>
+<Title>Ireland—loans to Landlords (Raymunterdoney, Co Donegal)</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c122</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>68</WordCount>
+
+MR. O'BRIEN asked the Chief Secretary to the Lord Lieutenant of Ireland, What is the cause of the delay in furnishing the Return ordered by the House three months ago of loans to landholders in the parish of Raymunter-doney, county Donegal? THE CHIEF SECRETARY This is a Treasury matter; but the records of the House show that this Return was duly presented on the 9th of last month.

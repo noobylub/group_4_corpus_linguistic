@@ -1,0 +1,11 @@
+<FileID>138212</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/navy-hms-cruiser</URL>
+<Title>navy—hms Cruiser</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c514</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>121</WordCount>
+
+
+<speaker>SIR JOHN HAY</speaker> asked the Secretary to the Admiralty, How many officers and men have been invalided or sent to hospital from H.M.S. Cruiser during the last twelve months, suffering from typhoid or enteric fever; whether there is any reason to believe that the sanitary condition of that ship is unsatisfactory; and, whether he will cause inquiries to be made on the subject from the Naval authorities at Malta? 
+<speaker>THE SECRETARY TO THE ADMIRALTY (Mr. RITCHIE),</speaker> in reply, said, only one case of fever had occurred. A Report had been called for and received, and it showed that, so far from there being any reason to suppose that the condition of the Cruiser was unsatisfactory, the ease was quite the reverse.

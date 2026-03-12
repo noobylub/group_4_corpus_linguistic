@@ -1,0 +1,9 @@
+<FileID>138742</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/prevention-of-crimes-amendment-bill-lords</URL>
+<Title>Prevention of Crimes Amendment Bill [Lords]</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 cc26-8</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>50</WordCount>
+
+cc26-7 CONSIDERATION OF LORDS' REASONS. 318 words c28 NATIONAL SCHOOL TEACHERS (IRELAND) PENSION FUND. 31 words c28 ROYAL IRISH CONSTABULARY (FAVOURABLE RECORDS). 43 words c28 EAST INDIA (REDUCTION OF EXPENDITURE). 48 words c28 METROPOLITAN WATER COMPANIES. 74 words c28 DEAF-MUTE CHILDREN (FOREIGN COUNTRIES). 48 words c28 ELEMENTARY EDUCATION. 78 words

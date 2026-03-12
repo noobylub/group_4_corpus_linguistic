@@ -1,0 +1,10 @@
+<FileID>137388</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/landlord-and-tenant-ireland-miss-kieran</URL>
+<Title>Landlord and Tenant (Ireland)— Miss Kieran, Tenant of the Earl of Howth</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c118</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>258</WordCount>
+
+
+<speaker>MR. SHEIL</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether he is aware that Miss Kieran, of Leggah, county Meath, a tenant of Lord Howth, has been served with a writ for £560, being the amount of a year's rent, although only one half-year's rent was due on May the 1st, exclusive of the hanging gale; that the half-year's rent was tendered to Lord Howth's solicitor before the end of May; that he refused to take it, and went on with the writ for the full year's rent, although the second half is not collected in the ordinary course until November next; whether he is aware that, on the 25th of this month, a man named Mathews, who acts as bailiff to the sub-sheriff, seized Miss Kieran's effects, and, when half drunk, forced his way into that lady's room, grossly insulted her, and refused to leave; and, whether, in these circumstances of exceptional severity, he will endeavour to afford Miss Kieran redress, and protection against improper conduct of the sheriff's officer? THE CHIEF SECRETARY I have no information as to the matters between Lord Howth and his late tenant which are referred to in this Question. I am informed that the conduct of the bailiff was very bad; but I am advised that the proper means of redress open to Miss Kieran is to bring a charge in the usual way before a magistrate, or by civil action. The police will afford Miss Kieran protection against any violence on the part of the sheriff's officer.

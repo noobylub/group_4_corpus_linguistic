@@ -1,0 +1,10 @@
+<FileID>137098</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/05/army-auxiliary-forces-militia-majors</URL>
+<Title>Army (Auxiliary Forces)—militia Majors</Title>
+<DebRef>HC Deb 05 June 1885 vol 298 c1336</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>147</WordCount>
+
+
+<speaker>SIR MICHAEL HICKS-BEACH</speaker> asked the Secretary of State for War. Whether he will consider the case of Majors who entered the Army from the Militia after the age of twenty, with a view to granting them the same indulgence recently given to Majors of Royal Artillery and Engineers, namely, exemption from compulsory retirement up to the age of fifty? THE MARQUESS OF HARTINGTON The cases of the majors of Artillery and Engineers referred to in the right hon. Member's Question is quite different from that of officers who have entered the Army through the Militia; and I am not aware of any reason why it would be desirable or expedient to postpone the compulsory retirement of officers of the latter class in the rank of major to the age of 50. This relaxation of the Regulations, if allowed, could not take effect for 12 or 14 years.

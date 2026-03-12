@@ -1,0 +1,9 @@
+<FileID>137017</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/public-health-scotland-provisional-order</URL>
+<Title>Public Health (Scotland) Provisional Order Bill</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1140</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>54</WordCount>
+
+On Motion of The LORD ADVOCATE, Bill to confirm a Provisional Order made under "The Public Health (Scotland) Act, 1867 ," relating to the Burgh and Parish of North Berwick, ordered to be brought in by The LORD ADVOCATE and Mr. SOLICITOR GENERAL for SCOTLAND. Bill presented, and read the first time. [Bill 194.]

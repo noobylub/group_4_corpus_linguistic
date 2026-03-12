@@ -1,0 +1,11 @@
+<FileID>137777</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/marine-biological-association</URL>
+<Title>Marine Biological Association—application for an Examining Station in Plymouth Sound</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1196-7</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>184</WordCount>
+
+
+<speaker>SIR LYON PLAYFAIR</speaker> asked the Secretary to the Treasury, Whether any answer has been given to the application of the Marine Biological Association for aid in establishing a station on Plymouth Sound to investigate the marine fauna and flora, especially in their relation to the food fishes of these islands, and for which station £8,000 has already been subscribed from private resources? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> Yes, Sir. This application has received much consideration both from the present Government and our Predecessors, and a letter was written to the Association a fortnight since in which the Treasury undertook in general terms to ask Parliament for an annual grant for a term of years in aid of their under taking, on condition that their work should be carried on in full concert with the Scotch Fishery Board, to whom Parliament has already granted considerable sums for similar objects. In our view these two bodies must be considered as working together both for the economizing of labour, and for the common benefit of the fishermen and fish consumers of the Three Kingdoms.

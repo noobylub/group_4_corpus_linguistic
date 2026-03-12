@@ -1,0 +1,9 @@
+<FileID>137623</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/14/archdeaconries-bill-no-150</URL>
+<Title>Archdeaconries Bill—(no 150)</Title>
+<DebRef>HL Deb 14 July 1885 vol 299 cc607-8</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>12</WordCount>
+
+( The Lord Archbishop of Canterbury. ) cc607-8 SECOND READING. 161 words

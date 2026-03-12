@@ -1,0 +1,11 @@
+<FileID>138551</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/housing-of-the-working-classes-england</URL>
+<Title>Housing of the Working Classes (England) Bill</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 cc1508-9</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>39</WordCount>
+
+
+<speaker>SIR CHARLES W. DILKE</speaker> I wish to ask the right hon. Gentleman the Leader of the House, whether he will take this Bill as the first Order of the Day on Monday? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> Yes, Sir.

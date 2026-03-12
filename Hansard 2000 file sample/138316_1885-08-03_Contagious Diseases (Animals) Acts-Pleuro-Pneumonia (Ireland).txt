@@ -1,0 +1,11 @@
+<FileID>138316</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/contagious-diseases-animals-acts-pleuro</URL>
+<Title>Contagious Diseases (Animals) Acts-Pleuro-Pneumonia (Ireland)</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c818</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>180</WordCount>
+
+
+<speaker>MR. CLARE READ</speaker> asked the Chief Secretary to the Lord lieutenant of Ireland, If he will state the number of cases of pleuropneumonia in cattle reported in the three Dublin Unions during the first six months of the present year; the number reported in the rest of Ireland; and also the number in Great Britain during that period; and, if the special means taken by Lord Spencer to eradicate the disease from Dublin have been attended with any success, and if the stringent inspection of cow houses in that city will be continued? 
+<speaker>THE CHIEF SECRETAEY (Sir WILLIAM HART DYKE)</speaker> Sir, the number of cases in the Unions of the county of Dublin was 877; in the rest of Ireland 24; and in Great Britain 657. There is no intention of relaxing the special measures adopted by Lord Spencer to eradicate the disease from the Dublin district, as they could not be dispensed with without inconvenience and danger. It is believed that the result will be most satisfactory; but it is hardly time yet to judge of the full effect.

@@ -1,0 +1,11 @@
+<FileID>138581</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/law-and-justice-ireland-the-bailiff-to</URL>
+<Title>Law and Justice (Ireland)—the Bailiff to the Sheriff of Meath Co</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 cc1567-8</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>233</WordCount>
+
+
+<speaker>MR. BIGGAR (for Mr. SHELL)</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether he is aware that a man named Mathews, who is bailiff and auctioneer to the Sheriff of Meath, and as his representative makes seizures and conducts sales, was charged at the Navan Betty Sessions, of the 11th instant, with being drunk and disorderly on three occasions; that, for several years past, he has been repeatedly convicted of similar offences, and sentenced to imprisonment and fine; that, about four weeks ago, the police took a gun from him when he was rolling through the streets of Navan in a state of drunkenness; and, whether he will make such representations as will secure his dismissal from the responsible position of bailiff? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The hon. Member is, of course, aware that a Sheriff's bailiff is not an officer of the Government, and that the Government have no power to dismiss him. It is, however, quite open to the Government, or to anyone else, to make representations in the proper quarter in case of misconduct by an officer of the law, and the Report I have received of the present case would appear to justify such representation being made. If I find, therefore, that the Sheriff has not been made aware of the facts of this case, I will see that he is communicated with.

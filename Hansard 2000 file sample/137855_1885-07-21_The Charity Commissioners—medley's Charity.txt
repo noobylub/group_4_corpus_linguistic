@@ -1,0 +1,11 @@
+<FileID>137855</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/the-charity-commissioners-medleys-charity</URL>
+<Title>The Charity Commissioners—medley's Charity</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 cc1406-7</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>161</WordCount>
+
+
+<speaker>MR. JESSE COLLINGS</speaker> asked the Vice President of the Committee of Council, If he is aware that the Trustees of Medley's Charity, Tidd St. Mary, Lincolnshire, have advertised to let the land of the charity by auction on Thursday July 23rd for a term of five years, instead of offering it to the labourers of the parish, as directed by the Allotments Extension Act, 1882 ; and, whether the Charity Commissioners will take immediate steps to prevent the letting of the land by auction, and will compel the Trustees to carry out the provisions of the Act of 1882? 
+<speaker>THE VICE PRESIDENT OF THE COUNCIL (Mr. E. STANHOPE)</speaker> This case was brought to the notice of the Charity Commissioners for the first time yesterday by the labourers. The Commissioners have issued a warning to the Trustees by telegraph as well as by letter, and an Inspector will go down to Tidd St. Mary tomorrow with instructions to inquire into the matter.

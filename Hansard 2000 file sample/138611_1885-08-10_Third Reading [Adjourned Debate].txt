@@ -1,0 +1,12 @@
+<FileID>138611</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/10/third-reading-adjourned-debate</URL>
+<Title>Third Reading [Adjourned Debate]</Title>
+<DebRef>HL Deb 10 August 1885 vol 300 c1525</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>186</WordCount>
+
+Adjourned debate on the Motion for the third reading resumed (according to Order). Amendment moved, In page 2, after line 18, at end, to add—"Provided that nothing in this Act, or in any bye-law made there under, shall be construed to deprive any riparian owner of any legal rights in the soil or bed of the river which he may now possess, or of any legal remedies he may now possess, for prevention of anchoring, mooring, loitering, or delay of any boat or other vessel."—( The Earl of Abingdon. ) 
+<speaker>LORD MOUNT-TEMPLE</speaker> expressed his acceptance of the Amendment. Bill read 3 a . On Motion, "That the Bill do pass?" 
+<speaker>THE EARL OF WEMYSS</speaker> said, that rowing men objected to the Bill on the ground that it would give a statutory sanction to obstructions which ought not to be legalized. Those who desired to set up these obstructions ought to take their chance at Common Law. 
+<speaker>LORD MOUNT-TEMPLE</speaker> said, he felt confident that when the Act should come into operation obstructions would diminish instead of increasing. Motion agreed to. Bill passed, and sent to the Commons.

@@ -1,0 +1,11 @@
+<FileID>137599</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/law-and-police-the-pall-mall-gazette</URL>
+<Title>Law and Police—the Pall Mall Gazette—objectionable Articles</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 c661</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>92</WordCount>
+
+
+<speaker>MR. R. N. FOWLER (LORD MAYOR)</speaker> asked the Secretary of State for the Home Department, Whether he proposes to take any action against the editor of The Pall Mall Gazette, in regard to its recent articles on prostitution? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> The matter alluded to in the Question is undoubtedly a grave one, and it has received the careful consideration of Her Majesty's Government. They have come to the conclusion that it would not be desirable to take proceedings against the editor or publisher of the paper.

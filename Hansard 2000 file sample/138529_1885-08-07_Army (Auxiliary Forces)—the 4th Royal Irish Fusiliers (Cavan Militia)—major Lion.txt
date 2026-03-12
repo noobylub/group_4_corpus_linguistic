@@ -1,0 +1,13 @@
+<FileID>138529</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/army-auxiliary-forces-the-4th-royal</URL>
+<Title>Army (Auxiliary Forces)—the 4th Royal Irish Fusiliers (Cavan Militia)—major Lionel Brooke</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 cc1449-50</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>314</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Secretary of State for War, How many days has Major Lionel Brooke, of the 4th Royal Irish Fusiliers (Cavan Militia), been absent with and without leave from headquarters, between the training of 1884 and the training of 1885; and, if it is true that this Officer is in the habit of being absent without leave from Saturday to Tuesday at Brookeboro' in almost every week, and whether such absence is approved by the authorities; if Corporal Caddin, of B Company Cavan Militia, has been refused re-enrolment by Major Lionel Brooke, and on what grounds and under what section of Military Law this Non-Commissioned Officer was brought before the Bounty Board and fined 2 s. 6 d. at last training of his regiment; if it is the intention of the authorities to dispense with the services of Captain Somerset Maxwell, he having been absent from the training of his regiment, the Cavan Militia, during 1884 and 1885, and also absent the greater part of 1883; under what circumstances was Lieutenant Dease, of the Cavan Militia, permitted to draw Captain's pay during the last training of his regiment, he not having been at that time promoted to be Captain; and, whether this officer left Cavan without discharging in full his lodging-house account? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> Inquiries have been made on the subjects in the later paragraphs of the Question; but sufficient time has not elapsed since the Question was placed on the Order Book for replies to have been received. As regards the first paragraph, I must refer the hon. Member to my reply on the 3rd instant. 
+<speaker>COLONEL KING-HARMAN</speaker> asked if the right hon. Gentleman was not aware that Major Brooke was absent with leave? 
+<speaker>THE SECRETARY OF STATE</speaker> said, he did not know; but he had no doubt Major Brooke had authority for his absence.

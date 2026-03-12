@@ -1,0 +1,17 @@
+=== AGGREGATED CONTENT FROM TWO FILES ===
+
+As continuous text:
+Deb 18 May 1885 vol 298 c719</DebRef> Motion made, and Question proposed, "That this House will immediately resolve itself into the Committee of Supply."—( Mr. Gladstone. ) of the People and Registration of Voters (Ireland) Acts—duties of the Collector General of Rates, Dublin</Title> Deb 18 May 1885 vol 298 c713</DebRef> SEXTON</speaker> asked Mr. Solicitor General for Ireland, Whether any deputies or assistants appointed by the collector general of rates in Dublin or by any other official in Ireland charged with duties under the Franchise and Registration Acts to aid in the discharge of those duties will be liable to the penalties provided by law for disregard or neglect of duty, or will this liability in regard to acts omitted or done by any such deputy or assistant devolve upon the person for whom he acts and by whom he is appointed? SOLICITOR GENERAL FOR IRELAND (Mr. WALKER)</speaker> I think the collectors of the Collector General in Dublin, who have a status under the Act of 1849, are officials who would be liable for a neglect of duty under the Franchise Act , so, in my opinion, will all rate collectors. As regards other deputies and assistants, I should not like to give an opinion without knowing the circumstances of each case.
+
+As word list:
+Deb 18 May 1885 vol 298 c719</DebRef> Motion made, and Question proposed, "That this House will immediately resolve itself into 
+the Committee of Supply."—( Mr. Gladstone. ) of the People and Registration of Voters (Ireland) Acts—duties of the Collector General 
+of Rates, Dublin</Title> Deb 18 May 1885 vol 298 c713</DebRef> SEXTON</speaker> asked Mr. Solicitor General for Ireland, Whether any deputies 
+or assistants appointed by the collector general of rates in Dublin or by any other official in Ireland charged with 
+duties under the Franchise and Registration Acts to aid in the discharge of those duties will be liable to the 
+penalties provided by law for disregard or neglect of duty, or will this liability in regard to acts omitted or 
+done by any such deputy or assistant devolve upon the person for whom he acts and by whom he is 
+appointed? SOLICITOR GENERAL FOR IRELAND (Mr. WALKER)</speaker> I think the collectors of the Collector General in Dublin, who have a 
+status under the Act of 1849, are officials who would be liable for a neglect of duty under the Franchise 
+Act , so, in my opinion, will all rate collectors. As regards other deputies and assistants, I should not like 
+to give an opinion without knowing the circumstances of each case. 

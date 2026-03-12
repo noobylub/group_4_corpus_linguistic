@@ -1,0 +1,11 @@
+<FileID>137591</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/turkey-the-black-sea</URL>
+<Title>Turkey—the Black Sea</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 c658</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>113</WordCount>
+
+
+<speaker>SIR WILFRID LAWSON</speaker> asked the Under Secretary of State for Foreign Affairs, Whether there is any record in the Foreign Office bearing out the statement of The Daily News of July 13th, to the effect that, during the late "strained relations" with Russia, "arrangements were made for the British Fleet to enter the Black Sea? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> In reply to the hon. Baronet, I have seen this report in The Daily News, and I have caused inquiries to be made at the Foreign Office whether any record exists on the subject; and I find that there is no record whatever bearing out the statement of The Daily News.

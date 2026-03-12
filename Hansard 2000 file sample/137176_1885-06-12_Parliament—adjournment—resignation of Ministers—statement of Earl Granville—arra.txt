@@ -1,0 +1,9 @@
+<FileID>137176</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/12/parliament-adjournment-resignation-of</URL>
+<Title>Parliament—adjournment—resignation of Ministers—statement of Earl Granville—arrangement of Public Business</Title>
+<DebRef>HL Deb 12 June 1885 vol 298 cc1521-2</DebRef>
+<SittingDate>1885-06-12</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>173</WordCount>
+
+EARL GEANVILLE My Lords, in regard to what I had the honour to state at the last Sitting of the House—Tuesday, the 9th—to your Lordships, I have now to inform the House that Mr. Gladstone has tendered his resignation and that of his Colleagues to Her Majesty, and that Her Majesty has been graciously pleased to accept that resignation, and has summoned the noble Mar- quess (the Marquess of Salisbury), who I believe, is at this moment at Balmoral. Under these circumstances, your Lordships, I am sure, will feel that it would not be right to proceed with any ordinary Business; but there is one exception, and that is in regard to the Parliamentary Elections (Redistribution) Bill ; and my noble Friend the Secretary of State for India (the Earl of Kimberley), who has charge of that Bill, will explain the arrangement which has been entered into between himself and the noble Marquess, and in that course I understand that the noble Viscount opposite (Viscount Cranbrook) will propose that the House do concur.

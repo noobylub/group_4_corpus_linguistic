@@ -1,0 +1,9 @@
+<FileID>138112</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/class-iii-law-and-justice</URL>
+<Title>Class Iii—law and Justice</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c190</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>11</WordCount>
+
+(32.) £2,500, Supplementary, Revising Barristers, England. (33.) £5,700, Supplementary, Prisons, Scotland.

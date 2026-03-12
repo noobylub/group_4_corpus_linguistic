@@ -1,0 +1,9 @@
+<FileID>137183</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/12/private-and-provisional-order</URL>
+<Title>Private and Provisional Order Confirmation Bills</Title>
+<DebRef>HL Deb 12 June 1885 vol 298 c1527</DebRef>
+<SittingDate>1885-06-12</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>25</WordCount>
+
+Ordered that Standing Orders Nos. 72 and 82 be suspended for the remainder of the Session. House adjourned at Five o'clock, till Tomorrow, Eleven o'clock.

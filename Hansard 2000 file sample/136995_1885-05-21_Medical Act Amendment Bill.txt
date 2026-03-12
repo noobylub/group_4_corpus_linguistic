@@ -1,0 +1,11 @@
+<FileID>136995</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/medical-act-amendment-bill</URL>
+<Title>Medical Act Amendment Bill</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1038</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>97</WordCount>
+
+
+<speaker>MR. ARTHUR O'CONNOR</speaker> I wish to ask the Vice President of the Council, Whether his attention has been directed to a statement in The Medical Press of the 20th instant, stating that the Government intend to introduce the Medical Act Amendment Bill of last Session; and, whether, if that is the case, any clause or clauses, as Amendments, can be placed upon the Paper? 
+<speaker>MR. MUNDELLA</speaker> I have not seen The Medical, Press; and I have not had any intimation that it is the intention of the Government to introduce the Medical Act Amendment Bill this Session.

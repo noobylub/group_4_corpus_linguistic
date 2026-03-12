@@ -1,0 +1,11 @@
+<FileID>137894</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/22/egypt-the-soudan-reported-fighting-at</URL>
+<Title>Egypt—the Soudan—reported Fighting at Kassala</Title>
+<DebRef>HC Deb 22 July 1885 vol 299 c1518</DebRef>
+<SittingDate>1885-07-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>100</WordCount>
+
+
+<speaker>SIR WILFRID LAWSON</speaker> In the absence of the Under Secretary for Foreign Affairs, I bog to ask the right hon. Gentleman the Secretary of State for the Home Department, Whether the Government have any information regarding the slaughter of Arabs at Kassala reported in this morning's papers? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS)</speaker> suggested that the hon. Member should put the Question to the Under Secretary for Foreign Affairs if he should be present at the end of the Sitting. He knew some information had been received; but he did not know its purport.

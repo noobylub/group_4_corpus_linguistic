@@ -1,0 +1,10 @@
+<FileID>137800</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/personal-explanation</URL>
+<Title>Personal Explanation</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1212-3</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>241</WordCount>
+
+
+<speaker>MR. COCHRAN-PATRICK</speaker> I rise to ask the permission of the House to make a very short personal statement. On the 8th of July I gave Notice that on going into Committee of Supply I should move that it was inexpedient to treat Scotland in the matter of grants in aid of local taxation differently from England. On the same day some hon. Member of the House gave Notice that in Committee of Supply on the Civil Service Estimates he would move to reduce the item of current accounts by the amount of the Sheriff's expenses in Skye. That hon. Member inadvertently omitted to put his name on the Notice of Motion, and, following the usual practice in such circumstances, the Notice appeared on the Paper with along line which indicates "Name illegible" or "Name omitted," and those who are unacquainted with Parliamentary procedure gave me the credit of having put down the Motion in Committee of Supply. I desire to say that I was not the author of the Motion relating to Sheriff Ivory's expenses. I desire very respectfully to suggest that on occasions of this sort, to prevent misapprehensions of the same nature in future, it may be considered whether it would not be proper to put, instead of a line, the words "Name omitted" or "Name illegible;" and I desire, in the third place, to thank the House for the opportunity it has given me to make this explanation.

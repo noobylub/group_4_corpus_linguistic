@@ -1,0 +1,11 @@
+<FileID>136844</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/education-department-the-new-code-the</URL>
+<Title>Education Department—the New Code—the Instructions to Inspectors</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 c701</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>99</WordCount>
+
+
+<speaker>MR. STANLEY LEIGHTON</speaker> asked the Vice President of the Committee of Council, Whether he can now lay upon the Table of the House the "Instructions" to Her Majesty's Inspectors of Schools with reference to the interpretation which they are required to place on the New Code, and to the manner in which they are required to carry out its provisions? 
+<speaker>MR. MUNDELLA</speaker> The reports of the various conferences of Her Majesty's Inspectors are at present under consideration; and I expect that the instructions which are based thereon as to the New Code will be ready in a few days.

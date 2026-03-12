@@ -1,0 +1,9 @@
+<FileID>137485</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/10/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 10 July 1885 vol 299 c244</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>62</WordCount>
+
+PUULIC BILLS— First Reading-River Thames (No. 2) * (171); Shannon Navigation* (172); Local Government (Ireland) Provisional Orders (Labourers Act) (No. 5)* (173). Second Reading —East India Loan (£10,000,000) (164). Select Committee — Waterworks Clauses Act (1847) Amendment (127), nominated. Committee — Report —Drainage and Improvement of Lands (Ireland) Provisional Order (No. 2)* (165). Report — Elementary Education Provisional Order Confirmation (London)* (79).

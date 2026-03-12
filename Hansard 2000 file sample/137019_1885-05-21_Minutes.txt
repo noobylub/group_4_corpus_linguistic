@@ -1,0 +1,9 @@
+<FileID>137019</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/21/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 21 May 1885 vol 298 c986</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>188</WordCount>
+
+PUBLIC BILLS— Second Reading —Sea Fisheries (Scotland) Amendment (102). Royal Assent —Consolidated Fund (No. 3) [48 Vict. c. 14]; Royal Irish Constabulary Redistribution [48 Vict. c. 12]; Egyptian Loan [48 Vict. c. 11]; Highways [48 "Vict, c. 13]; Metropolitan Streets Act (1867) Extension [48 Vict. c. 18]; Industrial Schools (Ireland) [48 Vict. c. 19]; Registration (Occupation Voters) [48 Vict. c. 15]; Registration of Voters (Scotland) [48 Vict. c. 16]; Registration of Voters (Ireland) [48 Vict. c. 17]; Barristers Admission (Ireland) [48 Vict, c. 20]; Drainage and Improvement of Lands (Ireland) Provisional Orders [48 Vict. c. 4]; Local Government Provisional Orders (Poor Law) (No. 2) [48 Vict. c. 5]; Local Government Provisional Orders (Poor Law) (No. 3) [48 Vict. c. 6]; Local Government Provisional Orders (Poor Law) (No. 5).[48 Vict. c. 7]; Local Government Provisional Orders (Poor Law) (No. 6) [48 Vict. c. 8]; Local Government Provisional Orders (Poor Law) (No. 7) [48 Vict. c. 9]; Local Government (Ireland) Provisional Orders (Labourers Act) (No. 1) [48 Viet. c. 10]; Local Government Provisional Orders (No. 2) [48 Vict. c. 11]; Oyster and Mussel Fisheries Provisional Order [48 Vict. c. 12].

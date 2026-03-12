@@ -1,0 +1,14 @@
+<FileID>137048</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/22/central-asia-russia-and-afghanistan-the</URL>
+<Title>Central Asia—russia and Afghanistan—the Russian Attack at Penjdeh—proclamation of the Ameer</Title>
+<DebRef>HC Deb 22 May 1885 vol 298 c1150</DebRef>
+<SittingDate>1885-05-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>249</WordCount>
+
+
+<speaker>MR. GIBSON</speaker> asked the Under Secretary of State for Foreign Affairs, Has Her Majesty's Government received confirmation of the statement in The Times of May 19th, that the Ameer had issued a proclamation complimenting his troops on their gallantry at Penjdeh, and laying stress on the value of the British alliance; and, whether he will lay a Copy of the Ameer's Proclamation upon the Table? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> I can only refer the right hon. Gentleman to the reply on this subject which I gave yesterday, when I stated that Her Majesty's Government had received no information respecting the contents of this Proclamation. The question of its publication must be deferred until the receipt of the text; but I do not anticipate that there will be any objection. 
+<speaker>MR. GIBSON</speaker> The reason I put down the Question again was to ascertain whether the noble Lord had written out to ask for the terms of the Proclamation. Will the noble Lord undertake that his department will telegraph out for the terms of the Proclamation and lay it upon the Table when the House reassembles on the 4th of June? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> I imagine that any such direction would more properly come from the India Office; but, be that as it may, I have no doubt whatever that no special instructions are necessary. An important Proclamation of this kind will naturally be sent home in the ordinary course. 
+<speaker>MR. GIBSON</speaker> I will renew the Question on the 4th of June.

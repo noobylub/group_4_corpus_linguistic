@@ -1,0 +1,13 @@
+<FileID>138288</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/parliament-business-of-the-house</URL>
+<Title>Parliament—business of the House</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 cc680-1</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>143</WordCount>
+
+
+<speaker>MR. AETHUR O'CONNOR</speaker> asked, Whether, in view of the opposition likely to be offered to the Housing of the Working Classes (England) Bill from Building Societies and other quarters, the Chancellor of the Exchequer would consider the advisability of giving precedence to the Land Purchase (Ireland) Bill ? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I must wait until Monday before I make any statement. We must see how we get on with the Criminal Law Amendment Bill . 
+<speaker>MR. LABOUCHERE</speaker> inquired whether, if the Appropriation Bill were not opposed that night, it would be put down on the Paper for its last stage in reasonable time to allow of discussion? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> said, that the hon. Member's request was reasonable, and he would take care that the last stage of the Bill should be taken in time to allow of discussion.

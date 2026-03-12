@@ -1,0 +1,9 @@
+<FileID>137198</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/15/parliament-business-of-the-house-orders</URL>
+<Title>Parliament—business of the House—orders of the Day</Title>
+<DebRef>HC Deb 15 June 1885 vol 298 cc1586-90</DebRef>
+<SittingDate>1885-06-15</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>4</WordCount>
+
+cc1586-90 RESOLUTION. 1,320 words

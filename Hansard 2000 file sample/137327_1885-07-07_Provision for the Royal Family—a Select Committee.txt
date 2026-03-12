@@ -1,0 +1,11 @@
+<FileID>137327</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/provision-for-the-royal-family-a-select</URL>
+<Title>Provision for the Royal Family—a Select Committee</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 c1832</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>148</WordCount>
+
+
+<speaker>MR. ARTHUR ARNOLD</speaker> asked Mr. Chancellor of the Exchequer, Whether Her Majesty's Government adhere to and adopt the promise given by the First Lord of the Treasury in the late Government, upon the occasion of the vote of an annuity for Her Royal Highness the Princess Beatrice, that early in next Session a Committee shall be appointed to consider the question of provisions for members of the Royal Family and other than the Sovereign and the Heir to the Throne? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> The promise of the right hon. Gentleman which is referred to in the Question deals with a subject of great importance, but it is one to which we have not yet had time to give our attention. I am afraid, therefore, it will not be in my power to give the House any undertaking with regard to it this Session.

@@ -1,0 +1,9 @@
+<FileID>137337</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/civil-service-estimates</URL>
+<Title>Civil Service Estimates</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 cc1913-35</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>15</WordCount>
+
+cc1913-34 CLASS III. — LAW AND JUSTICE. 8,445 words cc1934-5 SUPPLY. — REPORT. 439 words

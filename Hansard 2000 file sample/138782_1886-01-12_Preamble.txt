@@ -1,0 +1,9 @@
+<FileID>138782</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1886/jan/12/preamble</URL>
+<Title>Preamble</Title>
+<DebRef>HL Deb 12 January 1886 vol 302 c1</DebRef>
+<SittingDate>1886-01-12</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>6</WordCount>
+
+THE HOUSE of PEERS being met,

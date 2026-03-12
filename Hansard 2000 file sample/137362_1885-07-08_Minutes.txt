@@ -1,0 +1,9 @@
+<FileID>137362</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/08/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 08 July 1885 vol 299 c2</DebRef>
+<SittingDate>1885-07-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>157</WordCount>
+
+SELECT COMMITTEE — Forestry, nominated. SUPPLY— considered in Committee —NAVY ESTIMATES—Votes 3 to 17 Resolutions [July 7] reported. PUBLIC BILLS— Ordered — First Reading— Police Enfranchisement Extension * [219]; Conveyancing (Scotland) Act (1874) Amendment * [220]; Vacating of Seats [221]; Greenwich Hospital * [222]. First Reading —Local Government (Ireland) Provisional Orders ( Public Health Act ) (No. 2) * [212]; Poor Law Unions' Officers (Ireland) * [214]; Bankruptcy (Office Accommodation) * [215]; Polehampton Estates * [216]; Artillery and Rifle Ranges * [217]; Turnpike Acts Continuance * [218]. Second Reading —Parliamentary Elections (Corrupt Practices) * [148]. Committee — Report— Third Reading— Tithe Rent Charge Redemption * [181], and passed. Considered as amended —Local Government (Ireland) Provisional Order (Labourers Act) (No. 5) * [186]. Third Reading —Local Government (Ireland) Provisional Orders * [182]; Local Government Provisional Orders (No. 7) * [201]; Local Government Provisional Orders (Poor Law) (No. 9i * [198]; East India Loan (£10,000,000) * [109], and passed.

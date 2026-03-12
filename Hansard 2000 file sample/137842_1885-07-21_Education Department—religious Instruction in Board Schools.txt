@@ -1,0 +1,11 @@
+<FileID>137842</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/education-department-religious</URL>
+<Title>Education Department—religious Instruction in Board Schools</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 c1399</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>338</WordCount>
+
+
+<speaker>MR. PICTON</speaker> asked the Vice President of the Committee of Council, Whether he has seen a statement in The School Board Chronicle of 11th July, to the effect that there has been presented to the School Board of Slinfold, near Horsham, a Report of an examination of the children by the Chichester Diocesan Inspector, which Report states that they were examined in the "Catechism and Liturgy;" and, whether such examination is not contrary to the section of the Act of 1870 which enacts that no religious catechism or religious formulary which is distinctive of any particular denomination shall be taught in the school; and, if so, whether stops will be taken to prevent a recurrence of such examination? 
+<speaker>THE VICE PRESIDENT OF THE COUNCIL (Mr. E. STANHOPE)</speaker> I have made inquiries into the case mentioned in The School Board Chronicle of July 11 —that the children of Slinfold school were examined in the "Catechism and Liturgy. "The rector of the parish of Slinfold writes to me— The school buildings in this parish belong to the rector and churchwardens, and they lent them to the school board from 9.45 to 12.30 and from 1.30 to 4.15 on five days of the week. The religious instruction is given previous to the hours belonging to the board. The examination takes place on one of the holidays allowed by the board, proper notice of which is posted at least 14 days previous, and opportunity is thus afforded to parents to withdraw their children in accordance with Clause 76 of the Elementary Education Act . The section of the Act to which the hon. Member refers applies only to the hours during which the school board has, under the terms of the transfer, control over the school; and I can see nothing in the case which in any way constitutes an infringement of the law. The rector, being also chairman of the school board, apparently thought it right to communicate to his colleagues, for their information, the satisfactory report which he had received.

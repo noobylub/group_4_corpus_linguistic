@@ -1,0 +1,11 @@
+<FileID>138719</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/post-office-delivery-of-letters-on-bank</URL>
+<Title>Post Office—delivery of Letters on Bank Holidays</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 cc13-4</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>144</WordCount>
+
+
+<speaker>MR. BRODRICK</speaker> asked the Postmaster General, Whether the delivery and despatch of letters on Bank Holidays in rural Post Offices is the same as that on Sundays; and, if not, whether rural postmasters are justified in adopting the Sunday rules on Bank Holidays? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> My noble Friend, who is unavoidably absent, has asked me to answer this Question on his behalf. The delivery and despatch of letters in rural districts is not quite the same on Bank Holidays as on Sundays, the rule being, whether there is a Sunday delivery or not, to make one delivery and despatch, but no more, on Bank Holidays, unless the inhabitants make a special application to have none. Inquiry shall be made into any case in which it may appear to my hon. Friend that the rule has been departed from.

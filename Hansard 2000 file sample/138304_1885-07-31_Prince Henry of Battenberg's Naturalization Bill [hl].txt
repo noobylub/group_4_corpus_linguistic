@@ -1,0 +1,9 @@
+<FileID>138304</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/31/prince-henry-of-battenbergs</URL>
+<Title>Prince Henry of Battenberg's Naturalization Bill [hl]</Title>
+<DebRef>HL Deb 31 July 1885 vol 300 c632</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>51</WordCount>
+
+Certificate read; petitioner took the Oath. The Queen's consent signified by the Lord Chancellor; Bill read 2 a (according to order) and committed forthwith: Then Standing Order No. XXXV. considered (according to order), and dispensed with: Bill reported with amendments; read 3 a , and passed, and sent to the Commons.

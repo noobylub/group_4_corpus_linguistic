@@ -1,0 +1,9 @@
+<FileID>138455</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/04/egypt-the-soudan-the-friendly-tribes</URL>
+<Title>Egypt (The Soudan)—the Friendly Tribes</Title>
+<DebRef>HL Deb 04 August 1885 vol 300 cc1031-2</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>4</WordCount>
+
+cc1031-2 QUESTION. 343 words

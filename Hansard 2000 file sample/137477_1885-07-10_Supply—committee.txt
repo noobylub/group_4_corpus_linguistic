@@ -1,0 +1,20 @@
+<FileID>137477</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/supply-committee-1</URL>
+<Title>Supply—committee</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 cc381-2</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>381</WordCount>
+
+SUPPLY— considered in Committee. Motion made, and Question proposed, "That the Chairman do report Progress, and ask leave to sit again."—( Sir Henry Holland. ) 
+<speaker>MR. ARTHUR O'CONNOR</speaker> asked the hon. Gentleman the Secretary to the Treasury how the Government proposed to take the Votes which now stood for Committee on Monday and subsequent days? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> said, it was proposed on Monday to take the Army Estimates; then the remainder of Class III., except the Irish Votes. It was thought that it would be more convenient to take all the Irish Votes on Monday week, and Vote 1 of Class 1 on Wednesday. The Education Vote would be taken on Tuesday. 
+<speaker>COLONEL NOLAN</speaker> thought it would be inconvenient to postpone the Irish Votes until Monday week, and he objected to their being put off so that they might all be taken together. 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> said, that of course the Government had no wish to do anything that would be inconvenient, and perhaps it might be desirable to proceed with any non-contentious Vote taking the others as soon as they could. Unfortunately Monday and Tuesday were already appropriated. 
+<speaker>MR. PARNELL</speaker> said, that it appeared to him, after a hasty and perhaps imperfect consultation he had been able to have with his hon. Friends, that the course suggested by the Financial Secretary would be the most convenient—namely, that the Irish Votes should not be taken until Monday week. If the hon. Gentleman proposed to proceed with any non-contentious Votes that night there would be no objection. 
+<speaker>THE SECRETARY TO THE TREASURY</speaker> said, he should be glad to take any non-contentious Votes in Class III. 
+<speaker>MR. BIGGAR</speaker> asked if the hon. Gentleman could not take the non-contentious Votes on Monday week equally well? 
+<speaker>THE SECRETARY TO THE TREASURY</speaker> said, ho had no intention of pressing it. It was only a matter which had suggested itself. 
+<speaker>MR. SEXTON</speaker> remarked, that there were two postponed Votes in Class II., and others in Class III. 
+<speaker>THE SECRETARY TO THE TREASURY</speaker> said, that was so. He wished to know if there were any non-contentious Votes in Class III.? 
+<speaker>MR. SEXTON</speaker> No. Question put, and agreed to. Committee report Progress; to sit again upon Monday nest.

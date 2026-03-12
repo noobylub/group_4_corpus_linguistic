@@ -1,0 +1,11 @@
+<FileID>138419</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/education-department-instruction-of-deaf</URL>
+<Title>Education Department—instruction of Deaf-Mute Children</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1053-4</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>285</WordCount>
+
+
+<speaker>MR. WOODALL</speaker> asked the vice President of the Council, If he is aware that, of the large number of deaf-mute children in the United Kingdom, less than one-half are under suitable instruction; that, while State aid is given towards the education of the children of the criminal classes as well as of the general population, no Government help is afforded to the deaf and dumb; and, whether the Government will arrange for an inquiry into the subject by Royal Commission, as has been done in relation to the blind, and in accordance with what is understood to have been the intention of the late Government, as intimated in the reply of the late Vice President to the question addressed to him on the 18th of May last? 
+<speaker>THE VICE PEESIDENT OF THE COUNCIL (Mr. E. STANHOPE)</speaker> To ascertain the number of deaf-mute children not under suitable instruction is one of the objects of the inquiry which, as I stated the other day, we desired to institute. There is at present no reliable information on this point. It is true that no Government aid is at present given towards the instruction of the deaf and dumb; but I cannot say whether England stands alone among civilized countries in this respect. What the intention of the late Government may have been we have no means of knowing; but there is no trace of any resolution to extend to the deaf and dumb the inquiries of the Royal Commission on the condition of the blind. After carefully considering the matter, I am still of opinion that the inquiry already proposed affords, upon the whole, the means best calculated to advance the object which we all have at heart.

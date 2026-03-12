@@ -1,0 +1,11 @@
+<FileID>138727</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/law-and-justice-ireland-whiteboy</URL>
+<Title>Law and Justice (Ireland)— Whiteboy Offences in Kerry</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 cc17-8</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>181</WordCount>
+
+
+<speaker>MR. MOLLOY (for Mr. O'BRIEN)</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the attention of the Lord Lieutenant has been drawn to the fact that a young man named Timothy O'Rourke, convicted with three others of a Whiteboy offence in Kerry in 1880, is at present in a dangerous condition of health in Mountjoy Convict Prison; and, whether, considering his state of health, the punishment he has already endured, and the fact that the three men convicted with him have been released, His Excellency will recommend that the clemency of the Crown be extended to O'Rourke, on condition of his leaving the Country? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The convict referred to, Timothy O'Rourke, was sentenced in 1882 to 15 years' penal servitude. The other men who were convicted with him, and who have since been released on licence, received shorter sentences, and representations in their favour were made to the Lord Lieutenant. No such representations have been made on behalf of O'Rourke, who was medically examined yesterday, and certified to be in good health.

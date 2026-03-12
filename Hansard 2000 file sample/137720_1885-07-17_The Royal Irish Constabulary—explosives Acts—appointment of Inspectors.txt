@@ -1,0 +1,11 @@
+<FileID>137720</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/the-royal-irish-constabulary-explosives</URL>
+<Title>The Royal Irish Constabulary—explosives Acts—appointment of Inspectors</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 c1055</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>125</WordCount>
+
+
+<speaker>MR. P. J. POWER</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If he will recommend that the duties of inspectors under the Explosives Act be performed by the members of the Royal Irish Constabulary? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> Inspectors under the Explosives Act are appointed by local authority, who have been informed by Government that it is open to them, if they choose, to select members of the Constabulary for the post. I do not see that the Government could go further than this; but I should point out that the Explosives Act is administered by the Home Department, and that Questions respecting it should properly be addressed to my right hon. Friend the Secretary of State.

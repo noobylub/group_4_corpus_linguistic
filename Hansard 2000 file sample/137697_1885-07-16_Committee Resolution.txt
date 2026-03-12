@@ -1,0 +1,9 @@
+<FileID>137697</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/committee-resolution</URL>
+<Title>Committee Resolution</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c1011</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>63</WordCount>
+
+Matter considered in Committee. (In the Committee.) Resolved. That it is expedient to authorise the payment, out of the Consolidated Fund of the United Kingdom, of any deficiency which may-arise in the Bankruptcy Estates Account, in consequence of the payment by the Treasury of sums for providing office accommodation for officers appointed under "The Bankruptcy Act, 1883 ." Resolution to be reported Tomorrow.

@@ -1,0 +1,11 @@
+<FileID>136971</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/public-health-ireland-water-supply-at</URL>
+<Title>Public Health (Ireland)—water Supply at Urlaur—action of the Swineford Sanitary Board</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1020</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>267</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the Local Government Board refused to interfere with the discretion of the Swineford Sanitary Board in the matter of water supply at Urlaur; whether it is true that the sanitary officer of the district threatened several persons with heavy expenditure if they would not oppose the motion for increased water supply; whether it is within the duty of the sanitary officer to ask the aggrieved party who would pay the sanitary officer for his trouble in the matter; whether any Poor Law Guardian in the Dispensary District opposed the motion for water supply at Urlaur; whether, after the usual notice, the first opposition was that of an anonymous communication; whether some families have to go over half an Irish mile for water; and, whether the Local Government Board will hold an inquiry into the facts of the ease, to see whether the subject was properly attended to? 
+<speaker>MR. CAMPBELL-BANNERMAN</speaker> The Local Government Board have declined to interfere with the discretion of the Sanitary Board in this matter. On a house-to-house visitation being made in the village, only one inhabitant was found to be anxious for an addition to the existing water supply, which is stated to be of excellent quality, and it is not considered necessary to put the district to the expense of increased facilities for the convenience of one person. The medical officer denies that he used threats or sought payment for his trouble, as appears to be implied in the Question. There is no reason for an inquiry in the case.

@@ -1,0 +1,11 @@
+<FileID>138728</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/egypt-the-chamber-of-notables</URL>
+<Title>Egypt—the Chamber of Notables</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 cc18-9</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>277</WordCount>
+
+
+<speaker>SIR GEORGE CAMPBELL</speaker> asked the Under Secretary of State for Foreign Affairs, Whether he has yet received any further information of what is going on in Egypt, especially what is the constitution of the Chamber of Notables which has been sitting there; what opinion they expressed regarding the new loan of £9,000,000 added to the burdens of Egypt; what other matters have been laid before them; and, what are the arrangements (as reported in the newspapers) under which they are said to have appointed a committee to superintend the expenditure of the sum to be devoted to irrigation? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> I have every reason to suppose that the General Assembly is constituted in accordance with the provisions of Article 41 of the Organic Law. It should consist of 84 Members—namely, eight Ministers, 30 Members of the Legislative Council, and 46 additional Members, who are elected. The official Report of the meeting of the General Assembly not having been published when the last mail received left Egypt, we have not a copy of that Report. The President's address to the Khedive on the occasion of the reception of the Members of the Assembly on the 29th ultimo expressed a general approval of the loan, asked for details respecting its conditions, and stated that the Assembly wished to associate itself with the Government with regard to the grant for irrigation works. The As- sembly, according to custom, was not open to the public, but I understand that there was some discussion respecting the mode of applying the sum for irrigation; and subsequently Colonel Moncrieff furnished explanations to certain Notables, which appeared to them satisfactory.

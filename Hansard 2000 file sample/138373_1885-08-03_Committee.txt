@@ -1,0 +1,14 @@
+<FileID>138373</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/committee-3</URL>
+<Title>Committee</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c983</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>201</WordCount>
+
+Committee deferred till Tomorrow. 
+<speaker>MR. MARJORIBANKS</speaker> May I ask when it is really intended to take this Bill? I have come down hero today at great inconvenience, because I thought it was especially arranged that the measure should be taken tonight. I hope the Government will take it upon an early day, as it is obviously very inconvenient for hon. Members to be kept up here night after night expecting it to come on. 
+<speaker>THE SECRETARY TO THE BOARD OF TRADE (Baron HENRY DE WORMS)</speaker> My intention was to take it today; but it was pointed out to me that it would be necessary to have the Amendments printed, as otherwise great confusion would be caused. I am, however, anxious that the Bill should be brought forward as early as possible. I would ask hon. Members not to burden the Paper with Amendments if they desire to see the Bill carried to a successful issue. 
+<speaker>MR. WILLIAMSON</speaker> Are there any other Amendments on the Paper besides mine? 
+<speaker>THE SECRETARY (Baron HENRY DE WORMS)</speaker> Yes; there are other Amendments besides those of the hon. Member. 
+<speaker>MR. WILLIAMSON</speaker> I think I may say that there will be no difficulty in disposing of mine.

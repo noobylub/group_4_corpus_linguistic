@@ -1,0 +1,14 @@
+<FileID>137604</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/medical-relief-disqualification-removal</URL>
+<Title>Medical Relief Disqualification Removal Bill</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 cc664-5</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>172</WordCount>
+
+
+<speaker>MR. HENEAGE</speaker> asked the President of the Local Government Board, Whether he would give orders to the overseers to place on the Parliamentary Register all who were entitled to vote, marking, for the assistance of the Revising Barrister, those who had received medical relief? 
+<speaker>THE PRESIDENT (Mr. A. J. BALFOUR)</speaker> , in reply, said, that he had it under consideration to include in the Bill some provision by which those who under the present law would be disqualified by the receipt of medical relief should be relieved, as far as possible, from disqualification in the event of the Bill passing. 
+<speaker>MR. HENEAGE</speaker> asked if the 20th of this month was not the last day on which the overseers could send in their Returns? THE PEESIDENT said, he did not think so. The date was much later— somewhere about the end of the month. 
+<speaker>MR. J. G. TALBOT</speaker> asked after what hour the Government would not bring on the Bill? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> Not after half-past 10 o'clock.

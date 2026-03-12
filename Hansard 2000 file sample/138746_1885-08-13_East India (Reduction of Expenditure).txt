@@ -1,0 +1,9 @@
+<FileID>138746</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/east-india-reduction-of-expenditure</URL>
+<Title>East India (Reduction of Expenditure)</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c28</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>50</WordCount>
+
+Return presented ,—of Copy of Correspondence between the Government of India and the Secretary of State in 1883 regarding the steps to be taken for a reduction of the Expenditure of India [Address 12th August; Mr. Kynaston Cross ]; to lie upon the Table, and to be printed. [No. 352.]

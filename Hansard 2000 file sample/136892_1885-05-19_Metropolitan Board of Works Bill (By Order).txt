@@ -1,0 +1,9 @@
+<FileID>136892</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/metropolitan-board-of-works-bill-by-order</URL>
+<Title>Metropolitan Board of Works Bill (By Order)</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 cc916-26</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>4</WordCount>
+
+cc916-26 CONSIDERATION. 3,891 words

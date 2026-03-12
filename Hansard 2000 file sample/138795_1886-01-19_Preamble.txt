@@ -1,0 +1,9 @@
+<FileID>138795</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1886/jan/19/preamble</URL>
+<Title>Preamble</Title>
+<DebRef>HL Deb 19 January 1886 vol 302 c31</DebRef>
+<SittingDate>1886-01-19</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>4</WordCount>
+
+Several Lords—Took the Oath.

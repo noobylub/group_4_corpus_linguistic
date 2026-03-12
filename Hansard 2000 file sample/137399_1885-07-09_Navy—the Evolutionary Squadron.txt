@@ -1,0 +1,9 @@
+<FileID>137399</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/navy-the-evolutionary-squadron</URL>
+<Title>Navy—the Evolutionary Squadron</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c124</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>87</WordCount>
+
+MR. A. F. EGERTON asked the First Lord of the Admiralty, If he intends to lay upon the Table any Reports relative to the operations in Bantry Bay, carried on by the experimental squadron? THE FIRST LORD The Reports will not be for some time yet in our hands. I cannot give a promise as to any Papers I have not seen; but the purpose of the Admiralty is to give such Reports as may be interesting to the House, and not injurious to the Public Service.

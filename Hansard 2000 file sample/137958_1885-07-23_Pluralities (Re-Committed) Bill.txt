@@ -1,0 +1,9 @@
+<FileID>137958</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/pluralities-re-committed-bill</URL>
+<Title>Pluralities (Re-Committed) Bill</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1734</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>19</WordCount>
+
+( Mr. Acland, Mr. Edward Howard, Sir John Kennaway, Lord Edward Cavendish. ) c1734 [BILL 241.] COMMITTEE. 111 words

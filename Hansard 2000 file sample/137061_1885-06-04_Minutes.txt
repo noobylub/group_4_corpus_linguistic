@@ -1,0 +1,9 @@
+<FileID>137061</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/04/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 04 June 1885 vol 298 c1184</DebRef>
+<SittingDate>1885-06-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>103</WordCount>
+
+SUPPLY— considered in Committee — CIVIL SERVICE ESTIMATES—CLASS II. — SALARIES AND EXPENSES or CIVIL DEPARTMENTS, Votes 4 to 14. PRIVATE BILL ( by Order )— Third Reading — South Eastern Railway (Various Powers), and passed. PUBLIC BILLS— Ordered — First Reading —Local Government Provisional Order (Municipal Corporations) * [1.99]. Second Reading —Merchant Shipping (Transfer of Registry, &c.) [179]. Committee —Post Office Sites ( re-comm. ) [193], debate adjourned. Committee — Shannon Navigation ( re-comm. ) [171]—R.P. Committee — Report — Princess Beatrice's Annuity* [187]; Metropolis Management Acts Amendment [138–200]. Third Reading — Tramways (Ireland) Provisional Order (No. 1) * [131], and passed.

@@ -1,0 +1,9 @@
+<FileID>138298</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/telegraph-acts-amendment-bill-1</URL>
+<Title>Telegraph Acts Amendment Bill</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 cc809-11</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>14</WordCount>
+
+( Mr. Shaw Lefevre, Mr. Hibbert. ) cc809-11 [BILL 121.] THIRD READING. 350 words

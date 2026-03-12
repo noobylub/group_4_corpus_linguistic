@@ -1,0 +1,9 @@
+<FileID>137246</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/24/parliament-adjournment</URL>
+<Title>Parliament—adjournment</Title>
+<DebRef>HC Deb 24 June 1885 vol 298 c1630</DebRef>
+<SittingDate>1885-06-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>16</WordCount>
+
+Motion made and Question proposed, "That this House do now adjourn."— [ Mr. Rowland Winn. )

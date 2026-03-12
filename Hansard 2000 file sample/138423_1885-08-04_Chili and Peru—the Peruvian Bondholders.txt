@@ -1,0 +1,16 @@
+<FileID>138423</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/chili-and-peru-the-peruvian-bondholders</URL>
+<Title>Chili and Peru—the Peruvian Bondholders</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1056-7</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>451</WordCount>
+
+
+<speaker>MR. WILLIAMSON</speaker> asked the Under Secretary of State for Foreign Affairs, Whether the proposed action of Her Majesty's Government, in concert with other Powers, referred to in the letter of the Secretary of State for Foreign Affairs, dated the 28th July, addressed to the Chairman of the Peruvian Bondholders, has originated with Her Majesty's Government, or has been first suggested by any of these Powers; whether, in the Note of the Chilian Government of the 5th June 1884, therein referred to, that Government clearly indicated that the investigation of any claims arising from the acquisition by Chili of the Desert of Tarapaca should be, in the first instance, before the tribunals of Chili, in the form prescribed by Law; and, whether, seeing that there are several groups of Peruvian creditors who allege that they have claims against the guano deposits, and who have not united in submitting these claims to the Government of Chili since the 5th June 1884, nor have taken any steps to have the alleged hypothecation of territory, or of guano deposits thereon, investigated by the only competent tribunals, namely, those of Chili, Her Majesty's Government will consider whether it is not premature, at present, to press the alleged claims of anyone section of these creditors, in view of our friendly relations with the Chilian Government? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> I cannot reply at such short notice to the various points raised by the hon. Member, some of which involve questions of law and matters of opinion. But it may suffice to state that Her Majesty's Government have united with the other Governments interested in a representation to the Chilian Government, urging them to carry out their promise to enter into an equitable understanding with the creditors of Peru, who may have rights which merit consideration, and which have originated in acts and contracts legally established. 
+<speaker>MR. LABOUCHERE</speaker> I wish to know whether, in view of the trouble we have got into by meddling with the bondholders of Egypt, we are going, directly or indirectly, to meddle with the bondholders of Peru? I hope we shall have a clear answer to that Question. 
+<speaker>THE UNDER SECRETARY OF STATE</speaker> The answer to the Question of the hon. Member for St. Andrews has reference to what has been done, not to what we are going to do; but if the hon. Member for Northampton wishes to know anything on the subject, I shall be happy to give an answer if a Question is put on the Paper. 
+<speaker>MR. WILLIAMSON</speaker> My Question was with reference to what you are going to do. 
+<speaker>THE UNDER SECRETARY OF STATE</speaker> No, Sir. 
+<speaker>MR. WILLIAMSON</speaker> I shall repeat the Question on Friday.

@@ -1,0 +1,11 @@
+<FileID>137515</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/navy-shipbuilding-naval-expenditure-the</URL>
+<Title>Navy—shipbuilding — Naval Expenditure (The Vote of Credit)</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c421</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>194</WordCount>
+
+MR. A. F. EGERTON asked the First Lord of the Admiralty, Whether ho will issue as a supplement to the Navy Estimates an amended programme of Shipbuilding in Her Majesty's Dockyards and by contract, showing the allocation of the additional sums granted by Parliament? 
+<speaker>MR.RYLANDS</speaker> asked whether there was any truth in the report that the excess of expenditure for naval purposes had proved to be greater than the amount stated by the Chancellor of the Exchequer in his Budget Speech? 
+<speaker>THE FIRST LORD OF THE ADMIRALTY (Lord GEORGE HAMILTON)</speaker> In answer to the hon. Member for Burnley (Mr. Rylands), I have to say that I hope we have got to the bottom of the discrepancy with reference to the excess of expenditure to which he alludes. In answer to the Question upon the Paper, I have to say that an amended programme will be prepared by the Constructors' Department in conference with the several Dockyards as rapidly as possible. It will, however, take some time to prepare — three weeks or so—and until the ships, vessels, and boats forming the Evolutionary Squadron have returned to the ports the estimate can only be approximate.

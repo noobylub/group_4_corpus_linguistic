@@ -1,0 +1,10 @@
+<FileID>137939</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/the-national-portrait-gallery</URL>
+<Title>The National Portrait Gallery</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1631-2</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>225</WordCount>
+
+SIR HARRY YERNEY asked the First Commissioner of Works, Whether the Government, in view of the rebuilding of the Portrait Gallery, which will soon require more space, and of the Natural History Museum, which Sir Richard Owen declared would require in another generation to be enlarged, will acquire from the Commissioners of the South Kensington Exhibition the extra land now offered for building lots on each side of the entrance in Queen's Gate, which otherwise will have to be bought at great cost when the public buildings in question require increase? 
+<speaker>THE FIRST COMMISSIONER (Mr. PLUNKET)</speaker> I cannot foresee any circumstances which are likely to arise which would justify me in asking the Government to purchase the lots of ground on each side of the entrance in Queen's Gate referred to in the Question of the hon. Baronet. The Government are now the owners of 16 acres of land adjoining the property of the Exhibition Commissioners of 1851. Of this only four acres are at present covered by the Natural History Museum, so that there will be ample space for enlarging that building whenever it becomes necessary to do so, and also for the erection of a new building for the National Portrait Gallery if it should be thought desirable to build it at South Kensington; but nothing has yet been decided on that subject.

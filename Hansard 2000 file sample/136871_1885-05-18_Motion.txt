@@ -1,0 +1,9 @@
+<FileID>136871</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/motion</URL>
+<Title>Motion</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 cc719-23</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>25</WordCount>
+
+c719 SUPPLY. — COMMITTEE. 18 words cc720-3 PARLIAMENT—BUSINESS OF THE HOUSE—NEW RULES OF PROCEDURE, RULE 12 (NOTICES ON GOING INTO COMMITTEE OF SUPPLY). 1,468 words

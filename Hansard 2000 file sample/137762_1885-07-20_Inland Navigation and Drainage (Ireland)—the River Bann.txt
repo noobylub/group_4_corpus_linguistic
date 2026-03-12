@@ -1,0 +1,12 @@
+<FileID>137762</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/inland-navigation-and-drainage-ireland</URL>
+<Title>Inland Navigation and Drainage (Ireland)—the River Bann</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1186-7</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>345</WordCount>
+
+
+<speaker>SIR THOMAS M'CLURE</speaker> asked the Secretary to the Treasury, Whether the Government will take into consideration the memorials to the late Government from the residents in county Londonderry, complaining of the flooding of their lands by the River Bann, notwithstanding the heavy tax paid for many years by the occupiers for the maintenance of navigation and drainage works; and, whether, having regard to the declared intentions of the late Government, they will take any and what steps to relieve the flooding of the lands, and make any grant for that purpose to the district? 
+<speaker>DR. LYONS</speaker> Before the hon. Baronet answers that Question, I wish to ask him whether his attention has been called to the Report presented to this House by Mr. Howitz, the eminent forest conservator, on the most approved method of controlling torrents and floods, including those of the Bann, by means of suitable afforestation, as successfully practised in the Maritime Alps and elsewhere? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> So far as I can ascertain, the late Government considered and dealt with the Memorials presented to them on this important question. The Department which I have the honour to represent did not consider that sufficient reasons had been shown for a grant in aid, but were disposed to entertain an application for a loan, subject to the condition, among others, that a Joint Board replacing the three present Boards should be formed for the control of the undertaking, and that this Board should decide whether the whole or any part of the navigation works should be preserved. As at present advised, the Treasury see no reason to depart from that view. As has been stated this year, the Government has no power without legislation to remove the navigation works or otherwise mitigate the floods. However, if any further Memorial is presented to the Lord Lieu- tenant it will receive full consideration, the matter being, no doubt, one of great local importance. As regards the second Question that has been put to me, I have not seen Mr. Howitz's Paper.

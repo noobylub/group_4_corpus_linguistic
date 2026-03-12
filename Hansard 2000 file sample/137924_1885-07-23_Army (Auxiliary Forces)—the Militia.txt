@@ -1,0 +1,11 @@
+<FileID>137924</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/army-auxiliary-forces-the-militia</URL>
+<Title>Army (Auxiliary Forces)—the Militia</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1622</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>101</WordCount>
+
+
+<speaker>MR. RICHARD POWER</speaker> asked the Secretary of State for War, Whether he will take into consideration the advisability of giving the Militia regiments now embodied an assurance of not being disembodied before a definite date, so that the officers and noncommissioned officers may be enabled to make arrangements with regard to the housing of their families, which they cannot do in the present state of uncertainty? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> I am afraid that I can give no such assurance. The duration of the embodiment of the Militia must depend upon political conditions, which I cannot forecast.

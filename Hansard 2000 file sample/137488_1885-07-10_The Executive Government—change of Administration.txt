@@ -1,0 +1,9 @@
+<FileID>137488</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/10/the-executive-government-change-of</URL>
+<Title>The Executive Government—change of Administration</Title>
+<DebRef>HL Deb 10 July 1885 vol 299 cc246-71</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>4</WordCount>
+
+cc246-71 OBSERVATIONS. 10,501 words

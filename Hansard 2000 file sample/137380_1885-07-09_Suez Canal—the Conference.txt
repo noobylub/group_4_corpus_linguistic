@@ -1,0 +1,10 @@
+<FileID>137380</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/suez-canal-the-conference</URL>
+<Title>Suez Canal—the Conference</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c112</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>129</WordCount>
+
+
+<speaker>MR. CHARLES PALMER</speaker> asked the Under Secretary of State for Foreign Affairs, When the Papers respecting the Conference held in Paris on the neutrality of the Suez Canal will be issued; and, whether ho is prepared to give the same pledge to the House as was given by the late Government, that no Convention shall be confirmed until the House has pronounced an opinion on it? THE UNDER SECRETARY The Papers are in course of preparation for Parliament; but they are voluminous, and it is not expected that they can be laid on the Table for a fortnight. The House will have an opportunity of passing a judgment on the proposed Convention before any further step is taken. No agreement has yet been arrived at as to its terms.

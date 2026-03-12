@@ -1,0 +1,9 @@
+<FileID>138190</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/29/motions</URL>
+<Title>Motions</Title>
+<DebRef>HC Deb 29 July 1885 vol 300 cc474-6</DebRef>
+<SittingDate>1885-07-29</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>20</WordCount>
+
+cc474-5 PUBLIC WORKS LOANS BILL. 55 words c475 EAST INDIA, ARMY PENSIONS DEFICIENC BILL. 47 words cc475-6 ADJOURNMENT. 291 words

@@ -1,0 +1,10 @@
+<FileID>137319</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/cruisers-of-the-mercantile-marine</URL>
+<Title>Cruisers of the Mercantile Marine—manning and Equipment</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 cc1824-5</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>195</WordCount>
+
+
+<speaker>MR. GOURLEY</speaker> asked the First Lord of the Admiralty, If he can inform the House the number, names, tonnage, coal endurance, speed, and terms under which the Admiralty have engaged the America and other merchant steamers as cruisers; also for what purpose they are to be utilised; and whether any of them have been manned wholly or in part by officers and seamen of the Naval Reserves; and, further, to inquire the calibre and description of guns with which the ships have been fitted, and the cost of reconstruction from merchant to fighting ships? THE FIRST LORD The number of merchant steamers which the Admi- ralty engaged is 16. Their number precludes me from giving within the limits of an answer to a Question all the information which the hon. Member desires to have; but I shall have no objection to produce a Return stating the number, names, tonnage, and speed of the merchant steamers engaged, and the terms upon which they were engaged. The purpose for which they were to be used was explained by the late Government. The Naval Reserves were not called out, and therefore these vessels were not manned by them.

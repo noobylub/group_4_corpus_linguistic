@@ -1,0 +1,11 @@
+<FileID>136898</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/employers-liability-act-amendment</URL>
+<Title>Employers' Liability Act—amendment</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 cc937-8</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>283</WordCount>
+
+
+<speaker>MR. CHARLES ROUNDELL</speaker> asked Mr. Attorney General, Whether his attention has been called to the case of James Larbey and T. Sullivan, two workmen who, in May 1884, were seriously and permanently injured by the fall of a dangerous wall which they were ordered to remove after the fire at Mr. White ley's premises in Westbourne Grove, and to the following facts, viz. that soon afterwards Larbey and Sullivan commenced an action for compensation against their employers in the South wark County Court; that, at the instance of the defendants, this action, along with other similar actions by other workmen injured at the same time, has been removed to the Superior Court; that there is little probability of the case coming on to be heard before October next, a period of eighteen months from the time of the accident; and, whether, considering the hardship thus entailed upon poor men through an expensive and dilatory legal process, he will consider the propriety of an amendment of the Employer's Liability Act which will secure summary trial of cases there under where the individual claim amounts to less than (say) £50? 
+<speaker>THE ATTORNEY GENERAL (Sir HENRY JAMES),</speaker> in reply, said, that actions of this nature under the Employers' Liability Act must be brought, in the first instance, in the County Courts, and they were not removed to a Superior Court unless special cause was shown. The Courts were very jealous of granting leave to remove them; but there might be test cases involving' great liability in which it might be possible that an order for removal might be very justly made. In the circumstances, he did not see any necessity for an alteration of the law.

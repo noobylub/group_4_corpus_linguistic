@@ -1,0 +1,9 @@
+<FileID>137876</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/evidence-by-commission-bill</URL>
+<Title>Evidence by Commission Bill</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 c1514</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>58</WordCount>
+
+On Motion of Lord RANDOLPH CHURCHILL, Bill to amend the Law relating to taking Evidence by Commission in India and the Colonies, ordered to be brought in by Mr. ATTORNEY GENERAL, Lord RANDOLPH CHURCHILL, and Mr. Secretary STANLEY. Bill presented, and read the first time. [Bill 238.] House adjourned at a quarter before Four o'clock in the morning.

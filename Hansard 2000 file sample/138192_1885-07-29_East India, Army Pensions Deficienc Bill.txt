@@ -1,0 +1,9 @@
+<FileID>138192</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/29/east-india-army-pensions-deficienc-bill</URL>
+<Title>East India, Army Pensions Deficienc Bill</Title>
+<DebRef>HC Deb 29 July 1885 vol 300 c475</DebRef>
+<SittingDate>1885-07-29</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>47</WordCount>
+
+On Motion of Sir HENRY HOLLAND, Bill to provide for the discharge of the liability of the Consolidated Fund in respect of certain Indian Army Pensions, ordered to be brought in by Sir HENRY HOLLAND and COLONEL WALROND. Bill presented, and read the first time. [Bill 255.]

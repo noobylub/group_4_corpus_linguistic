@@ -1,0 +1,12 @@
+<FileID>137143</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/the-suez-canal-commission</URL>
+<Title>The Suez Canal Commission</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 cc1410-1</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>358</WordCount>
+
+
+<speaker>SIR H. DRUMMOND WOLFF</speaker> asked the First Lord of the Treasury, Whe- ther he can make any statement as to the progress of the negotiations on the subject of the Suez Canal? MR. GLADSTONE All that the Government are able to say on this subject has already been said in "another place" by my noble Friend the Secretary of State—I am not finding fault with the hon. Gentleman—and the statement is to this effect—that the Commission which is sitting has, we believe and understand, very nearly arrived at the close of its proceedings. Lord Granville expects that they will probably bring it to a conclusion in the course of the present week. But they have bound themselves not to publish the proceedings, and therefore we are precluded from entering upon any details. SIR E. ASSHETON CROSS Are we quite sure that the English Commissioners spoke on the basis laid down in Lord Granville's Circular? MR. GLADSTONE Lord Granville has also stated—I ought, perhaps, to have mentioned this before—that some clauses have been introduced into the draft; and, discussion having arisen, the English Commissioners have made all the reservations which they considered necessary. 
+<speaker>SIR H. DRUMMOND WOLFF</speaker> Will the Commission he concluded in time for the Government to fulfil their promise to submit them to the House before assent is given to them? MR. GLADSTONE What I understood was that the House had the assurance that before the Convention should become binding upon this country it should have an opportunity of knowing the contents of it, and, if necessary, of passing an opinion on the details. I am not now speaking of putting other Business aside; that obligation I consider quite independent of the question whether the Commission will have finished on one day or another. 
+<speaker>SIR H. DRUMMOND WOLFF</speaker> I merely wish to know whether there is any probability of the opportunity occurring before the close of the present Session, or whether the matter will have to stand over until the new Parliament? MR. GLADSTONE No, Sir. I should think there is no likelihood whatever that the conclusion of the proceedings will not be reached long before then.

@@ -1,0 +1,11 @@
+<FileID>137791</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/navy-new-south-wales-a-training-ship</URL>
+<Title>Navy—new South Wales— A Training Ship</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1206-7</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>108</WordCount>
+
+
+<speaker>MR. BROGDEN</speaker> asked the First Lord of the Admiralty, Whether the statement which appeared in The Times Newspaper of 15th July is true, viz.: — That the war ship Beacon was about to be presented to one of the Australasian Colonies; and, if so, to which of the Colonial Governments it will be given, and whether as a training ship; and what is her tonnage and equipment? 
+<speaker>THE FIRST LORD OF THE ADMIRALTY (Lord GEORGE HAMILTON),</speaker> in reply, said, the statement was inaccurate; but Her Majesty's Government were in correspondence with the Government of New South Wales on the subject of providing that Colony with a training ship.

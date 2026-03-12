@@ -1,0 +1,11 @@
+<FileID>137681</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/contagious-diseases-animals-act-swine</URL>
+<Title>Contagious Diseases (Animals) Act—swine Fever—the Order in Council</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc922-3</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>144</WordCount>
+
+
+<speaker>MR. CLARE READ</speaker> asked the Chancellor of the Duchy of Lancaster, Whether the Privy Council contemplates making compulsory the present permissive Order which authorises Local Authorities to slaughter not only pigs affected with swine fever, but also all those that have been in contact with the affected animals? 
+<speaker>THE CHANCELLOR OF THE DUCHY OF LANCASTER (Mr. CHAPLIN)</speaker> The Privy Council are anxious, before making any fresh Order on the subject, to see the effect of the Order for closing the markets, which was passed on the 3rd, and which comes into force on the 21st of this month. They are quite prepared however, to make an Order for compulsory slaughter, if it should be necessary; and, if any such Order is made, it will include not only the animals which are suffering from disease, but those which have been in contact with them also.

@@ -1,0 +1,9 @@
+<FileID>137348</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/river-thames-no2-re-committed-bill-bill</URL>
+<Title>River Thames (No2) (Re-Committed) Bill— [Bill 203]</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 cc1941-3</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>21</WordCount>
+
+Mr. Story-Maskelyne, Sir Michael Hicks-Beach, Mr. Elton, Mr. Walter James, Mr. Sellar, Colonel Makins, Mr. Molloy. ) cc1941-3 COMMITTEE. 729 words

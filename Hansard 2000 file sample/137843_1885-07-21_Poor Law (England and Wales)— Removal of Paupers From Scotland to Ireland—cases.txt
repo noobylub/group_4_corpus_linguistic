@@ -1,0 +1,11 @@
+<FileID>137843</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/poor-law-england-and-wales-removal-of</URL>
+<Title>Poor Law (England and Wales)— Removal of Paupers From Scotland to Ireland—cases of Ann Magee, and Thomas Carlin</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 cc1399-400</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>268</WordCount>
+
+
+<speaker>SIR HERVEY BRUCE</speaker> asked the honourable Member for Buteshire, Whether he will inquire into the case of a pauper named Anne Magee or M'Cormac, who it is alleged was sent as a deck passenger, on March 18th 1885, from Greenock to Stranorlar Workhouse, in the county of Donegal; attended there by James E. Cowan, after living all her life in Scotland, twenty years of that time in Abbey parish, in the township of Paisley, her husband having died in November 1883, a lunatic for two years in Scotch asylum; the woman having with her five children, the eldest twelve years; and, also into the case of Thomas Carlin, who it is alleged was sent to same Union from Paisley, November 1884, after forty-two years' residence in Scotland? 
+<speaker>THE LORD OF THE TREASURY (Mr. DALRYMPLE),</speaker> in reply, said, that the original documents had been furnished him regarding both these cases. Both removals were effected by the Parochial Board of the Abbey Parish, Paisley. The woman in question was a native of County Donegal, and if she obtained she never had retained any settlement in Scotland. All the information furnished showed that her removal with her children, under the charge of an officer of the parish, was effected both legally and humanely. With regard to the man, he was a native of the town of Donegal in the Union of Stranorlar; and although he had certainly resided many years in Scotland, he had never resided for any length of time in one place, and therefore had never acquired a settlement. He was persuaded that his removal was also perfectly legal.

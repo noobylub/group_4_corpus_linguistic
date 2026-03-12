@@ -1,0 +1,9 @@
+<FileID>138507</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/orders-of-the-day</URL>
+<Title>Orders of the Day</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 cc1286-428</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>32</WordCount>
+
+INDIA—EAST INDIA (REVENUE ACCOUNTS)—THE ANNUAL FINANCIAL STATEMENT. cc1286-385 COMMITTEE. 39,815 words cc1386-428 CRIMINAL LAW AMENDMENT BILL [Lords].— [Bill 257.] 6 words cc1386-428 CONSIDERATION. 16,601 words c1428 LAND PURCHASE (IRELAND) [ADVANCES]. 87 words

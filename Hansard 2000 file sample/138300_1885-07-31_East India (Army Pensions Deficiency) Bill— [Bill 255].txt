@@ -1,0 +1,9 @@
+<FileID>138300</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/east-india-army-pensions-deficiency-bill</URL>
+<Title>East India (Army Pensions Deficiency) Bill— [Bill 255]</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 c811</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>12</WordCount>
+
+( Sir Henry Holland, Colonel Walrond. ) c811 SECOND READING. 206 words

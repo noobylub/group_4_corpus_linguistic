@@ -1,0 +1,9 @@
+<FileID>137415</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/labourers-ireland-no-2-bill</URL>
+<Title>Labourers (Ireland) (No 2) Bill</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c223</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>9</WordCount>
+
+( Mr. Campbell-Bannerman, Mr. Solicitor General for Ireland. )

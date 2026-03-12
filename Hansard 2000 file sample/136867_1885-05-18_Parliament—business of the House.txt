@@ -1,0 +1,10 @@
+<FileID>136867</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/parliament-business-of-the-house</URL>
+<Title>Parliament—business of the House</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 c718</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>204</WordCount>
+
+MR. GLADSTONE stated that the Government proposed to take on Thursday as the first Business the Lords' Amendments to the Registration Bill , and after that, if there were time, the introduction of the Welsh Intermediate Education Bill . They would break off Government Business between 9 and 10 o'clock on Thursday for the purpose of moving that the House on its rising on Friday should adjourn until the following Thursday week. In the event of the Welsh Education Bill not being brought in on Thursday, it would be taken at 2 o'clock on Friday, and the next order would be the second reading of the Telegraph Acts Amendment Bill . 
+<speaker>MR. FIRTH</speaker> I desire to ask the Prime Minister whether the House is to understand that the Government has now finally determined to abandon, during the present Parliament, all efforts to reform what was called the serious anarchy of London government? MR. GLADSTONE I am extremely sorry to confess the inability of the Government to deal with what we think a very strong and urgent case; but there is no doubt about the fact that we do not entertain the smallest and faintest hope of dealing with the subject during the present Session.

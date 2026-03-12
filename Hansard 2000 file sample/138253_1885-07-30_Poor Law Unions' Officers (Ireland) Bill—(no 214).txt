@@ -1,0 +1,9 @@
+<FileID>138253</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/30/poor-law-unions-officers-ireland-bill-no</URL>
+<Title>Poor Law Unions' Officers (Ireland) Bill—(no 214)</Title>
+<DebRef>HL Deb 30 July 1885 vol 300 c494</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>11</WordCount>
+
+( The Marquess of Waterford. ) c494 SECOND HEADING. 194 words

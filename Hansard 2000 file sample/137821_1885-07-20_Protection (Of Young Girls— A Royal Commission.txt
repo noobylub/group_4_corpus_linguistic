@@ -1,0 +1,9 @@
+<FileID>137821</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/20/protection-of-young-girls-a-royal</URL>
+<Title>Protection (Of Young Girls— A Royal Commission</Title>
+<DebRef>HL Deb 20 July 1885 vol 299 cc1161-84</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>47</WordCount>
+
+cc1161-4 QUESTION. OBSERVATIONS. 1,034 words c1164 SEA FISHERIES (SCOTLAND) AMENDMENT BILL.—(No. 102.) 4 words cc1164-9 COMMITTEE. 2,075 words c1169 HOUSING OF THE WORKING CLASSES (ENGLAND) BILL.—(No. 177.) 4 words cc1169-77 COMMITTEE. 3,082 words c1178 LAND PURCHASE (IRELAND) BILL. 5 words cc1178-84 (NO. 184.) SECOND READING. 2,459 words

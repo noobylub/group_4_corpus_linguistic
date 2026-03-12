@@ -1,0 +1,9 @@
+<FileID>137642</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/15/question</URL>
+<Title>Question</Title>
+<DebRef>HC Deb 15 July 1885 vol 299 c882</DebRef>
+<SittingDate>1885-07-15</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>21</WordCount>
+
+c882 CENTRAL ASIA—RUSSIA AND AFGHANISTAN—REPORTED RUSSIAN ADVANCE. 117 words c882 OATHS BILL.— [BILL 62.] 17 words c882 SECOND READING. 33 words

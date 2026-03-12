@@ -1,0 +1,11 @@
+<FileID>137520</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/egypt-alleged-slavery</URL>
+<Title>Egypt—alleged Slavery</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c424</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>185</WordCount>
+
+
+<speaker>MR. M'COAN</speaker> asked the Under Secretary of State for Foreign Affairs, Whether his attention has been drawn to a pamphlet entitled "Scandals in Cairo in connection with Slavery," recently published under the auspices of the British and Foreign Slavery Society, to whom the documents, in proof of the statements made, have been submitted, which affirms the complicity of the Khedive and several high Egyptian officials in the maintenance of the slave trade; and, whether the Foreign Office will direct an investigation into the grave charges so made against the officials concerned? 
+<speaker>THE UNDER SECRETARY OF STATE FOR FOREIGN AFFAIRS (Mr. BOURKE)</speaker> I have received a pamphlet which I think the hon. Member himself was good enough to send me. If the accusations made in the pamphlet are supported by names of persons, it shall certainly be sent out to the Egyptian Government; but as the pamphlet is anonymous, it does not appear to me necessary to do so. If the authors of the statements contained in this pamphlet will send their names to the Foreign Office, then it will be sent to the Egyptian Government.

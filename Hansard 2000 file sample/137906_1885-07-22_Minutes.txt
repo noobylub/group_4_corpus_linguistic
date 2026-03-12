@@ -1,0 +1,9 @@
+<FileID>137906</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/22/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 22 July 1885 vol 299 c1515</DebRef>
+<SittingDate>1885-07-22</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>245</WordCount>
+
+PUBLIC BILLS— Royal Assent— East India Loan (£10,000,000) [48 & 49 Viet. c. 28]; Honorary Freedom of Boroughs [48 & 49 Viet. c. 29]; Local Loans (Sinking Funds [48 & 49 Vict. c. 30]; Ecclesiastical Commissioners [48 & 49 Vict. c. 31]; Tithe Rent Charge Redemption [48 & 49 Viet. c. 32]; Local Government (Ireland) Provisional Orders ( Public Health Act ) (No. 1) [48 & 49 Vict. c. xcviii]; Metropolis (Hughes Fields, Deptford) Provisional Order Confirmation [48 & 49 Vict. c. xcix]; Metropolis (Tabard Street, Newington) Provisional Order Confirmation [48 & 49 Vict. c. c]; Local Government Provisional Orders (No. 4) [48 & 49 Vict. c. ci]; Tramways Provisional Orders (No. 2) [48 & 49 Vict. c. cii]; Tramways Provisional Orders (No. 3) [48 & 49 Vict. c. ciii]; Pier and Harbour Provisional Orders [48 & 49 Vict. c. civ]; Local Government Provisional Order (Municipal Corporations) [48 & 49 Vict. c. cr]; Local Government Provisional Orders (No. 3) [48 & 49 Vict. c. cvi]; Local Government Provisional Orders (No. 7) [48 & 49 Vict. c. cvii]; Local Government Provisional Orders (Poor Law) (No. 9) [48 & 49 Vict. c. cviii]; Local Government (Ireland) Provisional Order) Labourers Act) (No. 5) [48 & 49 Vict. c. cix]; Marriages (Saint John, Cowley) [48 & 49 Vict. c. cx]. The House met—and the Royal Assent having been given, by COMMISSION, to several Bills, House adjourned at a quarter before Five o'clock, till Tomorrow, a quarter past Four o'clock.

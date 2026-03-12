@@ -1,0 +1,11 @@
+<FileID>137686</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/law-and-justice-flogging</URL>
+<Title>Law and Justice—flogging</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c925</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>129</WordCount>
+
+
+<speaker>SIR HERBERT MAXWELL</speaker> asked the Secretary of State for the Home Department, Whether, in view of recent outrages, he has considered the propriety of adopting the provisions of a Bill now before the House, by which the flogging penalties inflicted upon garotters would be extended to offenders under "The Explosives Act, 1883 ," and might further be extended to include those who wound unarmed persons with revolvers? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS),</speaker> in reply, said, that he was not prepared to say that the suggestion contained in the Question was not a good one; but, considering how very contentious a subject the adoption of flogging as a punishment was, he was not prepared to adopt the provisions of the Bill referred to.

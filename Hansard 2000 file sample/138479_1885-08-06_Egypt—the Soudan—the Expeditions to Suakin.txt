@@ -1,0 +1,11 @@
+<FileID>138479</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/egypt-the-soudan-the-expeditions-to</URL>
+<Title>Egypt—the Soudan—the Expeditions to Suakin</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 cc1267-8</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>161</WordCount>
+
+
+<speaker>SIR HENRY TYLER</speaker> asked the Secretary of State for War, Whether he can state, in round numbers, what has been the cost to the Country in money of the various Military expeditions to Suakin, especially of the first and second expeditions of General Sir Gerald Graham; and, also, what total expenditure has been incurred on account of the Suakin-Berber Railway, dividing that expenditure between cost of permanent way; cost of equipment, including rolling stock; cost of other materials or plant; cost of superintendence and labour; payments to agents or contractors? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> Some time must elapse before all the accounts, especially those relating to the Indian troops, are received at the War Office. At present, therefore, I am not in a position to make a statement of the cost incurred consequent on the Suakin Expeditions. For the same reason I cannot give the information desired by my hon. Friend in regard to the Suakin-Berber Railway.

@@ -1,0 +1,9 @@
+<FileID>138803</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/21/double-returns</URL>
+<Title>Double Returns</Title>
+<DebRef>HC Deb 21 January 1886 vol 302 c85</DebRef>
+<SittingDate>1886-01-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>14</WordCount>
+
+c85 COUNTY OF MONAGHAN (NORTHERN DIVISION) AND COUNTY OF DERRY (SOUTHERN DIVISION). 89 words

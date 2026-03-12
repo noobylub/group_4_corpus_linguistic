@@ -1,0 +1,9 @@
+<FileID>138255</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/30/earldom-of-mar-restitution-bill</URL>
+<Title>Earldom of Mar Restitution Bill</Title>
+<DebRef>HL Deb 30 July 1885 vol 300 cc494-8</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>12</WordCount>
+
+( The Earl of Rosebery. ) cc494-8 (NO. 107.) COMMITTEE. 1,536 words

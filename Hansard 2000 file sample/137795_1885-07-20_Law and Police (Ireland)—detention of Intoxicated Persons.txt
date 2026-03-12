@@ -1,0 +1,11 @@
+<FileID>137795</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/law-and-police-ireland-detention-of</URL>
+<Title>Law and Police (Ireland)—detention of Intoxicated Persons</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1209-10</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>317</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, What rule the Inspector General of the Irish Constabulary has resolved to make with respect to the imprisonment of more than one intoxicated person in the same police cell at the same time, and whether it will be ordered that, in case of such imprisonment, care is to be taken that the prisoners are kept constantly in sight, or at least in hearing, of the orderly; and, having regard to the fact stated by the police at the inquest on the body of Peter O'Grara at Sligo, that at the time when he lost his life another person charged with drunkenness was in the same cell, and the cell was in total darkness, whether arrangements will be made to supply some light to cells, especially when more than one person is confined in each, and in cases of drunkenness. 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> There is a rule in force that, whenever possible, prisoners under the influence of drink are not to be shut up together, or with other prisoners. The Inspector General informs me that the cell accommodation in several of the barracks renders it impossible to give a positive order that only one intoxicated person shall be in a cell at the same time. As a rule the cells are so situated as to be quite within hearing of the orderly, who must at all times be on the spot, and must visit the prisoners from time to time. He could not keep them constantly in sight unless he remained in the cell with them, which would not be advisable. The Inspector General does not think it would be expedient, even if it were practicable, that police cells should always be lighted; nor is it clear that such an arrangement would tend to the greater security of the prisoners.

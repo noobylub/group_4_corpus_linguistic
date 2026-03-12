@@ -1,0 +1,11 @@
+<FileID>136986</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/india-military-preparations-expenditure</URL>
+<Title>India—military Preparations—expenditure</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1030-1</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>122</WordCount>
+
+
+<speaker>MR. BUCHANAN</speaker> asked the Under Secretary of State for India, Whether he will state the amount of expenditure incurred by the Government of India in its military preparations, and how it is proposed that that expenditure shall be met? 
+<speaker>MR. J. K. CROSS</speaker> On the 3rd of May the Viceroy telegraphed that the extra military expenditure during the next three or four months—from April to July—was estimated at 306 lakhs of rupees. This is in addition to certain demands for ordnance, the cost of which is estimated at £385,000. The Government of India are considering how far the extra charges can be met by reduction of expenditure before a final determination is arrived at as to the manner of meeting the deficiency.

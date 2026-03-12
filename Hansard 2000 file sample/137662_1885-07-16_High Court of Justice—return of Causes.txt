@@ -1,0 +1,10 @@
+<FileID>137662</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/high-court-of-justice-return-of-causes</URL>
+<Title>High Court of Justice—return of Causes</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c911</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>138</WordCount>
+
+
+<speaker>MR. INCE</speaker> asked the Secretary of State for the Home Department, Whether he has any objection to a Return being ordered:—(1) Of the number of actions standing for hearing, with witnesses to be examined in court, at the commencement of Michaelmas Sittings 1884; (2) Of the number of such witness actions heard and determined by each of the following judges, viz.:—The Vice Chancellor Bacon, Mr. Justice Kay, Mr. Justice Chitty, Mr. Justice Pearson, and Mr. Justice North respectively, in each of the following sittings, namely, Michaelmas 1884, Hilary 1885, and Easter 1885; (3) Of the number of witness actions standing for hearing at the close of the Easter Sittings 1885? THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir E. ASSHETON CROSS) The hon. and learned Gentleman opposite can have the information he requires in an unopposed Return.

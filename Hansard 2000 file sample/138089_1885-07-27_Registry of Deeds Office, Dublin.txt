@@ -1,0 +1,11 @@
+<FileID>138089</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/registry-of-deeds-office-dublin</URL>
+<Title>Registry of Deeds Office, Dublin</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc60-1</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>172</WordCount>
+
+
+<speaker>COLONEL KING-HARMAN</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether he can explain why the Commission appointed last year to inquire into the grievances of the clerks in the Registry of Deeds Office, Ireland, have made no Report; and if he is aware that there are now three vacancies in that office which have not been filled up; and, whether he will call upon the Commissioners to send in their Report without further delay? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> (who replied) said: The Committee to which my hon. and gallant Friend alludes was appointed in December last, but, owing to the illness of one Member, was only able to commence its work in March, and, owing to the professional engagements of some Members of it, has not yet been in a condition to report. The Report will, however, be made as soon as practicable. In the mean while, the vacancies in the upper parts of the office will be filled up by promotions from the staff.

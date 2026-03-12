@@ -1,0 +1,12 @@
+<FileID>138645</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/metropolis-local-government-outside-the</URL>
+<Title>Metropolis—local Government Outside the City Area</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 c1732</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>120</WordCount>
+
+
+<speaker>MR. FIRTH</speaker> asked the Secretary of State for the Home Department, with reference to the deputation which recently waited upon him from the Corporation of London, Whether he is at liberty and able to state whether any, and what, propositions or suggestions were made by them as to the Local Government of the Metropolis outside the City area? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> No, Sir; I am unable to state what suggestions were made. I do not think, indeed, that any were made, and it seemed to me that they came to find out if I had any to make. 
+<speaker>MR. FIRTH</speaker> Is the right hon. Gentleman able to state whether he did make any? [No reply.]

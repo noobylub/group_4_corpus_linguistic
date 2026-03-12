@@ -1,0 +1,12 @@
+<FileID>138207</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/the-ecclesiastical-commissioners</URL>
+<Title>The Ecclesiastical Commissioners —Taxation of Legal Expenses</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc510-1</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>163</WordCount>
+
+
+<speaker>MR. LABOUCHERE</speaker> asked, Whether the costs, charges, and expenses of the Solicitors and Surveyors employed by the Ecclesiastical and Church Estates Commissioners, and whether charged against the Commissioners or other parties concerned in the Church Estates, are submitted for taxation to the proper officers of the Supreme Court? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS),</speaker> in reply, said, he had received a Memorandum from the Ecclesiastical Commissioners, to the effect that from 1842 to 1867 the bills of costs and charges to be paid by the Ecclesiastical Commissioners to solicitors were taxed by one of the Masters in Queen's Bench; but in 1867 he refused to undertake the duty, as it was not covered by the official salary. Up to 1873 they were taxed by an officer of the Court, and since that time by Mr. Bush Cooper. 
+<speaker>MR. ARTHUR ARNOLD</speaker> asked whether the right hon. Gentleman would not advise the Ecclesiastical Commissioners to pay solicitor and surveyor by salary? [No reply].

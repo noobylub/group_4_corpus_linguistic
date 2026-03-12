@@ -1,0 +1,11 @@
+<FileID>138278</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/police-enfranchisement-extension-bill</URL>
+<Title>Police Enfranchisement Extension Bill</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 cc674-5</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>183</WordCount>
+
+
+<speaker>MR. COLERIDGE KENNARD</speaker> asked the honourable and learned Member for Beaumaris (Mr. Morgan Lloyd) and the honourable and learned Member for the Tower Hamlets (Mr. Bryce), Whether they will consent to withdraw the "blocks" they have placed on the Police Enfranchisement Bill , and allow it to go into Committee before the close of the Session? 
+<speaker>MR. BRYCE</speaker> said, he felt bound to take any steps he could to secure that the Bill should not be passed hurriedly and silently at the end of the Session, and when it had not been considered by the public. At the same time, as he shared the opinion that the practice of blocking was much abused, he did not put down his Notice until he had satisfied himself that a very large number shared his objection to the measure. If the hon. Member would arrange with the Government to bring on the Bill, or to allow the hon. Member to bring it on, before 1 o'clock on Monday, and to arrange so that there might be an opportunity for discussion, he would take off his block.

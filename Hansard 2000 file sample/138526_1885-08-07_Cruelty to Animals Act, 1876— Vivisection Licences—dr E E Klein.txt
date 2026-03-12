@@ -1,0 +1,11 @@
+<FileID>138526</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/cruelty-to-animals-act-1876-vivisection</URL>
+<Title>Cruelty to Animals Act, 1876— Vivisection Licences—dr E E Klein</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 c1446</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>129</WordCount>
+
+
+<speaker>MR. FIRTH</speaker> asked the Secretary of State for the Home Department, Whether the Dr. E. E. Klein, whose name appears in the last annual Return (for the first time) as a licensee and the holder of a certificate, under the Cruelty to Animals Act, 1876 , for experiments on living animals without anesthetics, is the person of that name who was examined before the Royal Commission of 1875, and then stated (Questions 3539, 3541, 3544) that he had no regard at all to the sufferings of animals when performing experiments without anæsthetics? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> , in reply, said, that he believed the licence was granted early in 1884, and that the gentleman was the same gentleman that was referred to in the Question.

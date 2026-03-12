@@ -1,0 +1,9 @@
+<FileID>138745</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/royal-irish-constabulary-favourable</URL>
+<Title>Royal Irish Constabulary (Favourable Records)</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c28</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>45</WordCount>
+
+Return presented ,—giving a list of all the Favourable Records received by Members of the Royal Irish Constabulary Force in the years 1870 to 1875, both inclusive, &c. [ordered 3rd August; Mr. Sexton ]; to lie upon the Table, and to be printed. [No. 351.]

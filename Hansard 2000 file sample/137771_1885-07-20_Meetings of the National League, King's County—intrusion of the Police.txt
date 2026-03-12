@@ -1,0 +1,13 @@
+<FileID>137771</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/meetings-of-the-national-league-kings</URL>
+<Title>Meetings of the National League, King's County—intrusion of the Police</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 c1192</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>197</WordCount>
+
+
+<speaker>MR. MOLLOY</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, By whose orders the police endeavoured to be present at the last monthly meeting of the Irish National League, Killoughey Branch, King's County, and why they refused to say by whose orders they presented themselves; and, whether the police have any orders to attend meetings which are perfectly legal and held in private houses; and, if not, if he will take steps to prevent this interference with public liberty? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> It appears that the County Inspector directed a sergeant of the local police to attend this meeting if there was no objection made by the members to his being there. Objection was made, and the sergeant did not accordingly attend. He refused to state by whose directions he presented himself. The police have no orders to attend meetings that are legal and held in private houses. 
+<speaker>MR. MOLLOY</speaker> asked whether the Inspector was right in asking the police to attend legal meetings of this kind? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND</speaker> I do not think the Inspector should ask the police to attend legal meetings in private houses.

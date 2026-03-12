@@ -1,0 +1,11 @@
+<FileID>138544</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/the-parks-metropolis-inclosure-at</URL>
+<Title>The Parks (Metropolis)—inclosure at Regent's Park</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 cc1458-9</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>188</WordCount>
+
+
+<speaker>MR. DANIEL GRANT</speaker> asked the First Commissioner of Works, Whether Ms attention has been drawn to a statement in " The Echo " of Saturday last, that a portion of the land in Regent's Park, lately restored to the public, has been again inclosed; and, whether such statement is correct; and, if so, what steps he proposes to take in the matter? 
+<speaker>THE FIRST COMMISSIONER (Mr. PLUNKET)</speaker> A portion of the land adjoining the ornamental water in the Regent's Park has been railed off, in order to lessen the risk of children being drowned by going too near the edge at a place where the bank is rather steep, and also in order to secure a resting place for the wild fowl. A similar course has been adopted in other London parks, and I quite approve of such precautions being taken; however, having carefully investigated the matter myself, I think that rather more space has been reserved for these purposes than was absolutely necessary, and I have given directions that it should be reduced, so as to leave as much of the grass to the public as possible.

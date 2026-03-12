@@ -1,0 +1,10 @@
+<FileID>137512</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/egypt-the-soudan-the-troops-at-suakin</URL>
+<Title>Egypt—the Soudan—the Troops at Suakin</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c419</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>157</WordCount>
+
+DR. CAMERON asked the Secretary of State for War, Whether it is the fact that an order was issued at Suakin, directing that all men should be shown in the returns as effective, whether in hospital or not, except those who were actually invalided on board ship; and, if so, whether ho can state the number of hospitals on shore, and the maximum number of men in those hospitals returned as effective? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> It is stated by Sir Gerald Graham, by the Chief of the Staff, by the Deputy Adjutant General, and by the Principal Medical Officer, that no such order was issued. There appears to be some misunderstanding on the part of the hon. Member as to the technical meaning of the word "effective." Effective does not necessarily mean efficient; and soldiers are always borne on the strength of their regiments as effectives until actually invalided from the station.

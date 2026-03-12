@@ -1,0 +1,10 @@
+<FileID>137778</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/the-west-indian-colonies-jamaica</URL>
+<Title>The West Indian Colonies—jamaica</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1197-8</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>289</WordCount>
+
+
+<speaker>MR. SERJEANT SIMON</speaker> asked the Secretary of State for the Colonies, What steps have been taken to carry out the recommendations of the Royal Commissioners for the West Indies, with respect to the reduction of expenditure in those Colonies; what amount of reduction has been effected in Jamaica; whether there has been any, and what, reduction in the Import Duties in that Island, especially upon food; and, what has been done as to the abolition of the Incumbered Estates Court? THE SECRETARY OF STATE FOB THE COLONIES (Colonel STANLEY) Without detailing the exact steps taken I may say that in Jamaica the Governor has inaugurated reductions, partly based on the recommendations of the Commission, which will eventually effect a considerable diminution of expenditure. In the Windward and Leeward Islands the recommendations of the Commission with respect to expenditure assumed the union of each group into a single Colony. In the Windward Islands the inhabitants have expressed so strong a feeling against union that the Government have not thought it right to press such a measure at present, and in the Leeward Islands the views of the inhabitants on the question of union have not yet been ascertained; but in both cases every effort will be made to reduce expenditure. As regards the second Question, the total annual saving, so far, may be put at £21,000, and probably nearly £2,000 a-year more will be saved. There has been no reduction as yet in the Jamaica import duties. The Legislative Councils of the Colonies in which the Incumbered Estates Act is in force, having been asked to express their views, have with one exception passed resolutions in favour of the abolition of the Court, and the question is now under consideration.

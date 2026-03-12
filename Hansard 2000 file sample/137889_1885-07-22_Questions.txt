@@ -1,0 +1,9 @@
+<FileID>137889</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/22/questions</URL>
+<Title>Questions</Title>
+<DebRef>HC Deb 22 July 1885 vol 299 cc1515-8</DebRef>
+<SittingDate>1885-07-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>36</WordCount>
+
+cc1515-6 ROYAL IRISH CONSTABULARY— DISTRIBUTION. 209 words c1516 LAW AND POLICE—OBSCENE PUBLICATIONS. 126 words cc1516-7 NAVY-COLLISION WITH H.M.S. "HECLA." 229 words c1517 PARLIAMENT—BUSINESS OF THE HOUSE. 87 words c1518 EGYPT—THE SOUDAN—REPORTED FIGHTING AT KASSALA. 86 words

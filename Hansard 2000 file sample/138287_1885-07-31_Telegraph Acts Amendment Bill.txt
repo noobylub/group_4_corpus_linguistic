@@ -1,0 +1,12 @@
+<FileID>138287</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/telegraph-acts-amendment-bill</URL>
+<Title>Telegraph Acts Amendment Bill</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 cc679-80</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>375</WordCount>
+
+MR. ALDERMAN W. LAWRENCE asked the right hon. Gentleman the late Postmaster General (Mr. Shaw Lefevre), Whether he would move a clause in the Telegraph Acts Amendment Bill that two, three, or four figures in an address should be counted as one word, and that the rate should be ½ d. per word instead of 1 d. for two words? MR. SHAWLEFEVRE , in reply, said, that the question whether several figures were to be counted as one word in a telegram would not be dealt with by the Telegraph Acts Amendment Bill , but would be left to the Post Office Regulations. With respect to the substitution of ½ d. per word rate in place of 1 d. for two words, he should move to recommit the Bill for the purpose of introducing an Amendment making that alteration. This would also give the hon. Member for Blackburn (Mr. Briggs) an opportunity of moving the Amendment which he withdrew last night, on the understanding that it could be moved on Report. MR. ALDERMAN W. LAWRENCE Will the right hon. Member be prepared to take the name of any street, grove, terrace, garden, &c., as one word—that is to say, take Oxford Street as one word—and will he also be prepared to treat the name of an Island as one word, such as in the case of the Isle of Wight, the Isle of Man, the Isle of Bute, the Isle of Skye, the Isle of Arran, the Isle of Lewis, &c.? 
+<speaker>MR. SHAW LEFEVRE</speaker> I will say "No" to both of these Questions. MR. ALDERMAN W. LAWRENCE , in consequence of the answer of the late Postmaster General (Mr. Shaw Lefevre), gave Notice that on re-committal of the Bill he would move a clause that the name of any street, square, terrace, &c., &c., and the name of any island be counted as one word. 
+<speaker>MR. PULESTON</speaker> asked the Postmaster General, whether he assented to the proposition that there was no financial difference between the ½ d. per word and the 1 d. ? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS)</speaker> said, the officers of the Department gave him to understand that the substitution of ½ d. per word would produce precisely the same financial result.

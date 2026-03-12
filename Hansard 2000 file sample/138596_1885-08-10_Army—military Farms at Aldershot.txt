@@ -1,0 +1,11 @@
+<FileID>138596</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/army-military-farms-at-aldershot</URL>
+<Title>Army—military Farms at Aldershot</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 cc1577-8</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>172</WordCount>
+
+
+<speaker>SIR ARTIIUR HAYTER</speaker> asked the Secretary of State for War, Whether the experiment of farming the land at Aldershot, in the vicinity of the Commandant's quarters, has been attended with satisfactory results; and, whether the Commanding Royal Engineer at that station has been able to furnish the promised estimate per acre of the expense of reclaiming the land, after deducting the price of the manure now furnished from the camp, and the probable selling value of the crop? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> The Commanding Royal Engineer has made the following statement:— Cost of reclaiming land is £30 per acre, exclusive of manure. Where drainage is necessary, cost is about £40 per acre. The annual income varies; it is now about 2 per cent on outlay, exclusive of manure, being let for grazing only. When laid up for hay, and the troops kept off, 7 and 8 per cent have been realized, exclusive of cost of manure. Value of manure furnished from the camp is about £15 per acre.

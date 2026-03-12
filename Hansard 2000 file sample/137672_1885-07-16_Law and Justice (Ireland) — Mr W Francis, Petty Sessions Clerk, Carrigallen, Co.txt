@@ -1,0 +1,11 @@
+<FileID>137672</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/law-and-justice-ireland-mr-w-francis</URL>
+<Title>Law and Justice (Ireland) — Mr W Francis, Petty Sessions Clerk, Carrigallen, Co Leitrim</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c916</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>111</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether it is the fact that Mr. W. Francis, clerk of the petty sessions in the district of Carrigallen, county Leitrim, holds the position of bailiff upon three properties in the vicinity of Carrigallen; and, whether it is in accordance with the rules of the petty sessions that he is permitted to hold these appointments? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> I am informed that the Clerk of Petty Sessions at Carrigallen is under-agent on three estates, but that he never acted as a bailiff. However, there is no rule against his acting in either capacity.

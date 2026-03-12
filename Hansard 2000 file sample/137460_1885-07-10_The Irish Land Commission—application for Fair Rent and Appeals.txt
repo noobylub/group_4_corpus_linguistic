@@ -1,0 +1,11 @@
+<FileID>137460</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/the-irish-land-commission-application</URL>
+<Title>The Irish Land Commission—application for Fair Rent and Appeals</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 cc284-5</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>296</WordCount>
+
+
+<speaker>MR. MARUM</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether his attention has been directed to the following statement in the Press, in reference to the recent Return of the proceedings of the Irish Land Commission:— At the close of the month of April the total number of applications to have fair rents fixed was 121,891, and the total disposed of was 115,528, leaving 6,363 still to be heard. The appeal business is in a still more unsatisfactory state. Only 143 cases were heard during the month, leaving the large number of 9,923 still to be decided. In their task of getting through these appeals the Land Commissioners are likely to be very much assisted by the suitors themselves of these Courts, for the number withdrawn every month is considerably in excess of the number heard, a fact not to he wondered at, considering that several appeals have been now awaiting trial for two years; and, whether Her Majesty's Government will take into consideration the propriety of devising some means to remedy this delay of suitors and frustration of justice in the Land Commission Courts in Ireland? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> I explained yesterday, in answer to a Question, how matters stand with regard to original applications before the Land Commission. The total number of appeals pending from both Sub-Commissions and Civil Bill Courts on the 30th ultimo was 9,316, of which number about 900 have been lodged for more than two years. The Land Commissioners inform me that withdrawals have considerably increased since, under new rules, valuations for the use of the Appeal Court must be paid for by suitors. This is not a satisfactory state of affairs, and calls for further consideration on the part of the Government.

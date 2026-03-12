@@ -1,0 +1,11 @@
+<FileID>137729</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/law-and-police-police-constable-davis</URL>
+<Title>Law and Police—police Constable Davis</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 c1059</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>218</WordCount>
+
+
+<speaker>MR. ARTHUR ARNOLD</speaker> asked the Secretary of State for the Home Department, If he will consider the claim of Police Constable Owen Davis to official recognition on account of the intelligence and courage he displayed in attacking armed burglars upon a house in Kensington Park Gardens; and, whether he will call the attention of the Chief Commissioner of Police to the desirability of the police having keys of such large gardens as that, one and a-half acres in extent, through which the burglars escaped, an escape which would have been impossible if Davis, before mounting the ladder, had placed another policeman in the garden? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS)</speaker> "With reference to the first paragraph of the Question, I have to say that the Commissioners of Police have fully considered the claims of Police Constable Owen Davis to recognition, as they invariably do in all such cases. The subject of the second part of the Question was very carefully considered by the Secretary of State in 1882, and instructions were then given to the police that they were not to patrol private grounds without special authority, because such patrolling took the police away from the ground on which their presence was primarily required, and was likely to lead to many irregularities.

@@ -1,0 +1,9 @@
+<FileID>137567</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/13/part-i</URL>
+<Title>Part I</Title>
+<DebRef>HL Deb 13 July 1885 vol 299 cc393-6</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>6</WordCount>
+
+cc393-6 POOR LAW ELECTIONS. 1,027 words

@@ -1,0 +1,10 @@
+<FileID>137406</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/railways-england-and-wales-the-accident</URL>
+<Title>Railways (England and Wales) —The Accident on the Furness Railway</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 cc126-7</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>100</WordCount>
+
+
+<speaker>MR. T. C. THOMPSON</speaker> asked the Secretary of State for the Home Department, If his attention has been called to an accident last Saturday on the Furness Railway, near Dalton, by which three boys were killed; and, whether proper protection is provided there to guard against danger? THE SECRETARY The Railway Company have reported the accident in question, and the Board of Trade have appointed one of the inspecting officers to hold an inquiry into the circumstances of the case. A copy of his Report can be presented if the hon. Member will be good enough to move for it.

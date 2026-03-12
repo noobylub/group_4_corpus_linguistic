@@ -1,0 +1,9 @@
+<FileID>138564</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/07/local-government-ireland-provisional</URL>
+<Title>Local Government (Ireland) Provisional Orders Bill</Title>
+<DebRef>HL Deb 07 August 1885 vol 300 cc1429-34</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>12</WordCount>
+
+( The Marquess of Waterford. ) cc1429-34 (NO. 170.) REPORT. 1,860 words

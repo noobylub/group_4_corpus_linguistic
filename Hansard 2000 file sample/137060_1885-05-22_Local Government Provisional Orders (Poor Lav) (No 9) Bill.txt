@@ -1,0 +1,9 @@
+<FileID>137060</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/22/local-government-provisional-orders-poor</URL>
+<Title>Local Government Provisional Orders (Poor Lav) (No 9) Bill</Title>
+<DebRef>HC Deb 22 May 1885 vol 298 c1183</DebRef>
+<SittingDate>1885-05-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>114</WordCount>
+
+On Motion of Mr. GEORGE RUSSELL, Bill to confirm certain Orders of the Local Government Board, under the provisions of "The Divided Parishes and Poor Law Amendment Act, 1876 ," as amended and extended by "The Poor Law Act, 1879 ," relating to the Parishes of Abbotsley, Astwood, Castle Church, Emberton, Eynesbury, Gayhurst, Hardmead, Lathbury, Lavendon, North Crawley, Raven-stone, and Saint Mary and Saint Chad, Stafford; to the Hamlet of Warrington; and to the Township of Hopton and Coton, ordered to be brought in by Mr. GEORGE RUSSELL and Sir CHARLES W. DILKE. Bill presented, and read the first time. [Bill 198.] House adjourned at five minutes before Seven o'clock till Thursday 4th June.

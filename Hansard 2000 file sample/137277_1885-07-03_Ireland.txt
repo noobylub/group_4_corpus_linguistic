@@ -1,0 +1,9 @@
+<FileID>137277</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/03/ireland-1</URL>
+<Title>Ireland</Title>
+<DebRef>HL Deb 03 July 1885 vol 298 c1645</DebRef>
+<SittingDate>1885-07-03</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>38</WordCount>
+
+Lord Lieutenant. Right Hon. Earl of Carnarvon. Lord Chancellor. Right Hon. Lord Ashbourne. Chief Secretary to the Lord Lieutenant Right Hon. Sir William Hart Dyke. Attorney General. Right Hon. Hugh Holmes, Q.C. Solicitor General. John Monroe, Esq., Q.C.

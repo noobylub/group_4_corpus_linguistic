@@ -1,0 +1,9 @@
+<FileID>137715</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/rathmines-and-rathgar-township-bill-lords</URL>
+<Title>Rathmines and Rathgar Township Bill [Lords]</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 c1053</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>5</WordCount>
+
+c1053 THIRD READING. 166 words

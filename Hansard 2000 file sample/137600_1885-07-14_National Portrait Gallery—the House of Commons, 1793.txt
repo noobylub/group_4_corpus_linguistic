@@ -1,0 +1,11 @@
+<FileID>137600</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/national-portrait-gallery-the-house-of</URL>
+<Title>National Portrait Gallery—the House of Commons, 1793</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 cc661-2</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>254</WordCount>
+
+
+<speaker>LORD EDMOND FITZMAURICE</speaker> asked the Under Secretary of State for Foreign Affairs, If he can inform the House as to the presentation by the Emperor of Austria to the National Portrait Gallery of a picture representing the interior of the House of Commons in the time of Mr. Pitt; and, if he can lay any Papers upon the Table relating to the subject? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> The picture in question is one by Carl Anton Hickel, representing the House of Commons in 1793, with portraits of Mr. Pitt and other distinguished statesmen of the day. It belongs to the Belvedere Gallery at Vienna, which is the private property of the Imperial owner. His Majesty the Emperor of Austria has been graciously pleased to present the picture in question to Lady Paget, the wife of Her Majesty's Ambassador at Vienna, and it has been placed by her at the disposal of the Trustees of the National Portrait Gallery. It is not proposed to lay any Papers on the subject, as the Trustees have expressed their intention to notice in their annual Report, which will shortly be laid before Parliament, the circumstances which have led to the acquisition of an Art treasure of such high historical interest. I am sure, Sir, I may take upon myself to say that the whole nation feels grateful to his Imperial Majesty for his gracious and generous gift; and that the country most thankfully accepts it as a valuable and interesting addition to the National Collection.

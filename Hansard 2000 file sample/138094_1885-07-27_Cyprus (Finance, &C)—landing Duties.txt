@@ -1,0 +1,10 @@
+<FileID>138094</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/cyprus-finance-c-landing-duties</URL>
+<Title>Cyprus (Finance, &C)—landing Duties</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc63-4</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>146</WordCount>
+
+
+<speaker>VISCOUNT NEWPORT</speaker> asked the Secretary of State for the Colonies, Whether it is the ease that Officers on active service have to pay a heavy duty on their personal effects when landing at Cyprus; and, if so, whether some distinction could be drawn in this respect between Officers in Her Majesty's Service and other individuals? THE SECRETARY OF STATE FOR THE COLONIES (Colonel STANLEY), in reply, said, that officers on landing at Cyprus had to pay a heavy duty on their personal effects. He had telegraphed to the High Commissioner of Cyprus to ask if some arrangement could be made in the direction indicated. He had received a reply that day; but he was sorry to say that it would necessitate further communication, and, therefore, he could not give any further information. He would do all that lay in his power to see the matter adjusted.

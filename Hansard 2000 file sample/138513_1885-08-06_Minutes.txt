@@ -1,0 +1,9 @@
+<FileID>138513</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/06/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 06 August 1885 vol 300 c1252</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>205</WordCount>
+
+PUBLIC BILLS— First Reading —Consolidated Fund (Appropriation) * ; East India Army Pensions Deficiency * (239). Second Reading —Public Works Loans * (234); Labourers (Ireland) (No. 2) (235). Committee —Local Government (Ireland) Provisional Orders (170). Committee—Report —Parliamentary Elections (Returning Officers) * (231). Third Reading —Poor Law Unions' Officers (Ireland) (214–237); River Thames (No. 2) (218–238), debate adjourned ; Evidence by Commission * (228); Telegraph Acts Amendment * (230); Expiring Laws Continuance (229), and passed. Royal Assent —Customs and Inland Revenue (No. 2) [48 & 49 Vict. c. 51]: Submarine Telegraph Cables [48 & 49 Vict. c. 49]; Medical Relief Disqualification Removal [48 & 49 Vict. c. 46]; Bankruptcy (Office Accommodation) [48 & 49 Vict. c. 47]; Public Health (Members and Officers) [48 & 49 Vict. c. 53]; Metropolitan Board of Works (Money) [48 & 49 Vict. c. 50]; Ecclesiastical Commissioners (No. 2) [48 & 49 Vict. c. 55]; Parliamentary Elections (Corrupt Practices) [48 & 49 Vict. c. 56]; Pluralities [48 & 49 Vict. c. 54]; Lunacy Acts Amendment [48 & 49 Vict. c. 52]; Revising Barristers [48 & 49 Vict. c. 57]; Earldom of Mar Restitution [48 & 49 Vict. c. 48]; Public Health (Scotland) Provisional Order (No. 2) [48 & 49 Vict. c. cxxvii].

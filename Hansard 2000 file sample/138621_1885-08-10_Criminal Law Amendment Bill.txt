@@ -1,0 +1,9 @@
+<FileID>138621</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/10/criminal-law-amendment-bill</URL>
+<Title>Criminal Law Amendment Bill</Title>
+<DebRef>HL Deb 10 August 1885 vol 300 cc1549-57</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>14</WordCount>
+
+( The Earl Beauchamp. ) cc1549-57 (NO. 242.) CONSIDERATION OF COMMONS' AMENDMENTS. 3,180 words

@@ -1,0 +1,11 @@
+<FileID>138202</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/royal-irish-constabulary-extra-police</URL>
+<Title>Royal Irish Constabulary— Extra Police and Hut at Lisdoonvarna, Co Clare</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c508</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>88</WordCount>
+
+
+<speaker>MR. KENNY</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If the Government now propose to remove the hut and police from Kilmoon, near Lisdoonvarna, county Clare; and, if he is aware that no outrages have occurred in the district for a very considerable time, and that there is no apparent necessity for the retention of this constabulary post? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> It is contemplated to remove this hut in about a month's time, should the state of the locality continue peaceful.

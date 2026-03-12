@@ -1,0 +1,9 @@
+<FileID>137340</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/beer-adulteration-bill-bill-14</URL>
+<Title>Beer Adulteration Bill— [Bill 14]</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 cc1936-8</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>14</WordCount>
+
+( Mr. Storer, Mr. Hicks, Sir Herbert Maxwell. ) cc1936-8 SECOND READING. 736 words

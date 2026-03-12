@@ -1,0 +1,9 @@
+<FileID>137179</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/12/part-iv</URL>
+<Title>Part Iv</Title>
+<DebRef>HL Deb 12 June 1885 vol 298 cc1524-7</DebRef>
+<SittingDate>1885-06-12</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>32</WordCount>
+
+cc1524-7 ACCELERATION OF REGISTRATION IN 1885. 1,648 words c1527 THE EARL OF LINDSAY. 32 words c1527 REAL PROPERTY REGISTRATION BILL. [H.L.] 30 words c1527 PRIVATE AND PROVISIONAL ORDER CONFIRMATION BILLS. 25 words

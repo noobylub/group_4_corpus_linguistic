@@ -1,0 +1,11 @@
+<FileID>138077</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/egypt-the-soudan-the-suakin-berber</URL>
+<Title>Egypt—the Soudan—the Suakin- Berber Railway</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c54</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>232</WordCount>
+
+
+<speaker>SIR HENRY TYLER</speaker> asked the Secretary of State for War, What is the existing condition of the Railway from Suakin towards Berber; what length of line has been constructed; whether it is now guarded or maintained; and what portion is still available for traffic; and, what quantities of tons of rails and what number of sleepers were purchased or provided; what numbers were despatched from this Country or elsewhere to Suakin; what proportion of those were landed at Suakin, and are still there; what proportion have been sent away from Suakin; to what destination; and where they now are? 
+<speaker>THE SECRETARY OF STATE FOR WAR (Mr. W. H. SMITH)</speaker> No recent Report has been received on the condition of this line; but it is known that a portion has been damaged by heavy rains, and it is reported that another portion has been torn up by the Arabs. The total length constructed was 18¾ miles. This is not guarded or maintained beyond the west redoubt, about a mile and a-half from the landing place. 15,000 tons of rails and 375,000 sleepers were provided, of which all the rails and 345,000 sleepers were despatched to Suakin. Of the materials sent out, about one-sixth were landed at Suakin, and are still there. The remainder were brought back to England, and will probably be made use of at certain military stations where tramways are required.

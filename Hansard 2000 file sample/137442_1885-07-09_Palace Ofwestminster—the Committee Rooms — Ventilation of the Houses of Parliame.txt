@@ -1,0 +1,9 @@
+<FileID>137442</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/09/palace-ofwestminster-the-committee-rooms</URL>
+<Title>Palace Ofwestminster—the Committee Rooms — Ventilation of the Houses of Parliament</Title>
+<DebRef>HL Deb 09 July 1885 vol 299 cc109-11</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>4</WordCount>
+
+cc109-11 OBSERVATIONS. 627 words

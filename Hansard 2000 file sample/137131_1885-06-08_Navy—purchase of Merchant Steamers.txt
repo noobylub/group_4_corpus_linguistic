@@ -1,0 +1,11 @@
+<FileID>137131</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/navy-purchase-of-merchant-steamers</URL>
+<Title>Navy—purchase of Merchant Steamers</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 c1403</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>143</WordCount>
+
+
+<speaker>SIR JOHN HAY</speaker> asked the Secretary to the Admiralty, To state the names of the merchant steamers lately or now belonging to the mercantile marine whose services were obtained by purchase or hire since the 1st December 1884; how many of them were armed and fitted for war on the 1st June; with what guns, and how many 5-inch breech-loading guns were on board; whether any were armed with 40-pound breech-loading Armstrong guns; and, whether those guns have not been considered obsolete since 1870? 
+<speaker>SIR THOMAS BRASSEY</speaker> We do not consider that it would be for the public advantage to make a detailed statement in Parliament as to the armament of the mercantile auxiliaries recently chartered. The armament supplied is considered by the Admiralty to be efficient for the purpose. It includes a large proportion of guns of the latest patterns and improvements.

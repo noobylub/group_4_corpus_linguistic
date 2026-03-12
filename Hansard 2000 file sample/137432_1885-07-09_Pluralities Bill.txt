@@ -1,0 +1,9 @@
+<FileID>137432</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/pluralities-bill</URL>
+<Title>Pluralities Bill</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 cc238-44</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>31</WordCount>
+
+cc238-43 NOMINATION OF SELECT COMMITTEE. 1,691 words c243 DEEDS OF ARRANGEMENT REGISTRATION BILL. 60 words c244 METROPOLITAN BOARD OF WORKS (MONEY) BILL. 49 words c244 LICENSING LAWS AMENDMENT BILL. 63 words

@@ -1,0 +1,11 @@
+<FileID>138589</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/mercantile-marine-pilots-test-of-colour</URL>
+<Title>Mercantile Marine—pilots—test of Colour-Blindness</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 cc1572-3</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>155</WordCount>
+
+
+<speaker>MR. J. G. TALBOT</speaker> asked the Secretary to the Board of Trade, Whether the Board will consider the advisability of extending to pilots the obligation to pass an examination as a test of colourblindness, which is now binding upon other officers of the Mercantile Marine? 
+<speaker>THE SECRETARY TO THE BOARD (Baron HENRY DE WORMS)</speaker> I quite recognize the extreme importance of the question. The Board of Trade have no statutory powers to extend the examination in colours to pilots. The Parliamentary Paper, No. C. 4353, how- ever, shows that the Board have done their best to induce pilotage authorities to apply the colour test to pilots, and that their efforts have been attended with some success in many cases. The endeavours of the Board of Trade will not be discontinued as opportunities occur from time to time to induce all pilotage authorities to include in their examinations of pilots so obvious and necessary a test.

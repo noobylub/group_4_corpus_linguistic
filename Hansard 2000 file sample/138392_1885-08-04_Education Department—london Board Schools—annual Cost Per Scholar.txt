@@ -1,0 +1,11 @@
+<FileID>138392</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/education-department-london-board</URL>
+<Title>Education Department—london Board Schools—annual Cost Per Scholar</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1037</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>173</WordCount>
+
+
+<speaker>LORD ALGERNON PERCY</speaker> asked the Vice President of the Committee of Council, What has been the cost per scholar in the London Board Schools during the past three years, and what is the estimated cost per scholar for the coming financial year? 
+<speaker>THE VICE PRESIDENT OF THE COUNCIL (Mr. E. STANHOPE)</speaker> Sir, the Clerk of the London School Board sends me the following figures in reply to my noble Friend's Question: — The expenditure per scholar in average attendance in the London Board Schools was, for the year ending August 13, 1882, £2 16 s. 5¼ d. ;for 1883, £2 15 s. 3¾ d. ; for 1884, £2 14s. 6 d. But the estimated expenditure for the year ending March 25, 1885, is £2 17 s. 1 d., and for that ending March 25, 1886, £3 1 s . 1 d. ; showing an increase in the three years of 4s. 7¾ d. per scholar. These figures corroborate the statement made by my noble Friend in the recent debate on the Education Estimates.

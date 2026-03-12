@@ -1,0 +1,9 @@
+<FileID>138233</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/orders-of-the-day</URL>
+<Title>Orders of the Day</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc527-631</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>75</WordCount>
+
+cc527-54 SUPPLY. — REPORT. 10,182 words cc554-77 TELEGRAPH ACTS AMENDMENT BILL. 5 words cc554-77 [BILL 121.] COMMITTEE. 9,778 words cc578-90 CRIMINAL LAW AMENDMENT BILL. [Lords.]— [Bill 159.] 5 words cc578-90 COMMITTEE. 4,866 words cc590-630 PART I. 14,739 words cc630-1 UNIVERSITIES (SCOTLAND) BILL. 12 words cc630-1 [BILL 115.] SECOND BEADING. 297 words WAYS AND MEANS. c631 CONSOLIDATED FUND (APPROPRIATION) BILL. 83 words c631 PARLIAMENTARY ELECTIONS (RETURNING OFFICERS) BILL.— [Bill 99.] 7 words c631 CONSIDERATION. 44 words

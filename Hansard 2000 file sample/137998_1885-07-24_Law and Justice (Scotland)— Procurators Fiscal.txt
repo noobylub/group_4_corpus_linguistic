@@ -1,0 +1,9 @@
+<FileID>137998</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/law-and-justice-scotland-procurators</URL>
+<Title>Law and Justice (Scotland)— Procurators Fiscal</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 cc1800-7</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>16</WordCount>
+
+cc1800-5 OBSERVATIONS. 1,715 words cc1805-7 TRADE AND COMMERCE—DEPRESSION OF TRADE—THE APPRECIATION OF GOLD —OBSERVATIONS. 1,110 words

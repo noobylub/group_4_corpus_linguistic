@@ -1,0 +1,9 @@
+<FileID>137496</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c408</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>121</WordCount>
+
+NEW MEMBERS SWORN—John Eldon Gorst, esquire, for Chatham; Henry John Atkinson, esquire, for Lincoln County (Northern Division). SUPPLY— considered in Committee —ARMY- (SUPPLEMENTARY); ARMY ESTIMATES; Votes 7 to 9 Resolution [July 8] reported. PUBLIC BILLS— Ordered — First Reading — Medical Relief Disqualification Removal [232]. First Heading— Elementary Education Provisional Order Confirmation (London)*[233]. Second Reading —Bankruptcy (Office Accommodation)*[215]; Polehampton Estates*[216]; Artillery and Rifle Ranges*[217]; Crofters Holding's (Scotland) [184], debate adjourned; Metropolitan Board of Works (Money)*[224]; Labourers (Ireland) (No. 2) [68]; Public Health (Ships, &c.)*[230]; Cholera Hospitals (Ireland) [231]. Select Committee — Pluralities*[22], Mr. Morgan Lloyd and Mr. Salt added. Committee—Summary Jurisdiction (Term of Imprisonment) [180] — R.P.; Parliamentary Elections (Returning Officers) [99]—RP. Committee — Report —Post Office Sites ( re-comm.)* [193].

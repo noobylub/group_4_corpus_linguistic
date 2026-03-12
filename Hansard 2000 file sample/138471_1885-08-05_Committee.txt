@@ -1,0 +1,11 @@
+<FileID>138471</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/05/committee</URL>
+<Title>Committee</Title>
+<DebRef>HC Deb 05 August 1885 vol 300 c1251</DebRef>
+<SittingDate>1885-08-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>183</WordCount>
+
+Order for Committee read. Motion made, and Question proposed, "That Mr. Speaker do now leave the Chair." 
+<speaker>MR. MORGAN LLOYD</speaker> said, he begged to move the adjournment of the debate, on the ground that the Bill could not be fairly discussed at that period of the Session. Motion made, and Question proposed, "That the Debate be now adjourned."—( Mr. Morgan Lloyd. ) 
+<speaker>SIR HENRY JAMES</speaker> said, he was unwilling to talk the Bill out. But as the Motion for Adjournment had been made, and only one minute of time remaining, it was useless to take a division. He must, however, remind the House that when this matter was under discussion on a former occasion, it was felt that the police, in times of excitement, ought not to have political power, and the House resolved unanimously that they should not have it. On that ground alone he thought that an opportunity for discussing the Bill should be given. It being a quarter of an hour before Six of the clock, the Debate stood adjourned till Tomorrow. House adjourned at ten minutes before Six o'clock.

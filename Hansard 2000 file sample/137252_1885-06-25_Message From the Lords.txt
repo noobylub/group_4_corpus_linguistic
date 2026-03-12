@@ -1,0 +1,9 @@
+<FileID>137252</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/25/message-from-the-lords</URL>
+<Title>Message From the Lords</Title>
+<DebRef>HC Deb 25 June 1885 vol 298 c1639</DebRef>
+<SittingDate>1885-06-25</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>21</WordCount>
+
+Message from The Lords —That they do not insist on their Amendments to the Bill to which this House has disagreed.

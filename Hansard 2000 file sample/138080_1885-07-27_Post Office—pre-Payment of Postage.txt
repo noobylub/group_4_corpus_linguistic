@@ -1,0 +1,11 @@
+<FileID>138080</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/post-office-pre-payment-of-postage</URL>
+<Title>Post Office—pre-Payment of Postage</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c56</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>141</WordCount>
+
+
+<speaker>SIR JOHN KENNAWAY</speaker> asked the Postmaster General, If he will extend to post offices of towns, being the places of election and head quarters of new Parliamentary divisions, the privilege now afforded to a few large towns of posting letters unstamped but prepaid in cash where the aggregate postage of such letters is not less than five pounds? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS)</speaker> I regret that I am unable to accede to the hon. Member's proposal. The abolition many years ago of permissive prepayment in money has been attended with great advantage; and although, in the case of a few large towns, the rule has been relaxed, further relaxation is very undesirable. It has been considered whether it would be practicable to make arrangements, specially for the days of the approaching elections; but this is found not to be possible.

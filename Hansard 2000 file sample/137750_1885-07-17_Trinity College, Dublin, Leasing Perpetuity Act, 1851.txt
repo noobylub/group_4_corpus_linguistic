@@ -1,0 +1,9 @@
+<FileID>137750</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/17/trinity-college-dublin-leasing</URL>
+<Title>Trinity College, Dublin, Leasing Perpetuity Act, 1851</Title>
+<DebRef>HL Deb 17 July 1885 vol 299 c1040</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>6</WordCount>
+
+c1040 WITHDRAWAL OF NOTICE. 225 words

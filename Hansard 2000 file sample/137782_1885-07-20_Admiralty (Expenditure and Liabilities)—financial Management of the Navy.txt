@@ -1,0 +1,10 @@
+<FileID>137782</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/admiralty-expenditure-and-liabilities</URL>
+<Title>Admiralty (Expenditure and Liabilities)—financial Management of the Navy</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1200-1</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>257</WordCount>
+
+LORD HENRY LENNOX asked the First Lord of the Admiralty, Whether his attention has yet been drawn to the account of the "Financial Management of the Navy," given by Mr. H. Burdett, the financial expert and statist, which appeared in The 'Times of the 13th inst.; whether it be true that the Accountant General of the Navy has taken credit in the year 1883–4 for a surplus of armour-clad tonnage of 1,415 tons "weight of hull," whereas the Naval Estimates of 1884–5 show that, at the end of 1883–4, there was really a deficiency of armour-clad tonnage amounting to 974 tons "weight of hull" below that voted for by Parliament, and promised by the Admiralty to be built; and, whether it is true that, in the ten years ending 1879–80, 23,174 tons "weight of hull" of armour-clad less than promised by the Admiralty were built, although the money estimated for the building of this tonnage was voted by Parliament? 
+<speaker>THE FIRST LORD OF THE ADMIRALTY (Lord GEOKGE HAMILTON)</speaker> I have read the account referred to by the noble Lord, and have had some communications with Mr. Burdett upon the proposals contained in his letter. A Return between the tonnage estimated and that built will, in a few days, be laid upon the Table of the House, and it will show some discrepancies between estimates and work accomplished. But so long as the present system of estimating progress in the construction of ships is continued these discrepancies must occur, as the whole basis of the calculation is defective.

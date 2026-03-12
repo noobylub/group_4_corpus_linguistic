@@ -1,0 +1,11 @@
+<FileID>138321</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/army-medical-service</URL>
+<Title>Army Medical Service</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c821</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>151</WordCount>
+
+
+<speaker>MR. BERESFORD</speaker> asked the Secretary of State for War, Whether he would have any objection to lay upon the Table of the House the names of the Medical Officers of the Army who have returned from Foreign service within the last three years, with, the dates of their proceeding on Foreign service again; and, to state the length of Home service of each Medical Officer? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> I am not prepared to lay on the Table the Return asked for. It is obviously impossible to convey to the House, in the form of a Return, all the circumstances attending an officer's service abroad, or of the emergency that may in certain cases necessitate the curtailment of his service at home. I may add that, as Secretary of State for War, I hold myself responsible generally that the roster and system of relief are fairly worked.

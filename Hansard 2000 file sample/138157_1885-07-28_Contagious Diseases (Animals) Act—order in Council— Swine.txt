@@ -1,0 +1,11 @@
+<FileID>138157</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/contagious-diseases-animals-act-order-in</URL>
+<Title>Contagious Diseases (Animals) Act—order in Council— Swine</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 c248</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>155</WordCount>
+
+
+<speaker>MR. CLARE READ</speaker> asked the Chancellor of the Duchy of Lancaster, If he is aware of the serious loss and inconvenience which has resulted from the recent Order in Council which compels all pigs exhibited at any market or public sale to be slaughtered in three days; and, if he will amend the Order by extending the time that may elapse before slaughter to six days? 
+<speaker>THE CHANCELLOR OF THE DUCHY OF LANCASTER (Mr. CHAPLIN)</speaker> , in reply, said, that no complaints had yet been received by the Privy Council as to serious loss and inconvenience arising from the recent Order in Council. He was quite able, however, to understand, in view of the recent hot weather, that three days might be too short a time within which to insist on compulsory slaughter, and, if the Privy Council should receive any communications or Memorials to that effect, they might be prepared to extend the time.

@@ -1,0 +1,11 @@
+<FileID>137915</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/the-lighthouse-commission-professor</URL>
+<Title>The Lighthouse Commission—professor Tyndall</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1617</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>99</WordCount>
+
+
+<speaker>LORD CLAUD HAMILTON</speaker> asked the Secretary to the Board of Trade, Whether Her Majesty's Government have under their consideration, in the interests of science and of the Maritime welfare of the Country, the advisability of requesting Professor Tyndall to resume the position he recently occupied in connection with the Lighthouse Commission? 
+<speaker>THE SECRETARY TO THE BOARD (Baron HENRY DE WORMS)</speaker> In March, 1883, Professor Tyndall resigned the office of Scientific Adviser to the Trinity House, the Commissioners of Irish Lights, and the Board of Trade. He has made no application to the President to be reinstated in that position.

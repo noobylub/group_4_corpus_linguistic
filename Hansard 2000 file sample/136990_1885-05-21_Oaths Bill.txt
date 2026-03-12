@@ -1,0 +1,11 @@
+<FileID>136990</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/oaths-bill</URL>
+<Title>Oaths Bill</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1033-4</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>165</WordCount>
+
+
+<speaker>MR. HOPWOOD</speaker> asked the First Lord of the Treasury, Whether, considering the public interest attaching to the Oaths Bill , he will endeavour to afford facilities, soon after the holidays, for the Second Beading? MR. GLADSTONE The hon. and learned Gentleman will probably have anticipated my answer. In the present state of Public Business it is impossible for me to make any promise with regard to a much contested measure. Even if the Government were able at the present moment to assign a day for the purpose of taking the second reading of the Oaths Bill , they had not the slightest title to assume that the debate would not be ad- journed. The opinion of the Government on the measure remains the same; and if a reasonable opportunity should exist for pushing it forward, I shall be most anxious to do so. MR. P. A. MUNTZ If this measure does come under discussion, will the Government support it or not? 
+<speaker>MR. SPEAKER</speaker> Order, order!

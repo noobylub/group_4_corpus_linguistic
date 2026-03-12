@@ -1,0 +1,13 @@
+<FileID>138583</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/law-and-police-political-clubs</URL>
+<Title>Law and Police—political Clubs</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 cc1569-70</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>303</WordCount>
+
+
+<speaker>MR. M'LAREN</speaker> asked the Secretary of State for the Home Department, Whether he can now carry out the promise of his Predecessor in Office respecting the late riotous proceedings at the Political Club near Tottenham Court Road, and give any explanation of the action of the Police on that occasion; why no evidence was tendered by the Police against the members of the Club on the occasion when the ease against the Club was dismissed by the magistrate, and why and on what terms the Club withdrew their case against the police; and, if, considering 1he interest that is felt in this ease among Working Men's Clubs, he will institute an inquiry into the whole matter? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> , in reply, said, he did not know what the hon. and learned Member meant by the promise of his Predecessor in Office. All that he knew was that a number of men were committed for trial by Air. Newton on charges of assaulting the police; that there was also a cross-summons taken out against the police officers; that when the matter came before the Central Criminal Court, on the opening address of counsel being concluded, the Recorder suggested that no evidence should be offered on either side; and that that course was agreed upon, and the jury returned a verdict of "Not Guilty." There seemed to have been a misunderstanding at the time the alleged assaults occurred. The police thought they were attacking the Club, and they were not. 
+<speaker>MR. M'LAREN</speaker> asked whether, in order to prevent such misunderstandings in future, the right hon. Gentleman would not institute some kind of inquiry? 
+<speaker>THE SECRETARY OF STATE</speaker> believed that the Recorder was a Judge of very great experience, and that it was not necessary to institute any further inquiry.

@@ -1,0 +1,11 @@
+<FileID>137985</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/defences-of-the-empire-works-at-singapore</URL>
+<Title>Defences of the Empire—works at Singapore</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 cc1782-3</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>98</WordCount>
+
+
+<speaker>SIR JOHN HAY</speaker> asked the Surveyor General of Ordnance, If he can state whether the guns for arming the works at Singapore are nearly complete, and whether the guns and other ordnance stores for that Island will be sent out this year? 
+<speaker>THE SURVEYOR GENERAL OF ORDNANCE (Mr. GUY DAWNAY)</speaker> A. portion of the new rifled armament is already on the spot, and a further portion is on its way at the present moment to Singapore. The chief part of the remainder of the armaments is under orders for manufacture, but cannot be delivered till early nest year.

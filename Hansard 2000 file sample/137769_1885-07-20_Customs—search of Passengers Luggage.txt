@@ -1,0 +1,11 @@
+<FileID>137769</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/customs-search-of-passengers-luggage</URL>
+<Title>Customs—search of Passengers Luggage</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 c1191</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>60</WordCount>
+
+
+<speaker>MR. O'SHEA</speaker> asked the Secretary of State, Whether he will take into consideration the possibility of relaxing the present vexatious system of search of passengers' luggage on arrival from the Continent? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS),</speaker> in reply, said, he was afraid it was impossible to make any alteration in the present regulations.

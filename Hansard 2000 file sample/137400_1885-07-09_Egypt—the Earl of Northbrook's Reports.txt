@@ -1,0 +1,10 @@
+<FileID>137400</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/egypt-the-earl-of-northbrooks-reports</URL>
+<Title>Egypt—the Earl of Northbrook's Reports</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c124</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>152</WordCount>
+
+
+<speaker>MR. R. N. FOWLER (LORD MAYOR) (for Mr. ONSLOW)</speaker> asked the Under Secretary of State for Foreign Affairs, If there is a Copy of the original Report of Lord Northbrook on Egyptian affairs at present in the Foreign Office; and, if so, whether Her Majesty's Government would consent to lay this upon the Table of the House in extenso? THE UNDER SECRETARY Lord Northbrook's administrative and financial Reports were confidential documents prepared for the use of the late Government, who presented to Parliament such portions of them as they considered desirable. These portions are given in "Egypt No. 4" and in "Egypt No. 15" of this year. A copy of these Reports in extenso exists in the Foreign Office; but Her Majesty's Government have no intention of laying them on the Table. Her Majesty's present Government have no knowledge whether any political Report was made by Lord Northbrook to the late Government.

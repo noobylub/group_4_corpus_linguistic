@@ -1,0 +1,11 @@
+<FileID>136989</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/navy-naval-paymasters-and-surgeons</URL>
+<Title>Navy—naval Paymasters and Surgeons</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1033</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>186</WordCount>
+
+
+<speaker>MR. BORLASE</speaker> asked the Secretary to the Admiralty, If it is a fact that the Assistant Paymaster in H.M.S. Devastation, who has nearly sixteen years seniority in that rank, is thirty-seven years of age, and has been twenty years in Her Majesty's Service, is still junior in relative rank to the surgeon of that ship, who has been only fifteen months in the Service, and is about twenty-three years of age; and, if so, if it is the intention of the Admiralty to allow so great an anomaly to continue? 
+<speaker>SIR THOMAS BRASSEY</speaker> The figures given by the hon. Member for East Cornwall are approximately correct. The age of the surgeons of the Devastation is some three years more than stated in the Question. No material change is contemplated with reference to the relative rank of Paymasters and Surgeons. It is anticipated that the promotion of Assistant Paymasters will become more rapid in the future; but Medical Officers, who can only enter the Service on the completion of a long, expensive course of professional training, will always be in a position to claim superior relative rank.

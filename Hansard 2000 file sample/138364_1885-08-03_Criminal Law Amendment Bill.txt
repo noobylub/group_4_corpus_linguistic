@@ -1,0 +1,9 @@
+<FileID>138364</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/criminal-law-amendment-bill</URL>
+<Title>Criminal Law Amendment Bill</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc850-922</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>18</WordCount>
+
+[ Lords. ]—[BILL 159.] ( Secretary Sir R. Assheton Cross. ) cc850-922 COMMITTEE. [Progress 31st July.] 28,032 words

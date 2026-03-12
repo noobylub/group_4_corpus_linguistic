@@ -1,0 +1,11 @@
+<FileID>137084</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/04/committee-1</URL>
+<Title>Committee</Title>
+<DebRef>HC Deb 04 June 1885 vol 298 c1325</DebRef>
+<SittingDate>1885-06-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>137</WordCount>
+
+Order for Committee read. Motion made, and Question proposed, "That Mr. Speaker do now leave the Chair."—( Mr. Hibbert. ) 
+<speaker>MR. SEXTON</speaker> said, that unless the hon. Gentleman the Secretary to the Treasury (Mr. Hibbert) would consent to the postponement of this measure he would move the adjournment of the debate. 
+<speaker>MR. HIBBERT</speaker> said, the Bill had been before a Select Committee upstairs, and he was in agreement with the Irish Members with regard to it. He did not see why they should not go on with the Bill that night; but if that course was seriously objected to he would agree to a postponement. At any rate, the House might consent to his moving Mr. Speaker out of the Chair. Motion agreed to. Bill considered in Committee; Committee report Progress; to sit again upon Monday next.

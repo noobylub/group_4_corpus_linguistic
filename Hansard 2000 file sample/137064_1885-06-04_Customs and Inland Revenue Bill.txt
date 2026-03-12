@@ -1,0 +1,15 @@
+<FileID>137064</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/04/customs-and-inland-revenue-bill</URL>
+<Title>Customs and Inland Revenue Bill</Title>
+<DebRef>HC Deb 04 June 1885 vol 298 cc1184-5</DebRef>
+<SittingDate>1885-06-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>256</WordCount>
+
+
+<speaker>SIR MICHAEL HICKS-BEACH</speaker> asked Mr. Chancellor of the Exchequer, Whether it is his intention to propose any change in the provisions of the Customs and Inland Revenue Bill affecting the Duties on Wine, Spirits, and Beer? Perhaps he might also be allowed to ask when the Paper relating to the alterations in the Succession Duties about to be presented to the House would be in the hands of Members? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Mr. CHILDERS)</speaker> I intend laying the Papers to which the right hon. Ba- ronet refers upon the Table tonight in print, and I presume that they will he in the hands of hon. Members tomorrow. In reply to the other Question of the right hon. Baronet, I have to say that I hope in Committee of Ways and Means tomorrow to give the House full information as to our intentions on this subject. That Committee will be the second Order tomorrow. It is necessary that Supply should be taken first. 
+<speaker>SIR MICHAEL HICKS-BEACH</speaker> I hope the right hon. Gentleman will be able to give that information before an early hour on Saturday morning-. Could not he give it at the commencement of the Sitting tomorrow? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Mr. CHILDERS)</speaker> I will consider whether it will be possible to do so. 
+<speaker>MR. ONSLOW</speaker> Is there any reason why that information cannot be given now? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Mr. CHILDERS)</speaker> Certainly there is. It is a well-known rule that information regarding changes in taxation cannot be given in anticipation.

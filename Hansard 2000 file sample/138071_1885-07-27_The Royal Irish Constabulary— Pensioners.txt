@@ -1,0 +1,10 @@
+<FileID>138071</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/the-royal-irish-constabulary-pensioners</URL>
+<Title>The Royal Irish Constabulary— Pensioners</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc50-1</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>262</WordCount>
+
+MR. O'BRIEN (for Mr. HEALY) asked the Chief Secretary to the Lord Lieutenant of Ireland, Will he grant an inquiry into the claims of the few Constabulary pensioners in Ireland who received increased pay from 1872 till 1874, in compliance with the recommendations of the Commission which sat in 1872, but who were not granted the increased pensions also recommended by the said Commission; is he aware that several, if not all, of these men were discharged from their respective stations, and not brought before the Constabulary authorities in Dublin in the ordinary way; did men who were discharged a couple of weeks subsequently to the discharge of these men receive the increased pension; and, if no valid ground is found to exist for having deprived these men of the benefits they claim to be entitled to under the recommendations of the Commission of 1872, will the Government pay them the arrears of pension they think themselves justly entitled to? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> The claim of the Irish Constabulary pensioners who received increased pay from 1872 to 1874 to be allowed the benefit of a pension scheme which was not in force when they retired has been recently under the consideration of the Government, on a Memorial from some of their number; but we have seen no reason to alter the decision of successive Governments that the claim is quite untenable. The Inspector General informs me that in dealing with these cases there was no departure from the practice prevailing in the Force at the time.

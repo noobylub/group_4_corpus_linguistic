@@ -1,0 +1,11 @@
+<FileID>137798</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/parliament-business-of-the-house-1</URL>
+<Title>Parliament—business of the House</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 c1212</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>82</WordCount>
+
+
+<speaker>SIR ROBERT FOWLER (LORD MAYOR)</speaker> asked what Business would be taken tomorrow and on Wednesday? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> said, the Business tomorrow would be the Medical Relief Bill as the first Order, and the Criminal Law Amendment Bill as the second Order. Those Bills would practically engage the attention of the House the whole evening. Supply would be taken on Wednesday, probably the Army Estimates; and on Thursday the Customs and Inland Revenue Bill would be taken.

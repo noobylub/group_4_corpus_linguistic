@@ -1,0 +1,9 @@
+<FileID>138386</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/private-business</URL>
+<Title>Private Business</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1033-6</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>24</WordCount>
+
+SUNDERLAND CORPORATION BILL (by Order). cc1033-4 CONSIDERATION OF LORDS' AMENDMENTS. 204 words RAMSDEN ESTATE BILL [Lords] (by Order). cc1034-6 THIRD HEADING DEFERRED. 1,090 words

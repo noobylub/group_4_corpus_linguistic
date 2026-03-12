@@ -1,0 +1,11 @@
+<FileID>136857</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/central-asia-afghanistan-arrangements</URL>
+<Title>Central Asia—afghanistan—arrangements With the Ameer</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 cc712-3</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>95</WordCount>
+
+
+<speaker>MR. SALT</speaker> asked the Under Secretary of State for India, Whether it is intended to confirm by Treaty the arrangements recently concluded with the Ameer of Afghanistan; and, if so, whether he will in due time lay a Copy of the Treaty upon the Table of the House; and, if not, whether he can state in what manner the arrangenents will be made clear, permanent, and binding? 
+<speaker>MR. J. K. CROSS</speaker> In reply to the hon. Member I have to say that there has been no proposal to enter into a Treaty with the Ameer.

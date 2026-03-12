@@ -1,0 +1,20 @@
+<FileID>137459</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/parliamentary-elections-the-voting-lists</URL>
+<Title>Parliamentary Elections — The Voting Lists—omission of Recipients of Poor Law Medical Relief</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 cc282-4</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>554</WordCount>
+
+
+<speaker>MR. JESSE COLLINGS</speaker> asked the President of the Local Government Board, If he is aware that the overseers are now engaged in preparing the voting lists for Parliamentary elections, and that in many districts they are omitting the names of those who have received medical relief; and, if he will cause a memorandum to be issued from his Department directing the overseers to put the names referred to on the lists, leaving it to the revising barristers to determine as to the validity of the votes? 
+<speaker>MR. LEWIS</speaker> asked whether the duties of the overseers were not prescribed by Act of Parliament? 
+<speaker>THE PRESIDENT (Mr. A. J. BALFOUR)</speaker> My hon. Friend the Member for Derry (Mr. Lewis) has really suggested the answer to the Question. However desirable it may he, as to which I express no opinion, it is altogether impossible for the Local Government Board to do as the hon. Member for Ipswich (Mr. Jesse Collings) suggests. It is the duty of the overseers under the statute to include only in their lists persons who, under the existing law, are entitled to be registered as voters; and the Local Government Board have no authority whatever to give directions to the overseers to prepare the lists otherwise than in accordance with the statutory requirements. 
+<speaker>MR. JESSE COLLINGS</speaker> asked whether the right hon. Gentleman could not call the attention of the overseers to the subject by way of recommendation, instead of a legal requirement? 
+<speaker>THE PRESIDENT</speaker> It is not the practice of the Local Government Board to recommend officers to perform acts contrary to statute. 
+<speaker>MR. JESSE COLLINGS</speaker> asked whether the right hon. Gentleman was aware that, in many cases, the overseers were making out the lists with these voters on; and, whether, seeing that there was a difference of opinion between the officers on the subject, he would alter his opinion as to what was being done? 
+<speaker>THE PRESIDENT</speaker> No, Sir; I do not think I can. Subsequently, 
+<speaker>MR. JESSE COLLINGS</speaker> asked Mr. Chancellor of the Exchequer, Whether, seeing that the voters in question would be left off the list, and that the 20th of the month would be the last day for making claims, and that the Parliamentary Elections (Medical Belief) Bill was down for Tuesday, the 14th, leaving only six days to get through with it, he would give all possible facilities for the consideration of the Bill on that day? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> Sir, I am not at all sure that the matter is quite so pressing as the hon. Member has stated; but I know that it is pressing, and we shall take care to deal with it as soon as we can, in order to avoid every possible inconvenience arising out of the fact stated by the hon. Member in his previous Question to my right hon. Friend the President of the Local Government Board. 
+<speaker>MR. JESSE COLLINGS</speaker> said, that this was a question of hours, and he should like to ask if the right hon. Gentleman would give a positive promise with regard to proceeding with the Bill on Tuesday? He would repeat the Question on Monday, if the right hon. Gentleman could not answer it now. 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I shall be quite prepared to answer the Question on Monday.

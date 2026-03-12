@@ -1,0 +1,14 @@
+<FileID>137678</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/crime-and-outrage-ireland-murder-of-mrs</URL>
+<Title>Crime and Outrage (Ireland)—murder of Mrs Nolan</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc920-1</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>350</WordCount>
+
+
+<speaker>MR. W. J. CORBET</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If he can state what was the verdict of the coroner's jury in the case of the woman Nolan, who was killed by her husband shortly after his discharge from prison on ticket of leave; and, whether he has any objection to lay upon the Table Copies of any Medical Certificates or other documents bearing on the prisoner's mental condition prior to his discharge? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> The Coroner's jury found that Mrs. Nolan came to her death from wounds inflicted by her husband, and they added their opinion that the man was insane when he inflicted the wounds, and that ho was "let out on ticket of leave a real lunatic." The medical officers of Maryborough Prison, one of whom is Visiting Physician to the District Lunatic Asylum, have reported thereon that Nolan was received into that prison in February, 1884, being then reported from Mountjoy as weak of mind, and suspected of a suicidal tendency; that during his detention in Maryborough he showed no tendency, disposition, or desire to suicide or towards any other offence; that he was obedient, and conformed to prison regulations; that he showed great religious zeal amounting to eccentricity; and that his manner was docile and submissive. The only Medical Report made to Government in the case was the one which I quoted in my previous reply to the hon. Member. 
+<speaker>MR. ARTHUR O'CONNOR</speaker> Might I ask the right hon. Gentleman whether there is not, as a matter of fact, a greater development of lunacy in Maryborough than in any other gaol in Ireland; and, if the Government will make any representations to the officials as to the necessity for lessening the severity of the treatment of prisoners confined there? [No reply.] 
+<speaker>MR. SEXTON</speaker> I beg to give Notice that I shall call attention to this really deplorable case upon the proper Vote. 
+<speaker>THE CHIEF SECRETARY FOR IRELAND</speaker> said, that he would take care to look into the matter before the Estimates were discussed.

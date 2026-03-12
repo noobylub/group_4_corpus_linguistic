@@ -1,0 +1,9 @@
+<FileID>137332</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/motion</URL>
+<Title>Motion</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 cc1834-901</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>9</WordCount>
+
+cc1834-901 PARLIAMENT—BUSINESS OF THE HOUSE. — RESOLUTION. 27,198 words

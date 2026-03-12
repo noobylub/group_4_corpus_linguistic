@@ -1,0 +1,11 @@
+<FileID>138199</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/law-and-police-scotland-illegal</URL>
+<Title>Law and Police (Scotland)— Illegal Impounding of Children</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc505-6</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>308</WordCount>
+
+
+<speaker>MR. D. J. JENKINS (for Mr. FRASER-MACKINTOSH)</speaker> asked the Secretary of State for the Home Department, Whether his attention has been called to the circumstance of a party of men, including several estate officials, violently driving thirty-three head of cattle, with fifteen children, many of tender age, who were tending them off a grazing near South Shawbost, in the Island of Lewes, on the 21st April 1885, into a pound constructed of stone walls 0 to 8 feet high, belonging to the tenant of Dalbeg; whether the children were so impounded for several hours, and when released by their relatives forcing the gate, found in a state of alarm and great exhaustion; and, whether any investigation was made by the Procurator Fiscal; and, if not, whether he will cause inquiry now to be made? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS),</speaker> in reply, said, he had received a telegram from the Procurator Fiscal at Stornoway in reference to this Question. It was to the effect that some Shawbost crofters last winter demolished a fence separating their grazing from a tacksman's farm, and, contrary to the tacksman's remonstrances, placed their cattle upon ground which had been in his occupancy for many years. In April last, 33 head of cattle were penfolded, but the children who were herding the cattle were not interfered with. The children followed the cattle of their own accord. At night the owner of the cattle and others forcibly released the cattle from the pen-fold. The Procurator Fiscal went onto say that the case was reported by him to the Crown Counsel, who directed that no further proceedings should be taken. The tacksman sued the crofters in the Small-Debt Court, and obtained decrees for trespass money and damage to grazing; but no complaint was ever made to the Procurator Fiscal on behalf of the children.

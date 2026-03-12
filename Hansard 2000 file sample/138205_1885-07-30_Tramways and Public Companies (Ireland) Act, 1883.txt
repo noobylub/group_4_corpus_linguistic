@@ -1,0 +1,11 @@
+<FileID>138205</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/tramways-and-public-companies-ireland</URL>
+<Title>Tramways and Public Companies (Ireland) Act, 1883</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc509-10</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>199</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If he will inform the House whether, in the Orders in Council confirming the presentments of Grand Juries for baronial guarantees under "The Tramways and Public Companies (Ireland) Act , lfc83," the provisions required by the 10th Clause (subsection;3) of the Act, with respect to the inspection of the works, have been inserted; if he will state how many Tramways and light Railways are in course of construction under the Act referred to; and, if any inspections have so far been made; and, if so, whether the reports of the inspectors will be submitted to Parliament? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The Rules of the Privy Council under the Tramways Act make due provision for the inspection of the works by the County Surveyor, a copy of whose Report must be sent to the Board of Works. The Board inform me that they have not yet re ceived any such Reports, and until they do, or until they have before them the accounts which the Act requires them to be furnished with, they have no means of knowing what lines are in course of construction.

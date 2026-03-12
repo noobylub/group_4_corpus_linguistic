@@ -1,0 +1,11 @@
+<FileID>137063</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/04/national-debt-bill</URL>
+<Title>National Debt Bill</Title>
+<DebRef>HC Deb 04 June 1885 vol 298 c1184</DebRef>
+<SittingDate>1885-06-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>182</WordCount>
+
+
+<speaker>MR. W. H. SMITH</speaker> asked Mr. Chancellor of the Exchequer, If it is intended, under the operation of the National Debt Bill now before the House, to postpone until 1905 the payment of any portion of the £4,672,938 to be obtained by the suspension of the Sinking Funds under the Acts of 1875 and 1883, which sum is to be applied to meet a portion of the deficiency in the Budget 1885–6? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Mr. CHILDERS)</speaker> I think the Question of the right hon. Gentleman does not exactly describe the condition under which the Annuities created by the Act of 1883 are payable. The Annuities on which £4,672,938 would, under the law as it stands, have been repayable in respect of capital during the current financial year are calculated to expire at different dates. If the Bill before Parliament becomes law, and the payment of that sum is suspended in the current financial year, the duration of each Annuity will be prolonged for one year, and an Annuity now timed to expire in 1903–4 will not expire until 1904–5.

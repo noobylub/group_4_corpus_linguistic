@@ -1,0 +1,9 @@
+<FileID>137266</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/03/preamble</URL>
+<Title>Preamble</Title>
+<DebRef>HL Deb 03 July 1885 vol 298 c1642</DebRef>
+<SittingDate>1885-07-03</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>53</WordCount>
+
+Their Lordships met for the despatch of Judicial Business only. House adjourned at Four o'clock, to Monday next, a quarter before Eleven o'clock. MINISTRY OF THE RIGHT HON. W. E. GLADSTONE, AS IT STOOD AT THEIR RESIGNATION OF OFFICE. MINISTRY OF THE MOST NOBLE MARQUESS OF SALISBURY, AS FORMED ON ACCEPTANCE OF OFFICE.

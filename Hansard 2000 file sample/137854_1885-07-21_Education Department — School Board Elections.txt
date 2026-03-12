@@ -1,0 +1,11 @@
+<FileID>137854</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/education-department-school-board</URL>
+<Title>Education Department — School Board Elections</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 c1406</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>241</WordCount>
+
+
+<speaker>MR. MUNDELLA</speaker> asked the Vice President of the Committee of Council, What course it was proposed to take in respect to the School Board Elections that fell due in the month of November? 
+<speaker>THE VICE PRESIDENT OF THE COUNCIL (Mr. E. STANHOPE)</speaker> The right hon. Gentleman is aware that the case of school board elections in London and in the country is materially different. In the country generally, if a school board election would naturally fall in November, it is in the power of the board, with the consent of the Education Department, to anticipate the ordinary day of election by not more than 50 days. In the case of London, the margin of discretion is much smaller, as the elections must be held in the month of November. I have accordingly communicated with the Chairman of the London School Board, and have inquired of him if any inconvenience is likely to result this year. He informs me that, having consulted many of his colleagues, he is of opinion that no difficulty will arise, and that the London School Board elections can be held early in November, it being understood that the Parliamentary cannot take place at the earliest till the third week in November. In these circumstances, I have not thought it my duty to propose any amendment of the law on this subject, nor are there any facts at present before me which appear to render that course necessary.

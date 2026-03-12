@@ -1,0 +1,9 @@
+<FileID>137259</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/26/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 26 June 1885 vol 298 c1640</DebRef>
+<SittingDate>1885-06-26</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>72</WordCount>
+
+PUBLIC BILLS— First Reading — Drainage and Improvement of Lands (Ireland) Provisional Order (No. 2)* (155); Tramways Provisional Orders (No. 2)* (156); Tramways Provisional Orders (No. 3) * (157). Second Reading —Local Government Provisional Orders (No. 5) * [152]; Local Government Provisional Orders (No. 6) * (153). Select Committee —Report—Pier and Harbour Provisional Orders * (114). The Earl of SELBORNE—Chosen Speaker in the absence of the Lord Chancellor and the Lords Commissioners.

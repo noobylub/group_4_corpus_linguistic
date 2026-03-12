@@ -1,0 +1,11 @@
+<FileID>138409</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/the-corrupt-practices-act-the-suffolk</URL>
+<Title>The Corrupt Practices Act—the Suffolk Conservative Association</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1046-7</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>244</WordCount>
+
+
+<speaker>MR. JESSE COLLINGS</speaker> asked Mr. Attorney General, Whether his attention has been called to a Circular issued and signed by the Marquis of Bristol as Chairman of the Executive Committee of the Stowmarket Division of the Suffolk Conservative Association, in which Circular the following paragraph appears:— As under the Corrupt Practices Act the candidate is allowed to spend only a limited sum of money upon election expenses, the Association will be put to some expense in holding meetings, publishing pamphlets, &c. with a view to assist the return of a Conservative to represent the Division in Parliament, this Association will also require funds for its own organization; and, whether the expenditure by an Association "with a view to assist the return of a candidate," beyond the sum authorised by the Corrupt Practices Act , is legal within the provisions of that Act? 
+<speaker>THE ATTORNEY GENERAL (Sir RICHARD WEBSTER)</speaker> Sir, it is impossible to answer the Question of the hon. Member in the terms in which it is framed. The provisions of the Corrupt Practices Act do not interfere with bonâ fide organizations or expenses bonâ fide incurred by political associations for the promotion of particular political views in any constituency without reference to the election of any particular individual. Whether or not the expenditure of an association is illegal is a question of fact, and can only be finally determined by the Election Court after the investigation of all the circumstances of the case.

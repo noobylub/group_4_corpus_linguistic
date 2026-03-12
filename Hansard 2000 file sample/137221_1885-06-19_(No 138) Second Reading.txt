@@ -1,0 +1,10 @@
+<FileID>137221</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/19/no-138-second-reading</URL>
+<Title>(No 138) Second Reading</Title>
+<DebRef>HL Deb 19 June 1885 vol 298 cc1593-4</DebRef>
+<SittingDate>1885-06-19</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>126</WordCount>
+
+Order of the Day for the Second Reading read. 
+<speaker>EARL GRANVILLE</speaker> After the reception which your Lordships gave to the observations made on this subject the other day by the noble Marquess and by myself, it does not require any words of mine to commend this Bill to your Lordships, and I therefore move the second reading of the Bill. I think your Lordships will be of opinion that this is a Bill with regard to which the Standing Orders should be suspended. Moved, "That the Bill be now read 2 a "—( The Earl Granville. ) Motion agreed to; Bill read 2 a accordingly; Committee negatived: Then Standing Order No. XXXV. considered (according to order), and dispensed with: Bill read 3 a , and passed.

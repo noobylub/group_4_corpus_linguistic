@@ -1,0 +1,11 @@
+<FileID>138435</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/egypt-the-military-expedition-to-the</URL>
+<Title>Egypt—the Military Expedition to the Soudan—lord Wolseley's Report</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1064</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>91</WordCount>
+
+
+<speaker>MR. M'COAN</speaker> asked the Secretary of State for War, Whether Lord Wolseley has made any Report on the late Expedition to the Soudan; and, if so, whether it will be laid before Parliament before the end of this Session? 
+<speaker>THE SECRETARY OR STATE (Mr. W. H. SMITH)</speaker> Lord Wolseley has reported on his operations from time to time, and his Reports have been laid before Parliament. There are a few Papers subsequent in date to those in the collection, called Egypt No. 13, which I will take steps to have presented.

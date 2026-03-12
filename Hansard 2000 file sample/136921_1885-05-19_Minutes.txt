@@ -1,0 +1,9 @@
+<FileID>136921</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/19/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 19 May 1885 vol 298 c879</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>89</WordCount>
+
+PUBLIC BILLS— First Reading —Local Government Provisional Orders (Poor Law) (No. 4) ٭ (123). Second Reading —Arbitration (85); Local Authorities (Expenses of Conferences) ٭ (118). Second Reading — Referred to Select Committee —Earldom of Mar institution (107). Committee —Lunacy Acts Amendment (60) Registration (Occupation Voters) (111–120) Registration of Voters (Scotland) (112–121) Registration of Voters (Ireland) (116–122). Committee — Report —ConsolidatedFund(No. 3) ٭ Third Reading —Local Government (Ireland) Provisional Orders (Labourers Act) (No. 3) ٭ (84); Barristers Admission (Ireland) ٭ (100); Metropolitan Streets Act (1867) Extension ٭ (101), and passed.

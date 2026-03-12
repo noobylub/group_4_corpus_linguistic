@@ -1,0 +1,11 @@
+<FileID>137914</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/sea-fisheries-ireland-the-boyle-and-bann</URL>
+<Title>Sea Fisheries (Ireland)—the Boyle and Bann</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1617</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>192</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, "Whether it is a fact that the steamer employed by the Conservators of Fisheries, Londonderry district, and the lessees under the Irish Society of the Salmon Fisheries of the Boyle and Bann, is still allowed to go among the fishing fleet at night in the open sea off the county of Londonderry, and without lights, notwithstanding the late inquiry held by the Inspectors of Irish Fisheries, and that a few nights ago she ran through the nets belonging to poor fishermen who were legally fishing in the open sea at the time; if the coastguard made any report on the subject; and, what steps will be taken to prevent this steamer continuing the acts of injury which were sworn to at the inquiry referred to? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> A Report in this matter has been made by the Coastguard, and the Inspectors of Fisheries are at present investigating it. They inform me that in some particulars the allegations are conflicting. I will ask the Inspectors to give me a Report when they have finished the inquiries.

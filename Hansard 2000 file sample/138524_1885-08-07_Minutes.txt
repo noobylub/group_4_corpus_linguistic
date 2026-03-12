@@ -1,0 +1,9 @@
+<FileID>138524</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 c1446</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>52</WordCount>
+
+RESOLUTION [August 6] reported —East India (Revenue Accounts). PUBLIC BILLS— Committee—Report—Third Reading —County Officers and Courts (Ireland) (Pensions) [112]; Registration Appeals (Ireland) [259], and passed. Considered as amended—Third Reading —Criminal Law Amendment [257]; Sea Fisheries (Soot-land) Amendment [258], and passed. Withdrawn —Tramways Order in Council (Ireland) * [243]; Turbary (Ireland) * [146],

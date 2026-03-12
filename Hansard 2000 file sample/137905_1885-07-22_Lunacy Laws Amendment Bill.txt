@@ -1,0 +1,9 @@
+<FileID>137905</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/22/lunacy-laws-amendment-bill</URL>
+<Title>Lunacy Laws Amendment Bill</Title>
+<DebRef>HC Deb 22 July 1885 vol 299 c1594</DebRef>
+<SittingDate>1885-07-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>43</WordCount>
+
+On Motion of Mr. ARTHUR BALFOUR, Bill to amend the Law relating to Lunatics, ordered to be brought in by Mr. ARTHUR BALFOUR and Mr. STUART-WORTLEY. Bill presented, and read the first time. [Bill 244.] House adjourned at ten minutes before Six o'clock.

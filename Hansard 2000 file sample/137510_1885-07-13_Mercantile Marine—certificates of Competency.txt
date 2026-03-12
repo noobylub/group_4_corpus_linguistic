@@ -1,0 +1,11 @@
+<FileID>137510</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/mercantile-marine-certificates-of</URL>
+<Title>Mercantile Marine—certificates of Competency</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc417-8</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>276</WordCount>
+
+
+<speaker>MR. GOURLEY</speaker> asked the Secretary to the Board of Trade, If he will be good enough to inform the House the number of candidates who annually present themselves for examination as officers and engineers for service in the Mercantile Marine, stating the average number failing to pass on their first examination; and, if it is correct that candidates failing on first presenting themselves must, on coming up for reexamination, pay the full amount of fees; if so, whether he will, as in all other public examinations, cause a moiety of the fees to be remitted? 
+<speaker>THE SECRETARY (Baron HENRY DE WORMS)</speaker> I can at once give the hon. Member the figures which will answer the first part of his Question for one year. If he desires information for other years, I shall be glad to give it to him hereafter. The numbers of applicants for masters' and mates' and engineers' certificates of competency, during the year ended 31st May, 1885, including repeated applications by the same persons, were as follows: — Masters and mates, 4,085; engineers, 1,783. The actual numbers of persons who failed to pass on their first application were 2,241 masters and mates, and 390 engineers. It is the fact that candidates failing on first presenting themselves must, on coming up for reexamination, pay the full amount of fees. As regards the last part of the Question, the fact is that the same rule applies in all the examinations held by the Civil Service Commissioners— namely, that no part of the fee is returned to applicants who fail. The Rule acted on by the Board of Trade was made as long ago as 1877.

@@ -1,0 +1,12 @@
+<FileID>138705</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/12/consideration-of-lords-amendment</URL>
+<Title>Consideration of Lords' Amendment</Title>
+<DebRef>HC Deb 12 August 1885 vol 300 cc1913-4</DebRef>
+<SittingDate>1885-08-12</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>355</WordCount>
+
+Lords' Amendment considered. 
+<speaker>THE ATTORNEY GENERAL FOR IRELAND (Mr. HOLMES),</speaker> in moving that the House do agree with the Lords in the said Amendment, said, that he must confess he could not see why it was made, for the effect would be the same, whether it were in the Bill or not. The Amendment provided that any rights which the officers had should not be affected by the Bill, and they would not be affected in any case. Motion made, and Question proposed, "That this House doth agree with the Lords in the said Amendment."—( Mr. Attorney General for Ireland. ) 
+<speaker>MR. SEXTON</speaker> said, he thought the Amendment was ill-considered, ill-drawn, and absurd. The Bill was merely a Pension Bill; yet this Amendment declared that, notwithstanding anything contained in the Act, the right and title of officers to salary should not be affected. Had the right hon. Gentleman noticed that word "salary?" The Irish Medical Officers' Association, which said nothing while the Bill was passing through the House, when the Bill had gone up to the Lords went furtively to the noble Marquess in charge of it, and induced him to introduce this clause. He had a communication from the Poor Law officers stating that the Medical Officers' Association had no authority whatever to proceed in this matter. 
+<speaker>MR. HEALY</speaker> said, his hon. Friend (Mr. Sexton) had laid his finger on an evil practice, and that was the system under which they were tied in discussing Lords' Amendments by the fact of the Speaker being in the Chair. If this went on much longer, it would be necessary, in the threatened New Rules, to provide that the Lords' Amendments should be considered in a Committee and a Report stage. It was very unfair that when Members of that House agreed to a certain course, and the Lords put in an Amendment, that they, the Commons, should be throttled by having to discuss the Lords' Amendments with the Speaker in the Chair. Motion, by leave, withdrawn. On the Motion of Mr. SEXTON, the said Lords' Amendment amended by leaving out the word "salary," and agreed to.

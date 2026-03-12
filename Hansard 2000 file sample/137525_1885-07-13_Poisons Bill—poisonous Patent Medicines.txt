@@ -1,0 +1,11 @@
+<FileID>137525</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/poisons-bill-poisonous-patent-medicines</URL>
+<Title>Poisons Bill—poisonous Patent Medicines</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c428</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>184</WordCount>
+
+
+<speaker>MR. WARTON</speaker> asked the Financial Secretary to the Treasury, Whether the Government contemplate taking any steps with respect to poisonous patent medicines; and, whether it would be possible to issue such a stamp to be affixed to patent medicines as would avoid the appearance of giving a Government guarantee of the goodness or harmlessness of such medicines? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> In reply to the first part of the Question, I have to say that the Government do not intend to proceed with the Bill introduced in "another place" by their Predecessors. As regards the second part, the stamp will be altered so as to make it plain that there is no Government guarantee of the medicine. The stamps will in future contain the words "This stamp implies no Government guarantee." Specimens were submitted to and approved by my Predecessor, and the engraver to the Inland Revenue is now engaged upon the preparation of the requisite plates. It is expected that the new plates will be completed and the present stock of old stamps exhaused within two months from now.

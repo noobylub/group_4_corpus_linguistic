@@ -1,0 +1,10 @@
+<FileID>138171</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/committee</URL>
+<Title>Committee</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 c382</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>59</WordCount>
+
+Order for Committee read. 
+<speaker>MR. SEXTON</speaker> begged to move the adjournment of the debate. He had an Amendment on the Paper against the Bill, and he thought it would not be convenient to enter into it at so late an hour. Motion made, and Question, "That the Debate be now adjourned,"—(Mr. Sexton,)—put, and agreed to. Committee deferred till Tomorrow.

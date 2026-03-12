@@ -1,0 +1,9 @@
+<FileID>138294</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/criminal-law-amendment-bill-lords-bill</URL>
+<Title>Criminal Law Amendment Bill [Lords]— [Bill 159]</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 cc686-809</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>24</WordCount>
+
+( Secretary Sir R. Assheton Cross. ) cc686-794 COMMITTEE. [Progress 30th July.] 41,548 words cc794-808 PART II. 5,414 words cc808-9 PART III. 250 words

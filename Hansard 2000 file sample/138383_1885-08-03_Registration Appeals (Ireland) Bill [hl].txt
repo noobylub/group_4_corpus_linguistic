@@ -1,0 +1,9 @@
+<FileID>138383</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/03/registration-appeals-ireland-bill-hl</URL>
+<Title>Registration Appeals (Ireland) Bill [hl]</Title>
+<DebRef>HL Deb 03 August 1885 vol 300 c815</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>63</WordCount>
+
+A Bill to accelerate the hearing of appeals under the Acts relating to the registration of voters in Ireland in the year one thousand eight hundred and eighty-five—Was presented by The Earl BEAUCHAMP; read 1 a ; to be printed; to be read 2 a Tomorrow; and Standing Order No. XXXV. to be considered in order to its being dispensed with. (No. 226.)

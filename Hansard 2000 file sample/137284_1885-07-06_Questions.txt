@@ -1,0 +1,9 @@
+<FileID>137284</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/06/questions</URL>
+<Title>Questions</Title>
+<DebRef>HC Deb 06 July 1885 vol 298 cc1702-6</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>33</WordCount>
+
+cc1702-4 LORD RANDOLPH CHURCHILL AND THE KHEDIVE. 571 words c1704 RUSSIA—OFFENSIVE SPEECHES. 212 words cc1704-5 LABOURERS' (IRELAND) ACT. 84 words c1705 THE LORD PRIVY SEAL. 238 words cc1705-6 PARLIAMENT—DISSOLUTION OF PARLIAMENT. 255 words

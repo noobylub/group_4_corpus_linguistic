@@ -1,0 +1,9 @@
+<FileID>138680</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/11/literature-science-and-art-the-national</URL>
+<Title>Literature, Science, and Art— The National Gallery— Evening Opening</Title>
+<DebRef>HL Deb 11 August 1885 vol 300 cc1718-20</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc1718-20 QUESTION. OBSERVATIONS. 617 words

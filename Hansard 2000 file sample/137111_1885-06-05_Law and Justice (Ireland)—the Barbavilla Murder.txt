@@ -1,0 +1,9 @@
+<FileID>137111</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/05/law-and-justice-ireland-the-barbavilla-1</URL>
+<Title>Law and Justice (Ireland)—the Barbavilla Murder</Title>
+<DebRef>HC Deb 05 June 1885 vol 298 cc1346-59</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>4</WordCount>
+
+cc1346-59 OBSERVATIONS. 5,461 words

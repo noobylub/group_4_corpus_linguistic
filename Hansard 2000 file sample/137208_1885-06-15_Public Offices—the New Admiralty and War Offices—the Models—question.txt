@@ -1,0 +1,12 @@
+<FileID>137208</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/15/public-offices-the-new-admiralty-and-war</URL>
+<Title>Public Offices—the New Admiralty and War Offices—the Models—question</Title>
+<DebRef>HL Deb 15 June 1885 vol 298 c1535</DebRef>
+<SittingDate>1885-06-15</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>182</WordCount>
+
+
+<speaker>THE EARL OF WEMYSS</speaker> Before the Motion for the Adjournment is put, I should like to ask a Question of my noble Friend the First Commissioner of Works (the Earl of Rosebery), if I may so call him. It relates to the models of the new War Office. 
+<speaker>EARL GRANVILLE,</speaker> interposing: In accordance with the agreement on both sides of the House, I must object to entering into any question whatever under the present circumstances. Nothing but necessary Business can be taken before the Motion is put. 
+<speaker>THE EARL OP WEMYSS</speaker> All I want is that my noble Friend shall make some arrangement by which persons interested may be able to see the model of the new War Office which is to be exhibited this week. THE EARL OP ROSEBERY My noble Friend is aware that, at the present moment, I am neither fish, flesh, nor fowl, nor any other product known in natural history; and under the circumstances I must decline to enter into any arrangement, or to agree to the making of any arrangement, on this subject. Motion agreed to.

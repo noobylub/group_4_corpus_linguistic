@@ -1,0 +1,9 @@
+<FileID>137799</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/supply-grants-in-aid-of-local-taxation</URL>
+<Title>Supply—grants in Aid of Local Taxation</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1212-4</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>12</WordCount>
+
+cc1212-3 PERSONAL EXPLANATION. 243 words cc1213-4 RETIREMENT OF THE SERJEANT-AT-ARMS. 181 words

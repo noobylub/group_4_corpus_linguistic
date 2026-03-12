@@ -1,0 +1,11 @@
+<FileID>137873</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/motion-for-leave-first-reading-1</URL>
+<Title>Motion for Leave First Reading</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 cc1513-4</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>149</WordCount>
+
+Motion made, and Question proposed, That leave be given to bring in a Bill to amend 'The Patents, Designs, and Trademarks Act, 1883 .' "—( Sir Farrer Herschell. ) 
+<speaker>MR. T. P. O'CONNOR</speaker> said, he assumed the hon. and learned Gentleman was bringing in the Bill for the purpose of making an alteration in the law conducted through the House by the right hon. Gentleman the late President of the Board of Trade (Mr. Chamberlain). 
+<speaker>SIR FARRER HERSCHELL</speaker> said, the Amendments proposed in the Bill were small, though important. They were Amendments which the experience of the working of the Patent Laws had shown to be desirable and expedient. He did not suppose the hon. Gentleman wished him to explain them now. Question put, and agreed to. Bill ordered to be brought in by Sir FARRER HERSCHELL and Mr. HOLMS. Bill presented, and read the first time. [Bill 240.]

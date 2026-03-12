@@ -1,0 +1,10 @@
+<FileID>138073</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/law-and-police-the-pall-mall-gazette</URL>
+<Title>Law and Police—the Pall Mall Gazette—publication of Offensive Articles</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc51-2</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>145</WordCount>
+
+MR. P. A. MUNTZ asked the Secretary of State for the Home Department, Whether he has taken the opinion of the Law Officers of the Crown as to whether a publication called The Pall Mall Gazette has been guilty of a violation of the Law by publishing the obscene matter which has recently appeared in its columns; and, if their opinion is that an offence has been committed, why the Government have not instituted a prosecution against that journal? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS)</speaker> On the 14th of July I stated that, after consultation with the highest legal advice at their disposal, the Government had come to the conclusion that it would not be desirable to take proceedings against the editor of the paper named. I have never swerved from that conclusion, and the matter remains as before.

@@ -1,0 +1,12 @@
+<FileID>136968</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/sale-of-food-and-drugs-act-spurious</URL>
+<Title>Sale of Food and Drugs Act—spurious Butters</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1018-9</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>205</WordCount>
+
+
+<speaker>MR. R. H. PAGET</speaker> asked the President of the Board of Trade, Whether, in view of the Report recently presented to the House respecting legislation in Foreign Countries on the subject of spurious butters, he will be good enough to state what action, if any, Her Majesty's Government propose to take to insure these spurious articles of food being imported, and sold under their proper names? 
+<speaker>MR. CHAMBERLAIN</speaker> The importers of butterine are now required to declare the quantities and values of such imports; and the monthly trade and navigation accounts show the quantity and value of butterine imported and the country from which it is brought. As regards the sale of butter substitutes, I believe that the Sale of Food and Drugs Act gives the purchaser protection; and that any person selling any of these substitutes as butter would render himself liable to the penalties prescribed by that Act. In reply to a further Question by Mr. R. H. PAGET, 
+<speaker>MR. CHAMBERLAIN</speaker> said, the Board of Trade had really nothing to do with the question of adulteration, which came rather within the Department of the Local Government Board; but the Act threw upon the purchaser himself the responsibility of seeing that he was protected.

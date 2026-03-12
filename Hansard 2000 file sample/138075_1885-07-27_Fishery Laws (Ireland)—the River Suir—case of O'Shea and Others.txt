@@ -1,0 +1,11 @@
+<FileID>138075</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/fishery-laws-ireland-the-river-suir-case</URL>
+<Title>Fishery Laws (Ireland)—the River Suir—case of O'Shea and Others</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c53</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>183</WordCount>
+
+
+<speaker>MR. R. POWER (for Mr. LEAMY)</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, If it is the fact that the Lord Lieutenant lately refused to remit or reduce the fines imposed on a man named O'Shea and others for an offence against the Fishery Laws in the River Suir, although the magistrates who tried the case and the Commissioners of Fisheries recommended the remission of the fines, on the ground of the good characters and the poverty of the persons fined; and, if the Lord Lieutenant consulted the Inspectors of the Fisheries on the matter; if not, will he consult them, and will he reconsider the Memorial praying for a remission of the fines? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HAET DYKE)</speaker> O'Shea and three other men were fined £3 collectively for an offence against the Fishery Laws. They appealed to the Lord Lieutenant, and His Excellency consulted the Fishery Inspectors, who recommended that the penalty should not be reduced. The fine having been paid and allocated, His Excellency has no power to make any order in the matter.

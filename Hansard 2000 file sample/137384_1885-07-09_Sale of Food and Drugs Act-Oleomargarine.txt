@@ -1,0 +1,10 @@
+<FileID>137384</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/sale-of-food-and-drugs-act-oleomargarine</URL>
+<Title>Sale of Food and Drugs Act-Oleomargarine</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 cc114-5</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>174</WordCount>
+
+
+<speaker>MR. DUCKHAM</speaker> asked the President of the Local Government Board, Whether he is aware that the refuse fat of animals formerly sent to the tallow chandler is now used in the manufacture of oleomargarine; that much of the fat so used is often in a very putrid state; that chemicals of a very deleterious nature are used to deodorise it; and, whether he will cause such a supervision of the manufactories in the United Kingdom as shall guard against so revolting a practice? THE PRESIDENT The Board have no information as to any such manufacture as that described in England. But if the hon. Gentleman can inform me where any such manufacture is carried on in England withputrid materials and chemicals of a deleterious nature, we shall be prepared to bring the matter under the attention of the Local Authority. Of course, if butterine is sold as butter, it is an offence under the Sale of Food and Drugs Act , and in many instances convictions have been obtained in respect of that offence.

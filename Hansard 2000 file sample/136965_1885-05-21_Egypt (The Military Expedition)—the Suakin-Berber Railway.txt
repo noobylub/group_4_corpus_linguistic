@@ -1,0 +1,10 @@
+<FileID>136965</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/egypt-the-military-expedition-the-suakin</URL>
+<Title>Egypt (The Military Expedition)—the Suakin-Berber Railway</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1016</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>223</WordCount>
+
+
+<speaker>SIR GEORGE CAMPBELL</speaker> asked the Secretary of State for War, If there is any truth in the statements of the Suakin Correspondent of The Times of 15th May, alleging failure and friction in the making of the Railway there through Messrs. Lucas and Aird; and, how much of the amount already expended on or due for that work is to be paid to Messrs. Lucas and Aird for their own behoof (apart from the payments to men engaged through them), viz. how much for Railway plant bought or hired from Messrs. Lucas and Aird, and how much for other services rendered by that firm? THE MARQUESS OF HARTINGTON There have been no Reports received showing failure or friction in the working of the arrangement with Messrs. Lucas and Aird, though at the commencement of the undertaking some unexpected difficulties somewhat retarded its progress. The accounts are not yet sufficiently advanced to enable me to state the sums paid or due to the firm "for their own behoof;" but I may remind the hon. Member that the conditions of remuneration are clearly stated in the agreement with Messrs. Lucas and Aird, which has been laid before Parliament. In reply to Mr. CREYKE, THE MARQUESS OF HARTINGTON said, he believed all the conditions between the War Department and the contractors were stated in the Papers.

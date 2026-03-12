@@ -1,0 +1,13 @@
+<FileID>136866</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/central-asia-russia-and-afghanistan-the-1</URL>
+<Title>Central Asia-Russia and Afghanistan—the Russo-Afghan Frontier—the Boundary Line at Ak Tepe</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 cc717-8</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>292</WordCount>
+
+
+<speaker>MR. ASHMEAD-BARTLETT</speaker> asked, What the main lines of the Frontier, referred to by the Primo Minister last Tuesday, were, and whether they included the acceptance of such a condition as was mentioned in the Russian Memorandum of January 16, where it was stated that this line was to be conditional on the Ameer not building any fortifications on his own Frontier? MR. GLADSTONE I have no further communication to make to the House at present on the subject of the Frontier line. What I did on Tuesday last was to give to the House the terms in which the Russian Ambassador wished to describe the arrangement, as he had taken part in it; and it is quite true that he described it, if I remember aright, as an arrangement of the Frontier line which he had recommended for the approval of the Russian Government. Since then there have been some communications respecting a part of that line which have not yet been brought to a conclusion, and, consequently, I cannot go beyond the statement I then made. In reply to Sir H. DRUMMOND WOLFF, 
+<speaker>MR. J. K. CROSS</speaker> said, that he had already stated that no Treaty had been concluded between the Ameer of Afghanistan and the Indian Government. He had also stated that the Agreement with the Ameer was sent out in Blue Book No. 1 of 1881, and, secondly, in Blue Book No. 1 of 1884, under date of 16th July, 1883. 
+<speaker>SIB H. DRUMMOND WOLFF</speaker> Then any arrangements made at the Rawul Pindi Conference have not been consigned to a document? 
+<speaker>MR. J. K. CROSS</speaker> We have no written document. We have telegrams, and a despatch is expected, and when it arrives it will be laid on the Table.

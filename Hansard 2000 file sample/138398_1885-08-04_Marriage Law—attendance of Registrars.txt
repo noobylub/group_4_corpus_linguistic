@@ -1,0 +1,11 @@
+<FileID>138398</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/marriage-law-attendance-of-registrars</URL>
+<Title>Marriage Law—attendance of Registrars</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1039-40</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>146</WordCount>
+
+
+<speaker>MR. ATKINSON</speaker> asked Mr. Attorney General, If he will bring in a Bill to dispense with the personal attendance of Registrars at marriages celebrated in places of public worship licensed for the due solemnization of such marriages, care being taken to provide, under penalties, for their proper registration? 
+<speaker>THE ATTORNEY GENERAL (Sir RICHARD WEBSTER)</speaker> Sir, according to the existing law the personal attendance of the Registrar makes the registration sufficient evidence of the contract of marriage, assuming the requirements of the Acts have been observed. It is most important that proper evidence of marriages should be preserved in as simple a form as possible; but, although I cannot pledge myself to bring in a Bill, I am quite willing to consult the proper authorities as to whether, assuming a valid registration can be secured without the presence of the Registrar, his attendance might be dispensed with.

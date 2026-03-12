@@ -1,0 +1,9 @@
+<FileID>137746</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/17/secondary-education-in-board-schools</URL>
+<Title>Secondary Education in Board Schools (Metropolis)</Title>
+<DebRef>HL Deb 17 July 1885 vol 299 cc1020-8</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>7</WordCount>
+
+cc1020-8 MOTION FOR A RETURN. 2,783 words

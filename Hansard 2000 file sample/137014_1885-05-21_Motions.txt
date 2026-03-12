@@ -1,0 +1,9 @@
+<FileID>137014</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/motions</URL>
+<Title>Motions</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1136-40</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>33</WordCount>
+
+INTERMEDIATE EDUCATION, WALES, BILL. cc1136-9 MOTION FOR LEAVE. 1,281 words c1140 PUBLIC HEALTH (SCOTLAND) PROVISIONAL ORDER BILL. 51 words c1140 DRAINAGE AND IMPROVEMENT OF LANDS (IRELAND) PROVISIONAL ORDER (NO. 2) BILL. 59 words

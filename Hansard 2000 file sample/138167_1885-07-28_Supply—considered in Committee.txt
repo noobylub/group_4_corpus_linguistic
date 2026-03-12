@@ -1,0 +1,9 @@
+<FileID>138167</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/supply-considered-in-committee</URL>
+<Title>Supply—considered in Committee</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 c306</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>3</WordCount>
+
+(In the Committee.)

@@ -1,0 +1,11 @@
+<FileID>138120</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/bill-238-committee</URL>
+<Title>[Bill 238] Committee</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c207</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>91</WordCount>
+
+Order for Committee read. 
+<speaker>MR. ARTHUR O'CONNOR</speaker> said, he wished to know what was meant by the title of this Bill? There was a reference in the title to "India and the Colonies;" but there was no allusion whatever to India in the body of the Bill itself, which was unlimited in its scope. 
+<speaker>SIR FARRER HERSCHELL</speaker> said, the explanation was that it was only in India and the Colonies that evidence could be taken by Commission. Bill considered in Committee, and reported, without Amendment; read the third time, and passed.

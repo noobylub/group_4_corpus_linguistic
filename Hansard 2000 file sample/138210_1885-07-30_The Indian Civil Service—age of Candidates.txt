@@ -1,0 +1,10 @@
+<FileID>138210</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/the-indian-civil-service-age-of</URL>
+<Title>The Indian Civil Service—age of Candidates</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c513</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>164</WordCount>
+
+MR. THOROLD ROGERS asked the Secretary of State for India, Whether the Governor General of India communicated a despatch to the India Office on the age at which candidates for the Civil Service of India are admitted for competition in England; and, if so, whether he will lay the same upon the Table of the House? 
+<speaker>THE SECRETARY OF STATE (Lord RANDOLPH CHURCHILL),</speaker> in reply, said, no despatch had been received from the Governor General of India exclusively confined to the subject; bat despatches dated the 1st of October, 1882, and the 12th of September, 1881, had been received at the India Office, in which this subject was incidentally touched upon. He should be very glad to lay those on the Table, together with a selection of the opinions of local officials. He could not pledge himself to lay all the opinions in their entirety upon the Table, as some were confidential. He agreed that the subject was one of much interest and importance.

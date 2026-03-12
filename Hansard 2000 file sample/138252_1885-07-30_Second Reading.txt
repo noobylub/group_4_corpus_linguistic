@@ -1,0 +1,9 @@
+<FileID>138252</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/30/second-reading-1</URL>
+<Title>Second Reading</Title>
+<DebRef>HL Deb 30 July 1885 vol 300 cc493-4</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>262</WordCount>
+
+Order of the Day for the Second Reading read. THE BISHOP OF LONDON, in moving that the Bill be now read a second time, said, that it had already twice passed their Lordships' House. The Bill was intended to remedy the defects of the Pluralities Act of about 50 years ago. In case of the holder of two benefices being unable to provide for the duties of one of them, and being unable to obtain a clergyman to undertake those duties for the stipend offered, the Bishop had now no power to interfere. The Bill would enable the Bishop to appoint a curate in such cases and to assign an adequate salary out of the revenues of the living. When benefices were vacant the Bishop could appoint a temporary curate, but at a salary which no curate would now accept. He had, when Bishop of Exeter, on several occasions himself paid a curate in these circumstances. As the law now stood in Wales, no clergyman could be appointed to the cure of souls who could not preach in Welsh. But the Bishop had no power to order Welsh services to be celebrated. This Bill would enable the Bishop to order that at least one Welsh service should be held on Sundays. In these circumstances he hoped their Lordships would read the Bill a second time. Moved, "That the Bill be now read 2 a ." —( The Lord Bishop of London. ) Motion agreed to; Bill read 2 a accordingly, and committed to a Committee of the Whole House on Monday next.

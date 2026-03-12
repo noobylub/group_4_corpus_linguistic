@@ -1,0 +1,11 @@
+<FileID>137840</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/education-department-appointment-of</URL>
+<Title>Education Department—appointment of Schoolmistress at Ashbocking, Suffolk</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 c1398</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>145</WordCount>
+
+
+<speaker>MR. JESSE COLLINGS</speaker> asked the Vice President of the Committee of Council, If his attention has been called to the following advertisement in The Ipswich Mercury: — Ashbocking Board School, Suffolk. — Certificated Mistress wanted in September; present number on books 78; pupil teacher in second year; good treble voice essential; furnished schoolhouse; superintend Sunday school and lead church singing; salary averages £55.— Apply, Rev. M. Cowell, Ashbocking Vicarage, Needham Market; and, whether the imposition of such conditions as these on teachers constitutes a violation of the spirit of the Education Act, 1870 ? 
+<speaker>THE VICE PRESIDENT OF THE COUNCIL (Mr. E. STANHOPE),</speaker> in reply, said, he presumed the advertisement was inserted by the chairman of the school board, with full authority of his board; and the Education Department had not the power or the right to interfere with the action of the school board.

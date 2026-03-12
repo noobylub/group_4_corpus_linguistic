@@ -1,0 +1,13 @@
+<FileID>137506</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/land-law-ireland-act-1881-sub</URL>
+<Title>Land Law (Ireland) Act, 1881— Sub-Commissioners</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc415-6</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>90</WordCount>
+
+
+<speaker>MR. HEALY</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Is it intended shortly to disemploy any more Sub-Commissioners under the Land Act ; if so, who they are; and, how many Sub-Commissioners will then be left? 
+<speaker>THE CHIEF SECRETARY</speaker> I am not in a position to give a definite answer to this Question at present. The whole matter is under consideration. 
+<speaker>MR. HEALY</speaker> Will the information be forthcoming before the Vote for the Land Commission is taken? 
+<speaker>THE CHIEF SECRETARY</speaker> I think so, but I will inquire.

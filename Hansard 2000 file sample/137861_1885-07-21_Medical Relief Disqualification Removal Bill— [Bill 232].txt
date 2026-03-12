@@ -1,0 +1,9 @@
+<FileID>137861</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/medical-relief-disqualification-removal-1</URL>
+<Title>Medical Relief Disqualification Removal Bill— [Bill 232]</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 c1411</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>15</WordCount>
+
+( Mr. Arthur Balfour, Mr. Attorney General, Mr. Attorney General for Ireland, Mr. Dalrymple. )

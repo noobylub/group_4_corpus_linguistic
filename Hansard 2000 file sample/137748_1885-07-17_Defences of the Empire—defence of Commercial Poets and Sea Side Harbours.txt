@@ -1,0 +1,9 @@
+<FileID>137748</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/17/defences-of-the-empire-defence-of</URL>
+<Title>Defences of the Empire—defence of Commercial Poets and Sea Side Harbours</Title>
+<DebRef>HL Deb 17 July 1885 vol 299 cc1028-40</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc1028-40 QUESTION. OBSERVATIONS. 4,511 words

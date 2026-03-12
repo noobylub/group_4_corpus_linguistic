@@ -1,0 +1,9 @@
+<FileID>137549</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/summary-jurisdiction-term-of</URL>
+<Title>Summary Jurisdiction (Term of Imprisonment) Bill</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc572-3</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>16</WordCount>
+
+( Mr. Henry H. Fowler, Secretary Sir William Harcourt. ) cc572-3 [BILL 180.] COMMITTEE. 380 words

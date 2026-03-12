@@ -1,0 +1,15 @@
+<FileID>137734</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/law-and-police-punishment-of-burglars</URL>
+<Title>Law and Police—punishment of Burglars—flogging</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 c1062</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>241</WordCount>
+
+
+<speaker>SIR FREDERICK MILNER</speaker> asked the Secretary of State for the Home Department, If his attention has been called to the brutal outrage by an armed burglar on a police constable at Netting Hill; whether it is the case that flogging has had a most beneficial effect in reducing garotting and other crimes of violence; and, if he will facilitate the introduction of a short Bill awarding the punishment of flogging to burglars caught in possession of or using deadly weapons? 
+<speaker>THE SEOCRTARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS)</speaker> I have already stated that it might be desirable that some Bill of this kind should become law, but that, as it would involve contentious matter, it could not be passed this Session. 
+<speaker>SIR FREDERICK MILNER</speaker> asked whether it was true that this constable's truncheon broke in pieces, and that he was without a whistle, which would have been of great use to him? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> was understood to reply in the affirmative. 
+<speaker>SIR WILFRID LAWSON</speaker> asked whether it was not the fact that a late Home Secretary had stated in the House that the cessation of garrotting was not attributable to the Flogging Act , and that garrotting had almost ceased before the punishment was introduced? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> I am afraid that I cannot recall everything that previous Secretaries of State have said in this House.

@@ -1,0 +1,11 @@
+<FileID>138722</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/egypt-the-soudan-the-garrison-of-kassala</URL>
+<Title>Egypt (The Soudan)—the Garrison of Kassala</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 cc14-5</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>134</WordCount>
+
+
+<speaker>SIR WALTER B. BARTTELOT</speaker> I wish to ask the Chancellor of the Ex- chequer, Whether he is able to make any statement with regard to the accuracy of certain reports in the newspapers this morning that the garrison of Kassala is in a fair way of being relieved? I am sure if such a statement can be made it will relieve the country of a very great anxiety which has prevailed with regard to the fate of that garrison. 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> If I could have had Notice of the Question, perhaps I might have been able to answer it more satisfactorily. There are, I think, some hopes that the relief of the garrison of Kassala will be effected; but beyond that I do not think I am justified in saying anything.

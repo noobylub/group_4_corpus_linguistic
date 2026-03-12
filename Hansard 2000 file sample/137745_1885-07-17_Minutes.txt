@@ -1,0 +1,9 @@
+<FileID>137745</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/17/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 17 July 1885 vol 299 c1020</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>138</WordCount>
+
+PUBLIC BILLS— First Reading — Copyhold Enfranchisement * (185); Public Health (Ships, &c.) * (186); Marriages (Saint John, Cowley) * (187); Public Health (Scotland) Provisional Order (No. 2) * (188); Land Purchase (Ireland) (181). Second Heading —Local Government Provisional Order (Municipal Corporations) * (166); Local Government Provisional Orders (No. 3) * (167); Local Government Provisional Orders (No. 7) * (168); Local Government Provisional Orders (Poor Law) (No. 9) * (169); Local Government (Ireland) Provisional Orders * (170); Local Government (Ireland) Provisional Orders (Labourers Act) (No. 5) * (173); Metropolis Management Acts Amendment * (162); Local Loans (Sinking Funds) * (175). Committee — Local Government Provisional Orders (No. 6) * (153). Report —Tramways (Ireland) Provisional Order (No. 2), now Tramways Order in Council (Ireland) (65); Archdeaconries, now Ecclesiastical Commissioners (No. 2) * (180); Tithe Pent Charge Redemption * (165).

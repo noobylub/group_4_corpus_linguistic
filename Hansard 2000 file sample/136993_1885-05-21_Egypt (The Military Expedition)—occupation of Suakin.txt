@@ -1,0 +1,10 @@
+<FileID>136993</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/egypt-the-military-expedition-occupation</URL>
+<Title>Egypt (The Military Expedition)—occupation of Suakin</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1036</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>93</WordCount>
+
+
+<speaker>SIR H. DRUMMOND WOLFF</speaker> asked the First Lord of the Treasury, Whether an arrangement has yet been made with the Government of a civilized power to occupy Suakin on the withdrawal of Her Majesty's troops? MR. GLADSTONE There have been communications with the Ottoman Government upon this subject, which have been already presented to Parliament. Further communications will be found in the Papers now about to be laid on the Table—that is to say, communications with the Ottoman Government. There have been no communications on the subject of Suakin with any other Power.

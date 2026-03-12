@@ -1,0 +1,9 @@
+<FileID>138667</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/infants-bill-lords-bill-157</URL>
+<Title>Infants Bill [Lords]— [Bill 157]</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1856-7</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>8</WordCount>
+
+( Mr. Bryce. ) cc1856-7 COMMITTEE. 170 words

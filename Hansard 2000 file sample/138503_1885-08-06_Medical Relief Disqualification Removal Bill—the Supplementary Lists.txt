@@ -1,0 +1,11 @@
+<FileID>138503</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/medical-relief-disqualification-removal</URL>
+<Title>Medical Relief Disqualification Removal Bill—the Supplementary Lists</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 c1284</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>141</WordCount>
+
+
+<speaker>MR. JESSE COLLINGS</speaker> asked the President of the Local Government Board, Whether he will issue instructions to the overseers respecting the preparation of the supplementary list of voters, as required by the Medical Relief Disqualification Removal Bill ? 
+<speaker>THE PRESIDENT OF THE LOCAL GOVERNMENT BOARD (Mr. A. J. BALFOUR)</speaker> It is not our intention to issue instructions to overseers respecting the preparation of the supplemental lists required by the Medical Relief Disqualification Removal Bill . This Bill, which now awaits the Royal Assent, provides that the Clerks of the Peace and Town Clerks shall forthwith, after the passing of the Act, issue precepts to the overseers informing them of their duties under it; and I understand that the Home Office will, as soon as the Bill has passed, communicate with the Clerks of the Peace and Town Clerks on the subject.

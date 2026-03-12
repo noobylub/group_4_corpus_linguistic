@@ -1,0 +1,9 @@
+<FileID>137374</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/08/forestry</URL>
+<Title>Forestry</Title>
+<DebRef>HC Deb 08 July 1885 vol 299 cc84-5</DebRef>
+<SittingDate>1885-07-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>71</WordCount>
+
+Select Committee nominated of, —Mr. WILLIAM CORBET, Dr. FARQUHARSON, Mr. FREMANTLE, Mr. WILLIAM HENRY GLADSTONE, Sir G. MACPHERSON GRANT Sir JOHN KENNA WAY, Sir EDMUND LECHMERE, Sir JOHN LUBBOCK, Br. LYONS, Sir HERBERT MAXWELL, Colonel NOLAN, Mr. PARNELL, Mr. PLUNKET, Mr. PORTMAN, Mr. ROUND, Mr. SEELY, junior, Mr. MOORE STEVENS, Mr. VILLIERS STUART, and Mr. NORTH-COTE, with power to send for persons, papers, and records. Ordered, That Five be the quorum.

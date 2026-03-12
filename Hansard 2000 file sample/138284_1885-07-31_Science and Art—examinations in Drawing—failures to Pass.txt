@@ -1,0 +1,11 @@
+<FileID>138284</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/science-and-art-examinations-in-drawing</URL>
+<Title>Science and Art—examinations in Drawing—failures to Pass</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 cc678-9</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>172</WordCount>
+
+
+<speaker>MR. PICTON</speaker> asked the Vice President of the Committee of Council, Whether his attention has been called to the extraordinary number of failures at the last drawing examinations of the Science and Art Department; and, whether any instructions had been given to the examiners to raise the standard of examination, or whether any other explanation can be given of the remarkable diminution of the number of passes? 
+<speaker>THE VICE PRESIDENT OF THE COUNCIL (Mr. E. STANHOPE)</speaker> No instructions have been given to the examiners to raise the standard at the last drawing examinations. The examinations of the more advanced grades, formerly confined to students who had previously shown capability, have this year been thrown open without restriction. This has led to the examination of a much larger number of candidates and a decline in the percentage of success; but there has been a large increase in the number of passes. The figures are these: — In 1884, out of 424 candidates 203 passed; in last examination, out of 1,530 candidates 331 passed.

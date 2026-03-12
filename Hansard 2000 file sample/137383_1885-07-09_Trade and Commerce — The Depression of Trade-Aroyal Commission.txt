@@ -1,0 +1,14 @@
+<FileID>137383</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/trade-and-commerce-the-depression-of</URL>
+<Title>Trade and Commerce — The Depression of Trade-Aroyal Commission</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 c114</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>156</WordCount>
+
+
+<speaker>MR. ARTHUR ARNOLD</speaker> asked Mr. Chancellor of the Exchequer, Whether it is intended to advise Her Majesty to issue a Royal Commission to make inquiry with regard to depression of trade; and, if so, whether a Supplementary Estimate will be presented for the expenses of that Commission during the current year? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> An inquiry into the depression of trade has been resolved upon by the Government. I hope to be in a position to make a further statement upon the subject in a few days. 
+<speaker>MR. ARTHUR ARNOLD</speaker> gave Notice that on Monday he would ask whether the right hon. Baronet would lay on the Table of the House the text of the Royal Commission, including the names of those composing it? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I beg to say it will be quite impossible for me to answer the Question on Monday. 
+<speaker>MR. ARTHUR ARNOLD</speaker> Well, on an early day.

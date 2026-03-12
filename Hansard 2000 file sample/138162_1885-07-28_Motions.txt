@@ -1,0 +1,9 @@
+<FileID>138162</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/motions</URL>
+<Title>Motions</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 cc250-306</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>13</WordCount>
+
+PARLIAMENT—PRIVILEGE—SPEECH OF MR. BRIGHT OF JULY 24th. cc250-306 RESOLUTION. 22,904 words, 1 division

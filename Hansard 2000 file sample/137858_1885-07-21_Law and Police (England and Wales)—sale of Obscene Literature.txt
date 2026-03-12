@@ -1,0 +1,12 @@
+<FileID>137858</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/law-and-police-england-and-wales-sale-of</URL>
+<Title>Law and Police (England and Wales)—sale of Obscene Literature</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 cc1408-9</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>250</WordCount>
+
+MR. STAVELEY HILL asked the Secretary of State for the Home Department, For how much longer it is intended to acquiesce in the sale by men, women, and children of this indelicate literature in the streets of London? The hon. and learned Member added: The namby-pamby word "indelicate" is not my word. The word I used was "filthy;" but if that is thought inadmissible, I choose to describe the literature as obscene. 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir E. ASSHETON CROSS)</speaker> If this Question refers to what appeared in a newspaper some time ago, I have nothing to add to the answer which I gave to the Question at that time. If obscene literature is spread abroad the persons who spread it do it at their peril. MR. STAVELEY HILL Is the right hon. Gentleman aware that illustrated copies of this filthy literature are being sold in the streets of London? 
+<speaker>MR. ONSLOW</speaker> If the right hon. Gentleman is not aware that this literature, accompanied by pictures, is being sold, I beg to hand him a copy of the publication. The SECRETARY of STATE refused to receive the print. 
+<speaker>MR. ONSLOW</speaker> I wish to ask the right hon. Gentleman how much longer he, as responsible for order and decency in the streets, is going to allow these vile prints to be sold in the shops and streets of London? If the right hon. Gentleman cannot give an answer now, I will put the Question down for tomorrow.

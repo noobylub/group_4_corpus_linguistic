@@ -1,0 +1,10 @@
+<FileID>137242</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/24/parliament-adjournment-the-new-ministry</URL>
+<Title>Parliament—adjournment—the New Ministry—new Writs</Title>
+<DebRef>HC Deb 24 June 1885 vol 298 c1623</DebRef>
+<SittingDate>1885-06-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>82</WordCount>
+
+
+<speaker>MR. ROWLAND WINN</speaker> I have to move that the House, at its rising, do adjourn until Friday next—the intention being that no Business shall be transacted on Friday, except the issue of certain Writs, which I am not in a position to move today. I propose, on Friday, to move that the House should adjourn until the Monday week following—the 6th of July. Motion made, and Question proposed, "That this House, at its rising, do adjourn till Friday."—( Mr. Rowland Winn. )

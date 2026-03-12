@@ -1,0 +1,9 @@
+<FileID>138682</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/11/egypt-the-soudan-expeditions-vote-of</URL>
+<Title>Egypt—the Soudan Expeditions— Vote of Thanks to Her Majesty's Military and Naval Forces</Title>
+<DebRef>HL Deb 11 August 1885 vol 300 c1720</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>6</WordCount>
+
+c1720 NOTICE OF MOTION. 69 words

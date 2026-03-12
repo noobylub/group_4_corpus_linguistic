@@ -1,0 +1,11 @@
+<FileID>137464</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/parliament-business-of-the-house-police</URL>
+<Title>Parliament — Business of the House —Police Enfranchisement Extension Bill</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 cc286-7</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>121</WordCount>
+
+
+<speaker>LORD CLAUD HAMILTON</speaker> asked Mr. Chancellor of the Exchequer, If he will be good enough to offer facilities for the discussion and progress of the Police Enfranchisement Extension Bill ? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> I cannot at present promise to do what my noble Friend desires me to do. I am afraid I cannot go beyond the state- ment I made on Tuesday as to the Business with which Her Majesty's Government propose to ask the House to deal. We have our own Business to consider; but I hope, however, that my noble Friend, and those who are interested in the Bill, will do the best themselves to bring the subject under the consideration of the House.

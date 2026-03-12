@@ -1,0 +1,11 @@
+<FileID>138491</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/army-the-2nd-east-surrey-regiment</URL>
+<Title>Army—the 2nd East Surrey Regiment</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 c1275</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>258</WordCount>
+
+
+<speaker>MR. FRANCIS BUXTON</speaker> asked the Secretary of State for War, Whether it is the case that the 2nd East Surrey Regiment (late 70th), was quartered in India from 1871 until September 1884, and in that period took part in active service in Afghanistan; that it was ordered to Egypt for active service on leaving India in 1884, and has been there ever since; that it has now received orders for a further campaign on the Nile during this Autumn, although hopes have been held out to the men that they should return home immediately; whether, during this period of fourteen years, the Officers or the men have been allowed to return home on leave; and, when the regiment will return home? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> With regard to the past service of this battalion in India and Egypt the facts are as stated in the Question; but, as regards the future, the battalion certainly has not received orders for a further campaign on the Nile. During its absence from home officers and men have had the usual leave; but I may remark that men serving in India do not come home on furlough, and it should be added that though the battalion has been 14 years abroad the very large majority of the men have, under the system of short service, been out but a few years. As I stated on the 3rd instant, the battalion will be among the first to come home as soon as the garrison of Egypt can be reduced.

@@ -1,0 +1,11 @@
+<FileID>138066</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/public-health-scotland-insanitary</URL>
+<Title>Public Health (Scotland)—insanitary Condition of Duthil Churchyard</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc46-7</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>303</WordCount>
+
+
+<speaker>MR. FRASER-MACKINTOSH</speaker> asked the Secretary of State for the Home Department, Whether, with reference to the alleged insanitary state of the churchyard and mausoleum at Duthil, in the county of Inverness, regarding which an inquiry was ordered by the Home Office, it is true that Dr. Maclagan, of Edinburgh, the Reporter, made only one inspection, and that of so hurried a character that the horses of his conveyance did not require to be, and were not, unyoked; whether Dr. Maclagan declined to receive any evidence on the subject; and, whether, in the face of the rejoinder by the minister of the parish, dated 18th July current, to Dr. Maclagan's Report of the 6th July, reiterating and offering to establish his complaints of the insanitation, he will be pleased to order a new and independent inquiry, conducted by a competent person, who will be enjoined to take evidence on the spot, in usual form? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS),</speaker> in reply, said, that after the first complaint the Board of Supervision called for a Report by the local medical officer, who certified that the complaint was groundless. In consequence of a renewed complaint the Board app anted Dr. Littlejohn as a Special Commissioner to inquire and report, who was clearly of opinion that the local medical officer's view was correct. In consequence of further complaints the then Secretary of State appointed Dr. Maclagan, Professor of Medical Jurisprudence in the University of Edinburgh, to make a special inquiry. He had sent in a very elaborate Report to the effect that the complaints made were groundless. The mode of conducting the examination was left entirely to him. The Secretary of State did not interfere. Under all these circumstances, he (Sir E. Assheton Cross) entirely declined to reopen the question.

@@ -1,0 +1,11 @@
+<FileID>136905</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/coal-mines-denaby-main-colliery</URL>
+<Title>Coal Mines—denaby Main Colliery</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 cc942-3</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>338</WordCount>
+
+
+<speaker>MR. BURT</speaker> asked the Secretary of State for the Home Department, If his attention has been called to the report of a case which appears in The Sheffield and Rotherham Independent of the 12th instant, to the following effect:— Priscilla Smith was brought before Mr. G. W. Chambers, chairman, and other magistrates at Rotherham, charged with assaulting Richard Oakley, a deputy employed by the Dena by Main Colliery Company. In the course of the trial the chairman called for Michael Smith, the husband of the defendant, and ordered him to stand beside his wife. After lecturing the husband, the chairman bound him and his wife over to keep the peace; if he will inquire whether the report is substantially correct; and, whether, if Michael Smith had not been summoned before the magistrates, had not broken the peace, nor shown any intention of doing so, the magistrates did not exceed their legal powers? 
+<speaker>SIR WILLIAM HARCOURT,</speaker> in reply, said, it was not desirable that the Colliery Inspectors should be mixed up in quarrels with reference to wages. The Inspectors were unwilling to intervene more than they could in these matters, though, of course, they would get at facts as well as they could. The statement he had made might be taken to be that of the managers; and he had nothing to add to what he had said. The Company had discontinued giving a bonus of coal to the occupiers of their houses, although that did not come under the Truck Act . He could not express any opinion as to the stoppage of arrears of rent out of wages. As to the action of the magistrates, the facts of the case were rather curious. The magistrates acted upon their view of the identity of the husband and wife, and so, although the husband was not charged, bound both over to keep the peace. As they were only bound over in then-own recognizances no great harm was done. The proceeding could not be said to be regular and legal.

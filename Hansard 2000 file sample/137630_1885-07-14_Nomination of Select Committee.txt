@@ -1,0 +1,13 @@
+<FileID>137630</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/14/nomination-of-select-committee</URL>
+<Title>Nomination of Select Committee</Title>
+<DebRef>HL Deb 14 July 1885 vol 299 c634</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>239</WordCount>
+
+On Motion, that the Lords following be named of the Committee:— L. Chancellor. L. Rosebery. L. Privy Seal. L. Penzance. D. Bedford. L. Moncreiff. M. Bute. L. Coleridge. E. Sydney. L. Blackburn. E. Rodesdale. L. Watson. E. Selborne. L. Bramwell. L. Hopetoun. L. FitzGerald L. Ker. 
+<speaker>THE EARL OF WEMYSS</speaker> said, he did not wish to enter into the question of the constitution of the Committee; but he thought it very desirable that it should contain some Peer who was conversant with the facts of the case, and competent to represent certain interests. 
+<speaker>THE MARQUESS OF SALISBURY</speaker> said, that this was a Bill moved from the opposite side of the House, and it was difficult to discuss it in the entire absence of the Party opposite; but he should have imagined that all interests were duly represented in the Committee as nominated. It would be better for his noble Friend to give Notice of any alteration he desired. 
+<speaker>THE LORD CHANCELLOR (Lord HALSBURY)</speaker> said, that the Committee could receive explanations or information from others than Members, and he did not see any necessity to increase the number. 
+<speaker>THE EARL OF WEMYSS</speaker> said, that what he desired was simply for the purpose of giving public satisfaction. Motion agreed to. The Committee to meet on Wednesday the 22nd instant, at Two o'clock, and to appoint their own Chairman. House adjourned at Eight o'clock, to Thursday next, a quarter past Ten o'clock.

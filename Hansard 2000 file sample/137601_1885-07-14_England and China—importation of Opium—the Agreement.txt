@@ -1,0 +1,11 @@
+<FileID>137601</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/england-and-china-importation-of-opium</URL>
+<Title>England and China—importation of Opium—the Agreement</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 c662</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>83</WordCount>
+
+
+<speaker>MR. CROPPER</speaker> asked the Under Secretary of State for Foreign Affairs, If he can inform the House as to the terms of the agreement with the Government of China respecting the importation of opium into that Country; and, whether the agreement is yet completed? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> It is expected that the agreement with China respecting the importation of opium will be signed very shortly, and when the signature has taken place the Papers will be presented to Parliament.

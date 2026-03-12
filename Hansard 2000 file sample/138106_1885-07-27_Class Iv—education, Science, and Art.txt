@@ -1,0 +1,9 @@
+<FileID>138106</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/class-iv-education-science-and-art</URL>
+<Title>Class Iv—education, Science, and Art</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c176</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>33</WordCount>
+
+(18.) £106,333, to complete the sum for the British Museum. (19.) £14,498, to complete the sum for Universities, &c. in Scotland. (20.) £1,700, to complete the sum for the National Gallery, &c. Scotland.

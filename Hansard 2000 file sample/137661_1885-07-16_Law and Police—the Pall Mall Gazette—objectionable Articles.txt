@@ -1,0 +1,11 @@
+<FileID>137661</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/law-and-police-the-pall-mall-gazette</URL>
+<Title>Law and Police—the Pall Mall Gazette—objectionable Articles</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc910-1</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>131</WordCount>
+
+
+<speaker>MR. SAMUEL SMITH</speaker> asked the Secretary of State for the Home Department, Whether the Government will institute a searching inquiry by means of a Royal Commission, or otherwise, into the truth of the horrible statements of crime made by The Pall Mall Gazetle; and, if they are found to be true, will use any endeavour to bring the guilty parties to justice? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMEMT (Sir R. ASSHETON CROSS)</speaker> No one can sympathize more deeply than I do with my hon. Friend in regard to the object which he has in view in asking this Question, and I can assure him that I will use every endeavour to find the guilty parties, if there are any guilty of such practices, and to bring them to justice.

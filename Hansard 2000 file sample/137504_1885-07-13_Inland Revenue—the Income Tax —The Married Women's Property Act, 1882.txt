@@ -1,0 +1,11 @@
+<FileID>137504</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/inland-revenue-the-income-tax-the</URL>
+<Title>Inland Revenue—the Income Tax —The Married Women's Property Act, 1882</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc414-5</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>132</WordCount>
+
+
+<speaker>MR. RANKIN</speaker> asked Mr. Chancellor of the Exchequer, Whether it is the fact that Income Tax is payable upon the joint income of husband and wife; and, if so, whether, under the provisions of the Married Women's Property Act of 1882, Income Tax should be charged upon the incomes of the husband and wife separately, thereby allowing both to claim the exemption or reduction, as the case may be, when their separate incomes are each of them below £150 or £400? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> The joint income of husband and wife living together is, by the Act 5 & 6 Vict. c. 35, s. 45, liable to assessment to Income Tax, and this is not affected or overridden by anything in the Married Women's Property Act .

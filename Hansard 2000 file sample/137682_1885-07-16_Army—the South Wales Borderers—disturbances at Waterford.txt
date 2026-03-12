@@ -1,0 +1,12 @@
+<FileID>137682</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/army-the-south-wales-borderers</URL>
+<Title>Army—the South Wales Borderers—disturbances at Waterford</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c923</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>154</WordCount>
+
+
+<speaker>MR. P. J. POWER</speaker> asked the Secretary of State for War, Whether, in view of the serious disturbance which occurred in Waterford on the 12th, in which a civilian was killed, and of the bad feeling which has existed for some time between the South Wales Borderers and the citizens, he would give effect to the recommendation of the coroner's jury, and order the removal of that regiment from Waterford? 
+<speaker>THE SECRETARY OF STATE FOR WAR (Mr. W. H. SMITH)</speaker> The following telegram has been received from the General Officer commanding in Ireland:— The General Officer commanding Cork district has been directed to relieve the detachments of South Wales Borderers at Waterford and Duncannon Fort by another corps. I think it right to add that, during its service at Waterford for the past two years, the conduct of the men has been reported as very good. 
+<speaker>MR. P. J. POWER</speaker> Then they were misreported.

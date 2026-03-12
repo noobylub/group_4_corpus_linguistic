@@ -1,0 +1,14 @@
+<FileID>138687</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/12/valuation-metropolis-act-1869-appeals</URL>
+<Title>Valuation (Metropolis) Act, 1869— Appeals Against Assessments</Title>
+<DebRef>HC Deb 12 August 1885 vol 300 c1870</DebRef>
+<SittingDate>1885-08-12</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>252</WordCount>
+
+
+<speaker>MR. TOMLINSON</speaker> asked the President of the Local Government Board, Whether his attention has been called to the large number of appeals against the recent assessments under "The Valuation (Metropolis) Act, 1869 ;" whether they have been caused principally by the fact that the gross value has been frequently fixed above the amount of the rent paid or the estimated letting value; whether it is the fact that the Assessment Committee have frequently given so short notice to ratepayers who have given notice of appeal from assessments of the time for hearing appeals as to make it impossible for them to attend; whether the Local Government Board have under consideration any measure for providing a scheme of valuation applicable to the whole Kingdom; and, whether, in this event, they will, prior to introducing such a measure, consider the defects in the scheme of "The Valuation (Metropolis) Act, 1869 ?" 
+<speaker>THE PRESIDENT (Mr. A. J. BALFOUR),</speaker> in reply, said, that the Local Government Board had no information with regard to the matter referred to in the Question of the hon. Member, neither was there any Bill providing a scheme with regard to it under the consideration of the Government. 
+<speaker>MR. TOMLINSON</speaker> Will the right hon. Gentleman, in the next Parliament, have any objection to lay on the Table a Return of the number of appeals? 
+<speaker>THE PRESIDENT</speaker> Perhaps my hon. Friend will ask me that Question in the next Parliament. 
+<speaker>MR. TOMLINSON</speaker> I beg to give Notice that I will ask the Question.

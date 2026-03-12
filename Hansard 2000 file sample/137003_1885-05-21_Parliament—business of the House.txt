@@ -1,0 +1,9 @@
+<FileID>137003</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/parliament-business-of-the-house</URL>
+<Title>Parliament—business of the House</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1042</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>61</WordCount>
+
+MR. GLADSTONE said, it might be convenient for the House to know that it was proposed to take on Friday, first, the second reading of the Telegraph Acts Amendment Bill ; next, the second reading of the Criminal Law Amendment Bill , which had come down from the House of Lords; and, thirdly, the Ulster Canal and Tyrone Navigation Bill .

@@ -1,0 +1,9 @@
+<FileID>137116</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/05/suez-canal-commission</URL>
+<Title>Suez Canal Commission</Title>
+<DebRef>HL Deb 05 June 1885 vol 298 cc1329-33</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc1329-33 QUESTION. OBSERVATIONS. 1,284 words

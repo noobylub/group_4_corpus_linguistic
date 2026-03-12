@@ -1,0 +1,9 @@
+<FileID>138053</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/26/river-thames-no-2-bill-no-171</URL>
+<Title>River Thames (No 2) Bill—(no 171)</Title>
+<DebRef>HL Deb 26 July 1885 vol 300 c235</DebRef>
+<SittingDate>1885-07-26</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>9</WordCount>
+
+( The Lord Mount-Temple. ) c235 COMMITTEE. 201 words

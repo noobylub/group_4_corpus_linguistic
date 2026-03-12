@@ -1,0 +1,10 @@
+<FileID>136920</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/parliament-wednesday-sittings-resolution</URL>
+<Title>Parliament—wednesday Sittings—resolution</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 c950</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>80</WordCount>
+
+
+<speaker>MR. WARTON</speaker> rose to call attention to the subject of Wednesday Sittings; and to move— That on a Wednesday, if a House be not made by a quarter to One of the clock, Mr. Speaker do adjourn the House without Motion made or Question put; that the said Resolution be a Standing Order of this House. Notice taken, that 40 Members wore not present; House counted, and 40 Members not being present, House adjourned at a quarter after Six o'clock.

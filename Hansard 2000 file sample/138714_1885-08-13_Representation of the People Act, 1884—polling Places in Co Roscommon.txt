@@ -1,0 +1,11 @@
+<FileID>138714</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/representation-of-the-people-act-1884</URL>
+<Title>Representation of the People Act, 1884—polling Places in Co Roscommon</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c10</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>141</WordCount>
+
+
+<speaker>MR. SEXTON (for Mr. O'KELLY)</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether it is true that voters, living within a mile of Strokestown, county Roscommon, will be compelled to record their votes in the town of Lanes borough, a distance of seven miles, instead of recording them as hitherto in Strokestown; and, whether he will consider the convenience of establishing a polling booth at Tarmonbarry? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The Parliamentary boundary of Roscommon throws part of the former polling district of Strokestown into the Southern Division of the county, and this portion is now attached to the polling district of Lanesborough. No better arrangement can be made. I understand Rooskey is a more convenient polling place for the whole district than Tarmonbarry, and there could not well be polling places at both towns.

@@ -1,0 +1,9 @@
+<FileID>137261</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/26/the-lord-chancellor</URL>
+<Title>The Lord Chancellor</Title>
+<DebRef>HL Deb 26 June 1885 vol 298 c1640</DebRef>
+<SittingDate>1885-06-26</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>73</WordCount>
+
+The LORD PRESIDENT acquainted the House that Her Majesty had been pleased to create the Eight Honourable Sir Hardinge Stanley Giffard, Knight, Lord Chancellor of Great Britain, a Peer of this Realm, by the title of Baron Halsbury of Halsbury in the county of Devon, and his Lordship, having retired to robe, was introduced in the usual manner. House adjourned at half past Four o'clock, to Monday next, a quarter before Eleven o'clock.

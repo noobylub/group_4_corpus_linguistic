@@ -1,0 +1,9 @@
+<FileID>138566</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/07/treaty-of-berlin-article-x-the-varna-and</URL>
+<Title>Treaty of Berlin—article X— The Varna and Rustchuk Railway</Title>
+<DebRef>HL Deb 07 August 1885 vol 300 cc1434-6</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc1434-6 QUESTION. OBSERVATIONS. 874 words

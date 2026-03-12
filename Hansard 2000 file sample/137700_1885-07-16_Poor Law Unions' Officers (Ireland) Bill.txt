@@ -1,0 +1,9 @@
+<FileID>137700</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/poor-law-unions-officers-ireland-bill</URL>
+<Title>Poor Law Unions' Officers (Ireland) Bill</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc1013-5</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>12</WordCount>
+
+( Sir William Hart Dyke. ) cc1013-5 [BILL 214.] COMMITTEE. 950 words

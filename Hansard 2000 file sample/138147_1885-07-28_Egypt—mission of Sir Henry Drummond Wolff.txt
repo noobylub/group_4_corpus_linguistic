@@ -1,0 +1,13 @@
+<FileID>138147</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/egypt-mission-of-sir-henry-drummond-wolff</URL>
+<Title>Egypt—mission of Sir Henry Drummond Wolff</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 cc241-2</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>302</WordCount>
+
+
+<speaker>MR. M'LAREN</speaker> asked Mr. Chancellor of the Exchequer, If he can give the House any further information as to the mission of the Eight honourable Member for Portsmouth; and, whether he will lay the terms of his instructions upon the Table? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUEE (Sir MICHAEL HICKS-BEACH)</speaker> My right hon. Friend the Member for Portsmouth (Sir H. Drummond Wolff) will be accredited to His Majesty the Sultan on a special Mission with reference to the affairs of Egypt, and in the execution of the same Mission he will subsequently proceed to Egypt. Her Majesty's Government have to deal with, and, as far as may be, to settle, several grave and difficult questions in regard to that country which are still undetermined. The territories placed under the Khedive by the Firman of 1879 must be protected from the recurrence of the disturbances to which in recent years they have been exposed, and must be assured in as great a degree as possible the blessings of good government and of peace. It is in the execution of this duty that Her Majesty's Government have resolved upon sending out my right hon. Friend; but it is not usual to lay on the Table beforehand the instructions given to an Envoy going to a foreign country. 
+<speaker>MR. LABOUCHERE</speaker> Will the right hon. Gentleman be good enough to say whether we shall have an opportunity of discussing the policy of the Government in this matter, and whether he will give us an opportunity by putting down the first stage of the Appropriation Bill at such an hour that a debate could take place upon it? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> We shall be anxious to afford every facility, and I rather anticipated that some discussion of the kind would arise on the Appropriation Bill .

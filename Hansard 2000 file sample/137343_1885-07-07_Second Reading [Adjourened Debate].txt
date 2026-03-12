@@ -1,0 +1,15 @@
+<FileID>137343</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/second-reading-adjourened-debate</URL>
+<Title>Second Reading [Adjourened Debate]</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 cc1938-9</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>458</WordCount>
+
+Order read, for resuming Adjourned Debate on Question [30th April], "That the Bill be now read a second time." Question again proposed. Debate returned. 
+<speaker>MR. HEALY</speaker> said, that on the 30th of April the Bill came on at a very late hour of the morning, and hon. Members manfully endeavoured to get an explanation from the hon. Gentleman the Member for Dublin (Dr. Lyons). The hon. Gentleman, who was in charge of the Bill, was totally unable to afford the explanation desired, and that led certain Members to oppose the measure. At that period of the Session, and in consequence of the understanding that no contentious Business was to be taken, he hoped the Government would not give any support to the Bill. He begged to move that the debate be adjourned. Motion made, and Question proposed, "That the Debate be now adjourned."— (Mr. Healy. ) 
+<speaker>THE FIRST COMMISSIONER OF WORKS (Mr. PLUNKET)</speaker> said, that the hon. Member for Dublin (Dr. Lyons) made some observations in moving the second reading of the Bill on the 30th of April, and therefore the hon. Gentle man could not, on the present occasion, give the explanation which was very naturally desired by the House. Perhaps the hon. and learned Member for Monaghan (Mr. Healy) would allow him (Mr. Plunket) to explain, in a very few words, what the nature of the Bill was. He was not— 
+<speaker>MR. SEXTON</speaker> asked if it was competent for the right hon. and learned Gentleman (Mr. Plunket) to explain the Bill on a Motion for the adjournment of the debate? 
+<speaker>MR. SPEAKER</speaker> The right hon. and learned Gentleman must address himself to the Question of adjournment. 
+<speaker>THE FIRST COMMISSIONER OF WORKS</speaker> said, that he did not desire to speak as a Member of the Government, but as a Member of the House who was interested in this very simple Bill. He thought he could explain the object of the Bill in two minutes. It was not a Bill of any great importance except to the people concerned, and therefore he hoped the hon. and learned Member (Mr. Healy) would not press his Motion. 
+<speaker>MR. SEXTON</speaker> said, he had no doubt that the right hon. and learned Gentleman's powers of explanation were exceptional. However, the Bill was not so simple as seemed to be imagined. The only reason why hon. Members had assented, to sitting till that late hour (1.50) was that the Business to be taken was urgent. He trusted there would be no further opposition to the Motion for the adjournment of the debate, because it was quite clear that at that hour of the morning there could be no satisfactory discussion of the Bill. Question put, and agreed to. Debate farther adjourned till Thursday.

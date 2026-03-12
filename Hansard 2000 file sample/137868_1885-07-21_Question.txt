@@ -1,0 +1,11 @@
+<FileID>137868</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/question</URL>
+<Title>Question</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 c1512</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>43</WordCount>
+
+
+<speaker>MR. ONSLOW</speaker> said, it would be convenient to know whether this Bill or the Army Estimates would be the first Order of the Day on Monday? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> This Bill is the second Order of the Day.

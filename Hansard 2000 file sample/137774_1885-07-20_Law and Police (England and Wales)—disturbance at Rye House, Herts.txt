@@ -1,0 +1,16 @@
+<FileID>137774</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/law-and-police-england-and-wales</URL>
+<Title>Law and Police (England and Wales)—disturbance at Rye House, Herts</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1194-5</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>446</WordCount>
+
+
+<speaker>COLONEL NOLAN</speaker> asked the Secretary of State for the Home Department, If his attention has been drawn to a paragraph in The Standard of the 14th, by which it appears that a collision took place at Rye House on the 13th between a party of Orangemen and some Catholic excursionists from Deptford; if he has received any report on the matter from the police; if it is a fact that a large number of the Orangemen had drawn swords, some of which they used rather freely; and if one of the swordsmen struck with his weapon the Reverend M. P. Fannun, who was superintending the Catholic excursion; and, ifhewould instruct the police to remove dangerous and ostentatious weapons from the hands of such Orangemen as show a disposition to use them? 
+<speaker>MR. BERESFORD</speaker> said, before the Question was answered he would like to ask whether it was not a fact that the two parties were in separate portions of the grounds, with a road and two high hedges between them; whether some of the Roman Catholic women went to the Orange party, and used very abusive language; whether, although taunted and vituperated, the Orangemen conducted themselves with the greatest forbearance, and played no party tunes; and, whether, in the slight scrimmage which took place, the Roman Catholic party were not entirely in fault? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS)</speaker> I have no knowledge of any of the facts mentioned by either hon. Gentleman further than those stated in the brief Report which I have received from the Chief Constable of the county. The Report states that there was an affray, and that the disturbers were separated by the police. Sticks, umbrellas, quart pots, and bottles were the weapons used. Some of the party were carrying swords, but no sword was drawn. Had swords been used they must have been seen by the police. All I can say upon this Report is that I am extremely sorry that such weapons as swords should ever be carried on such occasions. The county police are not under my jurisdiction, but that of the county authorities. 
+<speaker>MR. T. P. O'CONNOR</speaker> Who carried the swords? THE SECRETARY OF STATE (Sir E. ASSHETON CROSS) said, he did not know. 
+<speaker>COLONEL NOLAN</speaker> asked whether further inquiries would be made respecting the assault on the Catholic clergyman? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> I have already ordered a further inquiry to be made respecting the assault on the rev. gentleman. The police said nothing about it. 
+<speaker>MR. BERESFORD</speaker> Is it not true that after the disturbance all the parties shook hands and left thoroughly good friends?

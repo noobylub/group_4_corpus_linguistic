@@ -1,0 +1,13 @@
+<FileID>137587</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/fisheries-ireland-deep-sea-trawling</URL>
+<Title>Fisheries (Ireland)—deep Sea Trawling</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 cc655-6</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>327</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether fishermen trawling last July in the deep sea in Ballysodore Bay, on the coast of Sligo, were ordered off by the chief boatman of Portavade coastguard station, and compelled to desist from the pursuit of their avocation by threats of seizure of their boats and trawls; whether the Inspectors of Irish Fisheries, on being applied to, stated that "Colonel Cooper, of Markree, possesses the exclusive right of fishing in Ballysodore Bay including Portavade," and that "trawling in Ballysodore Bay or at Portavade without Colonel Cooper's permission is illegal;" what is the nature and extent of Colonel Cooper's right, and whether it entitles him to prevent working fishermen from pursuing their industry in the deep sea, fully three miles from the mouth of any river; and, whether the coastguards are directed to interfere in such a matter, and to make use of threats? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> It is a fact that certain fishermen who were trawling last July in Ballysodore Bay were stopped by the Coastguard, who were under the impression that trawling in the place in question was illegal. I am advised that the Coastguard are not directed to interfere in such cases, except where bye-laws exist prohibiting trawling, and there are no such bye-laws in this instance. Colonel Cooper's rights in Ballysodore Bay are defined by a Private Act of Parliament. The Inspectors of Fisheries wrote the letter referred to in the second paragraph of the Question; but six days afterwards, having some doubts on further examination of the map as to whether there had been any infringement of Colonel Cooper's rights, they made a further communication to the fishermen, informing them of the exact bounds of those rights as stated in the Act of Parliament. 
+<speaker>MR. SEXTON</speaker> Will the Coastguard be informed that they should not interfere again? 
+<speaker>THE CHIEF SECRETARY</speaker> Directions will be given to that effect.

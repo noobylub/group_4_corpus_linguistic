@@ -1,0 +1,15 @@
+<FileID>138193</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/29/adjournment</URL>
+<Title>Adjournment</Title>
+<DebRef>HC Deb 29 July 1885 vol 300 cc475-6</DebRef>
+<SittingDate>1885-07-29</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>321</WordCount>
+
+Motion made, and Question proposed, "That this House do now adjourn."—( Sir Henry Holland. ) 
+<speaker>MR. H. H. FOWLER</speaker> desired to ask the Chancellor of the Exchequer a question as to the prospects for tomorrow. Would the right hon. Gentleman allow the Criminal Law Amendment Bill to come before the Telegraph Bill ? The Criminal Law Amendment Bill was of the greatest possible interest, and he ventured to hope the right hon. Gentleman would allow it to be taken tomorrow. 
+<speaker>MR. SEXTON</speaker> asked whether the Report of Supply would be taken first thing? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> , in reply, said, that the Report of Supply would be taken as the first Order tomorrow, as some hon. Members had postponed their remarks that afternoon in order to make them on Report. He was afraid that the Telegraph Bill would also have to come on before the Criminal Law Amendment Bill , because he was under an engagement with regard to it—unless there was a general feeling in the House to the contrary tomorrow. 
+<speaker>MR. H. H. FOWLER</speaker> thought that there would be a very general feeling in the House tomorrow, notwithstanding the expressions of dissent he heard from several Members. The Criminal Law Amendment Bill would take at least two nights in Committee. He was quite sure the right hon. Gentleman the Member for Reading (Mr. Shaw Lefevre) would be glad to fall in with any arrangement with regard to the Telegraph Bill . He might suggest that if substantial progress was made with the Telegraph Bill , it could be postponed at a reasonable hour to allow the Criminal Law Amendment Bill to be taken. 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> said, it might be possible. 
+<speaker>MR. RAMSAY</speaker> Would the right hon. Gentleman state when the Secretary for Scotland Bill will be taken? [No reply.] It being Six of the clock the House stood adjourned till Tomorrow.

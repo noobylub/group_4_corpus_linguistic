@@ -1,0 +1,9 @@
+<FileID>137816</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/20/coast-defences-and-naval-volunteer-corps</URL>
+<Title>Coast Defences and Naval Volunteer Corps</Title>
+<DebRef>HL Deb 20 July 1885 vol 299 cc1153-61</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>26</WordCount>
+
+cc1153-5 QUESTION. OBSERVATIONS. 968 words cc1155-60 THE FINANCIAL REEOKM ASSOCIATION ALMANAC—OBSERVATIONS. 2,055 words c1160 POOR LAW GUARDIANS (IRELAND) BILL.—(No. 176.) 3 words cc1160-1 REPORT. 212 words

@@ -1,0 +1,10 @@
+<FileID>137673</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/africa-west-coast-cable-communication</URL>
+<Title>Africa (West Coast)—cable Communication</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc916-7</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>224</WordCount>
+
+
+<speaker>MR. PULESTON</speaker> asked the Secretary of State for the Colonies, Whether any, and, if so, what steps have been taken by Her Majesty's Government for opening cable communication with British Settlements on the West Coast of Africa and the Cape of Good Hope by the Atlantic route? THE SECRETARY OF STATE FOR THE COLONIES (Colonel STANLEY) As regards the establishment of a cable to the Cape of Good Hope by the Atlantic route, I find that the late Government fully recognized the advantages which would result from the duplication of the means of telegraphic communication with South Africa, but that they were not satisfied that they would be justified in incurring the heavy cost of establishing the line suggested. A letter has since been received from the Eastern Telegraph Company enclosing telegrams from their agent, to the effect that the Cape House of Assembly had passed a resolution in favour of a Western cable, and offering to deal with the question if an adequate subsidy were guaranteed. I have informed the Company that I do not think it possible to proceed with the consideration of this subject until after the receipt of further information as to the arrangements which may be contemplated by the Cape Government. The question of establishing telegraphic communication with the West African Colonies is still under consideration at the Treasury.

@@ -1,0 +1,9 @@
+<FileID>137996</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/land-law-ireland-act-1881-mr-sub</URL>
+<Title>Land Law (Ireland) Act, 1881—mr Sub-Commissioner Walpole</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 cc1789-800</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>4</WordCount>
+
+cc1789-800 REROLTUION. 4,096 words

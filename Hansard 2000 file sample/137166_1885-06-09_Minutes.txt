@@ -1,0 +1,9 @@
+<FileID>137166</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/09/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 09 June 1885 vol 298 c1516</DebRef>
+<SittingDate>1885-06-09</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>104</WordCount>
+
+PUBLIC BILLS— Second Reading —Local Government Provisional Orders (Poor Law) (No. 4) ٭ (123). Second Reading—Order discharged —Secretary for Scotland ٭ (117); Women's Suffrage ٭ (27); Marriage with a Deceased Wife's Sister ٭ (110); Burial Boards (Contested Elections) ٭ (105). Committee—Order discharged —Submarine Telegraph Cables ٭ (104). Report—Order discharged —Lunacy Acts Amendment ٭ (60); Parliamentary Elections (Redistribution) ٭ (129). Third Reading —Local Government (Ireland) Provisional Orders ( Public Health Act ) (No. 2) ٭ (83); Metropolis (Hughes Fields, Deptford) Provisional Order Confirmation ٭ (82); Metropolis (Tabard Street, Newington) Provisional Order Confirmation ٭ (81), and passed. Third Reading—Order discharged —East India Unclaimed Stocks ٭ (113).

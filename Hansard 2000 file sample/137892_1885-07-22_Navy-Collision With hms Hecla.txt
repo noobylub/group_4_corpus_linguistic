@@ -1,0 +1,13 @@
+<FileID>137892</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/22/navy-collision-with-hms-hecla</URL>
+<Title>Navy-Collision With hms Hecla</Title>
+<DebRef>HC Deb 22 July 1885 vol 299 cc1516-7</DebRef>
+<SittingDate>1885-07-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>241</WordCount>
+
+
+<speaker>MR. ONSLOW</speaker> asked the Secretary to the Admiralty, Whether he has any information in regard to the collision which is reported to have taken place yesterday between Her Majesty's ship Hecla and a steamer? 
+<speaker>THE SECRETARY TO THE ADMIRALTY (Mr. RITCHIE)</speaker> Yes, Sir; we have some information, which I will read to the House. We first received the following telegram from Admiral Phillimore, the Admiral Superintendent at Devonport, dated July 21, 8.25 P.M.:— Hecla just arrived after collision with English steamer, which sank, and nine lives lost. Hecla has 38 survivors, who, with passengers, will land here. Captain thinks that Hecla can go safely to Portsmouth; has large hole in bow covered by sail. The next telegram is dated July 22, 9.51 A.M., and is as follows:— Hecla will come into harbour at 1 P.M., and will be docked tomorrow afternoon; damage to bows very serious, extending to 7 or 8 feet under water. Coroner's inquest on two passengers who died from shock after being picked up will be held today. Captain Markham's letter left by early post, and will arrive about 6 P.M. I may add that instructions have been sent from the Admiralty ordering an inquiry to be made without delay as to the cause of the collision. 
+<speaker>MR. ONSLOW</speaker> Is there any loss of life on board the Hecla? 
+<speaker>THE SECRETARY TO THE ADMIRALTY (Mr. RITCHIE)</speaker> I have given the hon. Member all the information in our possession.

@@ -1,0 +1,11 @@
+<FileID>137780</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/navy-naval-hospitals-scrip-tore-readers-c</URL>
+<Title>Navy (Naval Hospitals)—scrip-Tore Readers, &C</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 c1199</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>104</WordCount>
+
+
+<speaker>MR. ARTHUR O'CONNOR</speaker> asked the First Lord of the Admiralty, Whether any orders exist regulating the admission to Naval Hospitals, at Home and Abroad, of scripture readers, or other persons engaged in religious instruction, other than the authorised chaplains; and, if so, whether such orders have been recently suspended, and by whoso authority, and for what reason? 
+<speaker>THE FIRST LORD OF THE ADMIRALTY (Lord GEORGE HAMILTON)</speaker> Scripture readers are under the control of the chaplains of the Naval Medical Establishments. No recent orders have been given by the Admiralty suspending any of the regulations enforced, the most recent of which were issued in 1878.

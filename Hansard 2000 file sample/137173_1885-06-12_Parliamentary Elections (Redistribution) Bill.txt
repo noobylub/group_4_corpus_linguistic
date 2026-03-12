@@ -1,0 +1,9 @@
+<FileID>137173</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/12/parliamentary-elections-redistribution</URL>
+<Title>Parliamentary Elections (Redistribution) Bill</Title>
+<DebRef>HC Deb 12 June 1885 vol 298 c1532</DebRef>
+<SittingDate>1885-06-12</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>7</WordCount>
+
+c1532 CONSIDERATION OF LORDS' AMENDMENTS. 33 words

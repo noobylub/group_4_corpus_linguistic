@@ -1,0 +1,11 @@
+<FileID>137942</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/agricultural-committee-of-the-privy</URL>
+<Title>Agricultural Committee of the Privy Council</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1633-4</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>203</WordCount>
+
+
+<speaker>MR. R. H. PAGET</speaker> asked, Whether the Chancellor of the Duchy of Lancaster would consent to lay on the Table a Return of the number of occasions on which the members of the Agricultural Committee of the Privy Council had been summoned to meet since the first appointment of the Committee in April, 1883; the names of the Committee present; and the official record, if any, of business transacted on each of such occasions? 
+<speaker>THE CHANCELLOR OF THE DUCHY (Mr. CHAPLIN)</speaker> No, Sir; I am afraid I cannot lay on the Table the Return for which my hon. Friend proposes to move, and for this reason. I have inquired into the matter; but I find there is no record in the Department of the Agricultural Committee, which was appointed in 1883. ever having been formally summoned, and consequently no record of the business transacted by them. With regard to the present Committee, it was only appointed on the 27th of June, and there has been no business before the Department to render such a course necessary. The hon. Member, however, will understand that it can be summoned at any time, and that it will be summoned at any time should the occasion arise.

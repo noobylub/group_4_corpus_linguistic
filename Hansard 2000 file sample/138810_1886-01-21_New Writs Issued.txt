@@ -1,0 +1,9 @@
+<FileID>138810</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/21/new-writs-issued-1</URL>
+<Title>New Writs Issued</Title>
+<DebRef>HC Deb 21 January 1886 vol 302 c87</DebRef>
+<SittingDate>1886-01-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>90</WordCount>
+
+For Carlow County, v. Edmond Dwyer Gray, esquire, who, having been returned as a Member for the said County of Carlow, and also for the Borough of Dublin (St. Stephen's Green Division), hath elected to sit for the Borough of Dublin (St. Stephen's Green Division). For Monaghan County (Northern Division), v. Timothy M. Healy, esquire, who, having been returned as a Member for the said County of Monaghan (Northern Division), and also for the County of Derry (Southern Division), hath elected to sit for the County of Derry (Southern Division).

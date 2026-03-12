@@ -1,0 +1,11 @@
+<FileID>138076</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/law-and-justice-ireland-the-earl-of</URL>
+<Title>Law and Justice (Ireland)—the Earl of Belfast, Clerk of the Peace, Co Antrim</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc53-4</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>272</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the Earl of Belfast holds, and has held for about 36 years, the office of clerk of the peace for the county of Antrim; whether he draws from this office, in salary and fees, about £1,600 per annum; whether the duties of the office are wholly performed by a deputy at Belfast; whether the clerk, the Earl of Belfast, lives in London, has no Irish address, and has not resided in the county Antrim, or in any part of Ireland, at any time for the past thirty years; whether the clerk is entitled to continue to hold his office, and draw his salary, without performing any of the duties, and without even attaching his signature to decrees of the county court judge, notices for Parliamentary registration, lists of voters, and other documents by law required to be signed by the clerk of the peace; and, how he acquired the office, what is his tenure of it, and whether the Government will take the needful steps to substitute for him a competent person residing in the county? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HABT DYKE)</speaker> I believe the hon. Member had given Notice of this Question before my right hon. and learned Friend the Attorney General for Ireland made a statement in Committee of Supply on the subject to which it refers. That statement was very full and explicit, and gave all the information that can be procured in answer to the Question. The hon. Member will, therefore. I am sure, not expect me to add anything to it.

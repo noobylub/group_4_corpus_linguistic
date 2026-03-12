@@ -1,0 +1,10 @@
+<FileID>136952</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/20/egypt-the-military-expedition-the-guards</URL>
+<Title>Egypt—the Military Expedition—the Guards</Title>
+<DebRef>HC Deb 20 May 1885 vol 298 c985</DebRef>
+<SittingDate>1885-05-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>107</WordCount>
+
+SIR HENRY FLETCHER I wish to ask my hon. and gallant Friend the Financial Secretary to the War Department a Question of which I have given him private Notice. The Question is to the effect, Whether the report is correct that the Brigade of Guards which was on its passage from Suakin to England has been ordered to stop at Alexandria; and if the reasons for its detention can be stated? 
+<speaker>SIR ARTHUR HAYTER</speaker> Yes, Sir. The Brigade of Guards have received orders to stop at Alexandria in case circumstances should render it desirable further to detain them; but they have not received orders to disembark men.

@@ -1,0 +1,14 @@
+<FileID>137149</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/crofters-holdings-scotland-bill</URL>
+<Title>Crofters' Holdings (Scotland) Bill</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 cc1416-7</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>262</WordCount>
+
+
+<speaker>MR. MACFARLANE</speaker> asked the Prime Minister, Whether, considering the number of Amendments to the Inland Revenue Bill , and the importance of some of them, he still intended to take the Crofters Bill on second reading tonight, even at a late hour? MR. GLADSTONE We have no intention of resuming discussion on that Bill at any such hour. 
+<speaker>MR. MACFARLANE</speaker> I am sorry to trouble the right hon. Gentleman further; but I understood he would not resume the discussion on this Bill between 1 and 2 o'clock. Is it understood that it will not come on tonight? MR. GLADSTONE If the other discussion should collapse it will come on. If that discussion goes on till midnight it certainly will not be taken. 
+<speaker>MR. FRASER-MACKINTOSH</speaker> said, that, arising out of the answer of the Prime Minister, he begged to draw attention to what occurred on the first reading of the Crofters Bill , [ Cries of "Order!"] 
+<speaker>MR. SPEAKER</speaker> The hon. Member will not be in Order in doing so. He is only entitled to put a Question. 
+<speaker>MR. FRASER-MACKINTOSH</speaker> My contention is this—that upon the conclusion of the first reading of the Crofters Bill I asked the Lord Advocate, who was in charge of the Bill, whether, in consequence of the lateness of the hour, and the scrimp discussion which then occurred, he would put the second reading down as the first Order of the Day, and his answer was that he would do so. In these circumstances, I ask that the Prime Minister will—[ Interruption, and cries of "Order!" and "Name!"]

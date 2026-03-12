@@ -1,0 +1,10 @@
+<FileID>136868</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/egypt-the-military-expedition-the-1</URL>
+<Title>Egypt (The Military Expedition;—the Australian Contingent</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 c718</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>93</WordCount>
+
+
+<speaker>MR. FINCH-HATTON</speaker> asked, Whether the Government had been able in any way to modify the decision not to invite the Australian contingent to visit this country? THE MARQUESS OF HARTINGTON Lord Wolseley's suggestion was communicated by the Agent General of New South Wales to the Colonial Government. The reply of that Government was to the effect that they entirely acknowledged the feeling which induced Lord Wolseley to suggest that a portion of the Contingent should visit this country before returning home; but their desire was that the whole Force should return at once.

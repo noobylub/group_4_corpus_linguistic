@@ -1,0 +1,11 @@
+<FileID>138097</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/egypt-mission-of-sir-h-drummond-wolff</URL>
+<Title>Egypt—mission of Sir H Drummond Wolff</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc65-6</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>120</WordCount>
+
+
+<speaker>SIR GEORGE CAMPBELL</speaker> asked, Whether the Government intended to propose any Supplementary Vote in connection with the Mission of the right hon. Member for Portsmouth (Sir H. Drummond Wolff), and whether the House would have an opportunity of discussing the matter? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> I have already stated to the House that we did not think it would be necessary to present a Supplementary Estimate for the expenses of the Mission of my right hon. Friend; but if there was any general desire on the part of the House to discuss the policy of that Mission, an opportunity would be afforded for the discussion. I am to be asked a Question on the subject tomorrow.

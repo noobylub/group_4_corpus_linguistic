@@ -1,0 +1,9 @@
+<FileID>138603</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/housing-of-the-working-classes-england</URL>
+<Title>Housing of the Working Classes (England) Bill [Lords]— [Bill 248]</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 cc1585-621</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>12</WordCount>
+
+( Secretary Sir R. Assheton Cross. ) cc1585-621 SECOND READING. 14,629 words

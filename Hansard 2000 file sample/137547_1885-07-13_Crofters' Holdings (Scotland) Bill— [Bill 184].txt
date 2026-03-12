@@ -1,0 +1,9 @@
+<FileID>137547</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/crofters-holdings-scotland-bill-bill-184</URL>
+<Title>Crofters' Holdings (Scotland) Bill— [Bill 184]</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc566-72</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>19</WordCount>
+
+( The Lord Advocate, Secretary Sir William Harcourt, Mr. Solicitor General for Scotland. ) cc566-72 SECOND READING. 2,413 words

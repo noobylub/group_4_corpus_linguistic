@@ -1,0 +1,16 @@
+<FileID>138582</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/parliamentary-voters-registration-of</URL>
+<Title>Parliamentary Voters—registration of Voters in Agricultural Districts</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 cc1568-9</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>404</WordCount>
+
+
+<speaker>MR. PICTON (for Mr. LABOUCHERE)</speaker> asked the President of the Local Government Board, Whether he is aware that in numerous agricultural districts the overseers are throwing obstacles in the way of persons being placed on the Registry of Parliamentary Voters, and that in some places, notably at Newmarket, no list has been placed on the church or chapel doors; and, whether he will take steps to see that the overseers do their duty in the matter? 
+<speaker>MR. BROADHURST</speaker> said, that he had received a letter that day stating that complaints were made in the That-ford district also on this subject. 
+<speaker>THE PRESIDENT (Mr. A. J. BALFOUR)</speaker> I have no information that overseers in agricultural districts are throwing obstacles in the way of persons being placed on the, Registry of parliamentary Voters. The overseers are in no way subject to the directions of the Local Government Board with regard to their registration duties. If they fail to comply with the statutory requirements they render themselves liable to a penalty. As regards Newmarket, which is referred to, I have communicated with the overseers. One of the overseers of All Saints', Newmarket, replies— Previous to August 1 a written list of voters was placed on the church door; but I believe that for some days there was no notice on the chapel door in consequence of a delay of the printers. There is now a list on both church and chapel doors. I may mention that the overseer appointed with me is an attendant at chapel and a Liberal in politics. 
+<speaker>MR. JESSE COLLINGS</speaker> asked whether, in view of the fact that this was practically new work, the President of the Local Government Board would address to the overseers a Memorandum pointing out the necessity of accuracy in making out these lists? In many parts, particularly in Suffolk, the overseers had made out those lists, and had not observed accuracy in the qualifications. 
+<speaker>THE PRESIDENT</speaker> said, he was not aware that the work was new in any special sense. It was always the duty of the overseers to place the lists on the church doors. 
+<speaker>MR. JESSE COLLINGS</speaker> asked the Home Secretary, whether he would give the Revising Barristers the largest latitude in the revision of the lists, and instruct them to be strict in the enforcement of the penalties against overseers? 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> I have no power in the matter.

@@ -1,0 +1,9 @@
+<FileID>137970</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/23/submarine-telegraph-cables-bill-no-104</URL>
+<Title>Submarine Telegraph Cables Bill—(no 104)</Title>
+<DebRef>HL Deb 23 July 1885 vol 299 cc1600-6</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>9</WordCount>
+
+( The Lord Sudeley. ) cc1600-6 COMMITTEE. 2,098 words

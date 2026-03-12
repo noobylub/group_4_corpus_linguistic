@@ -1,0 +1,9 @@
+<FileID>138047</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/26/medical-relief-disqualification-removal</URL>
+<Title>Medical Relief Disqualification Removal Bill</Title>
+<DebRef>HL Deb 26 July 1885 vol 300 cc214-5</DebRef>
+<SittingDate>1885-07-26</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc214-5 QUESTION. OBSERVATIONS. 664 words

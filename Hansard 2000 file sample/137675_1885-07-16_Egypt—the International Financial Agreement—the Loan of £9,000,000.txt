@@ -1,0 +1,11 @@
+<FileID>137675</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/egypt-the-international-financial</URL>
+<Title>Egypt—the International Financial Agreement—the Loan of £9,000,000</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 c918</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>147</WordCount>
+
+
+<speaker>MR. RUSTON</speaker> asked the Under Secretary of State for Foreign Affairs, Whether the agreement of this year between the Great Powers of Europe, for guaranteeing a loan of nine millions sterling, for the purpose of relieving the finances of Egypt, has been completed by the ratification of all the Powers who are parties thereto; and, if the sum of nine millions, or any part thereof (and, in that ease, how much), has been raised by means of this security, and handed over to the Egyptian Government, and at what date? 
+<speaker>THE UNDER SECRETARY OF STATE FOR FOREIGN AFFAIRS (Mr. BOURKE)</speaker> In reply to the first portion of the hon. Member's Question, I have to state that the Agreement referred to has not yet been completed by the ratification of all the Powers. As regards the second portion, no part of the sum mentioned has yet been raised.

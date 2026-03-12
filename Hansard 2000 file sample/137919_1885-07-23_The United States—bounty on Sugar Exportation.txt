@@ -1,0 +1,11 @@
+<FileID>137919</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/the-united-states-bounty-on-sugar</URL>
+<Title>The United States—bounty on Sugar Exportation</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1619-20</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>162</WordCount>
+
+
+<speaker>LORD CLAUD HAMILTON</speaker> asked the Parliamentary Secretary of the Board of Trade, Whether it is the fact that 73,000 tons of refined sugar have been imported from the United States in the first six months of this year, and that, according to statements made in America, a bounty of £2 per ton is paid by the United States Government on its exportation? 
+<speaker>THE SECRETARY TO THE BOARD (Baron HENRY DE WORMS)</speaker> It is a fact that 73,000 tons of refined sugar have been imported from the United States in the first six months of the present year. In reply to the latter part of the noble Lord's Question, I would say that Her Majesty's Minister at Washington has recently reported that a Commission has been appointed by the new Administration of the United States to consider the drawbacks, and that in some of the evidence taken before that Commission the present bounty on refined sugar has been estimated at £2 per ton.

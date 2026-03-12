@@ -1,0 +1,9 @@
+<FileID>138764</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/13/educational-endowments-ireland-bill-lords</URL>
+<Title>Educational Endowments (Ireland) Bill [Lords]</Title>
+<DebRef>HL Deb 13 August 1885 vol 301 c8</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>14</WordCount>
+
+( The Lord Chancellor of Ireland. ) c8 CONSIDERATION OF COMMONS' AMENDMENTS. 16 words

@@ -1,0 +1,10 @@
+<FileID>137499</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/railways-railway-couplings-accidents-to</URL>
+<Title>Railways — Railway Couplings — Accidents to Railway Servants</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c409</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>271</WordCount>
+
+
+<speaker>MR. BROADHURST</speaker> asked the Secretary to the Board of Trade, Whether, in consequence of the appalling loss of life, and the large number of nonfatal accidents, occurring annually to Railway servants engaged in shunting operations, through the present dangerous system of coupling, the Board of Trade directed the attention of their Inspecting Officers of Railways to an Exhibition of Railway Coupling Appliances held at Darlington on October the 3rd, and following days, 1882, with instructions to report thereon; and, if so, will a copy of that report be laid upon the Table of the House; and, whether the Board of Trade will depute one or more of their Inspecting Officers of Railways to examine and report on the various improved Railway couplings, designed with the view of minimising the risk to life and limb, now on view at the Inventions Exhibition; and, if so, will the Board of Trade recommend the adoption by the Railway Companies of such as may be favourably reported on? THE SECRETARY In reply to the hon. Member, I have to state that although some of the Inspecting Officers of the Board of Trade saw the Railway coupling appliances which were shown at the Darlington Exhibition in October, 1882, they did not make any Report to the Board in the matter, because they were not instructed to do so. With reference to the latter part of the Question, I would observe that some of the Inspecting Officers are serving on one of the juries of the Inventions Exhibition in connection with Railway appliances; and the Report of that jury will, no doubt, be made public later on.

@@ -1,0 +1,13 @@
+<FileID>137987</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/medical-relief-disqualification-removal</URL>
+<Title>Medical Relief Disqualification Removal Bill</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 cc1783-4</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>219</WordCount>
+
+
+<speaker>MR. HENEAGE</speaker> asked Mr. Chancellor of the Exchequer, Whether he still adheres to his statement that it is of the utmost importance that the Medical Relief Bill should be proceeded with without delay; and, whether the Government still intend to use every effort in order that it may become Law during the present month? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> Of course, the statement which the hon. Member quotes referred to the Bill as it was. But I am quite aware of the importance of time in this matter, and it is not at all the intention or the wish of Her Majesty's Government to do anything that would defeat this Bill by delay. What I said last night was that we could not assume the responsibility in regard to this Bill which we had hitherto assumed; and I adhere to that position. But if the third reading is moved tonight, as I apprehend it will be, I do not think that our disapproval of the change which has been made in the measure would justify us in opposing the third reading. 
+<speaker>MR. HENEAGE</speaker> What I wish to ask the right hon. Gentleman is, whether he will still consider it a Government measure after it has left this House? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I have already answered that Question.

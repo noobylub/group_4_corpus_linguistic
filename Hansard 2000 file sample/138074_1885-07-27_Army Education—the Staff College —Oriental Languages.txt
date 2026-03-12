@@ -1,0 +1,10 @@
+<FileID>138074</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/army-education-the-staff-college</URL>
+<Title>Army Education—the Staff College —Oriental Languages</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 c52</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>195</WordCount>
+
+COLONEL MILNE-HOME asked the Secretary of State for War, If, in accordance with a promise made by the late Secretary of State for War to the House on March 19th, 1885, the question of affording officers at the Staff College opportunities of studying modern Oriental languages has been considered; and what, if any, decision has been, arrived at? 
+<speaker>THE SECRETARY OF STATE FOR WAR (Mr. W. H. SMITH)</speaker> The question has been considered; but the course at the Staff College is so largely taken up in military studies that it is not thought advisable to introduce in any special manner the study of Oriental languages. Steps have, however, been taken for the formation of classes at Cairo and Alexandria for the study of Arabic, and rewards will be given to successful students by way of encouraging the acquisition of a knowledge of that language. I may add that, after much discussion, a scheme has been elaborated under which the Civil Service Commissioners will hold half-yearly examinations in any languages, including Oriental languages, for which officers may present themselves. There will be two degrees of qualification—one, the simple pass, the other a certificate for an interpretership.

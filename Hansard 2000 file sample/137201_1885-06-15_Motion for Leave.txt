@@ -1,0 +1,13 @@
+<FileID>137201</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/15/motion-for-leave</URL>
+<Title>Motion for Leave</Title>
+<DebRef>HC Deb 15 June 1885 vol 298 cc1590-1</DebRef>
+<SittingDate>1885-06-15</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>302</WordCount>
+
+
+<speaker>MR. JESSE COLLINGS</speaker> moved for leave to bring in a Bill to provide that no person shall be disqualified from voting at Parliamentary Elections by the receipt of Medical Relief for himself or for his family. 
+<speaker>MR. WARTON</speaker> rose to Order. He wished to know whether it was in Order that a Bill should be introduced dealing with a question which had already been several times discussed and decided by the House on another measure? Both in Committee, on the Report stage, and on the Lords' Amendments, the question raised by this Bill had been before the House. If this practice was adopted there would be no end to the proceedings of the House. Three times had this very question been discussed—once upon the Committee stage, again upon the Report, and now as an Amendment of the House of Lords. 
+<speaker>MR. CHARLES RUSSELL</speaker> maintained that, until the Bill was in the hands of Members, no such point of Order could be raised. 
+<speaker>Mr. SPEAKER</speaker> said, that he could not give a decision upon that point without seeing the Bill. If the Bill was substantially the same as a Bill upon which the House had come to a decision, it would be out of Order; but if it referred to a clause in a Bill which had been decided in different ways at different times, then he was clearly of opinion that it would not be irregular. Motion agreed to. M Bill to provide that no person shall be disqualified from voting at Parlimentary Elections by the receipt of Medical Relief from himself or for his family, ordered to be brought in by Mr. JESSE COLLINGS, Mr. DAVEY, Mr. BURT, Mr. BROADHURST, Mr. HENEAGE, Mr. REID, Mr. CHARLES RUSSELL, Mr. CHRBUTT, and Mr. AGNEW. Bill presented, and read the first time. [Bill 206.]

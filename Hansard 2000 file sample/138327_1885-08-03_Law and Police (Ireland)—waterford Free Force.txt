@@ -1,0 +1,12 @@
+<FileID>138327</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/law-and-police-ireland-waterford-free</URL>
+<Title>Law and Police (Ireland)—waterford Free Force</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c826</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>270</WordCount>
+
+
+<speaker>MR. P. J. POWER</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, What is the number of police county Waterford is entitled to as a Free Force; how many of that Force are at present stationed in the county; what is the number of extra police at present quartered in the county; what is the cost of the same for the current half-year; on what grounds is it thought necessary to employ these extra police; have the local magistrates been consulted; and, is it a fact that the number of cases returned for trial to quarter sessions and assizes for the last half-year has been small? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE),</speaker> in reply, said, the Free Force of Waterford was 219, of which number 213 were at present stationed in the county. The number of extra, men was 64, and the cost for the last half-year for which the account was made up—namely, to 31st March last—was £1,097. The number of cases returned for trial at the last Sessions and Assizes was small; but it was still considered necessary to give protection to several persons in the county. The subject was brought before the Grand Jury at the last Assizes, and they were satisfied that the extra Force was still required. He should add that the extra Force in that county had been reduced by 40 men since December, 1883. 
+<speaker>MR. P. J. POWER</speaker> asked whether the Grand Jury paid anything of the money required; and, also, why the Government could not rely upon the ordinary number of constables, as was done in England? [No reply.]

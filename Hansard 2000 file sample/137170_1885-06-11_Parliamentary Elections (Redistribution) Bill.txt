@@ -1,0 +1,9 @@
+<FileID>137170</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/11/parliamentary-elections-redistribution</URL>
+<Title>Parliamentary Elections (Redistribution) Bill</Title>
+<DebRef>HL Deb 11 June 1885 vol 298 c1521</DebRef>
+<SittingDate>1885-06-11</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>45</WordCount>
+
+Report of Amendments to be received Tomorrow; and Standing Order No. XXXV. to be considered in order to its being dispensed with. And having gone through the Business on the Paper without debate, House adjourned at a quarter past Four o'clock, till Tomorrow, Eleven o'clock.

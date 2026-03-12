@@ -1,0 +1,11 @@
+<FileID>138540</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/public-health-metropolis-state-of-the</URL>
+<Title>Public Health (Metropolis)— State of the River Lea</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 cc1456-7</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>130</WordCount>
+
+
+<speaker>MR. DANIEL GRANT</speaker> asked the President of the Local Government Board, Whether his attention has been directed to the present unsanitary condition of the River Lea, as depicted in the columns of The Standard; and, having regard to the part played by that river in one of the serious outbreaks of cholera in the Metropolis, whether it is his intention to take any steps to avert the possible recurrence of the like danger? 
+<speaker>THE PRESIDENT OF THE BOARD (Mr. A. J. BALFOUR)</speaker> , in reply, said, that he had already answered a similar Question, the reply being to the effect that a loan for works to euro the insanitary condition of the River Lea had already been sanctioned, and, pending the completion of those works, temporary works were in progress.

@@ -1,0 +1,10 @@
+<FileID>136964</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/prisons-ireland-the-late-royal</URL>
+<Title>Prisons (Ireland)—the Late Royal Commission—expenses of Medical Witnesses for Payment of Substitutes</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1015-6</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>268</WordCount>
+
+MR. MACARTNEY asked the Secretary to the Treasury, Whether it is the case that the medical officers of Her Majesty's Prisons in Ireland, who attended to give evidence in Dublin before the late Royal Commission on Irish Prisons, are being compelled by the Lords Commissioners of the Treasury to pay out of their own pockets the substitutes appointed by the Prisons Board to do their duties in their absence, and that under threat of dismissal if they do not comply; and, whether this is in accordance with the decision of Baron Dowse at last Summer Assizes in Galway in the case of "Rice v. Her Majesty's Prisons Board?" 
+<speaker>MR. HIBBERT</speaker> No, Sir; the facts are not correctly represented in this Question. The medical officers of Her Majesty's Prisons in Ireland, who gave evidence in Dublin before the late Royal Commission on Irish Prisons, received the same allowance as is paid to medical men appearing as witnesses before other Royal Commissions and Select Committees of this House. This allowance is calculated to cover professional losses, which include the payment of a substitute where necessary. If, therefore, the gentlemen who performed the duties of these medical officers during their absence had received any direct remuneration from the public funds, the same payment would have been made twice over. I feel sure that any objection on the part of such medical officers to pay the due amount to their substitutes must be founded on a misapprehension. The judicial opinion referred to is in substantial accordance with the Government's practice, though the technical form in which the payment is made is different.

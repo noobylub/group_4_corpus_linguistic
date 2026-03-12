@@ -1,0 +1,11 @@
+<FileID>138489</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/registration-of-voters-ireland-revision-1</URL>
+<Title>Registration of Voters (Ireland) —Revision Courts, Tyrone and Donegal</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 cc1273-4</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>221</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether, for the convenience and at the wish of large bodies of claimants and voters in Tyrone, the Irish Government will arrange that Castlederg and Strabane be made additional Revision Courts for North Tyrone, and Pomeroy an additional Court for East Tyrone, and that, for the accommodation of the barony of Lower Strabane, left without a Court by the existing arrangement, Gortin be selected for the sitting of the Court instead of Sixmilecross; and, whether, in order to moderate the hardship of the arrangement by which Courts for South Donegal are to be held only at Donegal and Ballyshannon, imposing a journey of about fifty miles on voters and claimants in the mountainous districts of the Division, the Government will arrange that a Court shall be held in Killybegs or Carrick? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> Strabane is already a Revision Court for North Tyrone, and Castlederg will be made one. Cookstown has been made the Court for East Tyrone. Pomeroy is within a few miles of Dungannon, with which it is connected by rail, and the district is itself too small for a separate Court. The question of substituting Gortin for Sixmilecross, and of making Killybegs an additional Court for South Donegal will be favourably considered.

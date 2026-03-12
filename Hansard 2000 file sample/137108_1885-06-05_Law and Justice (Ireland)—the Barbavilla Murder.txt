@@ -1,0 +1,12 @@
+<FileID>137108</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/05/law-and-justice-ireland-the-barbavilla</URL>
+<Title>Law and Justice (Ireland)—the Barbavilla Murder</Title>
+<DebRef>HC Deb 05 June 1885 vol 298 cc1345-6</DebRef>
+<SittingDate>1885-06-05</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>142</WordCount>
+
+
+<speaker>MR. T. D. SULLIVAN</speaker> I beg to give Notice that the following are the terms of the Resolution which I will move in Committee of Supply this evening in reference to the Barbavilla convictions:— That, in consequence of facts which have recently been ascertained bearing on the cases of persons now undergoing penal servitude for a conspiracy to murder, alleged to have taken place at Barbavilla, county of Westmeath, in March, 1882, it is desirable, in the interests of justice, that his Excellency the Lord Lieutenant should order a fresh inquiry to be held into the circumstances under which the convictions were obtained in those cases. 
+<speaker>MR. SPEAKER</speaker> said, the Motion could not be made, as the Notice was not sufficient. 
+<speaker>MR. T. D. SULLIVAN</speaker> Then, Mr. Speaker, I will not move the Motion; but I will call attention to the subject.

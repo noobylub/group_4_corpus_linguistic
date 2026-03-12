@@ -1,0 +1,11 @@
+<FileID>137836</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/general-gordon</URL>
+<Title>General Gordon</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 cc1395-6</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>289</WordCount>
+
+
+<speaker>MR. RAIKES</speaker> asked the Under Secretary of State for Foreign Affairs, If there is any foundation for the statement reported to have been made by M. do Billing, recently a French Diplomatic Agent in Egypt, that an offer to ransom General Gordon for 1,250,000 francs, by the Mahdi, was submitted to the late Cabinet, and declined by them? 
+<speaker>THE UNDER SECRETARY OF STATE FOR FOREIGN AFFAIRS (Mr. BOURKE)</speaker> In reply to my right hon. Friend I have to state that there is no record in the Foreign Office upon this subject; but Lord Granville has authorized Lord Salisbury to make the following statement upon it: — Lord Granville was acquainted with M. de Billing as a youth, and subsequently with him when employed in the French Diplomatic Service. But M. de Billing has since been dismissed from the French Service; and there were other circumstances which impaired the confidence which Lord Granville might have placed in M. de Billing at an earlier period. In May, 1884, M. de Billing made an offer to obtain the ransom of General Gordon for £50,000, and upon other conditions. Lord Lyons transmitted the offer to Lord Granville, but pointed out that he made no recommendation on the subject. M. de Billing offered his personal guarantee for those whom he represented; but he did not name or describe them. The first step was to pay over £2,000 to a person to be designated by M. de Billing. Lord Granville, after consultation with the right hon. Member for Mid Lothian (Mr. Gladstone) and with the noble Lord the late Secre- tary of State for War (the Marquess of Hartington), who made further inquiries, instructed Lord Lyons, for various reasons of weight, to decline the offer.

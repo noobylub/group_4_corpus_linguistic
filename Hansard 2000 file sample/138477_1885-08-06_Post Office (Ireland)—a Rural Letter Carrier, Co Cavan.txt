@@ -1,0 +1,11 @@
+<FileID>138477</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/post-office-ireland-a-rural-letter</URL>
+<Title>Post Office (Ireland)—a Rural Letter Carrier, Co Cavan</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 cc1266-7</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>66</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Postmaster General, Whether Andrew Norris, rural letter carrier for the Shercock and Knappa District of county Cavan, absented himself from his duties on the 13th July; and, if so, did he have leave of absence from his postmaster? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS)</speaker> I am informed that on the 13th of July the letter carrier in question was absent on leave.

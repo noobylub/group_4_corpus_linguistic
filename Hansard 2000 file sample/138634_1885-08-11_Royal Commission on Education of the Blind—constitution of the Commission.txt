@@ -1,0 +1,13 @@
+<FileID>138634</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/royal-commission-on-education-of-the</URL>
+<Title>Royal Commission on Education of the Blind—constitution of the Commission</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 c1727</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>150</WordCount>
+
+
+<speaker>MR. DAWSON</speaker> asked Mr. Chancellor of the Exchequer, Whether it is his intention to place an Irishman on the Royal Commission of Inquiry into the Education of the Blind, so that the interests of the blind in that country may be the more efficiently considered and protected? 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS)</speaker> (who replied) said, that the Commission was practically appointed by the late Government. He had since placed two Gentlemen on the Commission. If an application from Ireland or Scotland were pressed upon him, he should not object to it. 
+<speaker>MR. SEXTON</speaker> May I ask the right hon. Gentleman what steps will be taken in order to secure the appointment of one Member from Ireland? THE SECRETARY OF STATE If a serious application were made from Ireland or Scotland, I would gladly consider it. 
+<speaker>MR. SEXTON</speaker> We are quite serious about it.

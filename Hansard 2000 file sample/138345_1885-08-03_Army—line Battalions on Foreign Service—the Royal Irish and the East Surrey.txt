@@ -1,0 +1,11 @@
+<FileID>138345</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/army-line-battalions-on-foreign-service</URL>
+<Title>Army—line Battalions on Foreign Service—the Royal Irish and the East Surrey</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc839-40</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>92</WordCount>
+
+
+<speaker>MR. ARTHUR O'CONNOR</speaker> asked the Secretary of State for War, Whether he has observed the very long periods for which certain line battalions have been kept on foreign service, especially the 1st battalion Royal Irish and the 2nd battalion East Surrey, each of which regiments has now two battalions abroad; and, if he will direct that arrangements be made for their early relief? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> The two battalions referred to will be among the first to come home whenever the garrison of Egypt can be reduced.

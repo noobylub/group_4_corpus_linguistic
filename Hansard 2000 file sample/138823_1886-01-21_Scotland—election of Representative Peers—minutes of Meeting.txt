@@ -1,0 +1,10 @@
+<FileID>138823</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1886/jan/21/scotland-election-of-representative</URL>
+<Title>Scotland—election of Representative Peers—minutes of Meeting</Title>
+<DebRef>HL Deb 21 January 1886 vol 302 c84</DebRef>
+<SittingDate>1886-01-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>118</WordCount>
+
+
+<speaker>THE LORD CHANCELLOR</speaker> acquainted the House that the Clerk of the Parliaments had received (by post) from the Lord Clerk Register of Scotland, the minutes of the meeting hold on the 10th of December last of the Peers of Scotland for the election of their representatives to sit and vote in the ensuing Parliament of the United Kingdom; and also, Return by the Lord Clerk Register of Scotland concerning Titles of Peerages called at the said meeting, in right of which respectively no vote had been received and counted for fifty years last past as at the date of the said meeting: The same was ordered to lie on the Table. c84 PARISH CHURCHES BILL [H.L.] 43 words

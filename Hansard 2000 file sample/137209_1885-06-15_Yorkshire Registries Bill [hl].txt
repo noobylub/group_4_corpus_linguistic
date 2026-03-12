@@ -1,0 +1,9 @@
+<FileID>137209</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/15/yorkshire-registries-bill-hl</URL>
+<Title>Yorkshire Registries Bill [hl]</Title>
+<DebRef>HL Deb 15 June 1885 vol 298 c1535</DebRef>
+<SittingDate>1885-06-15</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>36</WordCount>
+
+A Bill to amend the Yorkshire Registries Act, 1884 —Was presented by The Lord WENLOCK; read 1 a . (No. 133.) House adjourned at a quarter before Five o'clock, till Tomorrow, a quarter past Ten o'clock.

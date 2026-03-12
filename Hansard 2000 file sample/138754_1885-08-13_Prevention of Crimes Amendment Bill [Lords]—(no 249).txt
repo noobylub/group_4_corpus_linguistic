@@ -1,0 +1,9 @@
+<FileID>138754</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/13/prevention-of-crimes-amendment-bill</URL>
+<Title>Prevention of Crimes Amendment Bill [Lords]—(no 249)</Title>
+<DebRef>HL Deb 13 August 1885 vol 301 cc1-3</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>13</WordCount>
+
+( The Earl of Milltown. ) cc1-3 CONSIDERATION OF COMMONS' AMENDMENTS. 410 words

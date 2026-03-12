@@ -1,0 +1,11 @@
+<FileID>138830</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/22/china-the-reported-loan</URL>
+<Title>China—the Reported Loan</Title>
+<DebRef>HC Deb 22 January 1886 vol 302 c191</DebRef>
+<SittingDate>1886-01-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>290</WordCount>
+
+MR. M'LAREN asked the Under Secretary of State for Foreign Affairs, Whether he can give any information respecting the truth of the rumours that a Chinese Loan is being negotiated by a foreign syndicate in Germany for the construction of Railways in China; whether any inducements have been offered by Her Majesty's Government to the Chinese Government to raise their loans for public works in the London Money Market; and, whether Her Majesty's Government have taken any steps to secure for British manufacturers all contracts for Railway material required by China? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> We have heard the rumour referred to by the hon. Member; but we have no means of knowing whether any loan will be brought out by the Syndicate in question. The attention of Her Majesty's Chargéd' Affaires at Pekin has, however, been called to the subject. It would be altogether contrary to the usual practice of the British Government to interfere with the manner in which the Government of China may see fit to raise loans. Her Majesty's Government will, if the occasion arises, be ready to give such assistance as they can properly afford in support of British manufacturing and commercial interests in China; but they could not take the steps suggested in the third clause of the hon. Member's Question. MR. M'LAREN Are we to understand that the right hon. Gentleman lays down the principle that the Government will, in no circumstances, interfere with foreign Governments on behalf of English commerce in competition with the commerce of other countries? 
+<speaker>MR. BOURKE</speaker> I said just the reverse. I said the Government would always be very glad to give such support as may properly be given to gentlemen engaged in commercial affairs.

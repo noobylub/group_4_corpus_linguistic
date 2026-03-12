@@ -1,0 +1,11 @@
+<FileID>137067</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/04/sea-and-coast-fisheries-ireland-the</URL>
+<Title>Sea and Coast Fisheries (Ireland)— The Trawling Ground at Portstewart Bay</Title>
+<DebRef>HC Deb 04 June 1885 vol 298 c1186</DebRef>
+<SittingDate>1885-06-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>193</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether he is aware that great damage has been done to the trawling ground of Portstewart Bay by the discharge into it from a steamer of a quantity of stones, clay, and gravel dredged from the Bann, amounting to about 200 tons a day; whether this has caused the loss of the nets belonging to some fishermen; whether the clam bait bed has been destroyed by the deposit; by what authority the dredged stuff has been so discharged; and, what stops will be taken to protect the fishing industry? 
+<speaker>MR. CAMPBELL-BANNERMAN</speaker> No complaint had been made to the Inspectors of Fisheries on this subject; hut on receipt of the Notice of this Question they made inquiries, and they have been in communication with the Harbour Commissioners of Coleraine, under whoso authority the dredging is carried out. The Harbour Commissioners at once set inquiries on foot, and they state that, if it turns out that the present system causes damage either to the trawling ground or to the nets, they are quite willing to dispose of the material in some other way.

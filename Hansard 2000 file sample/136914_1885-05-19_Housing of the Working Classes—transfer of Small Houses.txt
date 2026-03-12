@@ -1,0 +1,11 @@
+<FileID>136914</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/housing-of-the-working-classes-transfer</URL>
+<Title>Housing of the Working Classes—transfer of Small Houses</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 cc946-7</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>93</WordCount>
+
+
+<speaker>MR. BUCHANAN</speaker> asked Mr. Chancellor of the Exchequer, Whether he will take steps to carry out the recommendation of the Royal Commission for the Housing of the Working Classes (Second Report, page 8) to reduce the expenses of transfer of small houses by an abatement of the Stamp Duties, and (in Scotland) of the fees connected with registration? 
+<speaker>MR. HIBBERT</speaker> (who replied) said: The recommendations of the Royal Commission and the evidence on which they are founded will, in due course, be carefully considered by my right hon. Friend and by the Treasury.

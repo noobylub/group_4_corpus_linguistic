@@ -1,0 +1,13 @@
+<FileID>136978</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/central-asia-afghanistan-proclamation-of</URL>
+<Title>Central Asia—afghanistan—proclamation of the Ameer</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1027</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>115</WordCount>
+
+
+<speaker>MR. GIBSON</speaker> asked the Under Secretary of State for Foreign Affairs, Has Her Majesty's Government received confirmation of the statement in The Times of May 19tb, that the Ameer has issued a proclamation complimenting his troops on their gallantry at Penjdeh, and laying stress on the value of the British alliance; and, whether he will lay a Copy of the Ameer's proclamation upon the Table? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> We have no information as to the contents of the Ameer's Proclamation. 
+<speaker>MR. GIBSON</speaker> Will not the noble Lord make some inquiries? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> The Ameer, we are informed, did issue a Proclamation; but no details whatever are given. I have no objection to make inquiries.

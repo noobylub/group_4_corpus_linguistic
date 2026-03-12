@@ -1,0 +1,9 @@
+<FileID>137875</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/revising-barristers-bill</URL>
+<Title>Revising Barristers Bill</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 c1514</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>40</WordCount>
+
+On Motion of Mr. ATTORNEY GENERAL, Bill to remove doubts as to the appointment of Revising Barristers, ordered to be brought in by Mr. ATTORNEY GENERAL and Secretary Sir RICHARD CROSS. Bill presented, and read the first time. [Bill 237.]

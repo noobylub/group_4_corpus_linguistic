@@ -1,0 +1,17 @@
+<FileID>138633</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/royal-commission-on-the-depression-of</URL>
+<Title>Royal Commission on the Depression of Trade and Industry— Constitution of the Commission</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1726-7</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>212</WordCount>
+
+
+<speaker>MR. ARTHUR ARNOLD</speaker> asked Mr. Chancellor of the Exchequer, Whether the Memorandum to be submitted to the Commissioners in the Royal Commission on Depression of Trade and Industry would be communicated to the House before the end of the Session? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> My noble Friend (the Earl of Iddesleigh) stated yesterday that he intended to lay the Memorandum on the Table of the House of Lords, and it will also be laid on the Table of this House. 
+<speaker>MR. ARTHUR ARNOLD</speaker> It is in the House of Lords' Report today. 
+<speaker>MR. BROADHURST</speaker> inquired whether the right hon. Gentleman could now state the name of the second workman to be nominated on the Commission? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I understand that my noble Friend is at present in communication with more than one person upon this subject; but I am not able to state any name at present. 
+<speaker>MR. BROADHURST</speaker> Will any opportunity be given to the House for the discussion of the composition of this Commission? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I am afraid, Sir, that I cannot make a promise. 
+<speaker>MR. BROADHURST</speaker> intimated that, in view of the importance of the subject, he should call attention to it on the Motion for the adjournment of the House.

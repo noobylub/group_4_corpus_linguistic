@@ -1,0 +1,12 @@
+<FileID>138299</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/bill-121-third-reading</URL>
+<Title>[Bill 121] Third Reading</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 cc809-11</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>376</WordCount>
+
+Order for Third Reading read, and discharged. Motion made, and Question proposed, "That the Bill be recommitted in respect of Clause 2."—( Mr. Shaw Lefevre. ) MR. ALDERMAN W. LAWRENCE proposed that the Bill be recommitted in order to introduce two new clauses. The object of the clauses he wished to introduce was that the initials of the Metropolitan districts should not be counted as words, and that the names of streets, gardens, squares, parks, crescents, crosses, lanes, and so forth, and the names of islands, bays, harbours, levels, and so forth, should be counted as one word only. Amendment proposed, to add, at the end of the Question, the words "and in respect of two new clauses."—( Mr. Alderman W. Lawrence. ) Question proposed, "That those words be there added." 
+<speaker>MR. SHAW LEFEVRE</speaker> said, it was quite impossible for him to accept either of the alterations suggested by the hon. Gentleman. Question put, and negatived. Main Question put, and agreed to. Bill recommitted in respect of Clause 2; considered in Committee. (In the Committee.) 
+<speaker>MR. SHAW LEFEVRE</speaker> proposed to omit from line 30 "1 d. for each additional two words, or parts of words," for the purpose of inserting "½ d. for each additional word." Amendment proposed, In Clause 2, line 30, to leave out the words "1 d. for each additional two words, or parts of words," and insert ½ d. for each additional word."—( Mr. Shaw Lefevre. ) Amendment agreed to. Bill reported, with an Amendment; as amended, considered. 
+<speaker>MR. SHAW LEFEVRE</speaker> hoped the House would now read the Bill the third time. Motion made, and Question proposed, "That the Bill be now read the third time."—( Mr. Shaw Lefevre. ) MR. ALDERMAN W. LAWRENCE hoped the right hon. Gentleman the late Postmaster General (Mr. Shaw Lefevre) would consider whether names of streets should not in all cases be charged as one word only. He could not see why Piccadilly, which had 10 letters in it, should be charged as one word, while Pall Mall, in which there were only eight letters, should be charged as two words. The refusal to make the alterations he suggested would cause great irritation to many persons. Motion agreed to. Bill read the third time, and passed.

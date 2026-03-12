@@ -1,0 +1,11 @@
+<FileID>137519</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/india-defences-of-the-northwest-frontier</URL>
+<Title>India—defences of the Northwest Frontier</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc423-4</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>186</WordCount>
+
+
+<speaker>MR. BUCHANAN</speaker> asked the Secretary of State for India, Whether Her Majesty's Government, or the Government of India, intend to construct any Military railways, roads, or other works, on or beyond the North Western frontier of India besides those mentioned in the Despatch of the Government of India of the 22nd September 1844 and the Bolan Railway? The hon. Member also inquired whether there was any truth in the statement that Her Majesty's Government intended to form a military cordon at or near Candahar, or to take any other steps for the occupation of that place? 
+<speaker>THE SECRETARY OF STATE FOR INDIA (Lord RANDOLPH CHURCHILL)</speaker> In reply to the Question on the Paper, I have to say that I have no knowledge of any intention on the part of Her Majesty's Government or the Government of India to construct any military roads or railways or other works besides those mentioned in the despatch of the 22nd of September, 1884. With regard to the further Question of the hon. Member, it appears to me that he has for the moment forgotten that Afghanistan is an independent State.

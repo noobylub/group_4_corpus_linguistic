@@ -1,0 +1,15 @@
+<FileID>138215</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/navy-dockyard-expenditure</URL>
+<Title>Navy—dockyard Expenditure</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc515-6</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>287</WordCount>
+
+
+<speaker>MR. PULESTON</speaker> asked the First Lord of the Admiralty, Whether he will lay upon the Table the terms of reference under which the departmental inquiry into Dockyard Expenditure is to be made? 
+<speaker>THE FIRST LORD (Lord GEORGE HAMILTON)</speaker> There has been a good deal of misapprehension concerning this Committee, which was appointed by my Predecessor, though I have nominated the Chairman. The terms are to inquire into direct or incidental and establishment charges at Her Majesty's Dockyards, especially as to reclassification of items, and securing the economical expenditure tinder these items; the arrangements under which Dockyard expenditure is apportioned to ships; the nature of expenditure other than that charged direct to ships in the expense accounts; the present distribution of these charges to ships, and what are termed national charges; what system of accounts can be most advantageously adopted to insure these charges being subjected to effective supervision and local financial audit; and whether the payment by the Government of India of 10 per cent on the value of supplies to the Indian troopships is sufficient. The object of the Committee is not to investigate and report generally upon Dockyard management and expenditure, but to reclassify and simplify certain details connected with the expenditure with a view of subjecting them to effective supervision and audit. 
+<speaker>SIR H. DRUMMOND WOLFF</speaker> asked whether the terms of the reference would include an inquiry into the wages of the Dockyard employés? 
+<speaker>LORD GEORGE HAMILTON</speaker> said, no such inquiry would be made by the Committee; but it was one of the functions of the Admiralty to look into such grievances, and any Memorials properly drawn up would receive their attention. 
+<speaker>SIR H. DRUMMOND WOLFF</speaker> They do not. 
+<speaker>LORD GEORGE HAMILTON</speaker> They will.

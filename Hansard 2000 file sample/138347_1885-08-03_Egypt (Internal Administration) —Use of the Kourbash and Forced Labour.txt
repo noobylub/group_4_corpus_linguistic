@@ -1,0 +1,11 @@
+<FileID>138347</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/egypt-internal-administration-use-of-the</URL>
+<Title>Egypt (Internal Administration) —Use of the Kourbash and Forced Labour</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc840-1</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>222</WordCount>
+
+
+<speaker>MR. VILLIERS STUART</speaker> asked the Under Secretary of State for Foreign Affairs, Whether he is aware that, in the more remote provinces of Egypt, the arbitrary and capricious use of the kourbash still continues; that no progress has yet been made in reforming the system of forced labour; that the peasantry are still compelled under the lash to excavate canals with their fingers; that neither tools nor food nor shelter are provided for them; that no steps have been taken to deal with the evils of village usury, or to emancipate the peasantry from its baneful consequences; that these and other reforms necessary for the development and prosperity of the Country have remained in abeyance owing to the bankrupt condition of the Egyptian Treasury; and, whether, now that the financial difficulties have been surmounted, Her Majesty's Government are prepared to press forward all urgently needed reforms, and to win thereby the goodwill of the Egyptian people? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE),</speaker> after thanking the hon. Member for sending him communications containing information on the subject, and also reminding him of some answers which were given by the late Government with regard to this subject, said, he could find no record at all in the Foreign Office which corroborated in any way the statements in the Question of the hon. Member.

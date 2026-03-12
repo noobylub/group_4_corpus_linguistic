@@ -1,0 +1,11 @@
+<FileID>137136</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/egypt-military-operations-in-the-soudan</URL>
+<Title>Egypt (Military Operations in the Soudan)—the Indian Contingent</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 c1406</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>242</WordCount>
+
+
+<speaker>SIR GEORGE CAMPBELL</speaker> asked the Under Secretary of State for India, Whether there is any truth in the complaints of the Indian newspapers of the failure to send to India particulars of the losses among the Native officers and men employed in the Soudan; and, if he can say that such information has yet been furnished in regard to both soldiers and camp followers, and that it will be communicated to the relatives, as is done in this Country, and pensions and gratuities will be awarded to the families of those who have fallen? 
+<speaker>MR. J. K. CROSS</speaker> I have not seen the report referred to; but I may inform my hon. Friend that the Secretary of State for War instructed General Graham two months ago to telegraph at once, and in future, to the War Office and direct to India the number and classes of camp followers killed or wounded. The particulars of the losses among the Native officers and men would be sent as a matter of course to the regimental depots, whence they would be communicated to the families. Nominal rolls of both soldiers and officers will have been sent by the weekly mails by Commanding Officers of regiments and Departments of all classes. Copies of these rolls have been received at the India Office. The pensions and gratuities authorized by the Indian Regulations for troops and followers will be awarded to the families of those who have fallen.

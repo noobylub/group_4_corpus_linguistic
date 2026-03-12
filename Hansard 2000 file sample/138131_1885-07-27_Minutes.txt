@@ -1,0 +1,9 @@
+<FileID>138131</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/27/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 27 July 1885 vol 300 c1</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>118</WordCount>
+
+Select Committee— Fifth Report —Office of the Clerk of the Parliaments and Office of the Gentleman Usher of the Black Rod. [No. 210]. PUBLIC BILLS— First Reading —Medical Relief Disqualification Removal (207); Metropolitan Board of Works (Money) * (209). Committee —Public Health (Members and Officers) * (194). Committee—Report —Shannon Navigation * (184); Polehampton Estates * (183); National Debt * ; School Boards * (200); Exchequer and Treasury Bills * ; Greenwich Hospital * (201). Report —Post Office Sites. * (181); River Thames (No. 2) * (171). Third Reading —Waterworks Clauses Act (1847) Amendment (127); Turnpike Acts Continuance * (174); Public Health (Ships, &c.) * (186); Artillery and Rifle Ranges * (193); Submarine Telegraph Cables * (203), and passed.

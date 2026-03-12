@@ -1,0 +1,9 @@
+<FileID>138672</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/11/lords-amendments</URL>
+<Title>Lords' Amendments</Title>
+<DebRef>HC Deb 11 August 1885 vol 300 cc1858-9</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>121</WordCount>
+
+Lords' Amendments considered. Amendment proposed, After "steam launch," insert "and for the prevention of the pollution of the river by the sewage of any house boat or steam launch."— ( Mr. W. S. Smith. ) Amendment agreed to. Amendment proposed, To add to the Lords Amendment—"Or to give any riparian owner any right as against the public which he did not possess before the passing of this Act to exclude any person from navigating any backwater, channel creek, bay, or water way, whether deemed part of the River Thames, as defined by this Act, or not."—( Mr. W. M. Smith. ) Amendment agreed to. Lords Amendments, as amended, agreed to. House adjourned at twelve minutes before Four o'clock in the morning.

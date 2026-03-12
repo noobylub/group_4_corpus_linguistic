@@ -1,0 +1,11 @@
+<FileID>138721</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/post-office-ireland-west-of-ireland-mail</URL>
+<Title>Post Office (Ireland)—west of Ireland Mail Service</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c14</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>85</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Financial Secretary to the Treasury, Whether the arrangement for the improved mail service between Dublin and the West of Ireland has been completed; and, if so, on or about what date the new service may be expected to begin? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> I think I can safely say that a new contract for the conveyance of the mails on the Midland Great Western Railway of Ireland will come into force on the 1st of October next.

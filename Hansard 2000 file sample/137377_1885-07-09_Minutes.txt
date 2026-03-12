@@ -1,0 +1,9 @@
+<FileID>137377</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 cc111-2</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>201</WordCount>
+
+NEW WRIT ISSUED— For Horsham, v. Sir Henry Fletcher, baronet, Groom in Waiting. SELECT COMMITTEE — School Board Elections (Voting), Mr. Arthur Balfour and Viscount Folkestone added; Kitchen and Refreshment Booms, Mr. Sidney Herbert added. SUPPLY— considered in Committee — Resolutions [July 8] reported. WAYS AND MEANS— considered in Committee- — Four Million Pounds, Exchequer Bills or Treasury Bills. PUBLIC BILLS — Resolution in Committee — Ordered — First Reading —Licensing Laws Amendment * [226]. Ordered — First Reading —Customs and Inland Revenue (No. 2) * [223]; Deeds of Arrangement Registration * [225]; Metropolitan Board of Works (Money) * [224]. First Reading —Ecclesiastical Commissioners * [227]. Second Reading — Criminal Law Amendment * [159]; Federal Council of Australasia [165]; Turnpike Acts Continuance * [218]; Yorkshire Registries * [211]; Factory Acts (Extension to Shops) [23]. Select Committee —Pluralities [22], nominated. Committee — Public Health (Members and Officers)[114]—R.P.; Parliamentary Elections (Corrupt Practices) [148]—R.P. Committee — Report — Copyhold Enfranchisement [26]. Considered as amended — Third Reading— Shannon Navigation * [171]; River Thames (No. 2) [90], and passed. Third Reading —Local Government (Ireland) Provisional Order (Labourers Act) (No. 5) * [186], and passed. Withdrawn —Marriages Validity * [103]; Police [113]; Intermediate Education, Wales [195].

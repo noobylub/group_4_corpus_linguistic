@@ -1,0 +1,11 @@
+<FileID>137864</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/second-reading-1</URL>
+<Title>Second Reading</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 cc1511-2</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>247</WordCount>
+
+Order for Second Reading read. Motion made, and Question proposed, "That the Bill be now read a second time."—( Mr. Attorney General for Ireland. ) 
+<speaker>MR. SEXTON</speaker> said, he should be glad if the right hon. and learned Gentleman would introduce a clause for enforcing the retirement of persons who did not discharge the duties of their office. He should be much more disposed to give his support to the Bill if it contained a provision of that kind. 
+<speaker>MR. T. P. O'CONNOR</speaker> said, he wished to press upon the attention of the right hon. and learned Attorney General for Ireland (Mr. Holmes) the question which had been raised by his hon. Friend the Member for Sligo (Mr. Sexton). He had no desire to put any obstacle in the way of the Bill; but he thought that a clause of the kind suggested ought to be introduced. He found that the name of one gentleman was given in the Bill without any address. He did not know where the gentleman lived, but he understood that he had not performed the duties of his Office for a lengthened period—in fact, that he had not been in Ireland for a long time. He did not think it was right that a gentleman should reside in England, and yet hold an Office in Ireland; and, therefore, he hoped that attention would be given to this case. Question put, and agreed to. Bill read a second time, and committed for Thursday.

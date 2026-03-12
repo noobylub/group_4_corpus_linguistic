@@ -1,0 +1,11 @@
+<FileID>138481</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/post-office-mails-to-the-western-islands</URL>
+<Title>Post Office—mails to the Western Islands</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 c1269</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>108</WordCount>
+
+
+<speaker>LORD COLIN CAMPBELL</speaker> asked the Secretary to the Treasury, Whether it has been decided to give additional grants for the purpose of defraying the cost of new arrangements for accelerating the Mails to the Western Islands; and, if so, whether the Treasury will authorise the Postmaster General to make such arrangements without delay? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> It has been decided to make a very considerable addition to the present cost of the Mail Service to the Southern Hebrides; and a letter goes this day from the Treasury to the Postmaster General, which should enable him to settle the matter at an early date.

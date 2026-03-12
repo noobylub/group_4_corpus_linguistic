@@ -1,0 +1,9 @@
+<FileID>136888</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 c910</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>109</WordCount>
+
+PRIVATE BILLS ( by Order )— Third Reading —Barrington's Hospital; North Wales Narrow Gauge Railways (Extensions, &c), ٭ and passed. Considered as amended —Metropolitan Board of Works; North British Railway; South Eastern Railway (Various Powers). ٭ PUBLIC BILLS— Ordered — First Reading —Local Government (Ireland) Provisional Orders (Labourers Act) (No. 4) ٭ [185]; Local Government (Ireland) Provisional Orders (Labourers Act) (No. 3) ٭ [186]. First Reading —Princess Beatrice's Annuity ٭ [187]. Second Reading —Commons Inclosure (Llanybyther) Provisional Order ٭ [175]: Commons Regulation (Ashdown Forest) Provisional Order ٭ [174]; Commons Regulation (Drumburgh) Provisional Order ٭ [173]; Tramways Provisional Orders (No. 2) ٭ [166]; Tramways Provisional Orders (No. 3) ٭ [167].

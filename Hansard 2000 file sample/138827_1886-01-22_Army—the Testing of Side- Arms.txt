@@ -1,0 +1,11 @@
+<FileID>138827</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/22/army-the-testing-of-side-arms</URL>
+<Title>Army—the Testing of Side- Arms</Title>
+<DebRef>HC Deb 22 January 1886 vol 302 c187</DebRef>
+<SittingDate>1886-01-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>259</WordCount>
+
+
+<speaker>COLONEL SALIS-SCHWABE</speaker> asked the Secretary of State for War, Whether sidearms, more especially Cavalry swords, used to be and are now subjected to a test by a viewer or official of the Ordnance Department before issue, and whether each Cavalry sword or other sidearm used to be and is marked, so that the viewer who passed it fit for use can be identified; and, whether several sidearms, especially Cavalry swords, have, within the last three years, been found, after issue to Her Majesty's troops, to be unable to stand the test which they should have undergone before issue; and, if that be the case, whether the viewers or officials of the Ordnance Department who passed such sidearms are still employed in the public service? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH]</speaker> All sidearms, including Cavalry swords, are and have been subjected to a test by a viewer before issue to troops; and every arm so tested is marked in such a manner that the viewer by whom it has been passed can be identified. No sidearms have been found within the last three years unable to withstand, after issue to the troops, the tests to which they should have been and were subjected before issue. It is, however, to be observed that a far more severe test of fitness than that hitherto adopted officially has recently been applied to sidearms in the possession of the troops; and, I may add, the future standard of efficiency at the time of issue will be regulated by this more stringent trial.

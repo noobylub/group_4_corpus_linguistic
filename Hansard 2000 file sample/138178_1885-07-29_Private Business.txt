@@ -1,0 +1,9 @@
+<FileID>138178</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/29/private-business</URL>
+<Title>Private Business</Title>
+<DebRef>HC Deb 29 July 1885 vol 300 c385</DebRef>
+<SittingDate>1885-07-29</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>11</WordCount>
+
+c385 RATHMINES AND EATHGAE TOWNSHIP BILL [Lords] (by Order.) 178 words

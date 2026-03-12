@@ -1,0 +1,9 @@
+<FileID>137704</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/copyhold-enfranchisement-bill</URL>
+<Title>Copyhold Enfranchisement Bill</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc1016-20</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>21</WordCount>
+
+( Mr. Waugh, Mr. George Howard, Mr. Stafford Howard, Mr. Ainsworth, Mr. Ferguson. ) cc1016-20 [BILL 26.] TILLED READING. 1,286 words

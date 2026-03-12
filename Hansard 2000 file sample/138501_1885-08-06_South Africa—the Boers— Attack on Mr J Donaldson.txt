@@ -1,0 +1,10 @@
+<FileID>138501</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/south-africa-the-boers-attack-on-mr-j</URL>
+<Title>South Africa—the Boers— Attack on Mr J Donaldson</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 c1282</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>152</WordCount>
+
+
+<speaker>SIR FREDERICK MILNER</speaker> , who had the following Question on the Paper: — To ask the Secretary of State for the Colonies, If his attention has been called to the brutal treatment by the Boers of Mr. James Donaldson, agent of the Transvaal Syndicate, Limited, an English subject, at Farm California, who was sot upon by five Boers, viz. Mr. Viljorn and two sons, Messrs. U. E. Breitenback, and S. P. Schultze, and most brutally beaten, for attempting to enter a but belonging to the Company, of which he was in possession; if he will cause inquiries to be instituted, and reparation to be made; and, if he is aware that this is only one of many outrages that have been perpetrated by the Boers on British subjects in the Transvaal? said, he had received a communication that the matter would be inquired into, and therefore he should not put the Question.

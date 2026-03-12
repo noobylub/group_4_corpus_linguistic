@@ -1,0 +1,11 @@
+<FileID>138771</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/14/mrrchant-shipping-the-load-line</URL>
+<Title>Mrrchant Shipping—the Load Line Committee—irregular Publication of the Report</Title>
+<DebRef>HC Deb 14 August 1885 vol 301 c34</DebRef>
+<SittingDate>1885-08-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>144</WordCount>
+
+
+<speaker>MR. WARTON</speaker> asked the Secretary to the Board of Trade, Whether he has obtained any further information as to how the Report of the Load Line Committee came to be published in The Times newspaper? 
+<speaker>THE SECRETARY TO THE BOARD (Baron HENRY DE WORMS),</speaker> in reply, said, that he was glad to be able to supplement the information he gave yesterday upon the subject. He had made inquiries respecting it, and had satisfied himself that the document in question had not been communicated by any official of the Board of Trade. He had also received a communication from Her Majesty's Printers, repudiating the suggestion that the Report in The Times had emanated from their office, and pointing out that the type from which the matter was printed was not set up by them at the time the Report must have reached the newspaper office.

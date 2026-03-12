@@ -1,0 +1,13 @@
+<FileID>138228</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/parliament-business-of-the-house-the</URL>
+<Title>Parliament—business of the House—the Criminal Law Amendment Bill</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc525-6</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>301</WordCount>
+
+
+<speaker>CAPTAIN PRICE</speaker> I wish to ask the Chancellor of the Exchequer, Whether, considering the great interest taken in the Criminal Law Amendment Bill , he will make that Bill the first Order after the Report of Supply? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I am afraid that I find myself in a difficult position in this matter. Twice, at least, I have given a distinct promise to the House, and especially to the right hon. Gentleman the late Postmaster General, that the Telegraph Acts Amendment Bill should follow the Report of Supply. I do not think that I can fairly depart from that promise. 
+<speaker>MR. SHAW LEFEVRE</speaker> I quite recognize the desire to proceed at once with the Criminal Law Amendment Bill ; but the difficulty I have felt in postponing the Telegraph Bill until next week is that there may be but few Members left in the House to discuss it. I would suggest, however, that the Government should put the Telegraph Bill down as the second Order for to- morrow, and that if the Criminal Law Amendment Bill is not concluded by 12 o'clock Progress should be reported. 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> No, Sir; I cannot agree to that suggestion. It might be that the House would be in the middle of a discussion on important points in the Bill, and we should have to report Progress in order to proceed with the other measure. There is a universal feeling that, at any rate, the Telegraph Bill should not be used to delay the progress of the other Bill; and if the House is willing to consent to it I should suggest that we should proceed with the Committee on the Telegraph Bill tonight, on the understanding that whatever happens it should not be continued, say, beyond 9 o'clock.

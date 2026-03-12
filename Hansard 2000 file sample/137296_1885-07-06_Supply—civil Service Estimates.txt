@@ -1,0 +1,9 @@
+<FileID>137296</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/06/supply-civil-service-estimates</URL>
+<Title>Supply—civil Service Estimates</Title>
+<DebRef>HC Deb 06 July 1885 vol 298 cc1712-76</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>29</WordCount>
+
+SUPPLY— considered in Committee. (In the Committee.) cc1712-47 CLASS II. — SALARIES AND EXPENSES OF CIVIL DEPAETMENTS. 13,368 words cc1747-76 CLASS V. — FOREIGN AND COLONIAL SERVICES. 10,809 words

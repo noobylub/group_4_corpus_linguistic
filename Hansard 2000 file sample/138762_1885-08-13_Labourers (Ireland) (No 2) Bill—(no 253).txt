@@ -1,0 +1,9 @@
+<FileID>138762</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/13/labourers-ireland-no-2-bill-no-253</URL>
+<Title>Labourers (Ireland) (No 2) Bill—(no 253)</Title>
+<DebRef>HL Deb 13 August 1885 vol 301 cc7-8</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>13</WordCount>
+
+( The Marquess of Waterford. ) cc7-8 CONSIDERATION OF COMMONS' REASONS. 390 words

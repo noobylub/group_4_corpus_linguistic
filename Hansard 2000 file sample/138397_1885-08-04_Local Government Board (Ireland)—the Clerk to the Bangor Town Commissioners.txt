@@ -1,0 +1,11 @@
+<FileID>138397</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/local-government-board-ireland-the-clerk</URL>
+<Title>Local Government Board (Ireland)—the Clerk to the Bangor Town Commissioners</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1039</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>169</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Did the Local Government Board write to the Bangor Town Commissioners, about the beginning of June last, to take into consideration the advisability of removing the town clerk; did the Commissioners, in consequence, reply that the clerk had been called upon to resign; has the same person been reinstated as clerk; and, can he be retained in face of the recent disclosures concerning him made by several of the Commissioners before Mr. Justice O'Brien at the Belfast Assizes? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> It appears that, at the instance of the Local Government Board, the Bangor Town Commissioners recently called on their clerk to resign, and that subsequently they declined to accept his resignation. I am informed that they took this course in consequence of the receipt of a Memorial signed by the principal ratepayers asking them to retain the clerk. The Local Government Board have no power to appoint or remove a Town Clerk.

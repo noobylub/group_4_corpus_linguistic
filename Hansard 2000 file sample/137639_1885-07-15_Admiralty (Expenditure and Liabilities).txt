@@ -1,0 +1,9 @@
+<FileID>137639</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/15/admiralty-expenditure-and-liabilities</URL>
+<Title>Admiralty (Expenditure and Liabilities)</Title>
+<DebRef>HC Deb 15 July 1885 vol 299 cc879-81</DebRef>
+<SittingDate>1885-07-15</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>14</WordCount>
+
+cc879-81 MOTION FOR A SELECT COMMITTEE. 770 words c881 SCHOOL HOARDS BILL. 54 words

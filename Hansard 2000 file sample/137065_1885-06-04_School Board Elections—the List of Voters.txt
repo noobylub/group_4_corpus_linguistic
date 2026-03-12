@@ -1,0 +1,10 @@
+<FileID>137065</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/04/school-board-elections-the-list-of-voters</URL>
+<Title>School Board Elections—the List of Voters</Title>
+<DebRef>HC Deb 04 June 1885 vol 298 c1185</DebRef>
+<SittingDate>1885-06-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>104</WordCount>
+
+
+<speaker>MR. ARTHUR ARNOLD</speaker> asked the President of the Local Government Board, If, now that the Registration Bills are passed, he is able to state whether the Bill to be introduced, declaring the new register to be the register of persons entitled to vote at any election in the month of November of this year, will contain a provision for postponement of School Board elections to a later date? SIR CHARLES W.DILKE Yes; the question has been under consideration by the Education Department, myself, and other Members of the Government, and I think that the answer to this Question will probably be in the affirmative.

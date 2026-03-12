@@ -1,0 +1,10 @@
+<FileID>137881</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/21/third-reading</URL>
+<Title>Third Reading</Title>
+<DebRef>HL Deb 21 July 1885 vol 299 c1342</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>155</WordCount>
+
+Order of the Day for the Third Reading read. Moved, "That the Bill be now read 3ª"—( The Earl of Beauchamp. ) 
+<speaker>THE EARL OF SELBORNE</speaker> said, ho could not help observing the frequency of the recurrence of these individual Bills. In his opinion, it would be much better to deal with the eases of marriages in unlicensed buildings, which this Bill, with respect to one such building, was intended to ratify, by a general law, than by such a Bill as this. THE LORD CHANCELLOR (Lord HALSRURY) said, he could not concur in the suggestion of the noble and learned Earl opposite (the Earl of Selborne). For himself, he believed that a general law on the subject would lead to the same uncertainty as to the Marriage Laws which prevailed prior to the passing of Lord Hardwick's Act, and which that Act was passed to prevent. Motion agreed to; Bill read 2ª, and passed.

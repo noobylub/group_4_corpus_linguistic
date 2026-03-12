@@ -1,0 +1,12 @@
+<FileID>138560</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/committee-adjourned-debate</URL>
+<Title>Committee [Adjourned Debate]</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 cc1523-4</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>368</WordCount>
+
+Adjourned Debate on going into Committee [5th August]. Motion made, and Question proposed, "That the Debate be further adjourned till Monday next." MR. LYULPH STANLEY wished to say, on the Question that this Bill be put off until Monday, that it was not fair to continue a Bill of this sort on the Orders at that period of the Session, when the Appropriation Bill had been read a third time, There was a very great difference with regard to this measure in the House; and at that period of the Session, when they had such a thin House, it ought not to be further put off. He should like to move that the Bill be taken on that day three mouths, or that the Order be discharged, if he would be in Order in doing so. 
+<speaker>MR. SPEAKER</speaker> said, it was hardly usual on a measure of this sort to move such a Resolution in the absence of the Member who was in charge of the Bill. MR. LYULPH STANLEY said, he did not think it fair that the Bill should be put down at that period of the Session. If he were in Order he would ask that it be taken on Monday week. 
+<speaker>MR. SPEAKER</speaker> said, that the course proposed by the hon. Gentleman would be very unusual in the absence of the hon. Gentleman in charge of the Bill. MR. LYULPH STANLEY said, he would like to hear what the Government had to say on the subject, and for that purpose he would make an appeal to the right hon. Gentleman the Secretary of State for the Home Department. The Appropriation Bill having been read a third time and there having been a distinct understanding some time ago that contested matters should not be pushed on at that stage of the Session, he appealed to the right hon. Gentleman as to whether it was fair that this Bill should be proceeded with. 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON CROSS)</speaker> said, the Bill had been approved by several Members on both sides of the House. He was willing to adjourn the debate till Monday next. Debate further adjourned till Monday next.

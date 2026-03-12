@@ -1,0 +1,11 @@
+<FileID>137666</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/16/india-bengal-alleged-starvation</URL>
+<Title>India (Bengal)—alleged Starvation</Title>
+<DebRef>HC Deb 16 July 1885 vol 299 cc913-4</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>216</WordCount>
+
+
+<speaker>MR. ARTHUR O'CONNOR</speaker> asked the Secretary of State for India, If it be true that a large number of deaths from starvation have already occurred in the thannah of Kargram, in the district of Moorshedabad, and that a considerable proportion of the population are threatened with death from famine; whether the distress in the Beerbhoom district, especially at Nulhati, from want of food, want of water, and the increase of cholera, is becoming acute; and, what the Government propose to do to meet the distress, especially among the high caste and zenana classes, who retire to their houses to die, rather than go like coolies to relief works or soup kitchens? 
+<speaker>THE SECRETARY OF STATE FOR INDIA (Lord RANDOLPH CHURCHILL)</speaker> There is no official information at the India Office on this matter; therefore, there may be ground for believing that the statements in the Calcutta newspapers are considerably exaggerated. But we do happen to know that the Lieutenant Governor of Bengal, when he saw the statements in the newspapers, ordered a house-to-house visitation in the district, and he found there had been no deaths from starvation, that the health of the district was as good as usual, that there was no application for employment on the relief works, and that the death-rate was lower than usual.

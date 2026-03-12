@@ -1,0 +1,11 @@
+<FileID>137068</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/04/piers-and-harbours-ireland-pier-at</URL>
+<Title>Piers and Harbours (Ireland)— Pier at Rosses Point, Co Sligo</Title>
+<DebRef>HC Deb 04 June 1885 vol 298 cc1186-7</DebRef>
+<SittingDate>1885-06-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>113</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, with reference to a Memorial for the construction of a pier at Rosses Point, county Sligo, which was forwarded by the Board of Public Works to the Fishery Piers and Harbours Commissioners on the 9th of May last year, Whether any steps have since been taken; and, whether it is intended to comply with the prayer of the Memorial? 
+<speaker>MR. CAMPBELL-BANNERMAN</speaker> The Fishery Piers and Harbours Commissioners inform me that they cannot make any recommendation in favour of a pier at Posses Point, as all their funds are being allocated to work which they regard as of a more pressing character.

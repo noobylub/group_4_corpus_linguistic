@@ -1,0 +1,11 @@
+<FileID>138396</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/the-irish-administration-mr-e-g-jenkinson</URL>
+<Title>The Irish Administration—mr E G Jenkinson</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1038-9</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>109</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether there is any intention on the part of the Government to appoint Mr. E. G. Jenkinson to the post of Assistant Under Secretary to the Lord Lieutenant, or in any way to continue, or renew, the connection of that official with the administration of Ireland? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> Mr. Jenkinson still holds the post to which the hon. Member asks if it is the intention of the Government to appoint him. I am not in a position to say what his tenure of the office will be; but it is distinctly temporary.

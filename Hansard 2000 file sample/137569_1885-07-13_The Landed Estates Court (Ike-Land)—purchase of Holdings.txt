@@ -1,0 +1,9 @@
+<FileID>137569</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/13/the-landed-estates-court-ike-land</URL>
+<Title>The Landed Estates Court (Ike-Land)—purchase of Holdings</Title>
+<DebRef>HL Deb 13 July 1885 vol 299 cc396-8</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>4</WordCount>
+
+cc396-8 OBSERVATIONS. 999 words

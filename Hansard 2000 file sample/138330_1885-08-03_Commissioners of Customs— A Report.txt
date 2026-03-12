@@ -1,0 +1,11 @@
+<FileID>138330</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/commissioners-of-customs-a-report</URL>
+<Title>Commissioners of Customs— A Report</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc828-9</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>143</WordCount>
+
+
+<speaker>MR. R. H. PAGET</speaker> asked the Financial Secretary to the Treasury, Whether, having regard to the importance of the Twenty-eighth Report of the Commissioners of Inland Revenue, and especially to the valuable historical retrospect and tables of accounts therein contained, he will be good enough to obtain, from the Commissioners of Customs, a generally similar restrospective history and set of tables, in order that full details of both these great branches of revenue may, as nearly as possible, be simultaneously laid before the public? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> I have been in communication with the Commissioners of Customs with regard to my hon. Friend's suggestion, and I hope it may be found possible to prepare some kind of Report on the lines of the recent Inland Revenue Report. But it will, of course, take some considerable time to prepare.

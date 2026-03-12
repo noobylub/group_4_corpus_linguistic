@@ -1,0 +1,9 @@
+<FileID>138612</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/10/army-field-artillery-and-small-arms</URL>
+<Title>Army—field Artillery and Small Arms</Title>
+<DebRef>HL Deb 10 August 1885 vol 300 cc1525-8</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc1525-8 QUESTION. OBSERVATIONS. 1,033 words

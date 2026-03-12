@@ -1,0 +1,9 @@
+<FileID>137204</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/15/glasgow-corporation-tramways-bill</URL>
+<Title>Glasgow Corporation Tramways Bill</Title>
+<DebRef>HL Deb 15 June 1885 vol 298 cc1533-4</DebRef>
+<SittingDate>1885-06-15</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc1533-4 THIRD BEADING. 321 words

@@ -1,0 +1,11 @@
+<FileID>138085</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/board-of-national-education-ireland</URL>
+<Title>Board of National Education (Ireland)—extra Instruction</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc58-9</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>215</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the officers of the Irish Board of National Education have lately made an order that extra instruction by teachers to monitors "must be given in the schoolroom," although there is no direction to this effect in the rubs and regulations of the Board; and, whether, as teachers had always been allowed to give extra instruction, at their residences, to the monitors of their schools, and the new direction makes it necessary, in many cases, to walk long distances in bad weather, and imposes much hardship, especially on old and infirm teachers, the Commissioners will direct that the extra instruction may be given, as heretofore, at the residences of the teachers? 
+<speaker>THE CHIEF SECRETARY FOR IRELAND (Sir WILLIAM HART DYKE)</speaker> There is no rule on this subject; but it is a recognized principle of the National Board, and one from which departures are only allowed in cases of a peculiar and exceptional character, that every service for which salary, gratuity, or results fees are claimable, including the extra instruction of monitors, must be discharged in the school room. As the proper time for giving this extra instruction is immediately before or after the ordinary school hours, no question of extra walking is involved.

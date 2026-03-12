@@ -1,0 +1,9 @@
+<FileID>137827</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/20/land-purchase-ireland-bill</URL>
+<Title>Land Purchase (Ireland) Bill</Title>
+<DebRef>HL Deb 20 July 1885 vol 299 c1178</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>7</WordCount>
+
+( The Lord Chancellor of Ireland. )

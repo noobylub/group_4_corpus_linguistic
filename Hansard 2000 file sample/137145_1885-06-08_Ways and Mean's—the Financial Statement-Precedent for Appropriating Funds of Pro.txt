@@ -1,0 +1,11 @@
+<FileID>137145</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/ways-and-means-the-financial-statement</URL>
+<Title>Ways and Mean's—the Financial Statement-Precedent for Appropriating Funds of Proximate to Meet Deficit in Current Year</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 c1413</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>151</WordCount>
+
+
+<speaker>MR. E. STANHOPE (for Lord GEORGE HAMILTON)</speaker> asked Mr. Chancellor of the Exchequer, If there is any modern precedent of a Chancellor of the Exchequer proposing, in his Budget Statement, to meet a deficiency on the current year by the appropriation through an Act of Parliament of the funds of the proximate financial year? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Mr. CHILDERS)</speaker> The noble Lord put this Question on the Paper for the 19th ultimo, and it was answered on my behalf by my lion. Friend the Secretary to the Treasury he now renews it, and I can only say that the answer which he then received was strictly accurate. The precedent of 1880 was this, that a large deficiency on the expenditure of the then current year was provided for by the appropriation of the permanent annual charge during the next and four following years to the extent of about £2,750,000.

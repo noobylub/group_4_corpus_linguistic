@@ -1,0 +1,9 @@
+<FileID>138510</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/06/criminal-law-amendment-bill-lords-bill</URL>
+<Title>Criminal Law Amendment Bill [Lords]— [Bill 257]</Title>
+<DebRef>HC Deb 06 August 1885 vol 300 cc1386-428</DebRef>
+<SittingDate>1885-08-06</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>12</WordCount>
+
+( Secretary Sir S. R. Assheton Cross. ) cc1386-428 CONSIDERATION. 16,601 words

@@ -1,0 +1,9 @@
+<FileID>138181</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/29/supply-civil-service-estimates</URL>
+<Title>Supply—civil Service Estimates</Title>
+<DebRef>HC Deb 29 July 1885 vol 300 cc385-468</DebRef>
+<SittingDate>1885-07-29</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>27</WordCount>
+
+SUPPLY— considered in Committee. (In the Committee.) cc385-455 CLASS IV. — EDUCATION, SCIENCE, AND ART. 27,758 words cc455-68 Class V. — FOREIGN AND COLONIAL SERVICES. 5,081 words

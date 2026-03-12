@@ -1,0 +1,10 @@
+<FileID>137498</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/literature-science-and-art-the-national</URL>
+<Title>Literature, Science, and Art —The National Portrait Gallery</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 cc408-9</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>201</WordCount>
+
+MR. MITCHELL HENEY asked the First Commissioner of Works, Whether he will consult with the Trustees of the National Gallery of Portraits as to the propriety of temporarily removing the pictures to the Bethnal Green Museum, or to the National Galleries of Scotland and of Ireland, pending the construction of a fireproof gallery for their permanent reception? THE FIRST COMMISSIONER In answer to the hon. Member for County Galway, I have to say that I am in communication with the Trustees of the National Gallery of Portraits as well as with the Treasury on this very important and pressing subject. I can assure him that I am sparing no trouble in order to arrive at a satisfactory conclusion, and I hope within a few days to be able to make a definite statement to the House. 
+<speaker>MR. MUNDELLA</speaker> asked whether the right hon. Gentleman had examined the western gallery of South Kensington, which was one of the finest galleries in the world? THE FIRST COMMISSIONER said, that he had received Reports on all the galleries. He did not now wish to say anything definite; but he was informed that the roof of the gallery in question was by no means fireproof.

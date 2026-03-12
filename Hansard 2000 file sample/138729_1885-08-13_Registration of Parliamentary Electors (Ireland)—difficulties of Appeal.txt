@@ -1,0 +1,11 @@
+<FileID>138729</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/13/registration-of-parliamentary-electors</URL>
+<Title>Registration of Parliamentary Electors (Ireland)—difficulties of Appeal</Title>
+<DebRef>HC Deb 13 August 1885 vol 301 c19</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>233</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether, in view of appeals by considerable bodies of claimants and other persons interested in Parliamentary Registration, and of the fact that, under existing arrangements, numbers of poor persons will be obliged to travel distances varying from twenty to fifty miles, or forfeit their right to vote, the Lord Lieutenant will cause Revision Courts to be held at Keady (Mid-Armagh, for which Division only two Courts are fixed), Donananagh, and Drumguin, county Tyrone, and Carndonagh and Pettigo, county Donegal; whether the Lord Lieutenant, in dealing with applications for Revision Courts, will have regard particularly to the claims of such districts as those named, in which the bulk of claimants are very poor, the time required by long journeys in excess of what they could spare from labour, and the difficulty increased by the absence of regular means of communication; and, up to what date the Lord Lieutenant will receive applications on this subject? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> Yes, Sir; Courts will be established at all the places mentioned by the hon. Member, and, in addition, at Bunbeg in Donegal. Having regard to the fact that an Order in Council has to be passed, and that at least five days' notice must be given of the holding of each Court, applications could not well be entertained after Saturday next.

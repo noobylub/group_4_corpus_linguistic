@@ -1,0 +1,9 @@
+<FileID>138302</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/east-india-army-pensions-deficiency</URL>
+<Title>East India (Army Pensions Deficiency) [Creation of Annuity]</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 cc811-2</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>68</WordCount>
+
+Considered in Committee. (In the Committee.) Resolved, That it is expedient to authorise the creation of an Annuity of One hundred and fifty thousand pounds, chargeable on the Consolidated Fund of the United Kingdom, towards discharging the liability of the Con- solidated Fund in respect of certain Indian Army Pensions. Resolution to be reported upon Monday next. House adjourned at twenty minutes after Three o'clock till Monday next.

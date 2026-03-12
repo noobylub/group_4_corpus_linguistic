@@ -1,0 +1,11 @@
+<FileID>137902</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/22/egyptthe-soudan-reported-death-of-the</URL>
+<Title>Egypt(the Soudan)—reported Death of the Mahdi</Title>
+<DebRef>HC Deb 22 July 1885 vol 299 c1594</DebRef>
+<SittingDate>1885-07-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>41</WordCount>
+
+
+<speaker>SIR ROBERT FOWLER (LORD MAYOR)</speaker> asked Mr. Chancellor of the Exchequer, Whether the Government had received any confirmation of the reported death of the Mahdi? 
+<speaker>THE CHANCELLOR or THE EXCHEQUER</speaker> No, Sir; we have received no official confirmation of the report.

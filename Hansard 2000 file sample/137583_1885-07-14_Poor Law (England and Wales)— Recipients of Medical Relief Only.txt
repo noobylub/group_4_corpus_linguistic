@@ -1,0 +1,13 @@
+<FileID>137583</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/poor-law-england-and-wales-recipients-of</URL>
+<Title>Poor Law (England and Wales)— Recipients of Medical Relief Only</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 cc653-4</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>131</WordCount>
+
+
+<speaker>MR. SALT</speaker> asked the President of the Local Government Board, If he can state the number of persons in England and Wales who are in receipt of medical relief charged upon the rates, without being recipients of relief under the Poor Laws in any other form? 
+<speaker>THE PRESIDENT (Mr. A.L BALFOUR)</speaker> I have no statistics giving the information which my hon. Friend desires. I hope, however, on the second reading of the Medical Relief Bill to give some facts to the House which may partially meet his views. 
+<speaker>MR. J. G. TALBOT</speaker> asked the President of the Local Government Board, If the information he intended to give the House on Thursday on this subject would be based on that received from Inspectors of the Board? 
+<speaker>THE PRESIDENT</speaker> replied in the affirmative.

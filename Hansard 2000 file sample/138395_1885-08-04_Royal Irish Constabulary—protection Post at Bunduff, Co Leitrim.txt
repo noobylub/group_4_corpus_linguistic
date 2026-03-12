@@ -1,0 +1,11 @@
+<FileID>138395</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/royal-irish-constabulary-protection-post</URL>
+<Title>Royal Irish Constabulary—protection Post at Bunduff, Co Leitrim</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1038</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>181</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether the police protection post at Bunduff, county Sligo, is in the house of an evicted tenant, and what rent is paid by the Government for the house to the landlord, Captain Barton; whether there are five constabulary barracks within a radius of three miles from this protection post; and, whether the district is quite orderly and entirely free from crime; and, if so, whether the post will be discontinued? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> Hitherto for some time past there has been a temporary protection post at Bunduff—which is in the county of Leitrim, and not Sligo—in a house belonging to Captain Barton, for which no rent has been paid. It has now, however, been decided to rearrange the police districts of the locality, and to make Bunduff an ordiuary permanent station. There are only two other stations within a radius of three miles, and one of these is in the next county. The force at the protection post has not been charged to the locality.

@@ -1,0 +1,9 @@
+<FileID>137247</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/24/notice-of-motion</URL>
+<Title>Notice of Motion</Title>
+<DebRef>HC Deb 24 June 1885 vol 298 c1630</DebRef>
+<SittingDate>1885-06-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>11</WordCount>
+
+c1630 PREVENTION OF CRIME (IRELAND) ACT, 1882—RENEWAL OF ACT. 216 words

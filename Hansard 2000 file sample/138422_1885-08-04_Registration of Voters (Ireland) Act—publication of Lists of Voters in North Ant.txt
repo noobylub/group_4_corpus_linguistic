@@ -1,0 +1,11 @@
+<FileID>138422</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/registration-of-voters-ireland-act</URL>
+<Title>Registration of Voters (Ireland) Act—publication of Lists of Voters in North Antrim</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1055-6</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>302</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked Mr. Attorney General for Ireland, in view of the facts that the list of voters required by law to be published by the 22nd ult. did not reach the clerks of unions in North Antrim until the 29th; that the lists had not been published in the Grange District (county Sligo) on the 1st inst.; that complaints of similar failures of duty on the part of officials are made from different parts of Ireland; and that the period limited by statute for lodgment of claims expires today, What steps will be taken to impose upon officials responsible for violation of the duty cast upon them by law the penalties they have incurred; and, as voters and claimants have been deprived of the facilities contemplated by law for inspection of the lists, whether the provision in the Irish Registration Act is to be understood as applying to the lodgment of claims to be placed upon the register, and for what period beyond the present date claims may be lodged accordingly? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> I have not been able to ascertain whether the dates mentioned in the Question are correct; but I am aware in some places in Ireland the lists of voters were not published till after the time appointed by the statute. In any instances of the kind that have hitherto come to the notice of the Irish Government, it has, I think, been ascertained that this has not arisen from any failure of duty on the part of the officials, but from the impossibility of having the necessary printing completed in the short time at their disposal. Under such circumstances it would be unjust to seek to enforce penalties. There is no power to extend the time for lodging claims beyond the 4th August.

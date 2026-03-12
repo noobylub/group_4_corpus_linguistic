@@ -1,0 +1,14 @@
+<FileID>138356</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/housing-of-the-working-classes-bill</URL>
+<Title>Housing of the Working Classes Bill</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 c846</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>313</WordCount>
+
+
+<speaker>MR. COURTNEY</speaker> asked Mr. Chancellor of the Exchequer, Whether, in view of the strong opposition on the Royal Commission itself to the proposal as to the prison sites, the Government will persevere with the clauses on that subject? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER,</speaker> in reply, said, that was a Question for his right hon. Friend the Home Secretary, who had charge of the Bill. He would, however, remind the hon. Gentleman that the Bill was the Bill of the Royal Commission rather than of the Government. 
+<speaker>MR. COURTNEY</speaker> said, he would then ask the Secretary of State for the Home Department, with regard to the clauses of the Bill relating to the sale of prison sites, Whether he is aware that that particular recommendation of the Royal Commission was dissented from by a strong section, headed by the right hon. Gentleman the Member for Ripon (Mr. Goschen); and, whether, in that case, the Government will continue to persevere with those clauses, which will inevitably lead to prolonged discussion? 
+<speaker>MR. BROADHURST</speaker> said, he wished to draw the attention of the right hon. Gentleman to the fact that the Bill was now blocked by a very active Member of the Royal Commission. 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> When the hon. Member who has just spoken rose I thought he was about to ask a Question with reference to Clause 13 of the Bill, in which I know he takes a great interest. I have to say that that clause will be considerably modified. As to the Question of the hon. Member for Liskeard (Mr. Courtney), it seems to me that the clauses relating to the prison sites, although they appear hard to some people, are really one of the greatest benefits that could be conferred upon the people of London, and I, individually, should be very sorry to see them struck out.

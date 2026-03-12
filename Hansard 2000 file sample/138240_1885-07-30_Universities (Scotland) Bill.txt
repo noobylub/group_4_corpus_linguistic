@@ -1,0 +1,9 @@
+<FileID>138240</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/universities-scotland-bill</URL>
+<Title>Universities (Scotland) Bill</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc630-1</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>21</WordCount>
+
+[ The Lord Advocate, Secretary Sir William Harcourt, Mr. Solicitor General for Scotland. ) cc630-1 [BILL 115.] SECOND BEADING. 297 words

@@ -1,0 +1,9 @@
+<FileID>137315</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/07/dee-conservancy-bill-lords</URL>
+<Title>Dee Conservancy Bill [Lords]</Title>
+<DebRef>HC Deb 07 July 1885 vol 298 cc1806-24</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>16</WordCount>
+
+cc1806-24 RESOLUTION. 7,132 words c1824 SITTINGS AND ADJOURNMENT OF THE HOUSE—COMMENCEMENT OF PUBLIC BUSINESS. 39 words

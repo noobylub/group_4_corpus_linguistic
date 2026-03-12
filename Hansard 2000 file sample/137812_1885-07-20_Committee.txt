@@ -1,0 +1,14 @@
+<FileID>137812</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/committee-1</URL>
+<Title>Committee</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1337-8</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>363</WordCount>
+
+Bill considered in Committee. (In the Committee.) 
+<speaker>MR. E. H. PAGET</speaker> said, he wished to move to leave out Clause 1, in order to move the insertion of the clause on the Paper. Motion made, and Question proposed, "That Clause 1 be omitted."—( Mr. R. E. Paget. ) Question, "That Clause 1 stand part of the Bill," put, and negatived. 
+<speaker>MR. P. H. PAGET</speaker> I now beg to move the second reading of the following Clause:— Nothing in the Law relating to Parliamentary Elections shall make it illegal for an employer to permit Parliamentary electors in his employment to absent themselves from such employment for a reasonable time for the purpose of voting at the poll at a Parliamentary election, without having any deduction from their salaries or wages on account of such absence if such permission is, so far as practicable without injury to the business of the employer, given equally to all persons alike who are at the time in his employment, and if such permission is not given with a view of inducing any person to record his vote for any particular candidate at such election, and is not refused to any person for the purpose of preventing such person from recording his vote for any particular candidate at such election. Motion made, and Question proposed, "That the Clause be now read a second time."—( Mr. R. H. Paget. ) 
+<speaker>MR. HEALY</speaker> I presume the Government have considered this now clause in the light mentioned the other night? 
+<speaker>THE ATTORNEY GENERAL (Sir RICHARD WEBSTER)</speaker> We have considered it, and see no objection to it. 
+<speaker>MR. R. H. PAGET</speaker> said, he had another new clause on the Paper— namely— This Act shall continue in force until the thirty-first day of December, one thousand eight hundred and eighty-six, and no longer, unless continued by Parliament; but he had been assured by the authorities that it was not necessary. It had been put down in consequence of an observation of an hon. Member who felt the necessity of something of the kind. He would not move the clause. Bill reported; as amended, to be considered Tomorrow. House adjourned at half after One o'clock.

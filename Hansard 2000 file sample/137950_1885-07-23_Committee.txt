@@ -1,0 +1,9 @@
+<FileID>137950</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/committee</URL>
+<Title>Committee</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 c1679</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>17</WordCount>
+
+Order for Committee read. Motion made, and Question proposed, "That Mr. Speaker do now leave the Chair."

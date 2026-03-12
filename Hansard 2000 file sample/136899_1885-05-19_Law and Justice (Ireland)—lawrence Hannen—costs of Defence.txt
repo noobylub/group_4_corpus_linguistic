@@ -1,0 +1,11 @@
+<FileID>136899</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/law-and-justice-ireland-lawrence-hannen</URL>
+<Title>Law and Justice (Ireland)—lawrence Hannen—costs of Defence</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 c938</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>106</WordCount>
+
+
+<speaker>COLONEL NOLAN</speaker> asked the Under Secretary to the Treasury, If he intends paying Mr. Bowler, Solicitor, the balance of costs claimed by him for his special attendance at the Spring Assizes in the present year at Carrick on Shannon, as the Solicitor duly assigned for Lawrence Hannen, who was charged with complicity in the Bally foran murder? 
+<speaker>MR. HIBBERT</speaker> Last February the Treasury sanctioned payment to Mr. Bowler of the sum recommended by the Irish Government for his services in defending Hannen at the Summer and Winter Assizes of 1884. The trial was adjourned to last Spring Assizes, but we have heard nothing more about costs.

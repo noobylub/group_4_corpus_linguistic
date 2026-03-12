@@ -1,0 +1,9 @@
+<FileID>138008</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/class-vi-non-effective-and-charitable</URL>
+<Title>Class Vi—non-Effective and Charitable Services</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 c1857</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>34</WordCount>
+
+(4.) £13,200, to complete the sum for Pauper Lunatics, Ireland. (5.) £12,747, to complete the sum for Hospitals and Infirmaries, Ireland. (6.) £2,371, to complete the sum for Miscellaneous, Charitable, and other Allowances, Ireland.

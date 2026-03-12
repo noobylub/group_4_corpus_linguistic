@@ -1,0 +1,9 @@
+<FileID>137420</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/second-reading-bill-withdrawn-1</URL>
+<Title>Second Reading Bill Withdrawn</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 cc223-4</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>64</WordCount>
+
+Order for Second Reading read. Motion made, and Question proposed, "That the Order for the Second Reading be discharged." SIR CHARLES W.DILKE said, that he and his hon. Friends would offer no opposition to the discharge of this Order, although they must express their extreme regret that the Government could not proceed with the measure. Question put, and agreed to. Order discharged; Bill withdrawn.

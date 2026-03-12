@@ -1,0 +1,11 @@
+<FileID>137312</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/06/lunacy-bill-question</URL>
+<Title>Lunacy Bill—question'</Title>
+<DebRef>HL Deb 06 July 1885 vol 298 c1670</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>83</WordCount>
+
+
+<speaker>THE EARL OF SELBORNE</speaker> inquired whether the Government intended to proceed further with the Lunacy Bill ? 
+<speaker>THE MARQUESS OF SALISBURY,</speaker> in reply, said, that there was every disposition on the part of Her Majesty's Government to proceed with the Bill, if the arrangements for Business in the House of Commons were such as to enable so complicated a measure to be passed this Session. Motion agreed to. House adjourned at a quarter past Six o'clock, till Tomorrow, a quarter past Ten o'clock.

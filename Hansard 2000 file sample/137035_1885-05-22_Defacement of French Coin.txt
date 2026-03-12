@@ -1,0 +1,11 @@
+<FileID>137035</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/22/defacement-of-french-coin</URL>
+<Title>Defacement of French Coin</Title>
+<DebRef>HC Deb 22 May 1885 vol 298 c1141</DebRef>
+<SittingDate>1885-05-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>185</WordCount>
+
+
+<speaker>MR. BROADHURST</speaker> asked Mr. Chancellor of the Exchequer, Whether his attention has been called to the defacement of French copper coins in circulation in this Country by having the advertisement of "Pears' Soap" stamped upon them, and to the inconvenience and loss thus inflicted upon a large number of working people through the coins thus stamped being refused in many cases as payment, and notably so on the Tramway lines in South London; and, whether he will adopt means to stop the practice and to punish the guilty parties? 
+<speaker>MR. HIBBERT</speaker> I quite agree with the hon. Member that the practice referred to is a most reprehensible one. I fear, however, the Government are powerless in the matter, as there is nothing illegal in defacing any coins, except those of the Realm. French coins are not legal tender in this country; and, therefore, no one is bound to accept them, whether defaced or not. The remedy is in the hands of the public, who can, if they choose, refuse to receive French coins. I trust that those who have adopted this practice will discontinue it.

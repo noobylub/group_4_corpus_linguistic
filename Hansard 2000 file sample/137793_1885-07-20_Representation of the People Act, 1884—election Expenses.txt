@@ -1,0 +1,10 @@
+<FileID>137793</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/representation-of-the-people-act-1884</URL>
+<Title>Representation of the People Act, 1884—election Expenses</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 cc1207-8</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>266</WordCount>
+
+
+<speaker>MR. J. R. YORKE</speaker> asked the Secretary of State for the Home Department, Whether he has had under his notice the position of high sheriffs of counties at the approaching General Election who will be responsible for the counting of votes given in contested elections for the several divisions of their respective counties; and, whether there is any source from which the expenses of the deputies who will have to be appointed can be defrayed, or if the burden of providing for such expenses will fall on the sheriffs? THE SECRETARY OF STATE FOR THE HOME DEPARTMENT (Sir R. ASSHETON GROSS), in reply, said, he thought it would not be the wish of the House or the country to remove any part of the responsibility of High Sheriffs of counties for the progress of the elections at the forthcoming General Election. The expenses and sums allowed to Returning Officers for expenses of Presiding Officers and polling clerks were regulated by the Schedules of the Act of 1875. But assuming the amount so fixed not to be sufficient, of course the extra expenditure would fall upon the Sheriff. Amendments had been proposed in the Returning Officers' Expenses Bill , now in Committee, upon which the House will have an opportunity of considering whether the amount of allowances should or should not be increased. At the same time, he must point out that by the Act of 1875 the amount allowed varied according to the number of elections, and from that consideration it might turn out that the expenditure would be met by the provisions of the Act.

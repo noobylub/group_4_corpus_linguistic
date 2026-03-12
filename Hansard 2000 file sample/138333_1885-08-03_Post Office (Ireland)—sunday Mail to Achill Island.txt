@@ -1,0 +1,11 @@
+<FileID>138333</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/post-office-ireland-sunday-mail-to</URL>
+<Title>Post Office (Ireland)—sunday Mail to Achill Island</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc831-2</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>126</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Postmaster General, What reply has been given to the Memorial praying for a Sunday mail to Achill Island; and, whether, as the convenience asked for would serve a district extending over thirty miles, and convenience a population of 20,000 people, the facilities demanded can be granted? 
+<speaker>THE POSTMASTER GENERAL (Lord JOHN MANNERS)</speaker> The Memorial for a Sunday post to Achill Island was refused on the ground that the weekday service was only maintained at a cost considerably greater than the correspondence, according to the usual rule, would warrant, and that there was no surplus revenue available to cover the cost of a Sunday service. I regret that, the circumstances remaining unaltered, I am not prepared to depart from the conclusion arrived at.

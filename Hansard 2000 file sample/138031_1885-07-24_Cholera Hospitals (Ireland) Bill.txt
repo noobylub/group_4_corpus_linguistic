@@ -1,0 +1,9 @@
+<FileID>138031</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/24/cholera-hospitals-ireland-bill</URL>
+<Title>Cholera Hospitals (Ireland) Bill</Title>
+<DebRef>HL Deb 24 July 1885 vol 299 c1772</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>12</WordCount>
+
+( The Marquess of Waterford. ) c1772 (NO. 182.) COMMITTEE. 129 words

@@ -1,0 +1,11 @@
+<FileID>138428</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/poor-law-england-and-wales-hungeeford</URL>
+<Title>Poor Law (England and Wales)— Hungeeford Board of Guardians-Appointment of Master and Matron for the Workhouse</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 c1061</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>222</WordCount>
+
+
+<speaker>MR. BROADHURST</speaker> asked the President of the Local Government Board, Whether he has seen, in The Marlborough Times of 25th July, an advertisement of the Hungerford Union Board of Guardians for a master and matron for the workhouse, which advertisement states that they must be members of the Church of England; and, whether the Guardians are legally entitled to impose such an ecclesiastical test as a qualification for these offices; and, if not, what steps will be taken to secure the withdrawal of the advertisement? 
+<speaker>THE PRESIDENT OF THE BOARD (Mr. A. J. BALFOUR)</speaker> There has been no mooting of the Board of Guardians since Notice of the Question was given; but I am informed by the Clerk of the Union that he prepared the advertisement in the same form as one which was issued some years since, and that the Guardians had made no specific order as to candidates being members of the Church of England. If, however, the Guardians had given directions in this matter, the Local Government Board would have no authority to interfere, as the Guardians could, if they thought fit, determine to elect candidates who are members of the Church of England. On the occasion of the last visit of our Inspector, there were 123 inmates of the workhouse, of whom two only were returned as Dissenters.

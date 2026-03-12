@@ -1,0 +1,9 @@
+<FileID>138673</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/11/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 11 August 1885 vol 300 c1706</DebRef>
+<SittingDate>1885-08-11</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>24</WordCount>
+
+PUBLIC BILLS— Second Reading — Third Reading —County Officers and Courts (Ireland) (Pensions) * (244). Third Reading —Labourers (Ireland) (No. 2) (245), and passed.

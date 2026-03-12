@@ -1,0 +1,9 @@
+<FileID>138312</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/03/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 03 August 1885 vol 300 cc815-6</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>97</WordCount>
+
+SELECT COMMITTEE— Report — Admiralty (Expenditure and Liabilities) [No. 311]. PRIVATE BILL ( by Order )— Considered as amended — Third Reading —Edinburgh Extension and Sewerage, * and passed. PUBLIC BILLS— Second Reading —Infants [157]. Report of Select Committee — Earldom of Mar Restitution * [256]. Committee — Secretary for Scotland [242]—R. P Committee—Report — Criminal Law Amendment [159–257]; Consolidated Fund (Appropriation); Public Works Loans [254]; East India (Army Pensions Deficiency) * [225]; Labourers (Ireland) (No. 2) [68]. Committee—Report—Third Reading —Ecclesiastical Commissioners (No. 2) * [253], and passed. Report —Elementary Education Provisional Order Confirmation (London) * [233].

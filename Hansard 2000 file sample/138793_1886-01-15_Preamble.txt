@@ -1,0 +1,9 @@
+<FileID>138793</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/15/preamble</URL>
+<Title>Preamble</Title>
+<DebRef>HC Deb 15 January 1886 vol 302 c30</DebRef>
+<SittingDate>1886-01-15</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>15</WordCount>
+
+The House mot at Two of the clock. Several Members took and subscribed the Oath.

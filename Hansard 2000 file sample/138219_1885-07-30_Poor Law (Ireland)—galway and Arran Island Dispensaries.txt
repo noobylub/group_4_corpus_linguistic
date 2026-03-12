@@ -1,0 +1,11 @@
+<FileID>138219</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/poor-law-ireland-galway-and-arran-island</URL>
+<Title>Poor Law (Ireland)—galway and Arran Island Dispensaries</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 cc519-20</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>258</WordCount>
+
+
+<speaker>MR. T. R. O'CONNOR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether he will authorise the Local Government Board to sever the connection between the Galway and Arran Island dispensaries in accordance with the unanimous and frequently-expressed opinion of the Galway Board of Guardians in favour of this change; whether the result of the amalgamation is, that Galway is compelled to pay £70 a-year towards the expenses of the Arran Dispensary, amounting to almost to shillings in the pound of the entire expenditure of the Arran Dispensary; and, if, when the amalgamation was originally agreed to by the Galway Board of Guardians, at the suggestion of the Local Government Board, any Intimation was conveyed that it would result in such a heavy addition to the already heavily burdened taxpayers of the Galway Union? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> I do not see any reason to alter the decision arrived at in this matter. It appears that the amalgamation of the two districts involves upon Galway an additional rate of about 1½d. in the pound, which, however, is more apparent than real, as the Government recoup half of the medical officer's salary, and half the cost of medicines; while the creation of a separate district for Arran would, by reason of the small valuation of the island, impose on it a burden that it could not reasonably be expected to bear. I am informed that the probable financial results of the change were not discussed with the Galway Guardians when the amalgamation was effected.

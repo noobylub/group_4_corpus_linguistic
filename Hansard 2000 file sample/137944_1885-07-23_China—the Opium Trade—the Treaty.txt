@@ -1,0 +1,11 @@
+<FileID>137944</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/23/china-the-opium-trade-the-treaty</URL>
+<Title>China—the Opium Trade—the Treaty</Title>
+<DebRef>HC Deb 23 July 1885 vol 299 cc1634-5</DebRef>
+<SittingDate>1885-07-23</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>72</WordCount>
+
+
+<speaker>MR. CROPPER</speaker> asked the Under Secretary of State for Foreign Affairs, Whether he would be good enough to say whether the Treaty with China on the opium question had been signed; and, if so, when he would lay it on the Table? 
+<speaker>THE UNDER SECRETARY OF STATE FOR FOREIGN AFFAIRS (Mr. BOURKE)</speaker> The Treaty is signed, and will be laid on the Table as soon as possible. We are awaiting the ratification.

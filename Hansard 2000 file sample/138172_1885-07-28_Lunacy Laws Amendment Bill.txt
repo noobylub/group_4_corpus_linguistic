@@ -1,0 +1,9 @@
+<FileID>138172</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/lunacy-laws-amendment-bill</URL>
+<Title>Lunacy Laws Amendment Bill</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 cc382-3</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>13</WordCount>
+
+( Mr. Arthur Balfour, Mr. Stuart-Worthy. ) cc382-3 [BILL 244.] COMMITTEE. 223 words

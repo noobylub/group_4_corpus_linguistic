@@ -1,0 +1,11 @@
+<FileID>137979</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/custom-house-records</URL>
+<Title>Custom House Records</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 c1779</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>161</WordCount>
+
+
+<speaker>SIR JOHN LUBBOCK</speaker> asked the President of the Board of Trade, Under what conditions and on payment of what fees the publie are permitted to have access to the Custom House Records at the various seaports, in order to obtain information as to movements of vessels in which shipowners, merchants, and underwriters may be interested? 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> , who replied, said: As a general rule, access to the Custom House Records of the arrivals and sailings of vessels is unreservedly permitted during the official hours of business, under circumstances which do not inconveniently affect the work of the Department. Applicants, however, often pay for accounts containing this information instead of inspecting the books for themselves; and in such cases the fees charged are based upon the calculated cost of preparing the accounts. A small fee is occasionally charged in cases where the work of the Department would be hindered by personal access to the records.

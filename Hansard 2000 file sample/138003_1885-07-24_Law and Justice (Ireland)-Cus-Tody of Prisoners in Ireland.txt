@@ -1,0 +1,9 @@
+<FileID>138003</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/24/law-and-justice-ireland-cus-tody-of</URL>
+<Title>Law and Justice (Ireland)-Cus-Tody of Prisoners in Ireland</Title>
+<DebRef>HC Deb 24 July 1885 vol 299 cc1808-13</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>4</WordCount>
+
+cc1808-13 OBSERVATIONS. 2,038 words

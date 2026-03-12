@@ -1,0 +1,11 @@
+<FileID>137735</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/the-parks-metropolis-victoria-park</URL>
+<Title>The Parks (Metropolis)—victoria Park Cricket Ground</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 cc1062-3</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>211</WordCount>
+
+
+<speaker>MR. BRYCE</speaker> asked the First Commissioner of Works, Whether his attention has been called to the condition of the cricket match ground in Victoria Park, which is alleged by many of the members of the East London Cricket Clubs who are accustomed to play there to be far from satisfactory; and, whether he will direct inquiries to be made as to the state of the ground; and, in the event of its being found to be out of order, will give directions to improve it before next cricket season? 
+<speaker>THE FIRST COMMISSIONER OF WORKS (Mr. PLUNKET)</speaker> There are 16 separate cricket grounds in Victoria Park set apart for matches; but there is an average of 54 applications every week on the part of various clubs to ballot for the use of them. The House will easily understand that the wear and tear of these grounds in consequence of such uninterrupted play is very severe, and I fear that it is impossible to keep a ground so constantly used in very perfect condition. I have been inquiring into the subject; and I can assure the hon. Member that we will do the best we can to get these cricket grounds into good order for the enjoyment of the people before next season.

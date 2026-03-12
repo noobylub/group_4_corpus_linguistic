@@ -1,0 +1,13 @@
+<FileID>138297</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/part-iii</URL>
+<Title>Part Iii</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 cc808-9</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>276</WordCount>
+
+Definitions and Miscellaneous. Clause 13 (Definitions) agreed to. Clause 14 (Application of Act to Scotland). 
+<speaker>THE SECRETARY OF STATE (Sir E. ASSHETON CROSS)</speaker> proposed to omit line 34—namely—"The expression 'Attorney General' shall mean Lord Advocate." Amendment agreed to. Clause, as amended, agreed to. Clause 15 (Costs). 
+<speaker>MR. HASTINGS</speaker> proposed, in page 7, line 9, after the word "Act," to insert the words "or any case of indecent assault." Amendment agreed to. 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> proposed to insert, after the word "prosecution," in line 10, the words "in the same manner as in cases of felony." Amendment agreed to. Clause, as amended, agreed to. Clause 16 (Repeal of enactments in Schedule) agreed to. THE SECRETARY OF STATE (Sir R, ASSHETON CROSS) moved, after Clause 14, to insert the following clause:— (Saving clause as to liability to other criminal proceedings.) This Act shall not exempt any person from any proceeding for an offence which is punishable at common law, or under any Act of Parliament other than this Act, so that a person be not punished twice for the same offence. Clause brought up, and read the first and second time, and added to the Bill. New Clause (Vexatious indictments,)—( Sir H. Assheton Cross, )— brought up, and read the first and second time, and added to the Bill. 
+<speaker>THE SECRETARY OF STATE (Sir R. ASSHETON CROSS)</speaker> proposed the new clause (Power of Search). He simply wished to move the second reading in order that it might appear on the Orders. Motion made, and Question proposed, "That the Clause be read a second time." Committee report Progress; to sit again upon Monday next.

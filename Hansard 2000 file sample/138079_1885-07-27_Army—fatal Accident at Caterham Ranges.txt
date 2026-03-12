@@ -1,0 +1,11 @@
+<FileID>138079</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/army-fatal-accident-at-caterham-ranges</URL>
+<Title>Army—fatal Accident at Caterham Ranges</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc55-6</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>148</WordCount>
+
+
+<speaker>DR. FARQUHARSON</speaker> asked the Secretary of State for War, Whether his attention has been drawn to a fatal accident which occurred recently to a recruit of the Guards at the Caterham ranges when at skirmish drill with fixed bayonets; and, whether he will consult the Military authorities as to the necessity of soldiers going through such dangerous practice? 
+<speaker>THE SECRETARY OF STATE FOR WAR (Mr. W. H. SMITH)</speaker> The occurrence referred to was an accident of a most unusual character, and it may be hoped is very unlikely to occur again. It is essential that recruits at certain stages of their training should practice with fixed bayonets, in order to acquire skill and steadiness in the use of their arms. As a rule, the knowledge that bayonets are fixed makes the men very careful. The Military Authorities do not consider that any change in the Regulations is required.

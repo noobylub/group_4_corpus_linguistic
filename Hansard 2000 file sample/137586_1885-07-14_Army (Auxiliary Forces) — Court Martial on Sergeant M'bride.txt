@@ -1,0 +1,11 @@
+<FileID>137586</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/army-auxiliary-forces-court-martial-on</URL>
+<Title>Army (Auxiliary Forces) — Court Martial on Sergeant M'bride</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 c655</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>184</WordCount>
+
+
+<speaker>MR. HEALY</speaker> asked the Secretary of State for War, Can any review be obtained of the sentence of the court martial which ordered Sergeant M'Bride, of the Monaghan Militia, to be dismissed the Service on a charge of intoxication, although seven witnesses deposed to his sobriety on the occasion; and, is it the fact that, when the case for the prosecution closed, another witness against him was called, in opposition to the military regulations, on the pretence of going into a rebutting case, and that M Bride will now lose the pension attached to his six years' service? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> I am advised that the proceedings of the court martial on Sergeant M' Bride, of the Monaghan Militia, on a charge of drunkenness were quite regular; and there is no reason to suppose that the conviction was improperly obtained. Under these circumstances, it is not intended to interfere with the sentence of reduction to the ranks. The prisoner will lose the increase to his Line pension which would have accrued for good and faithful service with the Militia.

@@ -1,0 +1,11 @@
+<FileID>137598</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/the-magistracy-ireland-belfast-petty</URL>
+<Title>The Magistracy (Ireland)—belfast Petty Sessions—attendance of Magistrates</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 c661</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>77</WordCount>
+
+
+<speaker>MR. BIGGAR</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether he will move for a Return of the attendance of each magistrate for the borough of Belfast at the Courts of Petty Sessions held in and for the borough of Belfast during the past twelve months? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> Sir, I am not aware of any useful object which would be gained by moving for such a Return as this.

@@ -1,0 +1,9 @@
+<FileID>138824</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1886/jan/21/parish-churches-bill-hl</URL>
+<Title>Parish Churches Bill [hl]</Title>
+<DebRef>HL Deb 21 January 1886 vol 302 c84</DebRef>
+<SittingDate>1886-01-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>45</WordCount>
+
+A Bill to declare and enact the law as to the rights of parishioners in respect of their parish churches—Was presented by The Lord Bishop of PETERBOROUGH; read l a . (No. 5.) House adjourned at Eight o'clock, till tomorrow, a quarter past Four o'clock.

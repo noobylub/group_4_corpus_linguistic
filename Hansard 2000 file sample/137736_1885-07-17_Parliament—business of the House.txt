@@ -1,0 +1,14 @@
+<FileID>137736</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/parliament-business-of-the-house</URL>
+<Title>Parliament—business of the House</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 cc1063-4</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>267</WordCount>
+
+
+<speaker>MR. JAMES STUART</speaker> asked, Whether, in view of the fact that the Criminal Law Amendment Bill and the Medical Relief Disqualification Removal Bill were both down for Committee on Tuesday, it was intended to proceed with the former on that day? 
+<speaker>MR. CAVENDISH BENTINCK</speaker> asked, Whether, having regard to the fact that several hon. and learned Members were now absent on Circuit, and would not be back before Wednesday, would it not be well to postpone the consideration of the clauses of the Criminal Law Amendment Bill until Thursday? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> I am not quite sure that it is necessary for the House to wait for the opinions of those Gentlemen to whom the hon. Member referred. But in reply to the hon. Member opposite, I will say that the Medical Relief Disqualification Removal Bill must be the first Order on Thursday; but that we hope the Committee on the Bill will be completed by a reasonably early hour, in which case the Criminal Law Amendment Bill will immediately follow. Of course, it will not be taken up at a very late hour. MR. J. LOWTHER asked if the right hon. Gentleman would fix an hour after which the Bill would not be taken? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> said, he could not do that. The Government would like to get the Bill formally into Committee on Tuesday, if possible. In answer to Mr. ARTHUR ARNOLD, 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> was afraid he was not in a position to name any day for taking Committee on the Budget Bill .

@@ -1,0 +1,11 @@
+<FileID>138590</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/public-health-metropolis-purification-of</URL>
+<Title>Public Health (Metropolis)— Purification of the Thames</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 c1573</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>171</WordCount>
+
+
+<speaker>MR. BORLASE</speaker> asked the President of the Local Government Board, Whether he can give the House any information relative to the success or otherwise of the experiments which have now for some considerable time been carried on at considerable cost at Crossness with a view to the purification of the sewage of the Thames? 
+<speaker>THE PRESIDENT (Mr. A. J. BALFOUR)</speaker> We have been in communication with the Metropolitan Board of Works, and are informed that experiments as to the purification of the sewage discharged into the Thames at Crossness have been in progress for some months upon 1,000,000 gallons per day, and that the experiments, so far as they have gone, are considered by the officials of the Metropolitan Board of Works to have been sufficiently satisfactory to justify the Board in preparing machinery and plant for treating chemically and by precipitation 8,000,000 gallons of sewage daily. I may add that the Local Government Board have no jurisdiction as regards the discharge into the Thames of the sewage of the Metropolis.

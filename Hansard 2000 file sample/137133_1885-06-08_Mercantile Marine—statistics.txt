@@ -1,0 +1,11 @@
+<FileID>137133</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/mercantile-marine-statistics</URL>
+<Title>Mercantile Marine—statistics</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 c1404</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>138</WordCount>
+
+
+<speaker>SIR H. DRUMMOND WOLFF</speaker> asked the President of the Board of Trade, If he can furnish a Return of the number of ships registered as belonging to the British Mercantile Marine, with their respective tonnage, distinguishing sailing vessels from steamships, and specifying the number of ships under steam available for service as cruizers, or otherwise, in time of war? 
+<speaker>MR. CHAMBERLAIN,</speaker> in reply, said, the Board of Trade were unable to give any Return of the number of steamships available for service as cruisers or otherwise in time of war, as it rested with the Admiralty to decide what vessels were suitable for such purpose. The remainder of the information was already given in detail in the statement of navigation and shipping of the United Kingdom which was annually communicated to Parliament and in The Mercantile Navy List.

@@ -1,0 +1,9 @@
+<FileID>138027</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/24/waterworks-clauses-act-1847-amendment</URL>
+<Title>Waterworks Clauses Act (1847) Amendment Bill—(no 127)</Title>
+<DebRef>HL Deb 24 July 1885 vol 299 cc1763-9</DebRef>
+<SittingDate>1885-07-24</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>9</WordCount>
+
+( The Viscount Enfield. ) cc1763-9 COMMITTEE. 2,186 words

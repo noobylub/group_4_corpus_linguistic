@@ -1,0 +1,11 @@
+<FileID>136901</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/law-and-justice-ireland-imprisonment-of</URL>
+<Title>Law and Justice (Ireland)—imprisonment of Two Women</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 c939</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>197</WordCount>
+
+MR. O'BRIEN (for Mr. WILLIAM REDMOND) asked the Chief Secretary to the Lord Lieutenant of Ireland, "Whether he will state the circumstances in connection with the imprisonment of two women of the name of Kinssella, of Parnell' Cross, county Wexford; and, whether it is a fact that one of these women was taken by the police from the sick bed, where she had been lying for thirteen weeks? 
+<speaker>MR. CAMPBELL-BANNERMAN</speaker> These two women have been sent to prison, one for four days, and the other for a month and a day, in default of paying fines inflicted on them in January and February last for several acts of trespass and malicious injury. One of them was in bed when the police arrived; but she was not ill, nor had she been continuously in bed for 13 weeks. It appears she was in the habit of getting into bed whenever the police were seen approaching the house, and was at last caught in the act. MR. O'BRIEN Can the right hon. Gentleman say how often the police have succeeded in getting these poor girls into gaol with reference to this eviction? 
+<speaker>MR. CAMPBELL-BANNERMAN</speaker> I know nothing about it.

@@ -1,0 +1,9 @@
+<FileID>137256</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/25/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 25 June 1885 vol 298 c1631</DebRef>
+<SittingDate>1885-06-25</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>221</WordCount>
+
+PUBLIC BILLS— Second Reading —Public Health (Scotland) Provisional Order * (148); Commons Regulation (Ashdown Forest) Provisional Order * (141); Commons Regulation (Drum burgh) Provisional Order * (142); Commons Inclosure (Llanybyther) Provisional Order * (143); Local Government (Gas) Provisional Orders * (144); Local Government (Ireland) Provisional Orders (Labourers Act) (No. 4) * (145); Local Government (Ireland) Provisional Orders (No. 2) * (146); Local Government Provisional Orders (No. 4) * (147); Tramways Provisional Orders (No. 1) * (149); Friendly Societies Act (1875) Amendment * (128). Committee — Report —Yorkshire Registries * (133). Third Reading —East India Unclaimed Stocks * (113), and passed. Royal Assent —Princess Beatrice's Annuity [48 & 49 Viet. c. 24]; Local Authorities (Expenses of Conferences) [48 & 49 Viet. c. 22]; Parliamentary Elections (Redistribution) [48 & 49 Viet. c. 23]; Burial Boards (Contested Elections) [48 & 49 Viet. c. 21]; Local Government (Ireland) Provisional Orders (Labourers Act) (No. 2) [48 & 49 Viet. c. xxix]; Tramways (Ireland) Provisional Order (No. 1) [48 & 49 Viet. c. xxx]; Local Government Provisional Orders (Poor Law) (No. 4) [48 & 49 Viet. c. xxxi]; Local Government (Ireland) Provisional Orders (Labourers Act) (No. 3) [48 & 49 Viet. c. xxxii]. The Earl of REDESDALE—Sat Speaker. House adjourned during pleasure. House resumed. The Right Honourable Sir HARDINGE GIFFARD, Knight, having been appointed Lord Chancellor—Sat Speaker.

@@ -1,0 +1,11 @@
+<FileID>138539</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/army-railways-in-war-time</URL>
+<Title>Army—railways in War Time</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 c1456</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>151</WordCount>
+
+
+<speaker>SIR HENRY TYLER</speaker> asked the Secretary of State for War, Whether, having reference to recent experience in the Soudan, as well as to previous cases in which Officers and men of the British Army have been required for the purpose of constructing and working Railways in time of War, he will now take into consideration the question of systematically training the Officers and men of the Royal Engineers for the construction, working, and superintendence of Railways in time of war? 
+<speaker>THE SECRETARY OF STATE (Mr. W. H. SMITH)</speaker> There is no doubt that recent operations in the Soudan have afforded valuable experience as to the construction and working of military railways. Two strong railway companies have been already formed in the Royal Engineers; and a Departmental Committee is now sitting which will consider, together with other subjects, the question of the employment of the Corps of Royal Engineers on railway duties.

@@ -1,0 +1,9 @@
+<FileID>137306</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/06/new-peers</URL>
+<Title>New Peers</Title>
+<DebRef>HL Deb 06 July 1885 vol 298 c1647</DebRef>
+<SittingDate>1885-07-06</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>95</WordCount>
+
+The Right Honourable Sir Stafford Henry North cote, Baronet, G.C.B., having been created Viscount Saint Cyres of Newton Saint Cyres in the county of Devon, and Earl of Iddesleigh in the same county—Was (in the usual manner) introduced. The Right Honourable Edward Gibson, Chancellor of that part of the United Kingdom called Ireland, having been created Baron Ashbourne of Ashbourne in the county of Meath—Was (in the usual manner) introduced. Rowland Winn, Esquire, having been created Baron Saint Oswald of Nostell in the West Riding of the county of York—Was (in the usual manner) introduced.

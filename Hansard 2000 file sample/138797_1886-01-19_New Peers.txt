@@ -1,0 +1,9 @@
+<FileID>138797</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1886/jan/19/new-peers</URL>
+<Title>New Peers</Title>
+<DebRef>HL Deb 19 January 1886 vol 302 c31</DebRef>
+<SittingDate>1886-01-19</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>134</WordCount>
+
+Sir Thomas Bateson, Baronet, having been created Baron Deramore of Bolveir in the county of Down—Was (in the usual manner) introduced. Garnet Joseph Baron Wolseley, G. C. B., G.C.M.G., General and General Officer Commanding-in-Chief the Forces in Egypt, having been created Viscount Wolseley of Wolseley in the county of Stafford—Was (in the usual manner) introduced. Henry John Montagu-Douglas-Scott, commonly called Lord Henry John Montagu-Douglas-Scott, having been created Baron Montagu of Beaulieu in the county of Southampton—Was (in the usual manner) introduced. The Right Honourable Charles John Baron Colville of Culross in that part of the United Kingdom called Scotland, K.T., having been created Baron Colville of Culross in the county of Perth—Was (in the usual manner) introduced. Several Lords—Took the Oath. House adjourned at a quarter past Four o'clock, to Thursday next, One o'clock.

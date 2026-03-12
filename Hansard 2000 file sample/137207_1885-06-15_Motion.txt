@@ -1,0 +1,16 @@
+<FileID>137207</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/15/motion</URL>
+<Title>Motion</Title>
+<DebRef>HL Deb 15 June 1885 vol 298 c1534</DebRef>
+<SittingDate>1885-06-15</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>289</WordCount>
+
+
+<speaker>VISCOUNT CRANBROOK</speaker> My Lords, in the absence of my noble Friend (the Marquess of Salisbury) I beg to move that the House do adjourn until Friday next, upon which day it is probable that my noble Friend will make a statement. 
+<speaker>EARL GRANVILLE</speaker> My Lords, as a question had been put to me on the subject of moving the Adjournment, I wrote to the noble Marquess (the Marquess of Salisbury) to ask what were his wishes; whether he desired the Adjournment to be moved by his own Friends, or from that (the Treasury) Bench? In reply, he was good enough to tell me that his Friends or himself would move the Adjournment of the House. He has accordingly selected one of his own Friends for the purpose; and although I think the precedents are the other way, I do not intend to make any Motion whatever. I can only say that I agree with the Motion of the noble Viscount. 
+<speaker>THE MARQUESS OF RIPON</speaker> I hope I may be allowed to proceed with the Bill that stands in my name—the Honorary Freedom of Boroughs Bill . 
+<speaker>VISCOUNT CRANBROOK</speaker> I have no objection to withdraw my Motion for the moment, if there is any Business which can be proceeded with. 
+<speaker>THE LORD CHANCELLOR</speaker> In point of form, the House would adjourn till tomorrow, to allow of the Judicial Business being proceeded with; it being understood that the House will not meet till Friday for Legislative Business. 
+<speaker>VISCOUNT CRANBROOK</speaker> Of course that will be understood. Motion (by leave of the House) withdrawn. After an interval, during which several Bills were advanced a stage. 
+<speaker>VISCOUNT CRANBROOK</speaker> I now beg to move that the House do adjourn for ordinary Business until Friday next.

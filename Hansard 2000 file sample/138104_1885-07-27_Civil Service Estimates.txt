@@ -1,0 +1,9 @@
+<FileID>138104</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/27/civil-service-estimates</URL>
+<Title>Civil Service Estimates</Title>
+<DebRef>HC Deb 27 July 1885 vol 300 cc176-9</DebRef>
+<SittingDate>1885-07-27</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>26</WordCount>
+
+c176 CLASS III. — LAW AND JUSRICS. 14 words c176 CLASS IV. — EDUCATION, SCIENCE, AND ART. 33 words cc177-9 CLASS VII. — MISCELLANEOUS. 1,036 words

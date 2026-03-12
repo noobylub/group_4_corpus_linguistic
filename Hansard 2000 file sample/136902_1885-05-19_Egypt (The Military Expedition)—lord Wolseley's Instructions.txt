@@ -1,0 +1,11 @@
+<FileID>136902</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/19/egypt-the-military-expedition-lord</URL>
+<Title>Egypt (The Military Expedition)—lord Wolseley's Instructions</Title>
+<DebRef>HC Deb 19 May 1885 vol 298 cc939-40</DebRef>
+<SittingDate>1885-05-19</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>185</WordCount>
+
+
+<speaker>SIR R. ASSHETON CROSS</speaker> asked the Secretary of State for War, If he has received any telegram from Lord Wolseley, during the time that he was at Suakin, protesting against the instructions sent to him from the War Office for his general guidance as to Military operations, and as to the disposal and withdrawal of the troops under his command at Suakin and on the Nile, as being impracticable in a Military point of view? 
+<speaker>SIR. WALTER B. BARTTELOT</speaker> asked the Secretary of State for War, Whether he will lay upon the Table of the House Lord Wolseley's most important Despatches and telegrams with regard to the evacuation of the Soudan? SIR ARTHUR HATTER (who replied) said: No telegram has been received from Lord Wolseley protesting against his instructions as impracticable from a military point of view. But, in reply to this Question, and to that of the hon. and gallant Member for West Sussex (Sir Walter B. Barttelot), I may say that the most important despatches and telegrams received from Lord Wolseley will be included in the Papers which are about to be presented.

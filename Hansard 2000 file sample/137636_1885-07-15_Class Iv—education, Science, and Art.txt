@@ -1,0 +1,9 @@
+<FileID>137636</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/15/class-iv-education-science-and-art</URL>
+<Title>Class Iv—education, Science, and Art</Title>
+<DebRef>HC Deb 15 July 1885 vol 299 c879</DebRef>
+<SittingDate>1885-07-15</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>72</WordCount>
+
+(7.) £6,464, to complete the sum for the National Gallery. (8.) £1,630, to complete the sum for the National Portrait Gallery. (9.) £13,900, to complete the sum for Learned Societies and Scientific Investigation. (10.) £8,484, to complete the sum for the London University. (11.) £10,500, University Colleges, Wales. (12.) £3,627, to complete the sum for the Deep Sea Exploring Expedition (Report). Resolutions to be reported Tomorrow. Committee to sit again upon Friday.

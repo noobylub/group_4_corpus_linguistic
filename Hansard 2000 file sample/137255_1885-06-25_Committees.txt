@@ -1,0 +1,9 @@
+<FileID>137255</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/25/committees</URL>
+<Title>Committees</Title>
+<DebRef>HC Deb 25 June 1885 vol 298 c1640</DebRef>
+<SittingDate>1885-06-25</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>25</WordCount>
+
+Ordered, That all Committees have leave to sit, notwithstanding the Adjournment of the House. House adjourned at half after Four o'clock till Monday 6th July.

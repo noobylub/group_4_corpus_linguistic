@@ -1,0 +1,9 @@
+<FileID>137714</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/private-business</URL>
+<Title>Private Business</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 c1053</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>11</WordCount>
+
+RATHMINES AND RATHGAR TOWNSHIP BILL [Lords.] c1053 THIRD READING. 166 words

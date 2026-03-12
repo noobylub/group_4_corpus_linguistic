@@ -1,0 +1,9 @@
+<FileID>137444</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 c276</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>98</WordCount>
+
+NEW MEMBER SWORN — Right Honble. William Thackeray Marriott, for Brighton. SUPPLY— considered in Committee —R.P. WAYS AND MEANS— considered in Committee — Resolution [July 9] reported. PUBLICE BILLS — Ordered — First. Reading — Exchequer and Treasury Bills* [229]; Cholera Hospitals (Ireland) * [231]; Public Health (Ships, &c.) * [2301. First Reading —Elementary Education Provisional Orders Confirmation (Birmingham, &c.)*[228]. Second Heading —Summary Jurisdiction (Term of Imprisonment) * [180]; National Debt * [172], Committee — Report — Third Reading —Turnpike Acts Continuance* [218]; Yorkshire Registries* [211], and passed. Third Reading —Local Loans (Sinking Funds) * [189], and passed.

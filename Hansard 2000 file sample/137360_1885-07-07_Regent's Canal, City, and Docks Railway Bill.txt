@@ -1,0 +1,9 @@
+<FileID>137360</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/07/regents-canal-city-and-docks-railway-bill</URL>
+<Title>Regent's Canal, City, and Docks Railway Bill</Title>
+<DebRef>HL Deb 07 July 1885 vol 298 cc1793-805</DebRef>
+<SittingDate>1885-07-07</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc1793-805 SECOND READING. 4,481 words

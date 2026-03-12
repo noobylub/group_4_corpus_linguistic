@@ -1,0 +1,10 @@
+<FileID>138285</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/seed-supply-ireland-act-non-payment-of</URL>
+<Title>Seed Supply (Ireland) Act—non-Payment of the Seed Rate</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 c679</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>138</WordCount>
+
+MR. JUSTIN M'CARTHY asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether, considering the low price of stock and farm produce of every kind in many parts of Ireland now and the general depression of agriculture, the Government will consent to the request made by several Poor Law Unions, that the time for the repayment of the last instalment of the Seed Bate, now due, should be extended to the 1st of November? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> Whenever reasonable ground is shown for the extension of the time for repayment of this loan the Local Government Board are quite prepared to recommend the application to the consideration of the Board of Works, who, I am informed, act leniently in cases of this kind. Each application must be dealt with on its own merits.

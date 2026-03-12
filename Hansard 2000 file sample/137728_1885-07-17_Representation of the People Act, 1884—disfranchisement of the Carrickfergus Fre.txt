@@ -1,0 +1,10 @@
+<FileID>137728</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/17/representation-of-the-people-act-1884</URL>
+<Title>Representation of the People Act, 1884—disfranchisement of the Carrickfergus Freemen</Title>
+<DebRef>HC Deb 17 July 1885 vol 299 cc1058-9</DebRef>
+<SittingDate>1885-07-17</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>108</WordCount>
+
+MR. SINCLAIR asked Mr. Attorney General for Ireland, If the freemen of the county of the town of Carrickfergus, which is now disfranchised, are entitled to be placed on the list of voters in East Antrim (the division of the county of Antrim in which Carrickfergus is situ- ated), or if the action of the Redistribution of Seats Bill is to disfranchise such freemen? 
+<speaker>THE ATTORNEY GENERAL FOR IRELAND (Mr. HOLMES)</speaker> The borough of Carrickfergus having been disfranchised, the freeman franchise of the borough is no longer in existence, and the freemen, as such, are not entitled to be placed on the list of voters in East Antrim.

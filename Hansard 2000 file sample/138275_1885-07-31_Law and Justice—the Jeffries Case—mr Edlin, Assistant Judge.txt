@@ -1,0 +1,13 @@
+<FileID>138275</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/31/law-and-justice-the-jeffries-case-mr</URL>
+<Title>Law and Justice—the Jeffries Case—mr Edlin, Assistant Judge</Title>
+<DebRef>HC Deb 31 July 1885 vol 300 cc672-3</DebRef>
+<SittingDate>1885-07-31</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>395</WordCount>
+
+
+<speaker>MR. PICTON (for Mr. W. FOWLER)</speaker> asked the Secretary of State for the Home Department, Whether the Judge who tried the Chelsea case of Mrs. Jeffries has yet returned; and, whether he can now give the House the information which was withheld by reason of the absence of the Judge? 
+<speaker>MR. CALLAN</speaker> wished, before that Question was answered, to ask whether it was true, as stated in The Dublin Daily Express, that the prolonged leave of absence given to Mr. Edlin was given to him without application made at the time, and that previous to the trial of the Jeffries case the application made by Mr. Edlin for leave of absence was persistently refused by the late Home Secretary? THE SECRETARY OF STATE (Sir E. ASSHETON CROSS) I cannot tell anything as to that. I presume leave of absence was given in the ordinary course. In regard to the Question on the Paper, I object to the word "withheld," for I have nothing to withhold, neither would I have withheld anything if I had. There is a very long letter from the Judge at the disposal of the hon. Member if he would like to see it. He says— On my arrival in Court I did see the leading counsel in my own room. This I did at their own request, and in accordance with precedent and custom. There is not a shadow of foundation for the statement that I suggested the defendant should plead guilty; on the contrary, I told counsel I should express no opinion as to what the sentence should be until I had conferred with my brother magistrates. The sentence was proposed by a magistrate of great experience. I concurred in it, and thought it just and proper. It was adopted almost unanimously, there being one dissentient, and he was in favour of a smaller fine. 
+<speaker>SIR WILLIAM HARCOURT</speaker> As to the leave of absence given to Mr. Edlin, I have to say that the application never came before me. I have not inquired into the matter, and I have no recollection of it; but I have no doubt that, as a matter of course, leave would be given by the Under Secretary. 
+<speaker>MR. CALLAN</speaker> Is it not a fact that for a period of two years before the Jeffries case leave of absence was refused to Mr. Edlin? [No reply.]

@@ -1,0 +1,11 @@
+<FileID>138204</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/the-navy-list-warrant-officers</URL>
+<Title>The Navy List—warrant Officers</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c509</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>86</WordCount>
+
+
+<speaker>CAPTAIN PRICE</speaker> asked the First Lord of the Admiralty, Whether there is any objection to retaining the names of retired Warrant Officers on the Navy List, in the same way as those of other Officers? 
+<speaker>THE FIRST LORD (Lord GEORGE HAMILTON)</speaker> There would be no objection to this proposal being adopted for warrant officers retired in future; but it could not be made retrospective without a great deal of difficulty, and therefore I think it would be advisable to leave the Navy List as it is.

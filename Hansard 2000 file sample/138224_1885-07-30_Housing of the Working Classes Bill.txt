@@ -1,0 +1,12 @@
+<FileID>138224</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/30/housing-of-the-working-classes-bill</URL>
+<Title>Housing of the Working Classes Bill</Title>
+<DebRef>HC Deb 30 July 1885 vol 300 c522</DebRef>
+<SittingDate>1885-07-30</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>117</WordCount>
+
+
+<speaker>MR. GRAY</speaker> asked the President of the Local Government Board, Whether he will be prepared to extend the Housing of the Working Classes Bill to Ireland? 
+<speaker>THE PRESIDENT (Mr. A. J. BALFOUR),</speaker> in reply, said, the Bill was not a Government Bill, and it was not in his charge, but in the charge of the Home Secretary. 
+<speaker>THE SECRETARY OF STATE FOR THE HOME DEPARTMEMT (Sir R. ASSHETON CROSS)</speaker> said, the hon. Member would remember that the Commission which inquired into this matter, and on which he (Mr. Gray) took so important a part, did not inquire into the rural districts of Ireland. He did not know whether the Question of the hon. Member applied to towns.

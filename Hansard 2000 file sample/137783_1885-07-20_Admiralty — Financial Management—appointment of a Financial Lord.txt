@@ -1,0 +1,10 @@
+<FileID>137783</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/20/admiralty-financial-management</URL>
+<Title>Admiralty — Financial Management—appointment of a Financial Lord</Title>
+<DebRef>HC Deb 20 July 1885 vol 299 c1201</DebRef>
+<SittingDate>1885-07-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>92</WordCount>
+
+LORD HENRY LENNOX asked the First Lord of the Admiralty, Whether it is intended to take any steps to appoint an independent financier as a Finance Lord at the Admiralty, with a view to securing a permanent financial control over Admiralty expenditure in the future? 
+<speaker>THE FIRST LORD OF THE ADMIRALTY (Lord GEORGE HAMILTON),</speaker> in reply, said, the Admiralty were now considering what would be the best financial check. He did not, however, think the specific proposal to place a Finance Lord upon the Board would be likely to meet with approval.

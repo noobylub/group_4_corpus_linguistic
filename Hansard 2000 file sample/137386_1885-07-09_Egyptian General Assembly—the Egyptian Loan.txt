@@ -1,0 +1,11 @@
+<FileID>137386</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/09/egyptian-general-assembly-the-egyptian</URL>
+<Title>Egyptian General Assembly—the Egyptian Loan</Title>
+<DebRef>HC Deb 09 July 1885 vol 299 cc115-6</DebRef>
+<SittingDate>1885-07-09</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>330</WordCount>
+
+
+<speaker>SIR GEORGE CAMPBELL</speaker> asked the Under Secretary of State for Foreign Affairs, Whether the Egyptian General Assembly has been convened, as required by the Egyptian Constitution, to consider the proposed loan of nine millions which has already been submitted to the British and French Legislatures; and, whether the present Government will promise, as the late Government promised, that the Egyptian Law will be observed in this matter, and that the loan will not be illegally raised without due sanction of the Egyptian Assembly? THE UNDER SECRETARY The Egyptian General Assembly has not been convened; but Her Majesty's Government have no reason to believe that it is intended to omit any formality which may be necessary to insure the legality of the loan. They are not aware of any promise having been given by the late Government, such as is mentioned by the hon. Member. I suppose the hon. Member alludes to the statement made by the late Prime Minister on the 24th of March, in answer to a Question from himself, namely— The business of the Khedive no doubt, if ho thinks proper, is to take all the steps required by the law in force in Egypt to fulfil in a regular manner his part of the duties connected with this Convention. Application has been made to the Khedive upon the subject, and he has engaged to take all those steps. Therefore my hon. Friend need not feel any alarm as to what has been done so far as Egypt is concerned."—(3 Hansard, [296] 388.) The question, therefore, stands now as it was left by the late Government. 
+<speaker>SIR GEORGE CAMPBELL</speaker> said, what he wished to know was whether any steps had been taken by the Khedive since the late Prime Minister made the statement referred to? THE UNDER SECRETARY said, he had no addition to make to the statement of the late Prime Minister. The matter was in exactly the same position now as when that statement was made.

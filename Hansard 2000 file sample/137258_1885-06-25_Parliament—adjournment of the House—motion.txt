@@ -1,0 +1,9 @@
+<FileID>137258</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/25/parliament-adjournment-of-the-house</URL>
+<Title>Parliament—adjournment of the House—motion</Title>
+<DebRef>HL Deb 25 June 1885 vol 298 cc1638-9</DebRef>
+<SittingDate>1885-06-25</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>68</WordCount>
+
+THE MARQUESS OF SALISBUEY It being understood that the Adjournment of the House will not interfere with the Judicial Business, I propose to move the Adjournment of the House until the elections have taken place for the other House. I therefore propose that the House do adjourn until Monday week. Motion agreed to. House adjourned at a quarter past Five o'clock, till Tomorrow, a quarter past Ten o'clock.

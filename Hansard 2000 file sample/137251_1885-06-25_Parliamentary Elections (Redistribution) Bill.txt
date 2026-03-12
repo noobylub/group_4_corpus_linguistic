@@ -1,0 +1,9 @@
+<FileID>137251</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/25/parliamentary-elections-redistribution</URL>
+<Title>Parliamentary Elections (Redistribution) Bill</Title>
+<DebRef>HC Deb 25 June 1885 vol 298 cc1639-40</DebRef>
+<SittingDate>1885-06-25</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>20</WordCount>
+
+c1639 MESSAGE FROM THE LORDS. 20 words c1639 NEW WRITS. 118 words c1640 ADJOURNMENT. 19 words c1640 COMMITTEES. 25 words

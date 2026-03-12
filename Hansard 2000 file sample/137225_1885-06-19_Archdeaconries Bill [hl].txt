@@ -1,0 +1,9 @@
+<FileID>137225</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jun/19/archdeaconries-bill-hl</URL>
+<Title>Archdeaconries Bill [hl]</Title>
+<DebRef>HL Deb 19 June 1885 vol 298 c1600</DebRef>
+<SittingDate>1885-06-19</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>44</WordCount>
+
+A Bill to explain the Act 3rd and 4th Vict., chap. 113., sect. 34. (Provision for Archdeaconries)— Was presented by The Lord Archbishop of CANTERBURY; read 1 a . (No. 150.) House adjourned at Five o'clock, to Monday next, a quarter before Eleven o'clock.

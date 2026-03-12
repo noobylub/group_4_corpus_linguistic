@@ -1,0 +1,11 @@
+<FileID>137535</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/business-of-the-house-medical-relief</URL>
+<Title>Business of the House—medical Relief Disqualification Removal Bill</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c435</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>151</WordCount>
+
+
+<speaker>MR. JESSE COLLINGS</speaker> asked the Chancellor of the Exchequer, Whether, considering the extraordinary importance of the subject, the Medical Belief Bill would be read a second time tomorrow, and whether he would also undertake to insert a clause giving a positive and direct instruction to the overseers to make out supplementary lists of voters who had been omitted from the regular lists through receiving medical relief? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> said, he could make no promise as to such a technical point as that suggested; but, of course, the President of the Local Government Board would attend to the matter, and, no doubt, if such a clause were necessary, would put it in. It was their wish to proceed with the Bill as rapidly as possible, and if they were able to have the Bill circulated tomorrow morning, they would ask the House to give it the second reading tomorrow.

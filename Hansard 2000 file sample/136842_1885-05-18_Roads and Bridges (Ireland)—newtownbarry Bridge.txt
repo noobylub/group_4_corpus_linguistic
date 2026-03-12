@@ -1,0 +1,11 @@
+<FileID>136842</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/roads-and-bridges-ireland-newtownbarry</URL>
+<Title>Roads and Bridges (Ireland)—newtownbarry Bridge</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 cc699-700</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>215</WordCount>
+
+
+<speaker>MR. WILLIAM REDMOND (for Mr. SMALL)</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, Whether he is aware that a presentment in the barony of Scarawalsh, and county of Wexford, for making a footpath over Newtownbarry Bridge at an expense of £85 was brought forward at the November Presentment Sessions and afterwards passed finally at March Assizes, although, as the amount exceeded £50, it ought to have been sent back to the next Presentment Sessions following March Assizes, to be approved or disapproved before being finally passed, according to the provisions of the 6th and 7th William IV. c. 116, s. 27; and, what steps will be taken to rectify this illegal action? 
+<speaker>MR. CAMPBELL-BANNERMAN</speaker> The statements of fact of this Question are, I am informed, correct. A question was raised before the Grand Jury whether the work in question was a new bridge, in which case it should have been referred back under the 27th section of the Act, or an addition to or improvement of an existing bridge, in which case the 27th section would not apply, and the Grand Jury appear to have adopted the latter view. I am advised that it is not necessary that any steps should be taken in respect of the action of the Grand Jury.

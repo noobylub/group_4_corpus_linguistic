@@ -1,0 +1,11 @@
+<FileID>138597</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/10/the-irish-land-commission-the-appeal</URL>
+<Title>The Irish Land Commission—the Appeal Court—appeals From Tenants on Lord Rosse's Estate, Parsonstown</Title>
+<DebRef>HC Deb 10 August 1885 vol 300 cc1578-9</DebRef>
+<SittingDate>1885-08-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>271</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, How it happened that, out of thirty-four appeals to the Irish Land Commission, in the cases of tenants on Lord Rosse's estate in the union of Parsons-town, only four were listed for hearing in Dublin on the 3rd ultimo, and, after these four tenants had come eighty miles, with their solicitors and valuers, and waited two days in Dublin to have their cases heard, the cases were put back to a future day; why the Land Commission did not fix a time for hearing all the cases on the estate, so as to render the costs less oppressive to the individual tenant; and, whether arrangements will be made to save the tenants from avoidable costs by a local hearing of their cases? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> There were no land appeals listed for hearing on the 3rd ultimo. Four cases on Lord Rosse's estate were listed for hearing with several others on the 4th of June. On that day it was stated to the Court that three of Lord Rosse's cases had been settled, but none of them were actually reached on that day, and not having been formally withdrawn, they were relisted for the 17th of June, when the one case not settled was dismissed, and the other three were with- drawn, with costs to the tenants. The Land Commissioners inform me that it is not practicable for them to hold a Court of Appeal in every county in Ireland: but in making their arrangements they consult, as far as possible, the convenience of suitors.

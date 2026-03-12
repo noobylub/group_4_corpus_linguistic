@@ -1,0 +1,9 @@
+<FileID>138055</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/26/law-and-police-the-international-club</URL>
+<Title>Law and Police—the International Club</Title>
+<DebRef>HL Deb 26 July 1885 vol 300 cc236-7</DebRef>
+<SittingDate>1885-07-26</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc236-7 QUESTION. OBSERVATIONS. 764 words

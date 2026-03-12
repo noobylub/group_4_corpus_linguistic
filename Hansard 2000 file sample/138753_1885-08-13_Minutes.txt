@@ -1,0 +1,9 @@
+<FileID>138753</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/13/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HL Deb 13 August 1885 vol 301 c1</DebRef>
+<SittingDate>1885-08-13</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>12</WordCount>
+
+PUBLIC BILL— Second Reading —Summary Jurisdiction (Term of Imprisonment) * (202), discharged.

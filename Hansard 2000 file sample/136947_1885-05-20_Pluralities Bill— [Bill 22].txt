@@ -1,0 +1,9 @@
+<FileID>136947</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/20/pluralities-bill-bill-22</URL>
+<Title>Pluralities Bill— [Bill 22]</Title>
+<DebRef>HC Deb 20 May 1885 vol 298 c972</DebRef>
+<SittingDate>1885-05-20</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>13</WordCount>
+
+( Mr. Acland, Mr. Edward Howard, Sir John Kennaway, Lord Edward Cavendish. )

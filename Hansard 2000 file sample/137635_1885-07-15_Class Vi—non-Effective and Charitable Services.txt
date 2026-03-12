@@ -1,0 +1,9 @@
+<FileID>137635</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/15/class-vi-non-effective-and-charitable</URL>
+<Title>Class Vi—non-Effective and Charitable Services</Title>
+<DebRef>HC Deb 15 July 1885 vol 299 c879</DebRef>
+<SittingDate>1885-07-15</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>50</WordCount>
+
+(2.) £9,600, to complete the sum for the Merchant Seamen's Fund Pensions, &c. (3.) £478,500, Pauper Lunatics, England. (4.) £69,500, to complete the sum for Pauper Lunatics, Scotland. (5.) £51,021, Savings Banks and Friendly Societies Deficiency. (6.) £1,751, to complete the sum for Miscellaneous Charitable and other Allowances, Great Britain.

@@ -1,0 +1,11 @@
+<FileID>137446</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/10/bonds-for-loans-issued-by-local</URL>
+<Title>Bonds for Loans Issued by Local Authorities</Title>
+<DebRef>HC Deb 10 July 1885 vol 299 c276</DebRef>
+<SittingDate>1885-07-10</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>144</WordCount>
+
+
+<speaker>MR. STEWART MACLIVER</speaker> asked the President of the Local Government Board, If his attention has been called to the practice, by local authorities under his jurisdiction, of issuing bonds for loans signed by the clerk only (who also keeps the seal); and, whether, in the public interest, some additional precautions should not be adopted in dealing with those securities? 
+<speaker>THE PRESIDENT OF THE LOCAL GOVERNMENT BOARD (Mr. A. J. BALFOUR)</speaker> Sir, there is no authority for the issue of securities under the signature of the clerk alone. Any such security must be under the seal of the Local Authority; and it appears to the Board that such arrangements should be made by the Local Authorities, that the seal should not be under the exclusive control of the clerk. Any such precautions as are necessary are within the powers of the authorities without further legislation.

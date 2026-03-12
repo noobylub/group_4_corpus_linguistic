@@ -1,0 +1,11 @@
+<FileID>136858</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/18/excise-restrictions-on-the-scotch-and</URL>
+<Title>Excise—restriction's on the Scotch and Irish Spirit Trade</Title>
+<DebRef>HC Deb 18 May 1885 vol 298 c713</DebRef>
+<SittingDate>1885-05-18</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>100</WordCount>
+
+
+<speaker>SIR JOSEPH M'KENNA</speaker> asked Mr. Chancellor of the Exchequer, Whether Her Majesty's Government will take early stops to remove the serious restraint on trade, affecting Irish and Scotch spirit merchants, which precludes them from selling spirits in quantities less than two gallons, not to be consumed on the premises, whilst no such trading disability is laid upon English spirit merchants? 
+<speaker>MR. HIBBERT</speaker> (who replied) said: I admit that the anomalies in our system of licences are considerable, but they must be treated as a whole, and I fear it would be impossible to undertake their readjustment in the present Session.

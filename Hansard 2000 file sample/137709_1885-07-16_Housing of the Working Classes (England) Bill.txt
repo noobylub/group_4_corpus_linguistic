@@ -1,0 +1,9 @@
+<FileID>137709</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/jul/16/housing-of-the-working-classes-england</URL>
+<Title>Housing of the Working Classes (England) Bill</Title>
+<DebRef>HL Deb 16 July 1885 vol 299 cc889-97</DebRef>
+<SittingDate>1885-07-16</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>13</WordCount>
+
+( The Marquess of Salisbury. ) cc889-97 (NO. 177.) SECOND BEADING. 3,316 words

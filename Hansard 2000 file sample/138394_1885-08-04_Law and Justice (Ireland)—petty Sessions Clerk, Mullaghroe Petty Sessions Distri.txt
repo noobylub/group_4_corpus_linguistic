@@ -1,0 +1,11 @@
+<FileID>138394</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/law-and-justice-ireland-petty-sessions</URL>
+<Title>Law and Justice (Ireland)—petty Sessions Clerk, Mullaghroe Petty Sessions District, Co Sligo</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1037-8</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>146</WordCount>
+
+
+<speaker>MR. SEXTON</speaker> asked the Chief Secretary to the Lord Lieutenant of Ireland, With reference to a memorial addressed to his predecessor, pointing out the great inconvenience caused to the inhabitants of the Mullaghroe (county Sligo) Petty Sessions District by the fact that the petty sessions clerk lives sixteen miles away from some parts of the district, at Boyle, in another county, whether the Government are aware that the official in question holds the clerkships of five petty sessions districts; and, whether, in compliance with the desire conveyed in the memorial, they will cause to be appointed to the clerkship of Mullaghroe a person resident in the district? 
+<speaker>THE CHIEF SECRETARY (Sir WILLIAM HART DYKE)</speaker> The subject of this Memorial has been very carefully considered, and the Government are satisfied that no sufficient cause has been shown for making any change at present in the existing arrangement.

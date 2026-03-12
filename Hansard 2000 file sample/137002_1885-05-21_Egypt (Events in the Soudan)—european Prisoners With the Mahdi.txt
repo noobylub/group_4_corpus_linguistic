@@ -1,0 +1,16 @@
+<FileID>137002</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/egypt-events-in-the-soudan-european</URL>
+<Title>Egypt (Events in the Soudan)—european Prisoners With the Mahdi</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 cc1041-2</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>342</WordCount>
+
+
+<speaker>BARON HENRY DE WORMS</speaker> asked, Whether Her Majesty's Government had any information relative to the present position of Lupton Bey, Governor of the Egyptian Province of Bahr-el-Gazelle, who is supposed by some to be still holding out, and by others to be a prisoner in the hands of the Mahdi; and, whether Her Majesty's Government were disposed to offer a ransom for this English subject, or to take any steps to discover his whereabouts before our troops were withdrawn from Egypt? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> In a despatch, dated November 15 (Egypt, No. 1 of 1885, p. 96), Sir Evelyn Baring-encloses a letter from General Gordon to Lord Wolseley, stating that the Mahdi asserted that Lupton Bey had surrendered. We have no further information. A telegram will be sent to General Buller to ask whether anything authentic is known as to Lupton Bey's fate. I am not aware whether any special instructions have been given on the subject of ransom; but, as I stated some time ago, very large discretion is left in the hands of Lord Wolseley to take whatever means he thinks best for the ransom of any persons such as Lupton Bey. 
+<speaker>MR. ASHMEAD-BARTLETT</speaker> asked whether the Government would telegraph to General Buller, at Dongola, authorizing him to send a Native messenger at once to the Mahdi to offer a ransom for Lupton Bey and M. Cuzzi, formerly General Gordon's Agent at Berber. 
+<speaker>MR. O'KELLY</speaker> asked whether Lord Wolseley had made an attempt to communicate with the Mahdi about the prisoners; whether he had sent letters or messengers offering a ransom? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> I am not aware that any information on the subject has been received from Lord Wolseley. 
+<speaker>MR. O'KELLY</speaker> asked whether the noble Lord would inquire whether Lord Wolseley had taken any steps in the matter; and, if not, why not? 
+<speaker>LORD EDMOND FITZMAURICE</speaker> Lord Wolseley communicates with the War Office, and not with the Foreign Office. There can be no doubt that he has taken some steps; but there will be no objection to making inquiry.

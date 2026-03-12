@@ -1,0 +1,9 @@
+<FileID>137026</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/may/21/central-asia-russia-and-afghanistan</URL>
+<Title>Central Asia—russia and Afghanistan—diplomatic Representation at Cabul</Title>
+<DebRef>HL Deb 21 May 1885 vol 298 cc1008-11</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>5</WordCount>
+
+cc1008-11 QUESTION. OBSERVATIONS. 1,087 words

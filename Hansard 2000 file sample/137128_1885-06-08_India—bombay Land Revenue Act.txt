@@ -1,0 +1,11 @@
+<FileID>137128</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/08/india-bombay-land-revenue-act</URL>
+<Title>India—bombay Land Revenue Act</Title>
+<DebRef>HC Deb 08 June 1885 vol 298 c1401</DebRef>
+<SittingDate>1885-06-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>136</WordCount>
+
+
+<speaker>MR. ARTHUR O'CONNOR</speaker> asked the Under Secretary of State for India, If he will lay upon the Table a Paper containing a copy of the Bombay Land Revenue Act of 1879, and, in a parallel column, a copy of the Land Revenue Act of 1827? 
+<speaker>MR. J. K. CROSS</speaker> Both the Acts referred to by the hon. Member for Queen's County are already in the Library of the House. The Act of 1827 is to be found most conveniently at page 211 of Return No. 201 of 1829. The Act of 1879 was supplied to the Library in the usual course on its receipt from India. I think the hon. Member, on referring to the two Acts, will agree that they do not sufficiently correspond to make it worth while printing them in the manner proposed.

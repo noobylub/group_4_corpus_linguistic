@@ -1,0 +1,10 @@
+<FileID>138807</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/21/parliament-business-of-the-house-new</URL>
+<Title>Parliament — Business of the House — New Rules of Procedure</Title>
+<DebRef>HC Deb 21 January 1886 vol 302 c86</DebRef>
+<SittingDate>1886-01-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>114</WordCount>
+
+
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> I wish to give Notice that, on the conclusion of the debate on the Address in reply to Her Majesty's Most Gracious Speech, I intend to propose certain Resolutions relating to the Procedure of the House; and, having regard to the nature of the subject and the precedent which was adopted in 1882, I propose to ask the House to afford to us facilities for the continued discussion and the determination of these Resolutions, subject, of course, to the intervention of any specially important or urgent Business. I intend to place a copy of the Resolutions which I propose to move on the Table this evening.

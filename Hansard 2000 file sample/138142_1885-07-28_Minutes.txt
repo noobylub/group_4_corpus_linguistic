@@ -1,0 +1,9 @@
+<FileID>138142</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/28/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 28 July 1885 vol 300 c238</DebRef>
+<SittingDate>1885-07-28</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>116</WordCount>
+
+SUPPLY— considered in Committee —CIVIL SERVICE ESTIMATES—CLASS IV—EDUCATION, SCIENCE, AND ART, Vote 18; CLASS III. — LAW AND JUSTICE, Vote 31. Resolutions [July 27] reported. PRIVATE BILLS ( by Order )— Considered as amended —Belfast Central Railway (Abandonment) * ; Southampton Corporation. * Withdrawn —Southwark and Vauxhall Water. PUBLIC BILLS— Second Reading —Expiring Laws Continuance * [247]. Committee — Report — Third Reading —Lunacy Acts Amendment [244]; Metropolitan Police Staff Superannuation * [246]; Patent Law Amendment * [240], and passed. Report —Elementary Education Provisional Orders Confirmation (Birmingham, &c.) * [228]; Local Government (Ireland) Provisional Orders ( Public Health Act ) (No. 2) * [212]. Third Reading —Customs and Inland Revenue (No. 2) * [223], and passed.

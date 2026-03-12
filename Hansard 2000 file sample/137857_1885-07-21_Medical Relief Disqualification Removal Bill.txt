@@ -1,0 +1,14 @@
+<FileID>137857</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/21/medical-relief-disqualification-removal</URL>
+<Title>Medical Relief Disqualification Removal Bill</Title>
+<DebRef>HC Deb 21 July 1885 vol 299 c1408</DebRef>
+<SittingDate>1885-07-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>176</WordCount>
+
+
+<speaker>MR. PELL</speaker> asked the President of the Local Government Board, Whether, in the Medical Relief Disqualification Removal Bill , the term medical assistance is intended to cover what is generally known as medical extras—namely, wine, spirits, malt liquor, beef, and other butcher's meat; and, whether, in order to avoid misconception, he will in the Bill define what is meant by medical assistance? 
+<speaker>THE PRESIDENT OF THE LOCAL GOVERNMENT BOARD (Mr. A. J. BALFOUR)</speaker> The term medical assistance is not intended to cover the medical extras referred to. The words used are the same as those in the Registration (Ireland) Act , and it does not appear to me to be necessary to introduce in the Bill any definition of the term. 
+<speaker>MR. JESSE COLLINGS</speaker> Will the Bill not cover everything ordered by the medical officer, no matter what the articles may be? 
+<speaker>MR. CAUSTON</speaker> Will the Bill cover surgical appliances? 
+<speaker>THE PRESIDENT OF THE LOCAL GOVERNMENT BOARD</speaker> These are all matters to be debated in Committee. It is not convenient to enter into a discussion now.

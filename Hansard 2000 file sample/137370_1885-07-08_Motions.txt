@@ -1,0 +1,9 @@
+<FileID>137370</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/08/motions</URL>
+<Title>Motions</Title>
+<DebRef>HC Deb 08 July 1885 vol 299 cc84-5</DebRef>
+<SittingDate>1885-07-08</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>33</WordCount>
+
+c84 POLICE ENFRANCHISEMENT EXTENSION BILL. 61 words c84 CONVEYANCING (SCOTLAND) ACT (1874) AMENDMENT BILL. 38 words c84 VACATING OF SEATS BILL. 46 words cc84-5 FORESTRY. 74 words c85 GREENWICH HOSPITAL BILL. 72 words

@@ -1,0 +1,9 @@
+<FileID>138184</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/29/revenue-departments</URL>
+<Title>Revenue Departments</Title>
+<DebRef>HC Deb 29 July 1885 vol 300 c468</DebRef>
+<SittingDate>1885-07-29</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>10</WordCount>
+
+(3.) £4,254,659, to complete the sum for the Post Office.

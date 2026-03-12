@@ -1,0 +1,10 @@
+<FileID>137544</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/13/second-reading</URL>
+<Title>Second Reading</Title>
+<DebRef>HC Deb 13 July 1885 vol 299 c548</DebRef>
+<SittingDate>1885-07-13</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>75</WordCount>
+
+Order for Second Heading read. 
+<speaker>THE SECRETARY TO THE TREASURY (Sir HENRY HOLLAND)</speaker> trusted the House would agree to the second reading of the Bill that night. It was a Bill of one clause to enable the Treasury, out of the surplus of bankruptcy funds, to provide accommodation for bankruptcy offices. Motion made, and Question, "That the Bill be now read a second time,"—( Sir Henry Holland, )—put, and agreed to. Bill committed for Tomorrow.

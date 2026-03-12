@@ -1,0 +1,14 @@
+<FileID>137603</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jul/14/parliament-business-of-the-house</URL>
+<Title>Parliament-Business of the House—criminal Law Amendment Bill</Title>
+<DebRef>HC Deb 14 July 1885 vol 299 c664</DebRef>
+<SittingDate>1885-07-14</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>177</WordCount>
+
+
+<speaker>MR. HOPWOOD</speaker> asked, If it was the intention of the Government to proceed with the Criminal Law Amendment Bill that night? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER (Sir MICHAEL HICKS-BEACH)</speaker> No, we cannot proceed with that tonight. It had been our intention to take the Medical Relief Bill immediately after Supply, and to report Progress early for the purpose; but, as the House is no doubt aware, we have been disappointed in that intention by what passed during the early hours of this morning, and it cannot be taken till Thursday. I stated yesterday that it was not our intention to take the Criminal Law Amendment Bill tonight. 
+<speaker>MR. JAMES STUART</speaker> asked what day the Criminal Law Amendment Bill was likely to come on; and on what day the Government Amendments were likely to be placed on the Paper? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> I am afraid I cannot answer the first Question. The Amendments will be placed on the Paper in ample time to allow them to be considered by the House. 
+<speaker>MR. HOPWOOD</speaker> And the country?

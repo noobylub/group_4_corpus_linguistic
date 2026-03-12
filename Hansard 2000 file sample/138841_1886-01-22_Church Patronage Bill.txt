@@ -1,0 +1,9 @@
+<FileID>138841</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1886/jan/22/church-patronage-bill</URL>
+<Title>Church Patronage Bill</Title>
+<DebRef>HC Deb 22 January 1886 vol 302 c262</DebRef>
+<SittingDate>1886-01-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>42</WordCount>
+
+On Motion of Mr. Rylands, Bill to amend the Law relating to the Sale of Church Patronage, ordered to be brought in by Mr. RYLANDS, Mr. LEATHAM, Mr. HENRY FOWLER, and Mr. BRINTON. Bill presented, and read the first time. [Bill 4.]

@@ -1,0 +1,12 @@
+<FileID>138537</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/07/africa-east-coast-german-annexation-at</URL>
+<Title>Africa (East Coast)—german Annexation at Zanzibar</Title>
+<DebRef>HC Deb 07 August 1885 vol 300 c1455</DebRef>
+<SittingDate>1885-08-07</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>152</WordCount>
+
+
+<speaker>MR. ARTHUR ARNOLD</speaker> said, he wished to ask the Under Secretary of State for Foreign Affairs a Question of which he had given private Notice. He had received a telegram from the Manchester Chamber of Commerce, expressing great anxiety with reference to the report in The Times of that day, as to the annexation by Germany in the neighbourhood of Zanzibar. He wished to ask whether the right hon. Gentleman had any information to give to the House on the subject? 
+<speaker>THE UNDER SECRETARY OF STATE (Mr. BOURKE)</speaker> , in reply, said, if his hon. Friend had given him Notice he would have endeavoured to answer the Question. He had seen the telegram in The Times; but he did not think he was justified in answering without Notice. He had no information whatever with respect to this matter. 
+<speaker>MR. ARTHUR ARNOLD</speaker> gave Notice that he would put the Question down for Monday.

@@ -1,0 +1,10 @@
+<FileID>136980</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/21/army-officers-of-the-royal-artillery</URL>
+<Title>Army—officers of the Royal Artillery</Title>
+<DebRef>HC Deb 21 May 1885 vol 298 c1028</DebRef>
+<SittingDate>1885-05-21</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>172</WordCount>
+
+
+<speaker>MR. WARTON (for Mr. GREER)</speaker> asked the Secretary of State for War, Whether it is a fact that Captains of the Royal Artillery are now obtaining their promotion to the rank of Regimental Major in a little over sixteen years, and that Officers of the Militia Artillery have been brought in to do the duty with service batteries of the Royal Artillery; and, if so, is it in contemplation to temporarily extend the period of seven years under which Regimental Majors of the Royal Artillery are now placed on half-pay as Lieutenant Colonels under the Royal Warrant of 1st July 1881? THE MARQUESS OF HARTINGTON The last Major had a service of 16 years and three months on attaining that rank. Some Militia officers have been temporarily employed with batteries of Royal Artillery during the absence in the Soudan or South Africa of officers of those batteries specially detached for service there. It is not proposed to extend the service of Majors of Artillery beyond the period fixed in the Royal Warrant.

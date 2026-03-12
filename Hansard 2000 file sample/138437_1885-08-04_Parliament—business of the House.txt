@@ -1,0 +1,11 @@
+<FileID>138437</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/aug/04/parliament-business-of-the-house-1</URL>
+<Title>Parliament—business of the House</Title>
+<DebRef>HC Deb 04 August 1885 vol 300 cc1064-5</DebRef>
+<SittingDate>1885-08-04</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>44</WordCount>
+
+
+<speaker>MR. WEST</speaker> said, in view of the Business of the Session, it would be conve- nient to know which of the remaining Government Orders they intended to proceed with? 
+<speaker>THE CHANCELLOR OF THE EXCHEQUER</speaker> We hope the House will proceed with all of them.

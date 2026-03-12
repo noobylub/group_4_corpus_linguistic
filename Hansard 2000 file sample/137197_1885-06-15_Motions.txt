@@ -1,0 +1,9 @@
+<FileID>137197</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/15/motions</URL>
+<Title>Motions</Title>
+<DebRef>HC Deb 15 June 1885 vol 298 cc1586-91</DebRef>
+<SittingDate>1885-06-15</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>34</WordCount>
+
+PARLIAMENT—BUSINESS OF THE HOUSE—ORDERS OF THE DAY. cc1586-90 RESOLUTION. 1,320 words PARLIAMENTARY ELECTION S (MEDICAL RELIEF) BILL. cc1590-1 MOTION FOR LEAVE. 291 words c1591 PUBLIC HEALTH (SCOTLAND) ACT, 1867, PROVISIONAL ORDER BILL. 43 words

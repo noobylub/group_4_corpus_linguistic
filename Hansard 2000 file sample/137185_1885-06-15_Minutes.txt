@@ -1,0 +1,9 @@
+<FileID>137185</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/jun/15/minutes</URL>
+<Title>Minutes</Title>
+<DebRef>HC Deb 15 June 1885 vol 298 cc1535-6</DebRef>
+<SittingDate>1885-06-15</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>160</WordCount>
+
+PUBLIC BILLS— Ordered — Public Health (Scotland) Act, 1867 , Provisional Order. * Ordered — First Reading —Parliamentary Elections (Medical Relief) [206]. Second Reading —Local Government Provisional Order (Municipal Corporations) * [199]; Local Government Provisional Orders (No. 7) * [201]. Committee —Copyhold Enfranchisement [26]— Lords Amendments considered— Parliamentary Elections (Redistribution) [202]. Report —Local Government Provisional Orders (No. 4) * [169]; Public Health (Scotland) Provisional Order * [194]; Local Government (Ireland) Provisional Orders (No. 2) * [183]; Local Government (Ireland) Provisional Orders (Labourers Act) (No. 3) * [188]; Local Government (Ireland) Provisional Orders (Labourers Act) (No. 4) * [185]; Local Government (Gas) Provisional Orders, * [170]; Commons Regulation (Drum-burgh) Provisional Order * [173]; Commons Regulation (Ashdown Forest) Provisional Order * [174]; Commons Inclosure (Llanybyther) Provisional Order * [175]. Considered as amended —Tramways Provisional Orders (No. 1) * [143]. Third Reading —Gas and Water Provisional Orders (No. 2) * [149]; Water Provisional Orders * [142]; Princess Beatrice's Annuity * [187], and passed.

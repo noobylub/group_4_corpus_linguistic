@@ -1,0 +1,9 @@
+<FileID>137057</FileID>
+<URL>https://api.parliament.uk/historic-hansard/commons/1885/may/22/private-bills</URL>
+<Title>Private Bills</Title>
+<DebRef>HC Deb 22 May 1885 vol 298 c1182</DebRef>
+<SittingDate>1885-05-22</SittingDate>
+<SittingType>Commons</SittingType>
+<WordCount>66</WordCount>
+
+Ordered, That Standing Orders 39 and 129 be suspended, and that the time for depositing Petitions against Private Bills, or against any Bill to confirm any Provisional Order, or Provisional Certificate, and for depositing duplicates of any Documents relating to any Bill to confirm any Provisional Order, or Provisional Certificate, be extended to Thursday the 4th day of June.—[ The Chairman of Ways and. Means. )

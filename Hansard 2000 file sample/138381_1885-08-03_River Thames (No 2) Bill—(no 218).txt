@@ -1,0 +1,9 @@
+<FileID>138381</FileID>
+<URL>https://api.parliament.uk/historic-hansard/lords/1885/aug/03/river-thames-no-2-bill-no-218</URL>
+<Title>River Thames (No 2) Bill—(no 218)</Title>
+<DebRef>HL Deb 03 August 1885 vol 300 cc813-5</DebRef>
+<SittingDate>1885-08-03</SittingDate>
+<SittingType>Lords</SittingType>
+<WordCount>9</WordCount>
+
+( The Lord Mount-Temple. ) cc813-5 REPORT. 467 words
