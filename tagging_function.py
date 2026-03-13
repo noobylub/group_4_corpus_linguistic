@@ -41,7 +41,7 @@ def tag_file(file_path):
 
     # Write a new .txt file for tagged and dependency parsed text
     print("Now creating tagged file")
-    with open(file_path.replace('.txt', '') + "_parsed.txt", "w") as f:
+    with open(file_path.replace('.txt', '') + "_parsed.txt", "w", encoding="utf8") as f:
         # Go through each sentence
         for sentence in tagged.sents:
             # New line for each sentence
