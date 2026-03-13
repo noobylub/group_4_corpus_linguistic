@@ -9,8 +9,6 @@ import spacy
 nlp = spacy.load("en_core_web_lg")
 nlp.max_length = 2000000
 
-Hansard_2000_KWIC = r"C:\Users\helen\OneDrive - The University of Manchester\Corpus Linguistics\Hansard_tests\help_all_files.txt"
-
 # --------------------------------------------------------------------------
 # POS TAGGING AND DEPENDENCY PARSING
 #---------------------------------------------------------------------------
@@ -19,7 +17,7 @@ def tag_file(file_path):
     Tags and dependency parses a pre-processed .txt file
 
     Args:
-        Pre-processed.txt file
+        Pre-processed .txt file
 
     Returns:
         Saves a .txt file of the tagged and dependency-parsed corpus
@@ -56,6 +54,14 @@ def tag_file(file_path):
                     # Add final space to separate token from next one
                     f.write(f'{token.tag_}_{token.text}_{token.i}_{token.dep_}_{token.head.i}_{token.lemma_}_{ne} ')
 
+
+# --------------------------------------------------------------------------
+# CALLING FUNCTION
+#---------------------------------------------------------------------------
+# Location of help KWIC file
+Hansard_2000_KWIC = r"C:\Users\helen\OneDrive - The University of Manchester\Corpus Linguistics\Hansard_tests\help_all_files.txt"
+
+# Calling function on above file
 tag_file(Hansard_2000_KWIC)
 
 
