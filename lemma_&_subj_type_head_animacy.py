@@ -1,4 +1,5 @@
 import spacy
+import csv
 
 nlp = spacy.load("en_core_web_sm")
 
@@ -29,6 +30,23 @@ def analyze_hansard_hit(full_kwic, search_lemma="help"):
             subj_head = t.lemma_
             break
 
+
+    # --- TASK: Subject Animacy ---
+    subj_animacy = "NA"
+    if subj_head != "NA":
+        animate_pronouns = ['i', 'you', 'he', 'she', 'we', 'they', 'who', 'whom','himself', 'herself', 'themselves']
+        inanimate_pronouns = ['it', 'what', 'which', 'that']
+        
+        if subj_type == "PRON":
+            if subj_head.lower() in animate_pronouns:
+                subj_animacy = "Animate"
+            elif subj_head.lower() in inanimate_pronouns:
+                subj_animacy = "Inanimate"
+        else: # NP
+            # otherwise assuming most will be inanimate (CAN PROBS BE IMPROVED!)
+            subj_animacy = "Inanimate"
+
+
     # --- TASK: Complement Lemma & Tag ---
     comp_lemma, comp_tag = "NA", "NA"
     for i in range(target_idx + 1, len(doc)):
@@ -43,6 +61,7 @@ def analyze_hansard_hit(full_kwic, search_lemma="help"):
         "hit_pos": target_token.tag_,   # e.g., 'VBD'
         "subj_type": subj_type,
         "subj_head": subj_head,
+        "subj_animacy": subj_animacy,
         "comp_lemma": comp_lemma,
         "comp_tag": comp_tag,
     }
