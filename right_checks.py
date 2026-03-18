@@ -287,15 +287,17 @@ else:
                     # If obj length 1 and haven't yet recorded the obj_pronoun variable
                     elif obj_pronoun == "" and obj_length_counter == 1:
                             obj_pronoun = "PRO"
-                # If have no object before the complement
+                # If have something like "She helps bake."
                 else:
-                    obj_present = "No" # complement after help but no dobj
+                    intervening_words = 0
+                    obj_present = "No"
                     obj_pronoun = "NA"
                     obj_length = "NA"
                     obj_head = "NA"
             # no complement after help
             else:
                 verb_after_help = "NA"
+                intervening_words = "NA"
                 obj_present = "NA"
                 obj_pronoun = "NA"
                 obj_length = "NA"
