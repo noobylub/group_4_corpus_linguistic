@@ -395,6 +395,10 @@ def analyse_right_context(tagged_kwic_words, pos):
             else:
                 obj_length = obj_length_counter
 
+            # Add "NP" if obj present but it is not a "PRO"
+            if obj_pronoun != "PRO":
+                obj_pronoun = "NP"
+
             # Recording obj head
             obj_head_parts = head_hunting(tagged_kwic_words, obj_words, "dobj", "help").split('_')
             obj_head = obj_head_parts[1]
