@@ -2,6 +2,10 @@
 # UPDATES 21/03/26
 # Removed regex deleting punctuation straight after help; replaced with moving punvtuation to right context
 
+"""
+This script generates a CSV file for right context analysis only.
+"""
+
 import time
 
 import re
@@ -63,7 +67,7 @@ def find_kwics(directory, pattern, output_path):
             print(f"{filename} could not be processed.")
 
     for filename in file_list:
-        f = rf"{directory}\{filename}"
+        f = os.path.join(directory, filename)
         with (open(f, 'r', encoding="utf8") as textfile):
             text_content = textfile.read()
 
@@ -131,14 +135,15 @@ def find_kwics(directory, pattern, output_path):
 
                 df = pd.concat([df, new_row], ignore_index=True)
 
-
+    # Technically we do not need to write so early, we just need to store it in df variable 
     df.to_csv(output_path, index=False, encoding='utf-8')
 
     print(f"\nExtraction complete. Total matches found: {total_matches}")
 
 
 # Function to find the object head
-def head_hunting(tagged_text_words, obj_words_list, desired_dependency, desired_parent_lemma):
+# Internal function to find the head of the object
+def _head_hunting(tagged_text_words, obj_words_list, desired_dependency, desired_parent_lemma):
     """
         Find the head of the object. Potentially could be used to find the subject head too.
 
@@ -512,22 +517,122 @@ def start_right_checks(tagged_kwic_words, help_hit, following_word_of_hit):
         "objHead": "CHECK"
     }
 
+# Dylan's analysis 
+"""
+Primarily looks at left context texts
+"""
+# help_polarity *DV
+def check_help_polarity(left_context_tokens, window_size=5):
+    """Checks for negation words before 'help'."""
+    negation_words = {'not', "n't", 'nor', 'never', 'hardly', 'scarcely', 'barely', 'no', 'nobody', 'nothing', 'nowhere', 'none', 'neither'}
+    window = left_context_tokens[-window_size:]
+    window_lower = [word.lower() for word in window]
+    for word in window_lower:
+        if word in negation_words:
+            return 'NEG'
+    return 'POS'
+
+# preceding_to *DV
+def check_preceding_to(left_context_tokens, is_help_verb=True):
+    """Checks if 'to' appears within the 4 words immediately preceding 'help'."""
+    if not is_help_verb:
+        return 'NA'
+    window = left_context_tokens[-4:]
+    window_lower = [word.lower() for word in window]
+    if 'to' in window_lower:
+        return 'YEStoBefore'
+    return 'NOtoBefore'
+
+
+
+def analyze_hansard_hit(full_kwic, target_word_text):
+    """
+    Analyzes a KWIC line for Subject, Complement, Polarity, and Preceding 'to'.
+    """
+    doc = nlp(full_kwic)
+    
+    target_token, target_idx = None, None
+    # Find the specific target word instance from the CSV row
+    for i, token in enumerate(doc):
+        if token.text == target_word_text:
+            if target_token is None or abs(i - len(doc)//2) < abs(target_idx - len(doc)//2):
+                target_token = token
+                target_idx = i
+            
+    if target_idx is None:
+        return None
+
+    # --- Key Logic: Check if the target is a verb. If not, return NA for most fields. ---
+    if target_token.pos_ != 'VERB':
+        return {
+            "help_hit": target_token.text, "hit_pos": target_token.tag_,
+            "subj_type": "NA", "subj_head": "NA", "subj_animacy": "NA",
+            "comp_lemma": "NA", "comp_tag": "NA", "polarity": "NA", "preceding_to": "NA",
+        }
+
+    # --- Analysis for Verbs Only ---
+    left_context_tokens = [t.text for t in doc[:target_idx]]
+    polarity = check_help_polarity(left_context_tokens)
+    preceding_to = check_preceding_to(left_context_tokens, is_help_verb=True)
+
+    # subj_type, subj_head, subj_animacy *DV
+    
+    subj_type, subj_head = "NA", "NA"
+    for i in range(target_idx - 1, -1, -1):
+        t = doc[i]
+        if t.pos_ in ["NOUN", "PROPN", "PRON"]:
+            subj_type = "PRON" if t.pos_ == "PRON" else "NP"
+            subj_head = t.lemma_
+            break
+
+    subj_animacy = "NA"
+    if subj_head != "NA":
+        animate_pronouns = ['i', 'you', 'he', 'she', 'we', 'they', 'who', 'whom','himself', 'herself', 'themselves']
+        inanimate_pronouns = ['it', 'what', 'which', 'that']
+        if subj_type == "PRON":
+            if subj_head.lower() in animate_pronouns: subj_animacy = "Animate"
+            elif subj_head.lower() in inanimate_pronouns: subj_animacy = "Inanimate"
+        else:
+            subj_animacy = "Inanimate"
+
+    
+
+    
+    # This part looks towards the right
+    # lemma_verb *DV
+    comp_lemma, comp_tag = "NA", "NA"
+    for i in range(target_idx + 1, len(doc)):
+        t = doc[i]
+        if t.pos_ == "VERB":
+            comp_lemma = t.lemma_
+            comp_tag = t.tag_
+            break
+
+    return {
+        "help_hit": target_token.text, "hit_pos": target_token.tag_,
+        "subj_type": subj_type, "subj_head": subj_head, "subj_animacy": subj_animacy,
+        "comp_lemma": comp_lemma, "comp_tag": comp_tag,
+        "polarity": polarity, "preceding_to": preceding_to,
+    }
+
+
 # ---------------------------------------------------------------------------------------------------------
 # PROCESSING LOGIC
 # ---------------------------------------------------------------------------------------------------------
 
 # Folder containing files to analyse
-hansard_dir = r"C:\Users\helen\Downloads\Hansard Medium Sample"
+hansard_dir = "/Users/muhammadmushoffa/Desktop/corpus_linguistic/Hansard 2000 file sample"
 
-kwics_file = r"C:\Users\helen\Downloads\hansard_med_kwics_only_v5.csv"
+kwics_file = "/Users/muhammadmushoffa/Desktop/corpus_linguistic/hansard_kwics_only.csv"
 
-complete_kwics_file = r"C:\Users\helen\Downloads\hansard_med_results_v5.csv"
+complete_kwics_file = "/Users/muhammadmushoffa/Desktop/corpus_linguistic/hansard_results.csv"
 
 # New csv file to write results to
-df = pd.DataFrame(columns=["File", "Hit", "LeftContext", "TargetWord", "RightContext", "DepVar", "HelpClass",
-                               "HelpInflection", "VerbLemma", "InterveningWords", "ObjPresent",
-                               "ObjPronoun", "ObjLength", "ObjHead"])
-
+df = pd.DataFrame(columns=["File", "Hit", "LeftContext", "TargetWord", "RightContext", 
+                           "DepVar", "HelpClass", "HelpInflection", "VerbLemma", 
+                           "InterveningWords", "ObjPresent", "ObjPronoun", "ObjLength", "ObjHead",
+                           "HelpPolarity", "PrecedingTo", "SubjType", "SubjHead", "SubjAnimacy",
+                           "CompLemma", "CompTag"])
 # Making csv of KWICs
 print("Now finding KWICs")
 find_kwics(hansard_dir, r'[^ ]*help\w*\b', kwics_file)
@@ -548,13 +653,63 @@ rows = csvKwics.shape[0]
 # Going through each KWIC
 for i in range(rows):
     full_kwic = f"{csvKwics['LeftContext'][i]} {csvKwics['TargetWord'][i]} {csvKwics['RightContext'][i]}"
-
-    # Tag KWIC
+    #  Tag KWIC
     tagged_kwic = nlp(full_kwic)
+    
+    
+    
+    # Failed try :( 
+    # left_analysis['help_polarity'] = check_help_polarity(csvKwics['LeftContext'][i].split())
+    # left_analysis['preceding_to'] = check_preceding_to(csvKwics['LeftContext'][i].split())
+  
+    # # Left context words 
+    # left_text = csvKwics['LeftContext'][i]
+    # left_token_count = len(left_text.split())
+    # target_start_idx = left_token_count
+    
+    # left_context_tokens = [token for token in tagged_kwic if token.i < target_start_idx]
+    # right_context_tokens = [token for token in tagged_kwic if token.i > target_start_idx]
+    # target_token = tagged_kwic[target_start_idx]
+    # left_analysis = {}
+    # right_analysis_do = {}
+    # # Always do polarity and preceeding_to 
+    # left_analysis['help_polarity'] = check_help_polarity(left_text.split())
+    # left_analysis['preceding_to'] = check_preceding_to(left_text.split())
+    
+    # if target_token.pos_ != 'VERB':
+    #     left_analysis['subj_type'] = 'NA'
+    #     left_analysis['subj_head'] = 'NA'
+    #     left_analysis['subj_animacy'] = 'NA'
+    #     right_analysis_do['comp_lemma'] = 'NA'
+    #     right_analysis_do['comp_tag'] = 'NA'
+    # else:
+    #     left_analysis['help_polarity'] = check_help_polarity(left_text.split())
+    #     left_analysis['preceding_to'] = check_preceding_to(left_text.split())
+    #     left_analysis['subj_type'],left_analysis['subj_head'],left_analysis['subj_animacy'] = check_subject(left_context_tokens)
+    #     right_analysis_do['comp_lemma'], right_analysis_do['comp_tag'] = check_lemma_comp_tag(right_context_tokens)
+  
+    # New try 
+    dylan_analysis = analyze_hansard_hit(full_kwic, csvKwics['TargetWord'][i])
+    print("Analysis")
+    print("---"*20)
+    print(dylan_analysis)
+    print("---"*20)
+    
+    
+
+    
+
+
+
+
+
+    # Right context words 
+    # right_context_words = csvKwics['RightContext'][i].split()
 
     # Getting individual tokens
     string = ""
     for sentence in tagged_kwic.sents:
+        
         for token in sentence:
             # I omit _SP_ here!
             if not token.is_space:
@@ -562,7 +717,16 @@ for i in range(rows):
                 ne = token.ent_type_ if token.ent_type_ else 'noNE'
                 # Add final space to separate token from next one
                 string += f'{token.tag_}_{token.text}_{token.i}_{token.dep_}_{token.head.i}_{token.lemma_}_{ne} '
-
+    
+    # List comprehension possibly faster idk lol :) 
+    # Instead of the nested for loop, use list comprehension
+    # string = ' '.join([
+    #     f'{token.tag_}_{token.text}_{token.i}_{token.dep_}_{token.head.i}_{token.lemma_}_{token.ent_type_ if token.ent_type_ else "noNE"} '
+    #     for sentence in tagged_kwic.sents
+    #     for token in sentence
+    #     if not token.is_space
+    # ])
+    
     tagged_words = string.split()
 
     # Getting right context stuff
@@ -578,22 +742,51 @@ for i in range(rows):
 
 
 
-    # TODO: Get left context stuff
-
+    
 
 
     # Writing results
     # TODO: Replace "File" with metadata
-    if right_analysis:
-        new_row = pd.DataFrame(
-            [{"File": csvKwics["File"][i], "Hit": csvKwics["Hit"][i], "LeftContext": csvKwics["LeftContext"][i],
-              "TargetWord": csvKwics["TargetWord"][i], 'RightContext': csvKwics['RightContext'][i],
-              "DepVar": right_analysis["helpDV"], "HelpClass": right_analysis["helpClass"],
-              "HelpInflection": right_analysis["helpTag"], "VerbLemma": right_analysis["verbAfterHelp"],
-              "InterveningWords": right_analysis["interveningWords"], "ObjPresent": right_analysis["objPresent"],
-              "ObjPronoun": right_analysis["objPronoun"], "ObjLength": right_analysis["objLength"],
-              "ObjHead": right_analysis["objHead"]}])
+    # 
+    # if right_analysis or left_analysis:
+    #     new_row = pd.DataFrame(
+    #         [{"File": csvKwics["File"][i], 
+    #          "Hit": csvKwics["Hit"][i],
+    #           "LeftContext": csvKwics["LeftContext"][i],
+    #           "TargetWord": csvKwics["TargetWord"][i], 'RightContext': csvKwics['RightContext'][i],
+    #           "DepVar": right_analysis["helpDV"], "HelpClass": right_analysis["helpClass"],
+    #           "HelpInflection": right_analysis["helpTag"], "VerbLemma": right_analysis["verbAfterHelp"],
+    #           "InterveningWords": right_analysis["interveningWords"], "ObjPresent": right_analysis["objPresent"],
+    #           "ObjPronoun": right_analysis["objPronoun"], "ObjLength": right_analysis["objLength"],
+    #           "ObjHead": right_analysis["objHead"]}])
 
+    #     df = pd.concat([df, new_row], ignore_index=True)
+
+        # Writing results
+    if dylan_analysis:
+        new_row = pd.DataFrame(
+            [{"File": csvKwics["File"][i], 
+            "Hit": csvKwics["Hit"][i],
+            "LeftContext": csvKwics["LeftContext"][i],
+            "TargetWord": csvKwics["TargetWord"][i], 
+            'RightContext': csvKwics['RightContext'][i],
+            "DepVar": helen_analysis.get("helpDV", "NA") if helen_analysis else "NA", 
+            "HelpClass": helen_analysis.get("helpClass", "NA") if helen_analysis else "NA",
+            "HelpInflection": helen_analysis.get("helpTag", "NA") if helen_analysis else "NA", 
+            "VerbLemma": helen_analysis.get("verbAfterHelp", "NA") if helen_analysis else "NA",
+            "InterveningWords": helen_analysis.get("interveningWords", "NA") if helen_analysis else "NA", 
+            "ObjPresent": helen_analysis.get("objPresent", "NA") if helen_analysis else "NA",
+            "ObjPronoun": helen_analysis.get("objPronoun", "NA") if helen_analysis else "NA", 
+            "ObjLength": helen_analysis.get("objLength", "NA") if helen_analysis else "NA",
+            "ObjHead": helen_analysis.get("objHead", "NA") if helen_analysis else "NA",
+            "HelpPolarity": dylan_analysis.get('polarity', 'NA'),
+            "PrecedingTo": dylan_analysis.get('preceding_to', 'NA'),
+            "SubjType": dylan_analysis.get('subj_type', 'NA'),
+            "SubjHead": dylan_analysis.get('subj_head', 'NA'),
+            "SubjAnimacy": dylan_analysis.get('subj_animacy', 'NA'),
+            "CompLemma": dylan_analysis.get('comp_lemma', 'NA'),
+            "CompTag": dylan_analysis.get('comp_tag', 'NA')}])
+    
         df = pd.concat([df, new_row], ignore_index=True)
 
 
