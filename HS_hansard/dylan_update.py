@@ -411,6 +411,31 @@ def _analyse_right_context(tagged_kwic_words):
                                 intervening_words = i + j - 2
                             break
 
+            # # Break loop looking at words after help if verb found
+            # if found_verb:
+            #     break
+
+            # Check for "in -ing": help in doing
+            elif not found_to and not found_bare and not found_ing and next_word.lower() == 'in':
+                # Look over next few words from position i
+                for j in range(1, 3):
+                    # Only proceed if next few words won't exceed remaining words in text
+                    if pos + i + j < len(tagged_kwic_words):
+                        potential_verb = tagged_kwic_words[pos + i + j]
+                        verb_parts = potential_verb.split('_')
+                        verb_tag = verb_parts[0]
+                        verb_lemma = verb_parts[5]
+                        # Getting verb lemma of the complement verb
+                        if verb_tag == 'VBG':
+                            found_in = True
+                            verb_after_help = verb_lemma
+                            found_verb = True
+                            if apostrophe_s:
+                                intervening_words = i + j - 3
+                            else:
+                                intervening_words = i + j - 2
+                            break
+
             # Break loop looking at words after help if verb found
             if found_verb:
                 break

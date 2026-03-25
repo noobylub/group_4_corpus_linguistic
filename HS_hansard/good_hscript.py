@@ -76,6 +76,12 @@ def find_kwics(directory, pattern, output_path):
             metadata = parts[0]
             contents = parts[1] if len(parts) > 1 else ""
 
+            repl_with_space = ["\n", "^", 'â€”']
+
+            for item in repl_with_space:
+                
+                contents = contents.replace(item, ' ')
+            
             try:
                 file_id_match = re.search(r'<FileID>(.*?)</FileID>', metadata)
                 url_match = re.search(r'<URL>(.*?)</URL>', metadata)
@@ -84,6 +90,7 @@ def find_kwics(directory, pattern, output_path):
                 sitting_type_match = re.search(r'<SittingType>(.*?)</SittingType>', metadata)
                 word_count_match = re.search(r'<WordCount>(.*?)</WordCount>', metadata)
                 title_match = re.search(r'<Title>(.*?)</Title>',metadata)
+                
 
 
                 # Extract the capture text 
@@ -109,6 +116,7 @@ def find_kwics(directory, pattern, output_path):
             repl_with_space = ["\n", "^", 'â€”']
 
             for item in repl_with_space:
+                
                 contents = contents.replace(item, ' ')
 
             # Replacing *+ with pound symbol
@@ -415,7 +423,30 @@ def analyse_right_context(tagged_kwic_words, pos):
                 intervening_words = i - 1
 
             break
+            # Check for "in -ing": help in doing
+        elif not found_to and not found_bare and not found_ing and next_word.lower() == 'in':
+            # Look over next few words from position i
+            for j in range(1, 3):
+                # Only proceed if next few words won't exceed remaining words in text
+                if pos + i + j < len(tagged_kwic_words):
+                    potential_verb = tagged_kwic_words[pos + i + j]
+                    verb_parts = potential_verb.split('_')
+                    verb_tag = verb_parts[0]
+                    verb_lemma = verb_parts[5]
+                    # Getting verb lemma of the complement verb
+                    if verb_tag == 'VBG':
+                        found_in = True
+                        verb_after_help = verb_lemma
+                        found_verb = True
+                        if apostrophe_s:
+                            intervening_words = i + j - 3
+                        else:
+                            intervening_words = i + j - 2
+                        break
 
+    
+        
+        
         # Break loop looking at words after help if verb found
         if found_verb:
             break
