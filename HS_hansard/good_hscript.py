@@ -54,7 +54,7 @@ def find_kwics(directory, pattern, output_path):
     # Dataframe
     df = pd.DataFrame(columns=["File", "Hit", "LeftContext", "TargetWord", "RightContext", "DepVar", "HelpClass",
                                "HelpInflection", "VerbLemma", "InterveningWords", "ObjPresent",
-                               "ObjPronoun", "ObjLength", "ObjHead",'WordCount','SittingType',])
+                               "ObjPronoun", "ObjLength", "ObjHead",'WordCount','SittingType','SittingDate','FileId'])
 
     total_matches = 0 # Total help matches found
 
@@ -71,6 +71,35 @@ def find_kwics(directory, pattern, output_path):
         with (open(f, 'r', encoding="utf8") as textfile):
             text_content = textfile.read()
 
+            # Splitting the double spacing
+            parts = re.split(r"\n\s*\n", text_content, maxsplit=1)
+            metadata = parts[0]
+            contents = parts[1] if len(parts) > 1 else ""
+
+            try:
+                file_id_match = re.search(r'<FileID>(.*?)</FileID>', metadata)
+                url_match = re.search(r'<URL>(.*?)</URL>', metadata)
+                title_match = re.search(r'<Title>(.*?)</Title>', metadata)
+                sitting_date_match = re.search(r'<SittingDate>(.*?)</SittingDate>', metadata)
+                sitting_type_match = re.search(r'<SittingType>(.*?)</SittingType>', metadata)
+                word_count_match = re.search(r'<WordCount>(.*?)</WordCount>', metadata)
+                title_match = re.search(r'<Title>(.*?)</Title>',metadata)
+
+
+                # Extract the capture text 
+                file_id = file_id_match.group(1) if file_id_match else 'N/A'
+                url = url_match.group(1) if url_match else 'N/A'
+                title = title_match.group(1) if title_match else 'N/A'
+                sitting_date = sitting_date_match.group(1) if sitting_date_match else 'N/A'
+                sitting_type = sitting_type_match.group(1) if sitting_type_match else 'N/A'
+                word_count = word_count_match.group(1) if word_count_match else 'N/A'
+                
+            except Exception as e:
+                print(f"Error parsing metadata for {filename}: {e}")
+                continue
+ 
+
+
             # --------------------------------------------------------------------
             # Pre-processing
             # --------------------------------------------------------------------
@@ -80,22 +109,22 @@ def find_kwics(directory, pattern, output_path):
             repl_with_space = ["\n", "^", 'â€”']
 
             for item in repl_with_space:
-                text_content = text_content.replace(item, ' ')
+                contents = contents.replace(item, ' ')
 
             # Replacing *+ with pound symbol
-            text_content = text_content.replace("*+", "£")
+            contents = contents.replace("*+", "£")
 
             # Replacing with nothing:
             repl_with_nothing = [r'\*\<\*\d+', r'\*\d+']
 
             for item in repl_with_nothing:
-                text_content = re.sub(item, "", text_content)
+                contents = re.sub(item, "", contents)
 
             # Replacing speaker tags with nothing
-            text_content = text_content.replace('<speaker>', '').replace('</speaker>', '')
+            contents = contents.replace('<speaker>', '').replace('</speaker>', '')
 
-            # words = word_tokenize(text_content)
-            words = text_content.split()
+            # words = word_tokenize(contents)
+            words = contents.split()
 
             #--------------------------------------------------------------------
             # Finding KWICs
@@ -130,8 +159,11 @@ def find_kwics(directory, pattern, output_path):
                     target_wd = words[pos][:-1]
                     right_context = words[pos][-1] + " " + right_context # Append last character to right context
 
-                new_row = pd.DataFrame([{"File": filename, "Hit": total_matches, 'LeftContext': left_context,
-                      'TargetWord': target_wd, 'RightContext': right_context}])
+                new_row = pd.DataFrame([{"File": filename, "Hit": total_matches, 
+                        'LeftContext': left_context,
+                        'TargetWord': target_wd, 'RightContext': right_context,
+                        'WordCount': word_count, 'SittingType': sitting_type,
+                        'SittingDate': sitting_date, 'FileId': file_id, 'Title':title}])
 
                 df = pd.concat([df, new_row], ignore_index=True)
 
@@ -806,7 +838,12 @@ for i in range(rows):
             "SubjAnimacy": dylan_analysis.get('subj_animacy', 'NA'),
             "Voice": dylan_analysis.get('voice', 'NA'),
             "CompLemma": dylan_analysis.get('comp_lemma', 'NA'),
-            "CompTag": dylan_analysis.get('comp_tag', 'NA')}])
+            "CompTag": dylan_analysis.get('comp_tag', 'NA'),
+            "WordCount": csvKwics.get("WordCount", "NA")[i] if "WordCount" in csvKwics.columns else "NA",
+            "SittingType": csvKwics.get("SittingType", "NA")[i] if "SittingType" in csvKwics.columns else "NA",
+            "SittingDate": csvKwics.get("SittingDate", "NA")[i] if "SittingDate" in csvKwics.columns else "NA",
+            "FileId": csvKwics.get("FileId", "NA")[i] if "FileId" in csvKwics.columns else "NA",
+            "Title": csvKwics.get("Title", "NA")[i] if "Title" in csvKwics.columns else "NA"}])
     
         df = pd.concat([df, new_row], ignore_index=True)
 
