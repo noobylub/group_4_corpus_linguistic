@@ -162,7 +162,7 @@ def head_hunting(tagged_text_words, obj_words_list, desired_dependency, desired_
         parts = word.split('_')
 
         # If dependency relation == 'dobj'
-        if parts[3] == desired_dependency:
+        if parts[3].lower() == desired_dependency or parts[3].lower() == "obj":
 
             # Get the index of word's dependency relation
             parent_index = int(parts[4])
@@ -173,6 +173,21 @@ def head_hunting(tagged_text_words, obj_words_list, desired_dependency, desired_
             # Return word if its parent's lemma is 'help'
             if parent_parts[5].lower() == desired_parent_lemma:
                 return word
+
+        # To account for examples like: It might help the West Indies to tide over immediate difficulties.
+        else:
+            # If dependency relation is nsubj
+            if parts[3] == "nsubj":
+
+                # Get the index of word's dependency relation
+                parent_index = int(parts[4])
+
+                # Go to the parent token see its dependency relation
+                parent_parts = tagged_text_words[parent_index].split('_')
+
+                # Return word if its dependency relation is xcomp, ccomp
+                if parent_parts[3].lower() in ["ccomp", "xcomp"]:
+                    return word
 
     # If have not found head from above, return 7-part to-do string for further review
     return "TODO_TODO_TODO_TODO_TODO_TODO_TODO"
