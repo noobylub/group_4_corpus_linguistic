@@ -143,7 +143,7 @@ def find_kwics(directory, pattern, output_path):
 
 # Function to find the object head
 # Internal function to find the head of the object
-def head_hunting(tagged_text_words, obj_words_list, desired_dependency, desired_parent_lemma):
+def _head_hunting(tagged_text_words, obj_words_list, desired_dependency, desired_parent_lemma):
     """
         Find the head of the object. Potentially could be used to find the subject head too.
 
@@ -167,7 +167,7 @@ def head_hunting(tagged_text_words, obj_words_list, desired_dependency, desired_
         parts = word.split('_')
 
         # If dependency relation == 'dobj'
-        if parts[3].lower() == desired_dependency or parts[3].lower() == "obj":
+        if parts[3] == desired_dependency:
 
             # Get the index of word's dependency relation
             parent_index = int(parts[4])
@@ -179,313 +179,27 @@ def head_hunting(tagged_text_words, obj_words_list, desired_dependency, desired_
             if parent_parts[5].lower() == desired_parent_lemma:
                 return word
 
-        # To account for examples like: It might help the West Indies to tide over immediate difficulties.
-        else:
-            # If dependency relation is nsubj
-            if parts[3] == "nsubj":
-
-                # Get the index of word's dependency relation
-                parent_index = int(parts[4])
-
-                # Go to the parent token see its dependency relation
-                parent_parts = tagged_text_words[parent_index].split('_')
-
-                # Return word if its dependency relation is xcomp, ccomp
-                if parent_parts[3].lower() in ["ccomp", "xcomp"]:
-                    return word
-
     # If have not found head from above, return 7-part to-do string for further review
     return "TODO_TODO_TODO_TODO_TODO_TODO_TODO"
 
-# Function for analysing the right_context
-def analyse_right_context(tagged_kwic_words, pos):
+# Analyse the right context
+def _analyse_right_context(tagged_kwic_words):
     """
     All right context checks
 
     Args:
         tagged_kwic_words = list of the tagged words in the KWIC
-        pos = position of help instance within the tagged_KWIC_words
 
     Returns:
         Dictionary of various help verb and right context properties
     """
-    # Getting help parts
-    tagged_help_word = tagged_kwic_words[pos]  # Ex: VB_help_35_ROOT_35_help_noNE
-    help_parts = tagged_help_word.split('_')
-    help_tag = help_parts[0]  # Ex: VB, VBN
-    help_word = help_parts[1]  # Ex: helping, helps
-    help_index = help_parts[2]  # Ex: 11 (if 11th word in whole file)
-    # Above tags are all we need???? <-----------------------------------------------------------------------
-
-    # -------------------------------------------
-    # Variables
-    # -------------------------------------------
-    # Filler value "CHECK" so can filter in csv if manual changes needed
-
-    help_dv = "CHECK"  # TO, BARE, ING, INING, NA
-    help_class = "CHECK"  # VERB, NOUN, ADJ, ADV, OTHER
-    intervening_words = 0  # Intervening words between help and infinitive
-    obj_present = "CHECK"  # Is there a dobj argument for 'help'?
-    obj_pronoun = "CHECK"
-    obj_length = "CHECK"
-    obj_head = "CHECK"
-    words_to_review = 30  # how many words after "help" are we going to consider?
-    verb_after_help = "CHECK"
-
-    # List for storing words in object to facilitate finding head
-    obj_words = []
-
-    # -------------------------------------------
-    # Flags and counters
-    # -------------------------------------------
-    obj_length_counter = 0  # How long is the object?
-    obj_pn_len_1 = False  # Flag for if found pn like 'them', 'him' (so obj_length must be 1)
-    found_to = False
-    found_bare = False
-    found_ing = False
-    found_in = False
-    found_verb = False
-    found_object = False
-    apostrophe_s = False
-
-    # -------------------------------------------
-    # Looping through 30 words after help
-    # -------------------------------------------
-    for i in range(1, words_to_review + 1):
-        if pos + i >= len(tagged_kwic_words):
-            break
-
-        next_tagged_word = tagged_kwic_words[pos + i]  # PRP_them_550_dobj_549_they_noNE
-        parts = next_tagged_word.split('_')
-        next_tag = parts[0]  # Ex: PRP, TO, IN, VB
-        next_word = parts[1]  # token text
-        next_index = parts[2]  # index within whole file
-        next_depend = parts[3]  # dependency relation (eg, dobj, aux, xcomp)
-        next_head_index = parts[4]  # index of next word's head
-        next_lemma = parts[5]  # lemma
-
-        # -------------------------------------------------------------------
-        # Break if encounter items likely to be irrelevant
-        # -------------------------------------------------------------------
-        # Break if the help_tag does not start with VB: expect VB, VBN, VBP, VBP, etc
-        if not help_tag.startswith('VB'):
-            break
-        # Break if hit terminating punctuation
-        if next_tag in ['.', ',', '``', 'HYPH', ':', ")"]:
-            break
-        # Break if get something like help sits
-        if next_tag in ["VBP", "VBD", "VBZ"]:
-            break
-        # Break if get something like helps that
-        if next_tag.startswith('MD') or (next_word == 'that') or next_tag.startswith('WP'):
-            break
-        # Break if encounter these words
-        if next_word.lower() in ['and', 'or', 'are', 'if']:
-            break
-        # Break if get 'helping hand'
-        if help_word.lower() == "helping" and next_word.lower() == "hand":
-            help_dv = "NA"
-            help_class = "ADJ"
-            help_tag = "JJ"
-            intervening_words = "NA"
-            obj_present = "NA"
-            obj_pronoun = "NA"
-            obj_length = "NA"
-            obj_head = "NA"
-            break
-
-        # -------------------------------------------------------------------
-        # Object-related properties
-        # -------------------------------------------------------------------
-        # If haven't found a verb yet, potentially have an object
-        if not found_verb:
-            # If next word id a pronoun
-            if (next_tag == 'PRP' or
-                    next_word.lower() in ['myself', 'yourself', 'herself', 'himself',
-                                          'themself', 'themselves', 'itself']):
-                obj_pronoun = "PRO"
-                obj_pn_len_1 = True
-                found_object = True
-            elif next_word.lower() in ['someone', 'anyone', 'who', 'this', 'that']:
-                obj_pronoun = "PRO"
-                found_object = True
-            # If not a pronoun, check other potential object types
-            else:
-                if next_tag in ['NN', 'NP', 'NNS', 'NNP', 'NNPS', 'DT', 'CD', 'WP', 'PRP$']:
-                    found_object = True
-
-        # if found an object
-        if found_object:
-            if next_tag == 'POS':
-                apostrophe_s = True
-            else:
-                # Don't want to increment if one of the items in list holds (ie, if hit the end of the obj clause)
-                if not (next_word.lower() in ['to'] or next_tag in ['RB', 'TO', 'POS'] or next_tag.startswith(
-                        'VB')):
-                    obj_length_counter += 1
-                    obj_words.append(tagged_kwic_words[pos + i])
-
-        # -------------------------------------------------------------------
-        # Finding verb in complement
-        # -------------------------------------------------------------------
-
-        # Check for '"to": helps to supply
-        if not found_bare and not found_in and not found_ing and (next_tag == 'TO' or next_word.lower() == 'to'):
-            # Look over next few words from position i
-            for j in range(1, 3):
-                # Only proceed if next few words won't exceed remaining words in text
-                if pos + i + j < len(tagged_kwic_words):
-                    potential_verb = tagged_kwic_words[pos + i + j]
-                    verb_parts = potential_verb.split('_')
-                    verb_tag = verb_parts[0]
-                    verb_word = verb_parts[1]
-                    verb_lemma = verb_parts[5]
-                    # Getting verb lemma of the complement verb (supplies --> supply)
-                    if verb_tag in ['VB', 'HV', 'BE']:
-                        found_to = True
-                        verb_after_help = verb_lemma
-                        found_verb = True
-
-                        if apostrophe_s:
-                            # Subtract 3 so as not to include apostrophe 's' ('s) as an intervening word
-                            intervening_words = i + j - 3
-                        else:
-                            intervening_words = i + j - 2
-
-                        break
-
-        # Check for -ing form verbs: help doing
-        # Exclude according: help according to,
-        elif not found_to and not found_in and not found_bare and next_tag in ['VBG',
-                                                                               'HVG', 'BEG'] and next_word not in [
-            "according"]:
-
-            found_ing = True
-            verb_after_help = next_lemma
-            found_verb = True
-            if apostrophe_s:
-                # Subtract 3 so as not to include apostrophe 's' ('s) as an intervening word
-                intervening_words = i - 2
-            else:
-                intervening_words = i - 1
-
-            break
-
-        # Check for bare infinitive
-        elif not found_to and not found_in and not found_ing and next_tag in ['VB', 'HV', 'BE']:
-            found_bare = True
-            verb_after_help = next_lemma
-            found_verb = True
-            if apostrophe_s:
-                # Subtract 3 so as not to include apostrophe 's' ('s) as an intervening word
-                intervening_words = i - 2
-            else:
-                intervening_words = i - 1
-
-            break
-
-        # Break loop looking at words after help if verb found
-        if found_verb:
-            break
-
-    # -------------------------------------------------------------------
-    # Recording variables
-    # -------------------------------------------------------------------
-    # Record variables once finished looking over items after help at position tagged_kwic_words[pos]
-
-    # Recording dependent variable
-    if found_to:
-        help_dv = "TO"
-    elif found_bare:
-        help_dv = "BARE"
-    elif found_in:
-        help_dv = "INING"
-    elif found_ing:
-        help_dv = "ING"
-    else:
-        help_dv = "NA"
-
-    # Recording object properties
-    if found_verb:
-        if found_object:
-            obj_present = "Yes"  # dobj present
-            # Ensuring pronouns like 'them', 'him' are obj_length = 1
-            if obj_pn_len_1:
-                obj_length = 1
-            else:
-                obj_length = obj_length_counter
-
-            # Add "NP" if obj present but it is not a "PRO"
-            if obj_pronoun != "PRO":
-                obj_pronoun = "NP"
-
-            # Recording obj head
-            obj_head_parts = head_hunting(tagged_kwic_words, obj_words, "dobj", "help").split('_')
-            obj_head = obj_head_parts[1] if len(obj_head_parts) > 1 else "NA"
-
-        # If have something like "She helps bake."
-        else:
-            intervening_words = 0
-            obj_present = "No"
-            obj_pronoun = "NA"
-            obj_length = "NA"
-            obj_head = "NA"
-    # no complement after help
-    else:
-        verb_after_help = "NA"
-        intervening_words = "NA"
-        obj_present = "NA"
-        obj_pronoun = "NA"
-        obj_length = "NA"
-        obj_head = "NA"
-
-    # Recording the part of speech of help
-    if help_tag.startswith('VB'):
-        help_class = "VERB"
-    elif help_tag.startswith('NN'):
-        help_class = "NOUN"
-    elif help_tag.startswith('JJ'):
-        help_class = "ADJ"
-    elif help_tag.startswith('RB'):
-        help_class = "ADV"
-    else:
-        help_class = "OTHER"
-
-    # TODO: Could insert a check here to confirm none of the variables are NoneTypes
-    ## and if nonetype, then insert string "CHECK"
-
-    return {
-        "helpDV": help_dv,
-        "helpClass": help_class,
-        "helpTag": help_tag,
-        "verbAfterHelp": verb_after_help,
-        "interveningWords": intervening_words,
-        "objPresent": obj_present,
-        "objPronoun": obj_pronoun,
-        "objLength": obj_length,
-        "objHead": obj_head
-    }
-
-# Function to start the right_checks
-def start_right_checks(tagged_kwic_words, help_hit, following_word_of_hit):
-    """
-        All right context checks
-
-        Args:
-            tagged_kwic_words = list of the tagged words in the KWIC
-            help_hit = the particular help hit we're looking for (since there may be more than one in a given KWIC)
-                (eg, help, helps)
-            preceding_word_of_hit = word before help (used to ensure correct help occurrence chosen)
-                Will always have something in right comtext since punctuation in there
-        Returns:
-            Dictionary of various help verb and right context properties
-        """
+  
     # -------------------------------------------
     # Getting help positions
     # -------------------------------------------
     # Finding all instances of help in tagged KWICs
     help_pattern = r'\w+_help\w*_\d+_\w+_\d+_\w+_\w+'
-    help_positions = [] # list of places in tagged_kwic_words where help found
+    help_positions = []
 
     # Since may be more than one hit
     for i, word in enumerate(tagged_kwic_words):
@@ -497,25 +211,291 @@ def start_right_checks(tagged_kwic_words, help_hit, following_word_of_hit):
     # -------------------------------------------
     # Going through each occurrence of help
     for pos in help_positions:
-        if len(help_positions) == 1:
-            return analyse_right_context(tagged_kwic_words, pos)
-        elif pos + 1 < len(tagged_kwic_words) and tagged_kwic_words[pos].split('_')[1] == help_hit and tagged_kwic_words[pos+1].split('_')[1] == following_word_of_hit:
-            return analyse_right_context(tagged_kwic_words, pos)
-        else:
-            continue
+        # Getting help parts
+        tagged_help_word = tagged_kwic_words[pos]  # Ex: VB_help_35_ROOT_35_help_noNE
+        help_parts = tagged_help_word.split('_')
+        help_tag = help_parts[0]  # Ex: VB, VBN
+        help_word = help_parts[1]  # Ex: helping, helps
+        help_index = help_parts[2]  # Ex: 11 (if 11th word in whole file)
+        # Above tags are all we need???? <-----------------------------------------------------------------------
 
-    # Return flags to check hit variables if cannot find correct occurrence of hit
-    return {
-        "helpDV": "CHECK",
-        "helpClass": "CHECK",
-        "helpTag": "CHECK",
-        "verbAfterHelp": "CHECK",
-        "interveningWords": "CHECK",
-        "objPresent": "CHECK",
-        "objPronoun": "CHECK",
-        "objLength": "CHECK",
-        "objHead": "CHECK"
-    }
+        # -------------------------------------------
+        # Variables
+        # -------------------------------------------
+        # Filler value "CHECK" so can filter in csv if manual changes needed
+
+        help_dv = "CHECK" # TO, BARE, ING, INING, NA
+        help_class = "CHECK" # VERB, NOUN, ADJ, ADV, OTHER
+        intervening_words = 0 # Intervening words between help and infinitive
+        obj_present = "CHECK"  # Is there a dobj argument for 'help'?
+        obj_pronoun = "CHECK"
+        obj_length = "CHECK"
+        obj_head = "CHECK"/just_needs_metadata.py
+        words_to_review = 30  # how many words after "help" are we going to consider?
+        verb_after_help = "CHECK"
+
+        # List for storing words in object to facilitate finding head
+        obj_words = []
+
+        # -------------------------------------------
+        # Flags and counters
+        # -------------------------------------------
+        obj_length_counter = 0  # How long is the object?
+        obj_pn_len_1 = False # Flag for if found pn like 'them', 'him' (so obj_length must be 1)
+        found_to = False
+        found_bare = False
+        found_ing = False
+        found_in = False
+        found_verb = False
+        found_object = False
+        apostrophe_s = False
+
+        # -------------------------------------------
+        # Looping through 30 words after help
+        # -------------------------------------------
+        for i in range(1, words_to_review + 1):
+            if pos + i >= len(tagged_kwic_words):
+                break
+
+            next_tagged_word = tagged_kwic_words[pos + i] # PRP_them_550_dobj_549_they_noNE
+            parts = next_tagged_word.split('_')
+            next_tag = parts[0] # Ex: PRP, TO, IN, VB
+            next_word = parts[1] # token text
+            next_index = parts[2] # index within whole file
+            next_depend = parts[3] # dependency relation (eg, dobj, aux, xcomp)
+            next_head_index = parts[4] # index of next word's head
+            next_lemma = parts[5] # lemma
+
+            # -------------------------------------------------------------------
+            # Break if encounter items likely to be irrelevant
+            # -------------------------------------------------------------------
+            # Break if the help_tag does not start with VB: expect VB, VBN, VBP, VBP, etc
+            if not help_tag.startswith('VB'):
+                break
+            # Break if hit terminating punctuation
+            if next_tag in ['.', ',', '``', 'HYPH', ':', ")"]:
+                break
+            # Break if get something like help sits
+            if next_tag in ["VBP", "VBD", "VBZ"]:
+                break
+            # Break if get something like helps that
+            if next_tag.startswith('MD') or (next_word == 'that') or next_tag.startswith('WP'):
+                break
+            # Break if encounter these words
+            if next_word.lower() in ['and', 'or', 'are', 'if']:
+                break
+            # Break if get 'helping hand'
+            # SETTING help_dv, help_class, help_tag, intervening_words to NA *DV
+            if help_word.lower() == "helping" and next_word.lower() == "hand":
+                help_dv = "NA"
+                help_class = "ADJ"
+                help_tag = "JJ"
+                intervening_words = "NA"
+                obj_present = "NA"
+                obj_pronoun = "NA"
+                obj_length = "NA"
+                obj_head = "NA"
+                break
+
+            # -------------------------------------------------------------------
+            # Object-related properties
+            # -------------------------------------------------------------------
+            # If haven't found a verb yet, potentially have an object
+            if not found_verb:
+                # If next word id a pronoun
+                if (next_tag == 'PRP' or
+                        next_word.lower() in ['myself', 'yourself', 'herself', 'himself',
+                                              'themself', 'themselves', 'itself',
+                                              'this', 'that']):
+                    obj_pronoun = "PRO"
+                    obj_pn_len_1 = True
+                    found_object = True
+                elif next_word.lower() in ['someone', 'anyone', 'who', 'this', 'that']:
+                    obj_pronoun = "PRO"
+                    found_object = True
+                # If not a pronoun, check other potential object types
+                else:
+                    if next_tag in ['NN', 'NP', 'NNS', 'NNP', 'NNPS', 'DT', 'CD', 'WP','PRP$']:
+                        found_object = True
+
+            # if found an object
+            if found_object:
+                if next_tag == 'POS':
+                    apostrophe_s = True
+                else:
+                    # Don't want to increment if one of the items in list holds (ie, if hit the end of the obj clause)
+                    if not (next_word.lower() in ['to'] or next_tag in ['RB', 'TO', 'POS'] or next_tag.startswith(
+                            'VB')):
+                        obj_length_counter += 1
+                        obj_words.append(tagged_kwic_words[pos + i])
+
+            # -------------------------------------------------------------------
+            # Finding verb in complement
+            # -------------------------------------------------------------------
+
+            # Check for '"to": helps to supply
+            if not found_bare and not found_in and not found_ing and next_tag == 'TO' or next_word.lower() == 'to':
+                # Look over next few words from position i
+                for j in range(1, 3):
+                    # Only proceed if next few words won't exceed remaining words in text
+                    if pos + i + j < len(tagged_kwic_words):
+                        potential_verb = tagged_kwic_words[pos + i + j]
+                        verb_parts = potential_verb.split('_')
+                        verb_tag = verb_parts[0]
+                        verb_word = verb_parts[1]
+                        verb_lemma = verb_parts[5]
+                        # Getting verb lemma of the complement verb (supplies --> supply)
+                        if verb_tag in ['VB', 'HV', 'BE']:
+                            found_to = True
+                            verb_after_help = verb_lemma
+                            found_verb = True
+                            # intervening_words *DV
+                            if apostrophe_s:
+                                # Subtract 3 so as not to include apostrophe 's' ('s) as an intervening word
+                                intervening_words = i + j - 3
+                            else:
+                                intervening_words = i + j - 2
+
+                            break
+
+            # Check for -ing form verbs: help doing
+            # Exclude according: help according to,
+            elif not found_to and not found_in and not found_bare and next_tag in ['VBG',
+                                                                                   'HVG','BEG'] and next_word not in [
+                     "according"]:
+
+                # intervening_words *DV
+                found_ing = True
+                verb_after_help = next_lemma
+                found_verb = True
+                if apostrophe_s:
+                    # Subtract 3 so as not to include apostrophe 's' ('s) as an intervening word
+                    intervening_words = i - 2
+                else:
+                    intervening_words = i - 1
+                break
+
+            # Check for bare infinitive
+            # intervening_words *DV
+            elif not found_to and not found_in and not found_ing and next_tag in ['VB', 'HV', 'BE']:
+                found_bare = True
+                verb_after_help = next_lemma
+                found_verb = True
+                if apostrophe_s:
+                    # Subtract 3 so as not to include apostrophe 's' ('s) as an intervening word
+                    intervening_words = i - 2
+                else:
+                    intervening_words = i - 1
+
+                break
+
+
+            # Check for "in -ing": help in doing
+            elif not found_to and not found_bare and not found_ing and next_word.lower() == 'in':
+                # Look over next few words from position i
+                for j in range(1, 3):
+                    # Only proceed if next few words won't exceed remaining words in text
+                    if pos + i + j < len(tagged_kwic_words):
+                        potential_verb = tagged_kwic_words[pos + i + j]
+                        verb_parts = potential_verb.split('_')
+                        verb_tag = verb_parts[0]
+                        verb_lemma = verb_parts[5]
+                        # Getting verb lemma of the complement verb
+                        if verb_tag == 'VBG':
+                            found_in = True
+                            verb_after_help = verb_lemma
+                            found_verb = True
+                            if apostrophe_s:
+                                intervening_words = i + j - 3
+                            else:
+                                intervening_words = i + j - 2
+                            break
+
+            # Break loop looking at words after help if verb found
+            if found_verb:
+                break
+
+
+        # -------------------------------------------------------------------
+        # Recording variables
+        # -------------------------------------------------------------------
+        # Record variables once finished looking over items after help at position tagged_kwic_words[pos]
+
+        # Recording dependent variable
+        # HELP_DV *DV
+        if found_to:
+            help_dv = "TO"
+        elif found_bare:
+            help_dv = "BARE"
+        elif found_in:
+            help_dv = "INING"
+        elif found_ing:
+            help_dv = "ING"
+        else:
+            help_dv = "NA"
+
+        # Recording object properties
+        # obj_present, obj_length, obj_head *DV
+        if found_verb:
+            if found_object:
+                obj_present = "Yes" # dobj present
+                # Ensuring pronouns like 'them', 'him' are obj_length = 1
+                if obj_pn_len_1:
+                    obj_length = 1
+                else:
+                    obj_length = obj_length_counter
+
+                # Recording obj head
+                obj_head_parts = _head_hunting(tagged_kwic_words, obj_words, "dobj", "help").split('_')
+                obj_head = obj_head_parts[1]
+
+            # If have something like "She helps bake."
+            else:
+                intervening_words = 0
+                obj_present = "No"
+                obj_pronoun = "NA"
+                obj_length = "NA"
+                obj_head = "NA"
+        # no complement after help
+        else:
+            verb_after_help = "NA"
+            intervening_words = "NA"
+            obj_present = "NA"
+            obj_pronoun = "NA"
+            obj_length = "NA"
+            obj_head = "NA"
+
+        # Recording the part of speech of help
+        # HELP_CLASS *DV
+        if help_tag.startswith('VB'):
+            help_class = "VERB"
+        elif help_tag.startswith('NN'):
+            help_class = "NOUN"
+        elif help_tag.startswith('JJ'):
+            help_class = "ADJ"
+        elif help_tag.startswith('RB'):
+            help_class = "ADV"
+        else:
+            help_class = "OTHER"
+
+        
+        
+        
+        # TODO: Could insert a check here to confirm none of the variables are NoneTypes
+        ## and if nonetype, then insert string "CHECK"
+
+        return {
+            "helpDV": help_dv,
+            "helpClass": help_class,
+            "helpTag": help_tag,
+            "verbAfterHelp": verb_after_help,
+            "interveningWords": intervening_words,
+            "objPresent": obj_present,
+            "objPronoun": obj_pronoun,
+            "objLength": obj_length,
+            "objHead": obj_head
+        }
+
 
 # Dylan's analysis 
 """
@@ -568,8 +548,9 @@ def analyze_hansard_hit(full_kwic, target_word_text):
             "help_hit": target_token.text, "hit_pos": target_token.tag_,
             "subj_type": "NA", "subj_head": "NA", "subj_animacy": "NA",
             "comp_lemma": "NA", "comp_tag": "NA", "polarity": "NA", "preceding_to": "NA",
-            "voice": "NA"
         }
+
+
 
     # --- Analysis for Verbs Only ---
     # --- Voice Analysis (Active/Passive) ---
@@ -585,7 +566,6 @@ def analyze_hansard_hit(full_kwic, target_word_text):
             if child.dep_ == "nsubjpass":
                 voice = "Passive"
                 break
-    
     left_context_tokens = [t.text for t in doc[:target_idx]]
     polarity = check_help_polarity(left_context_tokens)
     preceding_to = check_preceding_to(left_context_tokens, is_help_verb=True)
@@ -628,7 +608,6 @@ def analyze_hansard_hit(full_kwic, target_word_text):
         "subj_type": subj_type, "subj_head": subj_head, "subj_animacy": subj_animacy,
         "comp_lemma": comp_lemma, "comp_tag": comp_tag,
         "polarity": polarity, "preceding_to": preceding_to,
-        "voice": voice
     }
 
 
@@ -648,7 +627,7 @@ df = pd.DataFrame(columns=["File", "Hit", "LeftContext", "TargetWord", "RightCon
                            "DepVar", "HelpClass", "HelpInflection", "VerbLemma", 
                            "InterveningWords", "ObjPresent", "ObjPronoun", "ObjLength", "ObjHead",
                            "HelpPolarity", "PrecedingTo", "SubjType", "SubjHead", "SubjAnimacy",
-                           "CompLemma", "CompTag", "Voice"])
+                           "CompLemma", "CompTag"])
 # Making csv of KWICs
 print("Now finding KWICs")
 find_kwics(hansard_dir, r'[^ ]*help\w*\b', kwics_file)
@@ -746,21 +725,12 @@ for i in range(rows):
     tagged_words = string.split()
 
     # Getting right context stuff
-    # If last character of the following word is not a letter or number and length of following word does not equal 1,
-    # remove that punctuation
-    if not csvKwics['RightContext'][i].split()[0][-1].isalpha() and len(csvKwics['RightContext'][i].split()[0]) != 1:
-        right_analysis = start_right_checks(tagged_words, csvKwics['TargetWord'][i],
-                                            re.sub(r'[^\w\s]$', '', csvKwics['RightContext'][i].split()[0]))
-    # if it is alphanumeric, just use the following word as is
-    else:
-        right_analysis = start_right_checks(tagged_words, csvKwics['TargetWord'][i],
-                                            csvKwics['RightContext'][i].split()[0])
-
-
+    helen_analysis = _analyse_right_context(tagged_words)
 
     
 
 
+    
     # Writing results
     # TODO: Replace "File" with metadata
     # 
@@ -786,15 +756,15 @@ for i in range(rows):
             "LeftContext": csvKwics["LeftContext"][i],
             "TargetWord": csvKwics["TargetWord"][i], 
             'RightContext': csvKwics['RightContext'][i],
-            "DepVar": right_analysis.get("helpDV", "NA") if right_analysis else "NA", 
-            "HelpClass": right_analysis.get("helpClass", "NA") if right_analysis else "NA",
-            "HelpInflection": right_analysis.get("helpTag", "NA") if right_analysis else "NA", 
-            "VerbLemma": right_analysis.get("verbAfterHelp", "NA") if right_analysis else "NA",
-            "InterveningWords": right_analysis.get("interveningWords", "NA") if right_analysis else "NA", 
-            "ObjPresent": right_analysis.get("objPresent", "NA") if right_analysis else "NA",
-            "ObjPronoun": right_analysis.get("objPronoun", "NA") if right_analysis else "NA", 
-            "ObjLength": right_analysis.get("objLength", "NA") if right_analysis else "NA",
-            "ObjHead": right_analysis.get("objHead", "NA") if right_analysis else "NA",
+            "DepVar": helen_analysis.get("helpDV", "NA") if helen_analysis else "NA", 
+            "HelpClass": helen_analysis.get("helpClass", "NA") if helen_analysis else "NA",
+            "HelpInflection": helen_analysis.get("helpTag", "NA") if helen_analysis else "NA", 
+            "VerbLemma": helen_analysis.get("verbAfterHelp", "NA") if helen_analysis else "NA",
+            "InterveningWords": helen_analysis.get("interveningWords", "NA") if helen_analysis else "NA", 
+            "ObjPresent": helen_analysis.get("objPresent", "NA") if helen_analysis else "NA",
+            "ObjPronoun": helen_analysis.get("objPronoun", "NA") if helen_analysis else "NA", 
+            "ObjLength": helen_analysis.get("objLength", "NA") if helen_analysis else "NA",
+            "ObjHead": helen_analysis.get("objHead", "NA") if helen_analysis else "NA",
             "HelpPolarity": dylan_analysis.get('polarity', 'NA'),
             "PrecedingTo": dylan_analysis.get('preceding_to', 'NA'),
             "SubjType": dylan_analysis.get('subj_type', 'NA'),
@@ -805,7 +775,6 @@ for i in range(rows):
             "CompTag": dylan_analysis.get('comp_tag', 'NA')}])
     
         df = pd.concat([df, new_row], ignore_index=True)
-
 
 # Record results
 df.to_csv(complete_kwics_file, index=False, encoding='utf-8')
