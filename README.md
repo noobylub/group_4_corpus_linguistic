@@ -22,3 +22,13 @@ python HS_hansard/good_hscript.py
 Two new files 
 - hansard_kwics_only.csv
 - hansard_result.csv
+
+Notes 
+- You must modify the directory to the correct directory location
+```bash
+hansard_dir = "/Users/muhammadmushoffa/Desktop/corpus_linguistic/Hansard 2000 file sample"
+
+kwics_file = "/Users/muhammadmushoffa/Desktop/corpus_linguistic/hansard_kwics_only.csv"
+
+complete_kwics_file = "/Users/muhammadmushoffa/Desktop/corpus_linguistic/hansard_results.csv"
+```
