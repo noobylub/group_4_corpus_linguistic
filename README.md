@@ -12,6 +12,11 @@
    ```bash
    pip install -r requirements.txt
    ```
+3. Install SpaCy
+   ```bash
+   python -m spacy download en_core_web_lg
+   python -m spacy download en_core_web_sm
+   ```
 
 ## To Run 
 
