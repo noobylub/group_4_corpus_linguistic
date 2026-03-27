@@ -1,4 +1,4 @@
-# CORE LIBRARIES USED IN PROJECT:
+# CORE LIBRARIES:
 # pandas - Data manipulation and CSV processing (used in all analysis scripts)
 pandas==3.0.1
 # numpy - Numerical operations and array handling (used in data analysis)
