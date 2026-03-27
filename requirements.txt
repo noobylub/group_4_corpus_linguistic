@@ -9,7 +9,7 @@ matplotlib==3.10.8
 spacy==3.8.11
 # nltk - Tokenization and NLP tasks (used in hansard scripts)
 nltk==3.9.3
-# tqdm - Progress bars (used in all_DO_on_medium_sample.py)
+# tqdm - Progress bars 
 tqdm==4.67.3
 
 # DEPENDENCIES AND DEVELOPMENT TOOLS:
