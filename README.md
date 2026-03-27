@@ -13,18 +13,12 @@
    pip install -r requirements.txt
    ```
 
-## Adding Dependencies
+## To Run 
 
-Install a new package:
+Run HS_hansard
 ```bash
-pip install <package_name>
+python HS_hansard/good_hscript.py
 ```
-
-Update requirements.txt:
-```bash
-pip freeze > requirements.txt
-```
-
-## Note
-
-The `venv/` directory is excluded from Git. Clone and run the setup commands above to recreate it.
+Two new files 
+- hansard_kwics_only.csv
+- hansard_result.csv
